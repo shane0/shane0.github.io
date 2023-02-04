@@ -8,4 +8,5 @@ mkdocs gh-deploy
 
 ## 2023-02-03
 
-- ai answers my meditation questions
+- most of this content is my conversations with chatgpt
+- so far: it finds decent answers and helps me learn to ask the right questions

@@ -6,6 +6,8 @@ tags:
 ---
 # basics
 
+<iframe width="835" height="470" src="https://www.youtube.com/embed/YYml4qwg1CE" title="Insight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## what are the four noble truths?
 
 The Four Noble Truths are considered the cornerstone of Buddhist teaching, and were the first teachings given by the Buddha after his enlightenment. They are as follows:
@@ -232,3 +234,22 @@ These mental factors can be seen as interdependent and can arise in any combinat
 1. Concentration (samādhi)
 1. Wisdom (paññā)
 1. Moral Discipline (sīla)
+
+## Lokavipatti
+
+The Lokavipatti Sutta is a Buddhist discourse found in the Pali Canon's Majjhima Nikaya.
+
+It deals with the subject of avoiding errors or pitfalls (Lokavipatti) in one's spiritual journey.
+
+The sutta lists six factors that can cause one to fall into error:
+
+1. desire for sense objects
+1. wrong views
+1. lack of learning and inquiry
+1. heedlessness
+1. bad companionship
+1. laziness
+
+The sutta provides guidance on how to avoid these pitfalls by cultivating the opposite qualities, such as renunciation of sense desires, right views, learning and inquiry, mindfulness, good companionship, and diligence.
+
+The sutta emphasizes the importance of developing wisdom and insight to overcome obstacles in one's spiritual path.

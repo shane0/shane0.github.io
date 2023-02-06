@@ -1,6 +1,10 @@
 ---
 tags:
   - non dual 
+  - anicca
+  - citta
+  - dukkha
+  - nibanna 
 ---
 # anapanasati
 
@@ -14,16 +18,16 @@ The 16 steps of Anapanasati meditation in the Theravada tradition are a gradual 
 1. Mindfulness of mental states (cittanupassana)
 1. Abandoning craving and attachment (viraganupassana)
 1. Cultivating a state of equanimity (upekkhanupassana)
-1. Mindfulness of death (marananupassana)
+1. Mindfulness of [death](maranasati.md) (marananupassana)
 1. Mindfulness of breathing in and out (anapana-sati)
-1. Awareness of impermanence (aniccanupassana)
-1. Awareness of suffering (dukkhanupassana)
+1. Awareness of [impermanence](emptiness.md) (aniccanupassana)
+1. Awareness of [suffering](dukka.md) (dukkhanupassana)
 1. Awareness of non-self (anattanupassana)
 1. Developing dispassion (viraganupassana)
 1. Cultivating detachment (patisantharanupassana)
 1. Establishing mindfulness as a habit (sati-sampajanna)
 1. Developing concentration (samadhiganupassana)
-1. Realizing nibbana (nibbananupassana)
+1. Realizing [nibbana](nirbanna.md) (nibbananupassana)
 
 These 16 steps are meant to be followed gradually, over time, as the practitioner develops their meditation practice. It is important to maintain a consistent and persistent practice, and to seek guidance from a qualified teacher or meditation center if needed. Each step builds upon the previous one, leading to deeper levels of mindfulness, concentration, and insight, and ultimately to the realization of nibbana.
 

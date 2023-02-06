@@ -1,3 +1,9 @@
+---
+tags:
+  - aggregates 
+  - impermenence 
+  - no self 
+---
 # satipatthana
 
 ## what is Satipaṭṭhāna

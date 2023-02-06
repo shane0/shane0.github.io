@@ -1,3 +1,7 @@
+---
+tags:
+  - dzogchen 
+---
 # dudjom lingpa
 
 ## dudjom tersar

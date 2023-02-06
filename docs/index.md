@@ -1,6 +1,4 @@
-# meditation references
 
-## 2023-02-03
+- chat gtp conversations mainly about books I've read
 
-- most of this content is me chatting with chatgpt
-- my opinion so far: it finds decent answers and helps me learn to ask the right questions
+[TAGS]

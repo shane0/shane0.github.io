@@ -1,3 +1,9 @@
+---
+tags:
+  - context
+  - dukkha 
+  - stream entry
+---
 # basics
 
 ## what are the four noble truths?
@@ -18,7 +24,7 @@ These Four Noble Truths provide a roadmap for individuals to understand the natu
 
 In Buddhism, the Three Universal Truths are the fundamental principles that underlie the teachings of the Buddha. They are:
 
-The truth of suffering (dukkha): This truth acknowledges that all forms of existence are characterized by suffering, including physical and mental suffering.
+The truth of suffering ([dukkha](dukka.md)): This truth acknowledges that all forms of existence are characterized by suffering, including physical and mental suffering.
 
 The truth of the cause of suffering (samudaya): This truth states that suffering arises from craving and attachment to things, and from ignorance of the true nature of reality.
 
@@ -136,13 +142,13 @@ The sutta is often recited as part of Buddhist practice, and is used as a focus 
 
 ## in buddhism what meditations use dicohtomies
 
-In Buddhism, there are several meditation practices that use dichotomies or pairs of opposites. 
+In Buddhism, there are several meditation practices that use dichotomies or pairs of opposites.
 
-One well-known practice is the development of mindfulness (sati) and clear comprehension (sampajañña). 
+One well-known practice is the development of mindfulness (sati) and clear comprehension (sampajañña).
 
-Another practice that involves dichotomies is the contemplation of the rise and fall of physical and mental phenomena (udaya-vaya). 
+Another practice that involves dichotomies is the contemplation of the rise and fall of physical and mental phenomena (udaya-vaya).
 
-Additionally, the Four Noble Truths also involve a dichotomy, with the first truth being the recognition of dukkha (suffering) and the fourth truth being the path to the end of suffering. 
+Additionally, the Four Noble Truths also involve a dichotomy, with the first truth being the recognition of dukkha (suffering) and the fourth truth being the path to the end of suffering.
 
 These dichotomies are used as tools to help the practitioner understand the nature of reality and to develop greater insight and wisdom.
 
@@ -217,3 +223,12 @@ They are listed in the Abhidhamma, the Theravada Buddhist philosophical text, as
 63. non-ignorance
 
 These mental factors can be seen as interdependent and can arise in any combination, either in wholesome or unwholesome ways, depending on the conditions and circumstances that prompt their arising.
+
+## 6 roots
+
+1. Faith (saddhā)
+1. Energy (viriya)
+1. Mindfulness (sati)
+1. Concentration (samādhi)
+1. Wisdom (paññā)
+1. Moral Discipline (sīla)

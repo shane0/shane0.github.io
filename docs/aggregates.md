@@ -1,3 +1,8 @@
+---
+tags:
+  - aggregates 
+  - no self 
+---
 # aggregates
 
 ## what is khanda sutta

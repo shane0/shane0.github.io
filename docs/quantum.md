@@ -1,3 +1,8 @@
+---
+tags:
+  - physics 
+  - cormac mccarthy 
+---
 # quantum physics
 
 Quantum physics is a branch of physics that deals with the behavior and interactions of matter and energy at a scale much smaller than what is observable in classical physics. It describes how particles can exist in multiple states at the same time and how their properties are inherently uncertain until they are measured. The theory of quantum mechanics is the mathematical framework that describes these phenomena, and it forms the basis for many of the technological advancements we have today, including transistors, lasers, and computer chips.

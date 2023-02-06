@@ -1,4 +1,12 @@
+---
+tags:
+  - dzogchen 
+  - no self 
+  - stream entry 
+---
 # dzogchen
+
+- dzogchen is a telescope or microscope
 
 ## how do you practice dzogchen
 
@@ -151,13 +159,3 @@ In Buddhism, meditation on emptiness (also called "shunyata" or "the emptiness o
 The exact methods of emptiness meditation can vary depending on the specific tradition, but some common practices include analytical meditation, in which one reflects on the emptiness of all phenomena, and calm abiding meditation, in which one maintains a stable and focused mind. In both cases, the goal is to develop insight into the ultimate nature of reality and the interdependence of all phenomena.
 
 It's important to approach emptiness meditation with the guidance of a qualified teacher and to maintain a strong foundation in ethics and mindfulness practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
-
-## what type of meditation uses impermenance?
-
-Meditation on impermanence is a common practice in Buddhism, where it is recognized as one of the Three Universal Truths along with suffering and non-self. This type of meditation involves reflecting on the transience and fleeting nature of all things, including our own bodies, thoughts, and emotions.
-
-The goal of meditation on impermanence is to cultivate a sense of detachment and to overcome attachment to the material world. By understanding that everything is impermanent and constantly changing, practitioners aim to develop a greater appreciation for the present moment and to reduce feelings of fear and anxiety about the future.
-
-One common method of impermanence meditation is to reflect on the different stages of life, such as birth, aging, illness, and death. Practitioners may also focus on the impermanence of physical objects and the changing nature of their thoughts and emotions.
-
-As with other types of meditation, it's important to approach meditation on impermanence with the guidance of a qualified teacher and to maintain a strong foundation in ethics and mindfulness practices.

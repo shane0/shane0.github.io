@@ -1,8 +1,37 @@
+---
+tags:
+  - interdependance 
+  - Nidanas
+---
 # thich
 
 ## thich nhat hanh
 
 Thich Nhat Hanh is a Vietnamese Zen Master, teacher, author, poet and peace activist. He is a founder of the Plum Village tradition, a mindfulness practice center in France and has written more than 100 books on mindfulness and meditation, including the bestseller "The Heart of the Buddha's Teaching." Nhat Hanh is known for promoting engaged Buddhism and has been a leader in the movement for peace and reconciliation in Vietnam.
+
+## cultivating non violence
+
+In our daily lives, our attention is dispersed.
+
+Our body is in one place, our breath is ignored, and our mind is wandering.
+
+As soon as we pay attention to our breath, as we breathe in, these three things—body, breath, and mind—come together.
+
+This can happen in just one or two seconds.
+
+You come back to yourself.
+
+Your awareness brings these three elements together, and you become fully present in the here and the now.
+
+You are taking care of your body, you are taking care of your breath, and you are taking care of your mind.
+
+When you make a soup, you have to add together all the right ingredients in harmony and let them simmer.
+
+Our breath is the broth that brings the different elements together.
+
+We bathe spirit and mind in our breath and they become integrated so they are one thing. We are whole.
+
+We don’t need to control our body, mind, and breath. We can just be there for them. We allow them to be themselves. This is nonviolence.
 
 ## thich three seals
 

@@ -1,3 +1,10 @@
+---
+tags:
+  - maranasati 
+  - impermenence 
+  - wisdom 
+  - fear 
+---
 # maranasati
 
 ## what are the 9 steps for maranasati?

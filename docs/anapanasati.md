@@ -1,3 +1,7 @@
+---
+tags:
+  - non dual 
+---
 # anapanasati
 
 ## what are the 16 steps for anapanasati?

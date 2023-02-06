@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "start",
+      "problemMatcher": [],
+      "label": "npm: start",
+      "detail": "react-scripts start"
+    },
+    {
+      "label": "mkdocs serve",
+      "type": "shell",
+      "command": "mkdocs serve",
+      "windows": {
+        "command": "start http://localhost:8001/ && mkdocs serve"
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "runOptions": { "runOn": "folderOpen" }
+    }
+  ]
+}

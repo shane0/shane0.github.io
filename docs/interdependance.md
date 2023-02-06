@@ -1,3 +1,8 @@
+---
+tags:
+  - interdependance 
+  - Nidanas
+---
 # interdependance
 
 ## what are the twelve nidanas
@@ -16,7 +21,9 @@ The Twelve Nidanas are a fundamental teaching in Theravada Buddhism that describ
 1. Becoming (Bhava)
 1. Birth (Jati)
 1. Aging and Death (Jaramarana)
-1. Each link leads to the next, creating a cycle of suffering and rebirth. Understanding the Twelve Nidanas is seen as a key step in realizing the impermanence of all things and in developing the wisdom and insight necessary for liberation from suffering.
+1. Each link leads to the next, creating a cycle of suffering and rebirth.
+
+Understanding the Twelve Nidanas is seen as a key step in realizing the impermanence of all things and in developing the wisdom and insight necessary for liberation from suffering.
 
 ## how do you meditate with Paticca Samuppada
 

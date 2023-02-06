@@ -1,3 +1,9 @@
+---
+tags:
+  - non dual 
+  - zen 
+  - oxherding 
+---
 # zen
 
 ## dwell nowhere

@@ -1,3 +1,7 @@
+---
+tags:
+  - basics 
+---
 # meditation
 
 ## what are the differences between therevada and mahayana

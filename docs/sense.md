@@ -1,4 +1,10 @@
-# 6 sense bases 
+---
+tags:
+  - aggregates 
+  - no self 
+  - interdependance 
+---
+# 6 sense bases
 
 ## how do you meditate using the 6 sextets
 

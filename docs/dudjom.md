@@ -4,6 +4,8 @@ tags:
 ---
 # dudjom lingpa
 
+Dudjom Lingpa (1835-1904) was a Tibetan master and visionary who played a significant role in the spread of the Nyingma tradition of Tibetan Buddhism. He was recognized as a reincarnation of the great master Padmasambhava and is known for his many teachings and writings on various aspects of the Buddhist path. Some of his most well-known works include "The Vajra Essence" and "The Supreme Source." He is revered by followers of the Nyingma tradition as a great teacher and spiritual guide.
+
 ## dudjom tersar
 
 The Nang-jang Dudjom Tersar is a terma (treasure) cycle of teachings and practices revealed by the Tibetan master Dudjom Lingpa in the 19th century. It is considered a special transmission of Dzogchen within the Nyingma tradition of Tibetan Buddhism, and includes practices for developing mindfulness, compassion, and wisdom. The teachings of the Nang-jang Dudjom Tersar are widely studied and practiced by followers of the Nyingma school.
@@ -18,7 +20,9 @@ The Nang-jang Dudjom Tersar is a terma (treasure) cycle of teachings and practic
 1. The phase of contemplating the teachings, 
 1. The phase of engaging in the practices, 
 1. The phase of reaching a state of stabilization, and 
-1. The phase of attaining Buddhahood. These phases are meant to be followed sequentially in order to attain the ultimate goal of Buddhahood without meditation.
+1. The phase of attaining Buddhahood. 
+ 
+These phases are meant to be followed sequentially in order to attain the ultimate goal of Buddhahood without meditation.
 
 ## dudjom vajra essence phase one
 

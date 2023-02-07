@@ -23,3 +23,14 @@ In Tibetan Buddhism, Tulku Urgyen Rinpoche taught about two types of ignorance t
 1. Non-conceptual ignorance: This refers to the innate or unconscious ignorance that lies at the root of our suffering. It is a deep-seated belief in a solid, unchanging self that is separate from the rest of the world. This type of ignorance is more difficult to recognize and overcome, as it is not based on thoughts or concepts, but rather on a deep-seated habit of mind.
 
 Tulku Urgyen Rinpoche taught that through the practice of meditation and the development of wisdom and compassion, we can gradually overcome these two forms of ignorance and come to realize our true nature as pure and unchanging awareness. By doing so, we can achieve lasting peace and happiness, and escape the cycle of birth and death.
+
+## The four rivers of natural suffering
+
+The four rivers of natural suffering, also known as the "four floods" or "four rivers of Samsara," are a Buddhist teaching from Shakyamuni Buddha that describe the obstacles that prevent us from experiencing happiness and freedom from suffering. The four rivers are:
+
+1. Craving (Tanha) - a strong desire for things that can bring temporary pleasure and happiness, but which ultimately leads to suffering and disappointment.
+1. Aversion (Dvesha) - the avoidance of things that cause discomfort, fear, or harm, which can lead to stress, anxiety, and negative emotions.
+1. Delusion (Moha) - the belief in a self-centered and illusory view of reality, which creates confusion, ignorance, and suffering.
+1. Birth and aging (Jati and Jaramarana) - the cycle of birth, death, and rebirth that is driven by the above three rivers, leading to the experience of suffering, disease, and death.
+
+These four rivers of natural suffering are seen as the fundamental causes of suffering in Buddhist teachings, and can be overcome through the cultivation of wisdom and the development of virtuous qualities such as compassion and altruism. By understanding and transcending these four rivers, one can experience a state of inner peace, happiness, and freedom from suffering.

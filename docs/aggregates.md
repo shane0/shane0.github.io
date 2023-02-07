@@ -6,6 +6,15 @@ tags:
 ---
 # aggregates
 
+```mermaid
+graph TD
+aggregates --> form
+aggregates --> feelings
+aggregates --> perceptions
+aggregates --> mental_formations
+aggregates --> consciousness
+```
+
 - 5 heaps or aggregates
 - like baggage everyone carries around on their shoulders
 - like the [6 senses](sense.md) if you take one of these away the person exists

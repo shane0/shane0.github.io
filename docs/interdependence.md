@@ -28,7 +28,8 @@ The Twelve Nidanas are:
 1. Becoming (Bhava)
 1. Birth (Jati)
 1. Aging and Death (Jaramarana)
-1. Each link leads to the next, creating a cycle of suffering and rebirth.
+
+Each link leads to the next, creating a cycle of suffering and rebirth.
 
 Understanding the Twelve Nidanas is seen as a key step in realizing the impermanence of all things and in developing the wisdom and insight necessary for liberation from suffering.
 
@@ -59,3 +60,21 @@ Dependent Origination is a key teaching in Theravada Buddhism and is also known 
 The teaching of Dependent Origination is often illustrated with the Twelve Links of Dependent Origination, which describe the interrelated chain of events that lead to the arising of suffering. According to this teaching, ignorance leads to craving and attachment, which in turn leads to existence, birth, aging, and death, and so on, resulting in suffering.
 
 The goal of understanding Dependent Origination is to realize the impermanence of all things and to see that everything is subject to change and that nothing has a permanent self. This realization leads to the development of insight and wisdom, and the eventual liberation from suffering.
+
+## diagram
+
+```mermaid
+graph
+ignorance  --> 
+volitional-actions -->
+consciousness -->
+name-and-form -->
+six-sense-bases -->
+contact -->
+feeling -->
+craving -->
+clinging -->
+becoming -->
+birth -->
+aging-and-death --> ignorance
+```

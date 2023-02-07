@@ -79,3 +79,25 @@ Cultivate awareness and compassion: As you continue to practice anapanasati, try
 Maintain focus: Try to maintain your focus on the breath for at least a few minutes at a time. As you become more comfortable with the practice, you can gradually increase the length of your meditation sessions.
 
 These are the basic instructions for anapanasati meditation, but there are many variations and approaches to this practice, and individuals may find that certain modifications or modifications work better for them. The important thing is to develop a regular practice and to be patient with yourself as you develop your mindfulness and concentration skills.
+
+## diagram 
+
+```mermaid
+graph LR
+anapanasati --> anapana
+anapanasati --> kayanupassana
+anapanasati --> vedananupassana
+anapanasati --> cittanupassana
+anapanasati --> viraganupassana
+anapanasati --> upekkhanupassana
+anapanasati --> marananupassana
+anapanasati --> anapana-sati
+anapanasati --> aniccanupassana
+anapanasati --> dukkhanupassana
+anapanasati --> anattanupassana
+anapanasati --> viraganupassana
+anapanasati --> patisantharanupassana
+anapanasati --> sati-sampajanna
+anapanasati --> samadhiganupassana
+anapanasati --> nibbananupassana
+```

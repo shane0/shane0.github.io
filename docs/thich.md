@@ -198,3 +198,17 @@ The "clear understanding" of the 12 Interdependent Originations refers to a deep
 The "great aspiration" of the 12 Interdependent Originations refers to the commitment and determination to break the cycle of suffering and to awaken to our true nature. Thich Nhat Hanh argues that by cultivating a great aspiration to awaken, we can cultivate the energy and motivation needed to break free from the cycle of suffering and to gain a deeper understanding of reality.
 
 In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "When our mind is in its true state, it is free from the delusion and ignorance that cause us to experience suffering. By cultivating a clear understanding and great aspiration, we can start to see the world and our own experiences in a new way and break free from the cycle of suffering." This highlights the idea that by cultivating a clear understanding and great aspiration, we can start to awaken to our true nature and gain a deeper understanding of reality.
+
+## non violence
+
+Find a quiet place where you won't be disturbed. Sit in a comfortable position and close your eyes.
+
+- Focus on your breath. Take a few deep breaths and try to calm your mind.
+- Bring to mind a person, animal, or situation that you feel angry or upset about.
+- Recite a mantra or affirmation that supports non-violence, such as "May all beings be free from suffering and harm."
+- Visualize a warm and compassionate energy flowing from your heart to the person, animal, or situation that you are thinking about. Imagine the energy of non-violence, love, and compassion enveloping and healing the situation.
+- Focus on the sensations of your body and try to feel the compassion and love in your heart.
+- Repeat the mantra or affirmation and continue to focus on the warm and compassionate energy flowing from your heart.
+- When you feel ready, gently open your eyes. Take a few deep breaths and try to carry the feeling of compassion and love with you as you continue with your day.
+
+Remember, meditation is a process and it may take time to develop a strong practice. Be patient and persistent, and try to make meditating on non-violence a regular part of your routine. With practice, you may find that your mind becomes more peaceful, your relationships become more harmonious, and your life becomes more fulfilling.

@@ -6,6 +6,17 @@ tags:
 ---
 # zen
 
+```mermaid
+graph
+emptiness -- cojoined non dual --> awareness
+awareness -- cojoined non dual --> emptiness 
+emptiness --> space
+emptiness --> form  
+form --> emptiness 
+emptiness --> impermenence 
+impermenence --> time
+```
+
 ## dwell nowhere
 
 "Dwelling nowhere" is a phrase that comes from Zen Buddhism and refers to the state of mind where one is not attached to any particular place, concept, or experience. It is a state of being that transcends dualities and dualistic thinking, and is characterized by a sense of freedom and openness.

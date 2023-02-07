@@ -1,12 +1,23 @@
 ---
 tags:
   - impermenence 
+  - emptiness 
+  - time 
   - maranasati
 ---
-# emptiness & impermanence
+# impermanence
 
-- context of space is emptiness
-- context of time is impermenence.md
+```mermaid
+graph
+emptiness -- cojoined non dual --> awareness
+awareness -- cojoined non dual --> emptiness 
+emptiness --> space
+emptiness --> form  
+form --> emptiness 
+emptiness --> impermenence 
+impermenence --> time
+```
+
 
 Meditation on impermanence is a common practice in Buddhism, where it is recognized as one of the Three Universal Truths along with suffering and non-self.
 

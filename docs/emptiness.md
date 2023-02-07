@@ -3,15 +3,25 @@ tags:
   - all contexts
   - primal confunsion 
   - impermanence 
+  - emptiness 
+  - space 
   - shunyata
   - anicca 
   - dukkha 
   - anatta 
 ---
-# emptiness & impermanence
+# emptiness
 
-- context of space is emptiness
-- context of time is [impermenence](impermenence.md)
+```mermaid
+graph
+emptiness -- cojoined non dual --> awareness
+awareness -- cojoined non dual --> emptiness 
+emptiness --> space
+emptiness --> form  
+form --> emptiness 
+emptiness --> impermenence 
+impermenence --> time
+```
 
 ## Emptiness, or "shunyata"
 

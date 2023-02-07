@@ -28,19 +28,16 @@ Tulku Urgyen Rinpoche emphasized that this practice requires patience and persev
 
 Pure awareness is considered a fundamental aspect of Buddhist teachings and is described as having several attributes. Here are a few of the key attributes of pure awareness:
 
-Clarity: Pure awareness is characterized by its clarity, brightness, and vividness. It is often described as being like a mirror that reflects everything without judgment or distortion.
+- Clarity: Pure awareness is characterized by its clarity, brightness, and vividness. It is often described as being like a mirror that reflects everything without judgment or distortion.
+- Openness: Pure awareness is said to be open, spacious, and limitless, transcending all limitations and boundaries.
+- Non-duality: Pure awareness is non-dual, meaning that it does not discriminate between self and other, subject and object.
+- Unconditioned: Pure awareness is considered to be unconditioned, meaning that it is free from the influence of thoughts, emotions, and external conditions.
+- Stability: Pure awareness is stable and unchanging, unaffected by the fluctuations of the mind and external conditions.
+- Self-sufficient: Pure awareness is said to be self-sufficient, complete, and fulfilling in and of itself, and does not depend on anything else to be realized.
 
-Openness: Pure awareness is said to be open, spacious, and limitless, transcending all limitations and boundaries.
+In Buddhist practice, the goal is to cultivate the experience of pure awareness and to integrate this experience into one's daily life.
 
-Non-duality: Pure awareness is non-dual, meaning that it does not discriminate between self and other, subject and object.
-
-Unconditioned: Pure awareness is considered to be unconditioned, meaning that it is free from the influence of thoughts, emotions, and external conditions.
-
-Stability: Pure awareness is stable and unchanging, unaffected by the fluctuations of the mind and external conditions.
-
-Self-sufficient: Pure awareness is said to be self-sufficient, complete, and fulfilling in and of itself, and does not depend on anything else to be realized.
-
-In Buddhist practice, the goal is to cultivate the experience of pure awareness and to integrate this experience into one's daily life. It is considered a key aspect of spiritual development and a direct path to liberation.
+It is considered a key aspect of spiritual development and a direct path to liberation.
 
 ## how do you practice dzogchen
 
@@ -48,17 +45,13 @@ Dzogchen (Tibetan: རྫོགས་ཆེན, Wylie: rdzogs chen) is a meditat
 
 The instructions for practicing Dzogchen typically involve a series of steps, which can be summarized as follows:
 
-Receiving the transmission and blessings of a qualified teacher: Dzogchen is traditionally taught through a personal transmission from a qualified teacher, who will impart the necessary blessings and guidance for the practice.
+- Receiving the transmission and blessings of a qualified teacher: Dzogchen is traditionally taught through a personal transmission from a qualified teacher, who will impart the necessary blessings and guidance for the practice.
+- Cultivating stability in meditation: It is important to have a solid foundation in meditation, including stable posture, proper breathing, and a relaxed mind.
+- Recognizing the nature of the mind: The goal of Dzogchen is to directly realize the ultimate nature of reality, which is referred to as rigpa. This requires a shift in perception from ordinary dualistic thinking to an open and spacious awareness.
+- Resting in the natural state: Once the mind is stabilized in its natural state, the practitioner will simply rest in that state and experience rigpa directly.
+- Continuing the practice: Dzogchen is a continuous process of resting in rigpa and experiencing its ultimate nature. It is recommended to engage in regular practice and to seek the guidance of a qualified teacher as needed.
 
-Cultivating stability in meditation: It is important to have a solid foundation in meditation, including stable posture, proper breathing, and a relaxed mind.
-
-Recognizing the nature of the mind: The goal of Dzogchen is to directly realize the ultimate nature of reality, which is referred to as rigpa. This requires a shift in perception from ordinary dualistic thinking to an open and spacious awareness.
-
-Resting in the natural state: Once the mind is stabilized in its natural state, the practitioner will simply rest in that state and experience rigpa directly.
-
-Continuing the practice: Dzogchen is a continuous process of resting in rigpa and experiencing its ultimate nature. It is recommended to engage in regular practice and to seek the guidance of a qualified teacher as needed.
-
-It is important to note that Dzogchen is a advanced meditation practice and should only be attempted under the guidance of a qualified teacher. It is not recommended for beginners or those without a solid foundation in meditation.
+It is important to note that Dzogchen is a advanced meditation practice. It is not recommended for beginners or those without a solid foundation in meditation.
 
 ## trekcho
 

@@ -34,8 +34,11 @@ Practitioners may also focus on the impermanence of physical objects and the cha
 
 ## benefits
 
-- Overcoming attachment: By realizing the transient nature of all things, one can overcome attachment to material possessions and emotions, leading to a more peaceful and contented life.
 - Reducing fear of death: By understanding that all things are impermanent and subject to change, one can reduce fear of death and the unknown.
-- Promoting wisdom: An appreciation of the impermanence of all things can deepen one's understanding of the nature of reality, leading to greater wisdom.
+- A greater appreciation of the present moment: By contemplating death, practitioners may develop a greater appreciation for the present moment and a deeper sense of gratitude for life.
+- Reduced attachment: By contemplating the impermanence of all things, practitioners may become less attached to material possessions and to the self, reducing suffering and increasing peace of mind.
+- Improved wisdom and understanding: Maranasati can help practitioners develop a deeper understanding of the nature of reality and the Buddhist teachings, leading to increased wisdom and insight.
+- Overcoming fear of death: By contemplating death, practitioners can overcome fear and anxiety about the end of life, and develop a more peaceful and accepting attitude towards death.
+- Greater motivation to practice the Dharma: Maranasati can serve as a powerful reminder of the urgency of the spiritual path and motivate practitioners to engage in other Buddhist practices more fully.
 - Improving mindfulness: Meditation on impermanence encourages mindfulness of the present moment and helps one stay focused on what is happening in the present, rather than dwelling on the past or worrying about the future.
 - Encouraging self-reflection: By contemplating impermanence, one can reflect on the purpose and meaning of life, and focus on what is truly important.

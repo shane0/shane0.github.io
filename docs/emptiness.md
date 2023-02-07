@@ -19,7 +19,7 @@ Emptiness, or "shunyata" in Sanskrit, is a central teaching in Buddhism, particu
 
 Here are some of the key attributes of emptiness in Buddhism:
 
-- [Interdependent](interdependance.md) origination: All phenomena arise in dependence upon other causes and conditions, and are therefore not independently existent.
+- [Interdependent](interdependence.md) origination: All phenomena arise in dependence upon other causes and conditions, and are therefore not independently existent.
 - Impermanence: All phenomena are subject to change and are therefore inherently unsatisfactory.
 - Lack of self-nature: The idea that all things, including the self, lack a permanent, unchanging essence.
 - Emptiness of phenomena: All phenomena are empty of an inherent existence and are merely the coming together of various causes and conditions.

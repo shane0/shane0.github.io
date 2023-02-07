@@ -37,19 +37,13 @@ Understanding the Twelve Nidanas is seen as a key step in realizing the imperman
 
 Meditating with the teaching of Paticca Samuppada, also known as Dependent Origination, can be a powerful way to gain insight into the nature of reality and the causes of suffering. Here are some steps you can follow to meditate with Paticca Samuppada:
 
-Find a quiet place to sit: Choose a quiet and comfortable place where you won't be disturbed. Sit comfortably, either in a chair or cross-legged on a cushion.
-
-Focus on your breath: Take a few deep breaths and then bring your attention to your breath. Focus on the sensation of the breath as it moves in and out of your body.
-
-Consider the Twelve Nidanas: Start with the first nidana, ignorance, and imagine the arising of this link in your mind. Then move on to the next nidana, volitional actions, and so on, until you reach the last nidana, aging and death.
-
-Reflect on the interdependence of the links: As you go through each nidana, reflect on how each link leads to the next and how they are all interconnected. Consider the ways in which your own experiences align with the cycle of suffering described by the Twelve Nidanas.
-
-Observe your thoughts and feelings: As you meditate, observe any thoughts or feelings that arise. Don't try to suppress them or get rid of them, simply observe them and let them pass.
-
-Continue the meditation: Continue meditating on the Twelve Nidanas for as long as you like, focusing on the interdependence of the links and the impermanence of all things.
-
-End the meditation: When you're ready to end the meditation, take a few deep breaths, stretch if you need to, and return to your day with a greater sense of insight and clarity.
+- Find a quiet place to sit: Choose a quiet and comfortable place where you won't be disturbed. Sit comfortably, either in a chair or cross-legged on a cushion.
+- Focus on your breath: Take a few deep breaths and then bring your attention to your breath. Focus on the sensation of the breath as it moves in and out of your body.
+- Consider the Twelve Nidanas: Start with the first nidana, ignorance, and imagine the arising of this link in your mind. Then move on to the next nidana, volitional actions, and so on, until you reach the last nidana, aging and death.
+- Reflect on the interdependence of the links: As you go through each nidana, reflect on how each link leads to the next and how they are all interconnected. Consider the ways in which your own experiences align with the cycle of suffering described by the Twelve Nidanas.
+- Observe your thoughts and feelings: As you meditate, observe any thoughts or feelings that arise. Don't try to suppress them or get rid of them, simply observe them and let them pass.
+- Continue the meditation: Continue meditating on the Twelve Nidanas for as long as you like, focusing on the interdependence of the links and the impermanence of all things.
+- End the meditation: When you're ready to end the meditation, take a few deep breaths, stretch if you need to, and return to your day with a greater sense of insight and clarity.
 
 It may take some time and practice to fully understand the teachings of Paticca Samuppada through meditation, but with consistent practice, you can gain a deeper understanding of the nature of reality and the causes of suffering. It's important to remember that meditation is a personal journey, and what works for one person may not work for another, so be patient and kind to yourself as you explore.
 

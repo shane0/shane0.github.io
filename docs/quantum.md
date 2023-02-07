@@ -1,9 +1,15 @@
 ---
 tags:
   - physics 
+  - quantum physics 
+  - math 
   - cormac mccarthy 
 ---
-# quantum physics
+# math and physics
+
+<iframe width="819" height="461" src="https://www.youtube.com/embed/wfYr5zF-oNs" title="EXCLUSIVE: Dialogue with Cormac McCarthy About Science, on the occasion of his newest book releases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## quantum physics
 
 Quantum physics is a branch of physics that deals with the behavior and interactions of matter and energy at a scale much smaller than what is observable in classical physics. It describes how particles can exist in multiple states at the same time and how their properties are inherently uncertain until they are measured. The theory of quantum mechanics is the mathematical framework that describes these phenomena, and it forms the basis for many of the technological advancements we have today, including transistors, lasers, and computer chips.
 

@@ -7,6 +7,8 @@ tags:
 ---
 # maranasati
 
+<iframe width="819" height="461" src="https://www.youtube.com/embed/5SBrCdRTX8o" title="Maranasati: Buddhist Reflections on Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## what are the 9 steps for maranasati?
 
 The 9 steps of Maranasati (mindfulness of death) meditation in the Theravada tradition are a series of contemplations designed to help the practitioner develop a deeper understanding of the nature of impermanence and the preciousness of life. Here is a general outline of the 9 steps of Maranasati meditation:

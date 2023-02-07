@@ -6,6 +6,8 @@ tags:
 ---
 # aggregates
 
+<iframe width="802" height="501" src="https://www.youtube.com/embed/dx4j8eA_aDc" title="220321 Understanding Aggregates \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ```mermaid
 graph TD
 aggregates --> form

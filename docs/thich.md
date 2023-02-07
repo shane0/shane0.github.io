@@ -5,6 +5,8 @@ tags:
 ---
 # thich
 
+<iframe width="819" height="461" src="https://www.youtube.com/embed/F3XqhBigMao" title="Emptiness: Empty of What? | Thich Nhat Hanh (short teaching video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## thich nhat hanh
 
 Thich Nhat Hanh is a Vietnamese Zen Master, teacher, author, poet and peace activist. He is a founder of the Plum Village tradition, a mindfulness practice center in France and has written more than 100 books on mindfulness and meditation, including the bestseller "The Heart of the Buddha's Teaching." Nhat Hanh is known for promoting engaged Buddhism and has been a leader in the movement for peace and reconciliation in Vietnam.

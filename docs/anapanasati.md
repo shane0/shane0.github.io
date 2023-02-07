@@ -9,6 +9,8 @@ tags:
 ---
 # anapanasati
 
+<iframe width="802" height="501" src="https://www.youtube.com/embed/WWUbEnpzCxs" title="101002 The Breath All the Way 16 Steps \ \ Thanissaro Bhikkhu \ \ Dhamma Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## what are the 16 steps for anapanasati?
 
 The 16 steps of Anapanasati meditation in the Theravada tradition are a gradual progression that build upon each other, leading to greater levels of mindfulness, concentration, and insight. Here is a general outline of the 16 steps of Anapanasati meditation:

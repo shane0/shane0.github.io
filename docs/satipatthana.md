@@ -6,6 +6,8 @@ tags:
 ---
 # satipatthana
 
+<iframe width="802" height="501" src="https://www.youtube.com/embed/g3CCpqeHMLo" title="200719 The Four-in-One Establishing of Mindfulness \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## what is Satipaṭṭhāna
 
 Satipaṭṭhāna, also known as the Four Foundations of Mindfulness, is a central meditation practice in Theravada Buddhism. It is a systematic method for developing mindfulness and insight into the nature of reality. The word "satipaṭṭhāna" is derived from two Pali words, "sati" which means mindfulness or awareness, and "paṭṭhāna" which means establishment.

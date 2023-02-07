@@ -7,6 +7,8 @@ tags:
 ---
 # 6 sense bases
 
+<iframe width="819" height="461" src="https://www.youtube.com/embed/xiCtt3VLy9E" title="MN 148  The Six Sets of Six - Chachakka Sutta  - Easter Retreat 1 - Day 6 - 21-Apr-14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - everything we experience in life is through one of the 6 channels
 - that said, you can remove any one of these and the person exists
 - therefore individually they are not self

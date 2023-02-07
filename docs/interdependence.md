@@ -6,6 +6,8 @@ tags:
 ---
 # interdependence
 
+<iframe width="802" height="501" src="https://www.youtube.com/embed/7gCfZVXYOjQ" title="200818 Dependent Co-arising Right Now \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## twelve nidanas
 
 The term "nidana" means "cause" or "link."

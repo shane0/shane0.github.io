@@ -3,6 +3,7 @@ tags:
   - all contexts
   - primal confunsion 
   - impermanence 
+  - shunyata
   - anicca 
   - dukkha 
   - anatta 
@@ -10,39 +11,34 @@ tags:
 # emptiness & impermanence
 
 - context of space is emptiness
-- context of time is impermenence
+- context of time is [impermenence](impermenence.md)
 
-## what is Upajjhaṭṭhana
+## Emptiness, or "shunyata"
 
-Upajjhaṭṭhana is a Pali word that means "the four reminders."
+Emptiness, or "shunyata" in Sanskrit, is a central teaching in Buddhism, particularly in the Mahayana tradition. It refers to the nature of all phenomena as being devoid of inherent existence.
 
-In Theravada Buddhism, Upajjhaṭṭhana is a practice of self-reflection and mindfulness that is used to cultivate a sense of awareness and understanding.
+Here are some of the key attributes of emptiness in Buddhism:
 
-It is one of the Five Spiritual Faculties, along with faith, effort, mindfulness, and concentration.
+- [Interdependent](interdependance.md) origination: All phenomena arise in dependence upon other causes and conditions, and are therefore not independently existent.
+- Impermanence: All phenomena are subject to change and are therefore inherently unsatisfactory.
+- Lack of self-nature: The idea that all things, including the self, lack a permanent, unchanging essence.
+- Emptiness of phenomena: All phenomena are empty of an inherent existence and are merely the coming together of various causes and conditions.
+- Emptiness of the self: The self is empty of an inherent existence and is merely a collection of five aggregates – form, feeling, perception, mental formations, and consciousness.
+- The two truths: The teaching of the two truths, relative and ultimate, helps to explain the relationship between the emptiness of all phenomena and the conventional reality of our everyday experience.
+- Liberation: Through the understanding of emptiness, one can achieve liberation from suffering and attain the state of enlightenment.
 
-The four reminders of Upajjhaṭṭhana are:
+Emptiness is a profound and complex teaching that can be difficult to understand. However, it is considered a crucial aspect of Buddhist philosophy and is seen as a key to realizing the ultimate nature of reality.
 
-- Impermanence (Anicca): Everything is constantly changing and nothing lasts forever.
-- Suffering (Dukkha): All existence is characterized by suffering and unsatisfactoriness.
-- Non-self (Anatta): The self is not a permanent, unchanging entity but is instead a collection of ever-changing mental and physical phenomena.
-- The Four Noble Truths: The teachings of the Buddha about the nature of suffering and the path to liberation from it.
+## shunyata benefits of emptiness
 
-By contemplating these four reminders, practitioners of Upajjhaṭṭhana aim to gain a deeper understanding of the nature of reality and the causes of suffering, and to develop greater wisdom, compassion, and liberation from negative mental states and suffering.
+Emptiness, or "shunyata" in Sanskrit, is a central teaching in Buddhism, particularly in the Mahayana tradition. Understanding and realizing emptiness has many benefits, both in terms of personal growth and in achieving a greater understanding of reality. Here are some of the benefits of emptiness:
 
-The practice can be performed alone or as part of a group, and can be a helpful tool for gaining greater insight and clarity in one's daily life.
+- Overcoming ignorance: Emptiness helps to dispel the ignorance that underlies our suffering, leading to a greater understanding of the true nature of reality.
+- Letting go of attachments: By realizing the emptiness of all phenomena, one can let go of attachments to things that cause suffering and attain a state of equanimity.
+- Overcoming suffering: Through the understanding of emptiness, one can overcome suffering caused by craving and attachment.
+- Compassion and wisdom: By seeing all phenomena as empty, one develops a deep compassion for all beings and a wisdom that realizes the ultimate nature of reality.
+- Freedom from duality: Emptiness helps to break down the dualistic view of the world and opens up the possibility of experiencing reality directly, beyond the dualistic thinking that creates suffering.
+- Attaining enlightenment: The ultimate goal of Buddhism is to attain enlightenment, and emptiness is seen as a key aspect of this process.
+- Peace and happiness: By realizing emptiness, one can experience a deep peace and happiness that is not dependent on external conditions.
 
-## impermenence
-
-Meditation on impermanence is a common practice in Buddhism, where it is recognized as one of the Three Universal Truths along with suffering and non-self.
-
-This type of meditation involves reflecting on the transience and fleeting nature of all things, including our own bodies, thoughts, and emotions.
-
-The goal of meditation on impermanence is to cultivate a sense of detachment and to overcome attachment to the material world.
-
-By understanding that everything is impermanent and constantly changing, practitioners aim to develop a greater appreciation for the present moment and to reduce feelings of fear and anxiety about the future.
-
-One common method of impermanence meditation is to reflect on the different stages of life, such as birth, aging, illness, and death.
-
-Practitioners may also focus on the impermanence of physical objects and the changing nature of their thoughts and emotions.
-
-As with other types of meditation, it's important to approach meditation on impermanence with the guidance of a qualified teacher and to maintain a strong foundation in ethics and mindfulness practices.
+It is important to note that the understanding of emptiness is not just an intellectual concept, but a direct realization that can be experienced through meditation and other spiritual practices.

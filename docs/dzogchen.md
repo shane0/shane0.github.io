@@ -10,6 +10,38 @@ tags:
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/zxdO9SQW3jQ" title="Urgyen Rinpoche   How to rest in non dual, non conceptual awareness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Tulku Urgyen Rinpoche
+
+taught the following steps to help cultivate the experience of non-dual awareness:
+
+- [Calm the mind](shamatha.md): Begin by practicing mindfulness and calm abiding meditation to still the mind and cultivate inner peace.
+- [Cultivate insight](vipassana.md): Develop insight into the nature of reality through the study of Buddhist teachings, and through the practice of analytical meditation, which helps to break down our dualistic concepts.
+- Cultivate devotion: Cultivate devotion to a teacher, deity, or enlightened being, which helps to create a connection to the non-dual reality and provide a source of inspiration.
+- Cultivate the practice of Dzogchen: Practice the teachings of Dzogchen, which are designed to help cultivate non-dual awareness directly.
+- Suspend attention: Once the mind is calm and free from dualistic concepts, allow the mind to rest in its natural state of non-dual awareness. This is known as "suspending attention" or "pure awareness."
+- Maintain awareness: Maintain awareness in the non-dual state, and gradually integrate this experience into daily life.
+- Practice continually: Continuously cultivate this experience through meditation and the integration of the teachings into daily life.
+
+Tulku Urgyen Rinpoche emphasized that this practice requires patience and perseverance.
+
+## Pure awareness
+
+Pure awareness is considered a fundamental aspect of Buddhist teachings and is described as having several attributes. Here are a few of the key attributes of pure awareness:
+
+Clarity: Pure awareness is characterized by its clarity, brightness, and vividness. It is often described as being like a mirror that reflects everything without judgment or distortion.
+
+Openness: Pure awareness is said to be open, spacious, and limitless, transcending all limitations and boundaries.
+
+Non-duality: Pure awareness is non-dual, meaning that it does not discriminate between self and other, subject and object.
+
+Unconditioned: Pure awareness is considered to be unconditioned, meaning that it is free from the influence of thoughts, emotions, and external conditions.
+
+Stability: Pure awareness is stable and unchanging, unaffected by the fluctuations of the mind and external conditions.
+
+Self-sufficient: Pure awareness is said to be self-sufficient, complete, and fulfilling in and of itself, and does not depend on anything else to be realized.
+
+In Buddhist practice, the goal is to cultivate the experience of pure awareness and to integrate this experience into one's daily life. It is considered a key aspect of spiritual development and a direct path to liberation.
+
 ## how do you practice dzogchen
 
 Dzogchen (Tibetan: རྫོགས་ཆེན, Wylie: rdzogs chen) is a meditation practice in the Nyingma tradition of Tibetan Buddhism. The goal of Dzogchen is to directly realize the ultimate nature of reality, which is referred to as "rigpa" or "pure awareness".
@@ -28,7 +60,7 @@ Continuing the practice: Dzogchen is a continuous process of resting in rigpa an
 
 It is important to note that Dzogchen is a advanced meditation practice and should only be attempted under the guidance of a qualified teacher. It is not recommended for beginners or those without a solid foundation in meditation.
 
-## how do you practice trekcho
+## trekcho
 
 Trekchö (Tibetan: གྲེགས་མཆོག, Wylie: grags mcog) is a advanced meditation practice in the Dzogchen tradition of Tibetan Buddhism. Trekchö is considered to be a direct method for realizing the natural state of one's mind, and is sometimes referred to as "cutting through solidity".
 
@@ -46,7 +78,7 @@ Continuing the practice: Trekchö is a continuous process of letting go and rest
 
 It is important to note that Trekchö is a advanced meditation practice and should only be attempted under the guidance of a qualified teacher. It is not recommended for beginners or those without a solid foundation in meditation.
 
-## how do you practice togal
+## togal
 
 Tögal (Tibetan: སྒོལ་རྒྱས, Wylie: sgrol rgyas) is a meditation practice in the Dzogchen tradition of Tibetan Buddhism. Tögal is considered to be a direct method for realizing the ultimate nature of reality, and is sometimes referred to as "leaping over".
 

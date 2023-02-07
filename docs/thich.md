@@ -1,6 +1,6 @@
 ---
 tags:
-  - interdependance 
+  - interdependence 
   - Nidanas
 ---
 # thich

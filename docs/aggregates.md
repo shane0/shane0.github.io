@@ -2,8 +2,16 @@
 tags:
   - aggregates 
   - no self 
+  - deduction 
 ---
 # aggregates
+
+- 5 heaps or aggregates
+- like baggage everyone carries around on their shoulders
+- like the [6 senses](sense.md) if you take one of these away the person exists
+- therefore no self is found in any individual aggregate
+- you are not your body, feelings, perceptions, mental formations or consciousness
+- these all [arise from interdependent causes](interdependence.md) and pass away
 
 ## what is khanda sutta
 
@@ -15,7 +23,7 @@ The five aggregates are:
 - feelings
 - perceptions
 - mental formations
-- consciousness.
+- consciousness
 
 In the Khandha Sutta, the Buddha teaches about the nature of the five aggregates and their interdependence. He explains that these aggregates are not a permanent, unchanging self, but are instead impermanent and constantly changing phenomena that arise and pass away in response to different conditions.
 

@@ -1,13 +1,20 @@
 ---
 tags:
-  - interdependance 
+  - interdependence 
   - Nidanas
+  - deduction 
 ---
-# interdependance
+# interdependence
 
-## what are the twelve nidanas
+## twelve nidanas
 
-The Twelve Nidanas are a fundamental teaching in Theravada Buddhism that describe the interdependent chain of events leading to the arising of suffering. The term "nidana" means "cause" or "link." The Twelve Nidanas can be thought of as a wheel, with each link leading to the next and forming a continuous cycle. The Twelve Nidanas are:
+The term "nidana" means "cause" or "link."
+
+The Twelve Nidanas are a fundamental teaching in Theravada Buddhism that describe the interdependent chain of events leading to the arising of suffering.
+
+The Twelve Nidanas can be thought of as a wheel, with each link leading to the next and forming a continuous cycle.
+
+The Twelve Nidanas are:
 
 1. Ignorance (Avijja)
 1. Volitional Actions (Samskara)

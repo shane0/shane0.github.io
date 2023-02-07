@@ -19,7 +19,14 @@
         "reveal": "always",
         "panel": "new"
       },
-      "runOptions": { "runOn": "folderOpen" }
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    },
+    {
+      "type": "markdownlint",
+      "problemMatcher": ["$markdownlint"],
+      "label": "markdownlint: Lint all Markdown files in the workspace with markdownlint"
     }
   ]
 }

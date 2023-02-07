@@ -2,9 +2,14 @@
 tags:
   - aggregates 
   - no self 
-  - interdependance 
+  - interdependence 
+  - deduction 
 ---
 # 6 sense bases
+
+- everything we experience in life is through one of the 6 channels
+- that said, you can remove any one of these and the person exists
+- therefore individually they are not self
 
 ## how do you meditate using the 6 sextets
 

@@ -2,7 +2,7 @@
 tags:
   - no self 
   - primordial confusion 
-  - interdependance 
+  - interdependence 
 ---
 # jay garfield
 

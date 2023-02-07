@@ -29,15 +29,11 @@ These 9 steps of Maranasati meditation are meant to be practiced regularly, in o
 
 Maranasati is a Buddhist meditation practice that involves contemplating death and impermanence. The benefits of practicing maranasati can include:
 
-A greater appreciation of the present moment: By contemplating death, practitioners may develop a greater appreciation for the present moment and a deeper sense of gratitude for life.
-
-Reduced attachment: By contemplating the impermanence of all things, practitioners may become less attached to material possessions and to the self, reducing suffering and increasing peace of mind.
-
-Improved wisdom and understanding: Maranasati can help practitioners develop a deeper understanding of the nature of reality and the Buddhist teachings, leading to increased wisdom and insight.
-
-Overcoming fear of death: By contemplating death, practitioners can overcome fear and anxiety about the end of life, and develop a more peaceful and accepting attitude towards death.
-
-Greater motivation to practice the Dharma: Maranasati can serve as a powerful reminder of the urgency of the spiritual path and motivate practitioners to engage in other Buddhist practices more fully.
+- A greater appreciation of the present moment: By contemplating death, practitioners may develop a greater appreciation for the present moment and a deeper sense of gratitude for life.
+- Reduced attachment: By contemplating the impermanence of all things, practitioners may become less attached to material possessions and to the self, reducing suffering and increasing peace of mind.
+- Improved wisdom and understanding: Maranasati can help practitioners develop a deeper understanding of the nature of reality and the Buddhist teachings, leading to increased wisdom and insight.
+- Overcoming fear of death: By contemplating death, practitioners can overcome fear and anxiety about the end of life, and develop a more peaceful and accepting attitude towards death.
+- Greater motivation to practice the Dharma: Maranasati can serve as a powerful reminder of the urgency of the spiritual path and motivate practitioners to engage in other Buddhist practices more fully.
 
 It's important to approach maranasati meditation with the guidance of a qualified teacher and to maintain a strong foundation in ethics and mindfulness practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
 
@@ -45,23 +41,16 @@ It's important to approach maranasati meditation with the guidance of a qualifie
 
 The specific instructions for maranasati meditation can vary depending on the specific tradition and the teacher, but here is a general outline of the practice:
 
-Find a quiet and comfortable place to sit where you won't be disturbed.
+- Find a quiet and comfortable place to sit where you won't be disturbed.
+- Establish a stable and relaxed posture, with your back straight and your body relaxed.
+- Focus your attention on the breath and bring your mind to a state of calm and clarity.
+- Start to contemplate the reality of death and impermanence. This may involve reflecting on your own mortality, or on the impermanence of all things, including the body and material possessions.
+- Allow yourself to fully experience the feelings that arise during the contemplation. This may include feelings of fear, sadness, or uncertainty, but try to maintain an open and accepting attitude towards these emotions.
+- Reflect on the teachings of the Buddha, especially on the Four Noble Truths and the Three Universal Truths, and how these relate to your experience of death and impermanence.
+- Continuously bring your mind back to the contemplation whenever it becomes distracted.
+- When the meditation is finished, take a few moments to return to the present moment and to reflect on the insights and experiences gained during the practice.
 
-Establish a stable and relaxed posture, with your back straight and your body relaxed.
-
-Focus your attention on the breath and bring your mind to a state of calm and clarity.
-
-Start to contemplate the reality of death and impermanence. This may involve reflecting on your own mortality, or on the impermanence of all things, including the body and material possessions.
-
-Allow yourself to fully experience the feelings that arise during the contemplation. This may include feelings of fear, sadness, or uncertainty, but try to maintain an open and accepting attitude towards these emotions.
-
-Reflect on the teachings of the Buddha, especially on the Four Noble Truths and the Three Universal Truths, and how these relate to your experience of death and impermanence.
-
-Continuously bring your mind back to the contemplation whenever it becomes distracted.
-
-When the meditation is finished, take a few moments to return to the present moment and to reflect on the insights and experiences gained during the practice.
-
-It's important to approach maranasati meditation with respect and humility, and to maintain a strong foundation in ethics and mindfulness practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding. It's also important to seek guidance from a qualified teacher to ensure that you are practicing in a safe and effective manner.
+It's important to approach maranasati meditation with respect and humility, and to maintain a strong foundation in ethics and mindfulness practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
 
 ## which traditions practice maranasati
 

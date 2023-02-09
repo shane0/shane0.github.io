@@ -2,6 +2,7 @@
 tags:
   - shamatha 
   - dzogchen 
+  - daily 
 ---
 # shamatha
 

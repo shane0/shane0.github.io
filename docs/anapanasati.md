@@ -4,8 +4,8 @@ tags:
   - anicca
   - citta
   - dukkha
-  - nibann
-  - a 
+  - nibanna 
+  - daily 
 ---
 # anapanasati
 

@@ -4,6 +4,7 @@ tags:
   - impermenence 
   - wisdom 
   - fear 
+  - daily 
 ---
 # maranasati
 

@@ -20,6 +20,9 @@ emptiness --> impermenence
 impermenence --> time
 ```
 
+> The world has created no living thing that it does not intend to destroy
+>> [cormac mccarthy](cormac.md)
+
 Meditation on impermanence is a common practice in Buddhism, where it is recognized as one of the Three Universal Truths along with suffering and non-self.
 
 This type of meditation involves reflecting on the transience and fleeting nature of all things, including our own bodies, thoughts, and emotions.

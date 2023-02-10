@@ -1,6 +1,7 @@
 ---
 tags:
   - delusion 
+  - tldr 
 ---
 # tldr
 

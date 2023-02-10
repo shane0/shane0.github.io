@@ -38,6 +38,12 @@ Maranasati is a Buddhist meditation practice that involves contemplating death a
 
 It's important to approach maranasati meditation with the guidance of a qualified teacher and to maintain a strong foundation in ethics and mindfulness practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
 
+If you never face your greatest fears you can spend a lifetime in a sort of trance, asleep, with these fears driving you to act in unwholesome ways, it can cause distraction, restlessness, misdirected goals, etc.
+
+At death the goal is to have treated others with equanimity, love and compassion because the only thing you take with you at death is good karma which comes from a lifetime of wholesome actions.  They meditate on death to overcome fears that could cause you to act compulsively and unwholesome throughout life generating bad karma to be carried into the next life.
+
+In buddhism one of the reasons you meditate is to prepare for your death, you can hear more about their traditions in the video above.  In the end what is valued is your ability to remain fully aware your entire life, and to prepare for death at any moment, to remain aware even when asleep and aware specifically during the experience of death, or bardo (transition during death) which has it's own specific set of techniques in some traditions.
+
 ## what are the instructions for maranasati?
 
 The specific instructions for maranasati meditation can vary depending on the specific tradition and the teacher, but here is a general outline of the practice:

@@ -34,3 +34,9 @@ The four rivers of natural suffering, also known as the "four floods" or "four r
 1. Birth and aging (Jati and Jaramarana) - the cycle of birth, death, and rebirth that is driven by the above three rivers, leading to the experience of suffering, disease, and death.
 
 These four rivers of natural suffering are seen as the fundamental causes of suffering in Buddhist teachings, and can be overcome through the cultivation of wisdom and the development of virtuous qualities such as compassion and altruism. By understanding and transcending these four rivers, one can experience a state of inner peace, happiness, and freedom from suffering.
+
+## drama queens
+
+- human nature: the ego secretly loves drama
+
+<iframe width="710" height="399" src="https://www.youtube.com/embed/GOGru_4z1Vc" title="Kurt Vonnegut, Shape of Stories (subtitulos castellano)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

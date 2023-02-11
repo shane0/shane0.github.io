@@ -1,8 +1,16 @@
-# Centering Practices
+---
+tags:
+  - zen 
+---
+# Vigyan Bhairav Tantra
 
-112 ways to open the invisible door of consciousness.
+- <https://en.wikipedia.org/wiki/Vij%C3%B1%C4%81na_Bhairava_Tantra>
 
-> Transcribed by Paul Reps.  From Zen Flesh, Zen Bones*
+From Zen Flesh, Zen Bones, a book my friend Tim gave to me in the 90s
+
+> this was written around the year 700-800
+
+112 ways to open the invisible door of consciousness
 
 Zen is nothing new, neither is it anything old. Long before Buddha was born the search was on in India, as the present work shows.
 

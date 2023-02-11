@@ -2,7 +2,7 @@
 tags:
   - vipassana 
   - dzogchen 
-  - impermenence 
+  - impermanence 
   - daily 
 ---
 # Vipassana meditation

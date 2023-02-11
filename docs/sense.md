@@ -9,9 +9,24 @@ tags:
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/xiCtt3VLy9E" title="MN 148  The Six Sets of Six - Chachakka Sutta  - Easter Retreat 1 - Day 6 - 21-Apr-14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- everything we experience in life is through one of the 6 channels
-- that said, you can remove any one of these and the person exists
+- **everything** we experience in life is through one of the 6 channels
+- that said, you can remove any one of these parts and the person exists, that is why this page is tagged `deduction`
 - therefore individually they are not self
+- what we call "our self" only exists in our mind
+
+## look for your self
+
+this is a meditation, "look for yourself"
+
+the point of it is not to, like people say in the west, go "find yourself"
+
+it is to learn that there is no actual "self"
+
+not even science cannot measure or explain consciousness, if it is a particle it is not one of the 118 types of atoms we've identified, or you are what?  hydrogen?  an electron?  a quark? dark energy?
+
+our true nature when we learn to look deeper, is that [everything is constantly changing](zen.md#everything-changes), everything is [empty](emptiness.md) yet we are [cognizant](basics.md#7-factors-of-awakening) and capable of love and compassion, all you take with you when [you die](maranasati.md) is [karma](karma.md)
+
+we are not our thoughts and feelings
 
 ## how do you meditate using the 6 sextets
 

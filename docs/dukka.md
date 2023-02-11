@@ -35,6 +35,13 @@ The four rivers of natural suffering, also known as the "four floods" or "four r
 
 These four rivers of natural suffering are seen as the fundamental causes of suffering in Buddhist teachings, and can be overcome through the cultivation of wisdom and the development of virtuous qualities such as compassion and altruism. By understanding and transcending these four rivers, one can experience a state of inner peace, happiness, and freedom from suffering.
 
+## ego mind
+
+“We are giving away the mind that grasps,” Saljay Rinpoche said. “We let go of the mind that creates suffering. This is the ego-mind.”
+The ego-mind of grasping and fixation is the fundamental obstacle to our path of liberation.”
+
+> Excerpt From Turning Confusion into Clarity Yongey Mingyur
+
 ## drama queens
 
 - human nature: the ego secretly loves drama

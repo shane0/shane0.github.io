@@ -1,7 +1,7 @@
 ---
 tags:
   - aggregates 
-  - impermenence 
+  - impermanence 
   - no self 
 ---
 # satipatthana

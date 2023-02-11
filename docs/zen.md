@@ -13,9 +13,23 @@ awareness -- cojoined non dual --> emptiness
 emptiness --> space
 emptiness --> form  
 form --> emptiness 
-emptiness --> impermenence 
-impermenence --> time
+emptiness --> impermanence 
+impermanence --> time
 ```
+
+## Shunryu Suzuki
+
+![](images/suzuki.jpeg)
+
+- <https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki>
+
+### everything changes
+
+> To realize pure mind in your delusion is practice. If you try to expel the delusion it will only persist the more. Just say, ‘Oh, this is just delusion,’ and do not be bothered by it.
+>> Zen Mind, Beginner’s Mind
+>>> Shunryu Suzuki
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/vjpXPECBi5o" title="📖 ZEN MIND, BEGINNER'S MIND by Shunryu Suzuki" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## dwell nowhere
 
@@ -27,7 +41,9 @@ The concept of "dwelling nowhere" is also connected to the idea of non-attachmen
 
 In Zen practice, "dwelling nowhere" is often cultivated through meditation, mindfulness, and other spiritual practices that help one to still the mind, calm the emotions, and awaken to the true nature of reality. By dwelling nowhere, one can experience a sense of peace, freedom, and fulfillment that is not dependent on external conditions or circumstances.
 
-## 10 oxherding
+## 10 bulls
+
+> <https://en.wikipedia.org/wiki/Ten_Bulls>
 
 The Ten Ox-Herding Pictures or Verses is a series of paintings and poems that originated in medieval Japan. They are used as a visual representation of the process of awakening and enlightenment in Buddhism. The series follows the journey of a seeker from ignorance to awakening, symbolized by a young boy searching for an ox, eventually discovering it and mastering it, and ultimately transcending the ox and reaching enlightenment. Each picture or verse represents a stage in the journey, and they are often used as a meditation tool in Zen practice to help the practitioner reflect on their own path towards awakening.
 

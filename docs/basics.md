@@ -146,7 +146,7 @@ In Buddhism, there are several meditation practices that use dichotomies or pair
 
 These dichotomies are used as tools to help the practitioner understand the nature of reality and to develop greater insight and wisdom.
 
-## in buddhism what are the 51 mental formations
+## the 51 mental formations
 
 In Buddhism, the 51 mental formations (Pali: cetasikas) are mental factors or states of mind that accompany each conscious thought or experience.
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - maranasati 
-  - impermenence 
+  - impermanence 
   - wisdom 
   - fear 
   - daily 

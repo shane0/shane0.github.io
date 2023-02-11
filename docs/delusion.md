@@ -2,7 +2,7 @@
 tags:
   - myths 
   - time 
-  - impermemenance 
+  - impermanence 
   - space 
   - emptiness
   - no self 
@@ -13,7 +13,7 @@ tags:
 
 ```mermaid
 graph
-myths --> time --> impermenence
+myths --> time --> impermanence
 myths --> place --> emptiness
 myths --> self --> signlessness
 ```

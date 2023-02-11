@@ -1,6 +1,6 @@
 ---
 tags:
-  - impermenence 
+  - impermanence 
   - emptiness 
   - time 
   - maranasati
@@ -16,8 +16,8 @@ awareness -- cojoined non dual --> emptiness
 emptiness --> space
 emptiness --> form  
 form --> emptiness 
-emptiness --> impermenence 
-impermenence --> time
+emptiness --> impermanence 
+impermanence --> time
 ```
 
 > The world has created no living thing that it does not intend to destroy

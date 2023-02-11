@@ -1,6 +1,6 @@
 ---
 tags:
-  - impermenence 
+  - impermanence 
 ---
 # Upajjhatthana
 

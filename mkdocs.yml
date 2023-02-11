@@ -1,10 +1,17 @@
 site_name: shane0 meditation notes 
 dev_addr: "127.0.0.1:8001"
 
+
 theme:
   name: material
-  palette: 
+  features:
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
 
+
+  palette: 
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -18,6 +25,10 @@ theme:
         name: Switch to light mode
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.superfences:
@@ -27,9 +38,6 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight:
       anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
 
 
 plugins:

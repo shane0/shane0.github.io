@@ -65,7 +65,9 @@ The Three Doors of Liberation, also known as the Three Universal Truths, are a c
 
 These Three Doors of Liberation provide a path to freedom from suffering and ignorance and are seen as a means to attain enlightenment in Buddhism. By understanding and embracing these truths, one can gain insight into the nature of reality and liberation from the cycle of birth and death (Samsara).
 
-## what did thich say about aimlessness
+## aimlessness
+
+- aimlessness can be confusing, the best analogy is a rose, a rose is find the way it is, it doesn't need to try to be more than a rose, the same applies to people
 
 Thich Nhat Hanh, the Vietnamese Zen Master and teacher, often emphasizes the importance of aimlessness or non-striving in the practice of mindfulness and meditation. He argues that we often have a tendency to constantly strive for something, whether it be material possessions or a certain state of mind. This striving can lead to stress, anxiety, and dissatisfaction.
 
@@ -73,7 +75,7 @@ In his teachings, Thich Nhat Hanh encourages individuals to cultivate a state of
 
 In his book, "The Sun My Heart," Thich Nhat Hanh writes: "The most precious gift we can offer others is our presence. When mindfulness embraces those we love, they will bloom like flowers." This highlights the importance of being present and aimless in our relationships with others and the world around us.
 
-## what did thich say about signlessness
+## signlessness
 
 Thich Nhat Hanh, the Vietnamese Zen Master and teacher, often emphasizes the importance of signlessness in the practice of mindfulness and meditation. Signlessness refers to the idea that things, events, and experiences do not have inherent meaning or essence and that meaning is created by the way we perceive and interpret them.
 
@@ -83,7 +85,7 @@ Thich Nhat Hanh explains that when we let go of our need to categorize and label
 
 In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "Signlessness is the key to liberation. When we are able to see things without the burden of our perceptions and interpretations, we can experience reality in its pure form."
 
-## what did thich nhat hahn say dharmakaya meant
+## dharmakaya
 
 Thich Nhat Hanh, the Vietnamese Zen Master and teacher, has written about the concept of Dharmakaya in Buddhist philosophy. Dharmakaya refers to the ultimate nature of reality or the absolute truth. In Buddhist thought, it is the ultimate reality of all things and the ultimate goal of spiritual practice.
 
@@ -93,7 +95,7 @@ Thich Nhat Hanh writes that the Dharmakaya is not a separate entity, but rather 
 
 In his book, "The Sun My Heart," Thich Nhat Hanh writes: "The Dharmakaya is not something we can see or touch. It is the essence of all things, the truth that lies at the heart of the universe." This highlights the idea that the Dharmakaya is not a physical or separate entity, but rather the underlying truth that pervades all things.
 
-## what did thich nhat hahn say about sambhogakaya
+## sambhogakaya
 
 Thich Nhat Hanh, the Vietnamese Zen Master and teacher, has written about the concept of Sambhogakaya in Buddhist philosophy. Sambhogakaya is one of the three bodies (kayas) of a Buddha and is often referred to as the "enjoyment body" or the "body of bliss."
 
@@ -103,7 +105,7 @@ Thich Nhat Hanh argues that the Sambhogakaya represents the connection between t
 
 In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The Sambhogakaya is the manifestation of the Buddha's wisdom and compassion, a symbol of the ultimate potential for transformation and liberation." This highlights the idea that the Sambhogakaya is a representation of the wisdom and compassion that lies within all of us, and can be realized through spiritual practice.
 
-## what did thich nhat hahn say about nirmanakaya
+## nirmanakaya
 
 Thich Nhat Hanh, the Vietnamese Zen Master and teacher, has written about the concept of Nirmanakaya in Buddhist philosophy. Nirmanakaya is one of the three bodies (kayas) of a Buddha and is often referred to as the "manifestation body" or the "body of transformation."
 
@@ -189,7 +191,9 @@ Thich Nhat Hanh often discusses the concept of Great Mirror Wisdom in his teachi
 
 In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The Great Mirror Wisdom is the innate wisdom that lies within all of us. It is like a clear and bright mirror, waiting to be revealed." This highlights the idea that the wisdom and insight of the Buddha is something that lies within all of us, waiting to be awakened.
 
-## thich what are the true mind versions of 12 originations clear understanding great aspiration
+## true mind versions of 12 originations
+
+- there's a really good section in the book heart of the buddhas teachings, chatgpt needs tuning on this one
 
 In Buddhism, the "12 Interdependent Originations" (Paticca Samuppada) is a teaching that describes the interconnected nature of existence and the way that our experiences are created by a chain of cause and effect. Thich Nhat Hanh often speaks about the 12 Interdependent Originations in his teachings and encourages his students to cultivate a clear understanding and great aspiration to help break the cycle of suffering.
 
@@ -214,3 +218,24 @@ Find a quiet place where you won't be disturbed. Sit in a comfortable position a
 - When you feel ready, gently open your eyes. Take a few deep breaths and try to carry the feeling of compassion and love with you as you continue with your day.
 
 Remember, meditation is a process and it may take time to develop a strong practice. Be patient and persistent, and try to make meditating on non-violence a regular part of your routine. With practice, you may find that your mind becomes more peaceful, your relationships become more harmonious, and your life becomes more fulfilling.
+
+## fear
+
+- one of thich's books, this is a powerful cover story
+
+A timeless path for living fearlessly.
+
+A powerful and practical guide to overcoming our debilitating uncertainties and personal terrors by Vietnamese Buddhist Zen Master, poet, scholar, peace activist, and one of the foremost spiritual leaders in the world – Thich Nhat Hanh.
+
+Fear has countless faces: from the fear of failure to worries about everyday life, from financial or environmental uncertainties to the universal despair we all experience when faced by the loss of a friend or loved one. Even when surrounded by all the conditions for happiness, life can feel incomplete when fear keeps us focused on the past and worried about the future. While we all experience fear, it is possible to learn how to avoid having our lives shaped and driven by it.
+
+In these pages, Thich Nhat Hanh, a gifted teacher who was once nominated for the Nobel Peace Prize by Martin Luther King Jr., explores the origins of our fears, illuminating a path to finding peace and freedom from anxiety and offering powerful tools to help us eradicate it from our lives.
+
+> Concentration means you keep the insight alive for a long time. It’s not just a flash; that’s not enough to liberate you. So in your daily life, you keep that insight of nonself, of emptiness, of impermanence alive. When you see a person, a bird, a tree, or a rock, you see its nature of emptiness.
+>> Excerpt From Fear: Essential Wisdom for Getting Through the Storm Thich Nhat Hanh.
+
+## Brahma Abodes
+
+(Brahmaviharas) or Four Immeasurable Minds — love, compassion, joy, and equanimity.” Love in Sanskrit is maitri; in Pali it is metta. Compassion is karuna in both languages. Joy is mudita. Equanimity is upeksha in Sanskrit and upekkha in Pali. A vihara is an abode or a dwelling place. The Four Brahmaviharas are the abodes of true love. This address is much greater than a four-star hotel. It is a 1,000-star dwelling. The Four Brahmaviharas are called “immeasurable,” because if you practice them, they will grow in you every day until they embrace the whole world. You will become happier, and everyone around you will become happier, also.”
+
+> Excerpt From The Heart Of The Buddha’s Teaching Hanh, Thich Nhat

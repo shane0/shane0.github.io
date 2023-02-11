@@ -10,6 +10,21 @@ tags:
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/zxdO9SQW3jQ" title="Urgyen Rinpoche   How to rest in non dual, non conceptual awareness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## rigpa
+
+Rigpa is a term in Tibetan Buddhism that refers to the ultimate nature of reality, also known as "pure awareness." In the context of Dzogchen meditation, rigpa is considered to be the primordial, pure, and unchanging state of consciousness that is free from dualistic thinking and the conventional understanding of self.
+
+The attributes of rigpa are described in various ways in the teachings of Dzogchen, but some of the most common attributes include:
+
+- Clarity: Rigpa is described as being clear, transparent, and free from any mental or emotional agitation.
+- Openness: Rigpa is said to be open and spacious, allowing for a boundless perspective on reality.
+- Non-dual: Rigpa is said to be beyond dualistic thinking and beyond the conventional understanding of self and other.
+- Unobstructed: Rigpa is said to be unobstructed and unaffected by the dualistic distinctions of good and bad, right and wrong, etc.
+- Self-aware: Rigpa is described as being self-aware, with the ability to know itself without reference to any external objects or thoughts.
+- Natural: Rigpa is said to be natural, uncontrived, and always present, but obscured by the dualistic thinking and emotional afflictions of the ordinary mind.
+
+These attributes are considered to be the essential qualities of rigpa, which can be directly experienced through the practice of Dzogchen meditation. However, it is important to note that these descriptions of rigpa are meant to be pointers or guides rather than definitive explanations of its nature. The ultimate nature of rigpa can only be directly experienced through practice, and not through conceptual understanding.
+
 ## Tulku Urgyen Rinpoche
 
 taught the following steps to help cultivate the experience of non-dual awareness:
@@ -55,6 +70,20 @@ It is important to note that Dzogchen is a advanced meditation practice. It is n
 
 ## trekcho
 
+But as the mind that is the object of the search is unreal, so too is the mind that searches. Nevertheless, by clinging to a self in all our vague and transitory thoughts, which are brought about by fleeting causes and conditions, we experience the delusion of saṃsāric existence.
+
+<https://www.rigpawiki.org/index.php?title=Trekch%C3%B6>
+
+<https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/key-points-on-trekcho>
+
+The spiritual path is the process of cutting through our confusion, of uncovering the awakened state of mind. . . . It is not a matter of building up the awakened state of mind but rather of burning out the confusions that obstruct it. In the process of burning out these confusions, we discover enlightenment.
+
+> Chögyam Trungpa Rinpoche”
+
+
+
+## trekcho
+
 Trekchö (Tibetan: གྲེགས་མཆོག, Wylie: grags mcog) is a advanced meditation practice in the Dzogchen tradition of Tibetan Buddhism. Trekchö is considered to be a direct method for realizing the natural state of one's mind, and is sometimes referred to as "cutting through solidity".
 
 The instructions for practicing Trekchö typically involve a series of steps, which can be summarized as follows:
@@ -81,21 +110,6 @@ The instructions for practicing Tögal typically involve a series of steps, whic
 
 It is important to note that Tögal is a advanced meditation practice. It is not recommended for beginners or those without a solid foundation in meditation.
 
-## what are the attributes of rigpa
-
-Rigpa is a term in Tibetan Buddhism that refers to the ultimate nature of reality, also known as "pure awareness." In the context of Dzogchen meditation, rigpa is considered to be the primordial, pure, and unchanging state of consciousness that is free from dualistic thinking and the conventional understanding of self.
-
-The attributes of rigpa are described in various ways in the teachings of Dzogchen, but some of the most common attributes include:
-
-- Clarity: Rigpa is described as being clear, transparent, and free from any mental or emotional agitation.
-- Openness: Rigpa is said to be open and spacious, allowing for a boundless perspective on reality.
-- Non-dual: Rigpa is said to be beyond dualistic thinking and beyond the conventional understanding of self and other.
-- Unobstructed: Rigpa is said to be unobstructed and unaffected by the dualistic distinctions of good and bad, right and wrong, etc.
-- Self-aware: Rigpa is described as being self-aware, with the ability to know itself without reference to any external objects or thoughts.
-- Natural: Rigpa is said to be natural, uncontrived, and always present, but obscured by the dualistic thinking and emotional afflictions of the ordinary mind.
-
-These attributes are considered to be the essential qualities of rigpa, which can be directly experienced through the practice of Dzogchen meditation. However, it is important to note that these descriptions of rigpa are meant to be pointers or guides rather than definitive explanations of its nature. The ultimate nature of rigpa can only be directly experienced through practice, and not through conceptual understanding.
-
 ## in dzogchen what is spontaneous presence
 
 In Dzogchen, the highest teaching of the Nyingma tradition of Tibetan Buddhism, "spontaneous presence" refers to the natural, unaltered, and self-existing state of awareness that is said to be the ultimate nature of all beings.
@@ -104,17 +118,7 @@ Spontaneous presence is considered to be beyond all concepts, dualities, and men
 
 The goal of Dzogchen practice is to directly realize this spontaneous presence, which is said to bring about a sense of freedom, peace, and joy. Through the practice of mindfulness, introspection, and direct recognition, Dzogchen practitioners aim to dissolve the veil of ignorance that covers their true nature, and to experience their own spontaneous presence as the foundation of all existence.
 
-## sem vs rigpa
-
-Sem and Rigpa are terms used in the context of Tibetan Buddhism.
-
-Sem refers to ordinary mind or the dualistic mind, which is characterized by the habit of seeing things as separate and discrete, and by the experience of duality, such as subject and object, self and others, and so on.
-
-Rigpa, on the other hand, refers to pure awareness or the non-dual state of mind. It is considered to be the true nature of all beings and is characterized by a state of clarity, openness, and non-duality. In Dzogchen, the highest teaching of the Nyingma tradition of Tibetan Buddhism, rigpa is considered to be the ultimate reality and the foundation of all existence.
-
-In the context of practice, the goal is to recognize and cultivate rigpa, and to let go of the habit of sem. This can be achieved through various methods, including mindfulness, introspection, and direct recognition, which are all aimed at dissolving the veil of ignorance that covers one's true nature and realizing the spontaneous presence of rigpa.
-
-## what are the meanings behind the samantabhadra thanka?
+## samantabhadra thangka
 
 The Samantabhadra Thangka is a traditional Tibetan Buddhist painting that depicts the bodhisattva Samantabhadra, who is associated with universal compassion and the practice of meditation. Thangkas are used as a visual aid for meditation and as a tool for transmitting spiritual teachings.
 
@@ -126,7 +130,7 @@ The Samantabhadra Thangka can also be interpreted as a visual representation of 
 
 Overall, the meanings behind the Samantabhadra Thangka are meant to evoke a sense of reverence, inspiration, and motivation for spiritual practice. Through contemplation and meditation on the thangka, practitioners hope to awaken the qualities of compassion and wisdom that Samantabhadra embodies and to deepen their understanding of the teachings of Buddhism.
 
-## what is samantabhadra
+## samantabhadra
 
 Samantabhadra is a bodhisattva in Mahayana Buddhism who is associated with universal compassion and the practice of meditation. He is regarded as the embodiment of the ultimate nature of reality and is one of the most highly revered bodhisattvas in Mahayana Buddhism.
 
@@ -136,7 +140,7 @@ Samantabhadra is also the central figure in a number of Mahayana sutras, includi
 
 In Mahayana Buddhist practice, Samantabhadra is often invoked and visualized in meditation as a way of drawing upon the qualities of compassion and wisdom that he embodies. By visualizing and practicing with Samantabhadra, practitioners hope to awaken these qualities within themselves and cultivate the qualities of a bodhisattva.
 
-## what are the meanings behind the samantabhadra thanka?
+## meanings behind the samantabhadra thangka
 
 The Samantabhadra Thangka is a traditional Tibetan Buddhist painting that depicts the bodhisattva Samantabhadra, who is associated with universal compassion and the practice of meditation. Thangkas are used as a visual aid for meditation and as a tool for transmitting spiritual teachings.
 
@@ -166,7 +170,7 @@ Rigpa, on the other hand, refers to pure awareness or the non-dual state of mind
 
 In the context of practice, the goal is to recognize and cultivate rigpa, and to let go of the habit of sem. This can be achieved through various methods, including mindfulness, introspection, and direct recognition, which are all aimed at dissolving the veil of ignorance that covers one's true nature and realizing the spontaneous presence of rigpa.
 
-## what type of meditation uses emptiness?
+## emptiness
 
 In Buddhism, meditation on emptiness (also called "shunyata" or "the emptiness of self") is a central practice in some schools, especially the Mahayana tradition. This type of meditation involves contemplating the nature of reality and our own perception of it, with the goal of understanding the concept of emptiness. Emptiness meditation is often used as a means of reducing attachment and achieving liberation from suffering.
 

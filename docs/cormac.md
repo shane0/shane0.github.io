@@ -3,7 +3,7 @@ tags:
   - quantum physics
   - cormac
   - skynet 
-  - impermenence 
+  - impermanence 
 ---
 # cormac cmcarthy
 
@@ -43,7 +43,7 @@ However, it's worth noting that this statement is not a universal truth and that
 - my 2 cents
 - I heard they have had to tune chatgpt to provide "safe" answers
 - that's not going to work with cormacs books lol
-- see [benefits of impermenence](impermenence.md)
+- see [benefits of impermanence](impermanence.md)
 
 ---
 

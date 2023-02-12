@@ -19,3 +19,4 @@ function addcommitpush () {
 }
 
 addcommitpush "$1"
+mkdocs gh-deploy

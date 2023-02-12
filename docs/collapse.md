@@ -5,9 +5,11 @@ tags:
 ---
 # collapse of humanity
 
-<iframe width="710" height="399" src="https://www.youtube.com/embed/e6FcNgOHYoo" title="Collapse in a Nutshell: Understanding Our Predicament (33 min)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+(possible futures on earth)
 
-(possible futures)
+<iframe width="819" height="461" src="https://www.youtube.com/embed/uU0DC6qcp18" title="Main Drivers of Collapse, Ecocide, and Likely NTHE - Dowd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="710" height="399" src="https://www.youtube.com/embed/e6FcNgOHYoo" title="Collapse in a Nutshell: Understanding Our Predicament (33 min)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## what creature is most likely end humanity?  most likely it's ourselves
 

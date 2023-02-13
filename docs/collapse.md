@@ -5,7 +5,16 @@ tags:
 ---
 # collapse of humanity
 
-(possible futures on earth)
+## my best guess
+
+- the greatest threat to humans are humans
+- ai and crispr are vastly underestimated
+- ai first but in the end cripsr will result in super humans that are unrecognizable
+- crisp: someone already edited babies, gloves are off, beyond that we won't know what research is happening until it is too late
+- military and crispr: the first country to use crispr for military will rule earth
+- military and ai: same, robocop is already here, wars are fought with drones
+
+## thegreatstory
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/uU0DC6qcp18" title="Main Drivers of Collapse, Ecocide, and Likely NTHE - Dowd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -19,7 +28,7 @@ However, if we consider the indirect impact of a species on human mortality (i.e
 
 If we consider only direct mortality (i.e., death caused by a specific species), the answer is mosquitoes, which are responsible for spreading diseases such as malaria, dengue, yellow fever, and Zika virus, among others.
 
-It's important to note that the numbers for both of these scenarios are estimates and can vary widely depending on the sources and methods used to gather data. 
+It's important to note that the numbers for both of these scenarios are estimates and can vary widely depending on the sources and methods used to gather data.
 
 Additionally, there are other species, such as snakes, crocodiles, and sharks, which can also pose a significant threat to human life in certain regions or circumstances.
 
@@ -109,3 +118,9 @@ The Seneca Curve is a graphical representation of the idea that growth and colla
 The Seneca Curve is typically depicted as a graph that starts with slow growth, followed by a period of rapid expansion, and then a sharp decline. This pattern is thought to be the result of various factors, including the depletion of resources, the accumulation of waste, the loss of resilience and adaptability, and the creation of unsustainable systems.
 
 The Seneca Curve has been applied to the study of the collapse of civilizations, including the Roman Empire, as well as to contemporary global challenges such as climate change, resource depletion, and economic instability. By understanding the dynamics of growth and collapse in complex systems, it is possible to develop strategies for avoiding or mitigating the consequences of collapse, and promoting long-term sustainability.
+
+<iframe width="710" height="399" src="https://www.youtube.com/embed/jWoCXLuTIkI" title="Climate Spiral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## main drivers of ecocide
+
+<iframe width="710" height="399" src="https://www.youtube.com/embed/uU0DC6qcp18" title="Main Drivers of Collapse, Ecocide, and Likely NTHE - Dowd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

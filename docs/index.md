@@ -1,5 +1,13 @@
 
-> topics I'm digging into
+> other experiments 
+
+- [wordpress](https://shanenull.com)
+- [django](https://birdup.info)
+- [game dev](https://shane0.github.io/adventure/)
+- [docusaurus](https://shane0.github.io/docs/)
+- [strength training](https://shane0.github.io/strength/)
+
+> topics I'm digging into here
 
 ```mermaid
 graph

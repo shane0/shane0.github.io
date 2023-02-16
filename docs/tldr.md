@@ -2,12 +2,38 @@
 tags:
   - delusion 
   - tldr 
+  - mahayana
+  - yogacara 
+  - theravada 
+  - dzogchen 
 ---
 # tldr
 
+## mahayana and yogacara
+
+- the best summary I know of
+- might help to first understand some [basics](basics.md)
+
 <iframe width="835" height="470" src="https://www.youtube.com/embed/2RavAQoqxOY" title="Primordial confusion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## theravada
+
+- meditation isn't taking a break sitting on a pillow with incense and chimes
+- it's a lifetime training to effortlessly train the mind
+- to prevent it from weakening so not a moment of life or opportunity passes you by unnoticed
+
 <iframe width="639" height="501" src="https://www.youtube.com/embed/VMceJtKxuNg" title="Part time Buddha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## zen
+
+- aimlessness is easily misunderstood, a good comparison is a human & a rose
+- a rose is beautiful and perfect, there is no reason for it try to to be "better than a rose"
+- the same can be said for a human, we can simply be happy without having to compete, or compulsively "achieve more"
+- that said you are free to do whatever you want of course, the question is are your [motivation and intentions](karma.md) pure?
+
+<iframe width="819" height="461" src="https://www.youtube.com/embed/8T-Z1WoFXkk" title="Zazen is Good for Nothing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## dzogchen
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/zxdO9SQW3jQ" title="Urgyen Rinpoche   How to rest in non dual, non conceptual awareness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -70,3 +96,9 @@ But the moment you recognize your own expression, it arises out of yourself, dis
 There is no other meditation or object or act apart from that as much as dust mote, even. But, if you forget and get distracted, you are involved in thoughts.
 
 So please train in this. That is the practice. This is what rinpoche (Padmasambhava) taught in the past and today he has nothing to say besides this.”
+
+## yogacara
+
+the cessation of notions is an aspect of nirvana
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/nNcFquUuKww" title="Give Up Your Conclusions | Sadhguru" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

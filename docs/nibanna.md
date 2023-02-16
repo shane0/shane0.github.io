@@ -2,6 +2,7 @@
 tags:
   - nibanna 
   - cessation 
+  - notions 
 ---
 # nibanna
 
@@ -46,3 +47,15 @@ Nirvana literally means cooling, the putting out of flames; in Buddhism, it refe
 > turning confusion into clarity
 >> …no longer slaves to our neurosis and egocentricities ...Nirvana is a state of mind …Samsara is a state of mind….
 >>> And what do we turn the mind toward? Toward itself. We work with our own mind as both the source of confusion and the source of clarity and contentment. We turn toward letting go of the misperceptions that keep us stuck in cycles of behavior that do not relieve our dissatisfac­tion. Letting go of these habits uncovers the freedom to make choices, meaning that we are no longer slaves to our neurosis and egocentricities, to our attractions and aversions. Knowing this freedom thoroughly, and allowing it to pervade our life, is called nirvana, liberation, awaken­ing, or enlightenment. We also call this buddhahood. Uncovering this freedom is the path of dharma. Samsara is a state of mind. Nirvana is a state of mind. Just as the sun shines whether obscured by clouds or not, clarity exists in the midst of confusion and suffering.
+
+## cessation of notions
+
+In Buddhism, Nirvana is often described as the ultimate goal of the spiritual path, representing a state of complete liberation from suffering and the cycle of rebirth. One way that Nirvana is described is as the cessation of notions or concepts.
+
+Notions or concepts refer to the mental constructs that we use to interpret and make sense of the world around us. These include our ideas, beliefs, opinions, and judgments about ourselves, others, and the world. They are shaped by our past experiences, cultural conditioning, and personal biases.
+
+While these mental constructs can be useful in navigating our everyday lives, they can also create suffering and confusion, especially when they are based on delusion, attachment, or aversion. For example, when we hold on to the notion of a permanent self or identity, we may experience fear, anxiety, and attachment to our self-image, which can lead to suffering.
+
+Nirvana is said to be the cessation of these notions or concepts, as it represents a complete letting go of attachment, aversion, and delusion. In this state, the mind is completely free from all mental constructs and is liberated from the cycle of birth and death.
+
+While Nirvana may seem abstract or unattainable, the Buddhist path offers practical teachings and practices to help us gradually let go of our notions and concepts and cultivate a more liberated, compassionate, and wise way of living.

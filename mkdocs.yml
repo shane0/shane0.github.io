@@ -39,6 +39,18 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.critic
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - abbr
+  - pymdownx.snippets
 
 
 plugins:
@@ -46,3 +58,4 @@ plugins:
       tags_file: index.md
       # tags_file: tags.md
   - search
+  - glightbox

@@ -1,6 +1,7 @@
 ---
 tags:
   - context
+  - basics 
   - dukkha 
   - nibanna 
   - stream entry

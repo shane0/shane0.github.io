@@ -27,6 +27,10 @@ These attributes are considered to be the essential qualities of rigpa, which ca
 
 ## Tulku Urgyen Rinpoche
 
+![urgyen](images/Tulku_Urgyen_Rinpoche.jpeg){ align=right }
+
+Tulku Urgyen Rinpoche spent a total of 12 years in solitary retreat in his life, in addition to many other extended periods of retreat.
+
 taught the following steps to help cultivate the experience of non-dual awareness:
 
 - [Calm the mind](shamatha.md): Begin by practicing mindfulness and calm abiding meditation to still the mind and cultivate inner peace.
@@ -79,8 +83,6 @@ But as the mind that is the object of the search is unreal, so too is the mind t
 The spiritual path is the process of cutting through our confusion, of uncovering the awakened state of mind. . . . It is not a matter of building up the awakened state of mind but rather of burning out the confusions that obstruct it. In the process of burning out these confusions, we discover enlightenment.
 
 > Chögyam Trungpa Rinpoche”
-
-
 
 ## trekcho
 

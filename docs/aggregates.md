@@ -6,6 +6,13 @@ tags:
 ---
 # aggregates
 
+!!! two "my two cents"
+    before studying the aggregates I recommend the 6 [sense bases](sense.md)
+    this meditation I categorize as deduction
+    I think the point is to recognize there is no permanent {++you++}
+    and that {++you++} (the whole) is not the sum of the parts
+     or any one part 
+
 <iframe width="802" height="501" src="https://www.youtube.com/embed/dx4j8eA_aDc" title="220321 Understanding Aggregates \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ```mermaid

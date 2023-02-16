@@ -8,7 +8,7 @@ tags:
 
 - dzogchen is like a telescope + a microscope
 
-<iframe width="835" height="470" src="https://www.youtube.com/embed/zxdO9SQW3jQ" title="Urgyen Rinpoche   How to rest in non dual, non conceptual awareness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="798" height="449" src="https://www.youtube.com/embed/5QYJ5mVrm7E" title="tulku urgyen rinpoche teaching non duality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## rigpa
 

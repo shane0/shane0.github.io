@@ -59,9 +59,9 @@ Caturapramāṇa refers to the Four Reliances in Buddhist philosophy. These Four
 
 There are many different types of meditation, but they can generally be grouped into a few broad categories:
 
-- Mindfulness meditation: This type of meditation involves focusing one's attention on the present moment and observing thoughts, emotions, and sensations without judgment.
+- MINDFULNESS meditation: This type of meditation involves focusing one's attention on the present moment and observing thoughts, emotions, and sensations without judgment.
 - Loving-kindness meditation: This type of meditation involves cultivating feelings of love, kindness, and compassion towards oneself and others.
-- Concentration meditation: This type of meditation involves focusing one's attention on a specific object, such as the breath, a mantra, or an image, with the aim of improving concentration and mental clarity.
+- CONCENTRATION meditation: This type of meditation involves focusing one's attention on a specific object, such as the breath, a mantra, or an image, with the aim of improving CONCENTRATION and mental clarity.
 - Movement meditation: This type of meditation involves focusing on physical movements, such as walking, yoga, or tai chi, with the aim of becoming more present and mindful.
 - Mantra meditation: This type of meditation involves repeating a word or phrase (a mantra) in order to still the mind and achieve a state of deep relaxation and concentration.
 - Transcendental meditation: This type of meditation involves repeating a personal mantra, assigned by a teacher, in a specific way, with the aim of transcending ordinary awareness and experiencing a state of pure consciousness.
@@ -86,12 +86,12 @@ These are some of the core teachings in Buddhism, and there are many other aspec
 
 The 7 factors of awakening, also known as the 7 limbs of awakening, are:
 
-1. Mindfulness (sati)
+1. MINDFULNESS (sati)
 1. Investigation of the Dhamma (dhamma vicaya)
 1. Energy (viriya)
 1. Joy or rapture (pīti)
 1. Relaxation or tranquility (passaddhi)
-1. Concentration (samādhi)
+1. CONCENTRATION (samādhi)
 1. Equanimity (upekkha)
 1. These factors are seen as interdependent and are developed through meditation and the cultivation of virtuous conduct. The ultimate aim is the realization of the Four Noble Truths and the attainment of enlightenment.
 
@@ -107,7 +107,7 @@ They are:
 4. pride
 5. jealousy
 
-These mental states are believed to be the root cause of suffering and keep individuals trapped in cyclic existence. Practicing mindfulness and meditation is said to help overcome the Kleshas and achieve liberation from suffering.
+These mental states are believed to be the root cause of suffering and keep individuals trapped in cyclic existence. Practicing MINDFULNESS and meditation is said to help overcome the Kleshas and achieve liberation from suffering.
 
 ## what are the attributes of enlightenment
 
@@ -141,7 +141,7 @@ The sutta is often recited as part of Buddhist practice, and is used as a focus 
 
 In Buddhism, there are several meditation practices that use dichotomies or pairs of opposites.
 
-- One well-known practice is the development of mindfulness (sati) and clear comprehension (sampajañña).
+- One well-known practice is the development of MINDFULNESS (sati) and clear comprehension (sampajañña).
 - Another practice that involves dichotomies is the contemplation of the rise and fall of physical and mental phenomena (udaya-vaya).
 - Additionally, the Four Noble Truths also involve a dichotomy, with the first truth being the recognition of dukkha (suffering) and the fourth truth being the path to the end of suffering.
 
@@ -223,8 +223,8 @@ These mental factors can be seen as interdependent and can arise in any combinat
 
 1. Faith (saddhā)
 1. Energy (viriya)
-1. Mindfulness (sati)
-1. Concentration (samādhi)
+1. MINDFULNESS (sati)
+1. CONCENTRATION (samādhi)
 1. Wisdom (paññā)
 1. Moral Discipline (sīla)
 

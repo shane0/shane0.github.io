@@ -12,31 +12,31 @@ tags:
 
 ## what are the 9 steps for maranasati?
 
-The 9 steps of Maranasati (mindfulness of death) meditation in the Theravada tradition are a series of contemplations designed to help the practitioner develop a deeper understanding of the nature of impermanence and the preciousness of life. Here is a general outline of the 9 steps of Maranasati meditation:
+The 9 steps of Maranasati (MINDFULNESS of death) meditation in the Theravada tradition are a series of contemplations designed to help the practitioner develop a deeper understanding of the nature of impermanence and the preciousness of life. Here is a general outline of the 9 steps of Maranasati meditation:
 
-1. Recognizing the inevitability of death: Contemplate the fact that all living beings, including yourself, will eventually die.
-1. Reflecting on your own mortality: Consider the fact that you yourself are subject to the same inevitability of death as all other beings.
-1. Examining your own life: Consider how you have lived your life up to this point, and reflect on whether or not you have used your time wisely.
-1. Reflecting on the fleeting nature of life: Consider how quickly life passes, and how little time you have to accomplish your goals and fulfill your aspirations.
-1. Reflection on the universality of death: Consider that death is not something that happens to others, but is an inescapable aspect of life for all beings.
-1. Reflecting on the unpredictable nature of death: Consider that death can happen at any moment, without warning, and that you are never truly secure.
-1. Reflecting on the impermanence of life: Consider that everything in life is subject to change and that everything is temporary.
-1. Developing a sense of urgency: Consider that your time is limited, and that you should take advantage of every moment to develop your spiritual practice and grow in wisdom.
+1. Recognizing the {++inevitability++} of death: Contemplate the fact that all living beings, including yourself, will eventually die.
+1. Reflecting on your own {++mortality++}: Consider the fact that you yourself are subject to the same inevitability of death as all other beings.
+1. {++Examining++} your own life: Consider how you have lived your life up to this point, and reflect on whether or not you have used your time wisely.
+1. Reflecting on the {++fleeting nature++} of life: Consider how quickly life passes, and how little time you have to accomplish your goals and fulfill your aspirations.
+1. Reflection on the {++universality of death++}: Consider that death is not something that happens to others, but is an inescapable aspect of life for all beings.
+1. Reflecting on the {++unpredictable nature++} of death: Consider that death can happen at any moment, without warning, and that you are never truly secure.
+1. Reflecting on the {++impermanence++} of life: Consider that everything in life is subject to change and that everything is temporary.
+1. Developing a sense of {++urgency++}: Consider that your time is limited, and that you should take advantage of every moment to develop your spiritual practice and grow in wisdom.
 1. Cultivating the desire to live a virtuous life: Consider the impact that your actions have on others, and strive to live a virtuous life that benefits both yourself and others.
 
-These 9 steps of Maranasati meditation are meant to be practiced regularly, in order to cultivate a deeper understanding of the nature of impermanence and the preciousness of life. By contemplating death in a mindful and contemplative manner, the practitioner can develop a greater sense of urgency, compassion, and wisdom, and can live their life with greater meaning and purpose.
+These 9 steps of Maranasati meditation are meant to be practiced regularly, in order to cultivate a deeper understanding of the nature of impermanence and the preciousness of life. By contemplating death in a MINDFUL and contemplative manner, the practitioner can develop a greater sense of urgency, compassion, and wisdom, and can live their life with greater meaning and purpose.
 
 ## what are the benefits of maranasati?
 
 Maranasati is a Buddhist meditation practice that involves contemplating death and impermanence. The benefits of practicing maranasati can include:
 
-- A greater appreciation of the present moment: By contemplating death, practitioners may develop a greater appreciation for the present moment and a deeper sense of gratitude for life.
-- Reduced attachment: By contemplating the impermanence of all things, practitioners may become less attached to material possessions and to the self, reducing suffering and increasing peace of mind.
-- Improved wisdom and understanding: Maranasati can help practitioners develop a deeper understanding of the nature of reality and the Buddhist teachings, leading to increased wisdom and insight.
-- Overcoming fear of death: By contemplating death, practitioners can overcome fear and anxiety about the end of life, and develop a more peaceful and accepting attitude towards death.
-- Greater motivation to practice the Dharma: Maranasati can serve as a powerful reminder of the urgency of the spiritual path and motivate practitioners to engage in other Buddhist practices more fully.
+- A greater {==appreciation of the present moment==}: By contemplating death, practitioners may develop a greater appreciation for the present moment and a deeper sense of gratitude for life.
+- {==Reduced attachment==}: By contemplating the impermanence of all things, practitioners may become less attached to material possessions and to the self, reducing suffering and increasing peace of mind.
+- Improved {==wisdom and understanding==}: Maranasati can help practitioners develop a deeper understanding of the nature of reality and the Buddhist teachings, leading to increased wisdom and insight.
+- {==Overcoming fear of death==}: By contemplating death, practitioners can overcome fear and anxiety about the end of life, and develop a more peaceful and accepting attitude towards death.
+- {==Greater motivation to practice the Dharma==}: Maranasati can serve as a powerful reminder of the urgency of the spiritual path and motivate practitioners to engage in other Buddhist practices more fully.
 
-It's important to approach maranasati meditation with the guidance of a qualified teacher and to maintain a strong foundation in ethics and mindfulness practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
+It's important to approach maranasati meditation with the guidance of a qualified teacher and to maintain a strong foundation in ethics and MINDFULNESS practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
 
 If you never face your greatest fears you can spend a lifetime in a sort of trance, asleep, with these fears driving you to act in unwholesome ways, it can cause distraction, restlessness, misdirected goals, etc.
 
@@ -57,7 +57,7 @@ The specific instructions for maranasati meditation can vary depending on the sp
 - Continuously bring your mind back to the contemplation whenever it becomes distracted.
 - When the meditation is finished, take a few moments to return to the present moment and to reflect on the insights and experiences gained during the practice.
 
-It's important to approach maranasati meditation with respect and humility, and to maintain a strong foundation in ethics and mindfulness practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
+It's important to approach maranasati meditation with respect and humility, and to maintain a strong foundation in ethics and MINDFULNESS practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
 
 ## which traditions practice maranasati
 

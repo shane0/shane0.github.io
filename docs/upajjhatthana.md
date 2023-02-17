@@ -4,7 +4,7 @@ tags:
 ---
 # Upajjhatthana
 
-The Five Remembrances, also known as Panca Niyama Dhamma in Pali, are a set of reflections in Buddhism that help cultivate mindfulness and appreciate the preciousness of life. They are:
+The Five Remembrances, also known as Panca Niyama Dhamma in Pali, are a set of reflections in Buddhism that help cultivate MINDFULNESS and appreciate the preciousness of life. They are:
 
 1. I am of the nature to grow old. There is no way to escape aging and death.
 1. I am of the nature to have ill health. No one is immune to sickness, injury, and disease.
@@ -17,7 +17,7 @@ The Five Remembrances, also known as Panca Niyama Dhamma in Pali, are a set of r
 - Overcoming attachment: By realizing the transient nature of all things, one can overcome attachment to material possessions and emotions, leading to a more peaceful and contented life.
 - Reducing fear of death: By understanding that all things are impermanent and subject to change, one can reduce fear of death and the unknown.
 - Promoting wisdom: An appreciation of the impermanence of all things can deepen one's understanding of the nature of reality, leading to greater wisdom.
-- Improving mindfulness: Meditation on impermanence encourages mindfulness of the present moment and helps one stay focused on what is happening in the present, rather than dwelling on the past or worrying about the future.
+- Improving mindfulness: Meditation on impermanence encourages MINDFULNESS of the present moment and helps one stay focused on what is happening in the present, rather than dwelling on the past or worrying about the future.
 - Encouraging self-reflection: By contemplating impermanence, one can reflect on the purpose and meaning of life, and focus on what is truly important.
 
 ## Upajjhatthana
@@ -43,7 +43,7 @@ End the meditation with a few deep breaths and a sense of gratitude for the oppo
 
 Repeat the meditation as often as you like, especially when feeling uncertain or discouraged.
 
-Remember that meditation is a personal journey and there is no right or wrong way to do it. The goal is to deepen your understanding of the Five Recollections and the impact they have on your life. With consistent practice, you will develop a stronger mindfulness and sense of inner peace.
+Remember that meditation is a personal journey and there is no right or wrong way to do it. The goal is to deepen your understanding of the Five Recollections and the impact they have on your life. With consistent practice, you will develop a stronger MINDFULNESS and sense of inner peace.
 
 ## Upajjhatthana or the "Five Recollections"
 
@@ -63,7 +63,7 @@ By contemplating the impermanence of life and death, the purity of the Three Jew
 
 Upajjhaṭṭhana is a Pali word that means "the four reminders."
 
-In Theravada Buddhism, Upajjhaṭṭhana is a practice of self-reflection and mindfulness that is used to cultivate a sense of awareness and understanding.
+In Theravada Buddhism, Upajjhaṭṭhana is a practice of self-reflection and MINDFULNESS that is used to cultivate a sense of awareness and understanding.
 
 It is one of the Five Spiritual Faculties, along with faith, effort, mindfulness, and concentration.
 

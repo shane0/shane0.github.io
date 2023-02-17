@@ -20,11 +20,11 @@ While there are differences between Theravada and Mahayana, they both share the 
 
 The Theravada tradition of Buddhism, also known as the "Doctrine of the Elders," is the oldest form of Buddhism still in existence today and is prevalent in Southeast Asian countries such as Sri Lanka, Thailand, Laos, Cambodia, and Myanmar. Some of the main meditations practiced in the Theravada tradition include:
 
-- [Anapanasati](anapanasati.md): mindfulness of breathing meditation
+- [Anapanasati](anapanasati.md): MINDFULNESS of breathing meditation
 - [Metta](metta.md) (Loving-Kindness) Meditation: meditation focused on cultivating feelings of love, kindness, and compassion towards oneself and others
-- [Maranasati](maranasati.md): mindfulness of death meditation
+- [Maranasati](maranasati.md): MINDFULNESS of death meditation
 - [Vipassana](vipassana.md): Insight Meditation, a form of meditation aimed at developing self-awareness and wisdom through observing one's thoughts and feelings
-- [Samatha](shamatha.md): Calm Abiding Meditation, a form of meditation aimed at developing concentration and mental stability
+- [Samatha](shamatha.md): Calm Abiding Meditation, a form of meditation aimed at developing CONCENTRATION and mental stability
 - Body Scan Meditation: meditation focused on becoming aware of physical sensations in the body
 - Jhana Meditation: deep meditation that leads to a state of tranquility and concentration
 - Contemplation of the Four Noble Truths: meditation focused on reflecting on the Four Noble Truths, which are the foundation of Buddhist teachings
@@ -35,9 +35,9 @@ These meditations are designed to cultivate mindfulness, concentration, and insi
 
 It's difficult to say which are the top 10 meditations in Theravada Buddhism as it can vary depending on the individual practitioner and their needs and goals. However, some commonly practiced meditations in Theravada include:
 
-- [Anapanasati](anapanasati.md): mindfulness of breathing meditation
+- [Anapanasati](anapanasati.md): MINDFULNESS of breathing meditation
 - [Metta](metta.md) (Loving-Kindness) Meditation
-- [Maranasati](maranasati.md): mindfulness of death meditation
+- [Maranasati](maranasati.md): MINDFULNESS of death meditation
 - [Vipassana](vipassana.md): Insight Meditation
 - [Samatha](shamatha.md): Calm Abiding Meditation
 - Body Scan Meditation
@@ -111,7 +111,7 @@ The Sāmaññaphala Sutta is a discourse given by the Buddha to King Ajatasattu 
 - The Buddha responds by outlining the various benefits that one can expect to attain from following the Buddha's teachings, including:
 - Restraint of the senses: The Buddha explains that one who follows the spiritual path will have control over their senses, and will be able to resist temptation and maintain good behavior.
 - Good conduct: The Buddha explains that one who follows the spiritual path will have good conduct and will avoid unethical behavior.
-- Mindfulness and awareness: The Buddha explains that one who follows the spiritual path will have mindfulness and awareness, and will be able to live in the present moment and avoid becoming distracted by external stimuli.
+- MINDFULNESS and awareness: The Buddha explains that one who follows the spiritual path will have MINDFULNESS and awareness, and will be able to live in the present moment and avoid becoming distracted by external stimuli.
 - Concentration: The Buddha explains that one who follows the spiritual path will have concentration, and will be able to focus their mind and cultivate mental tranquility.
 - Wisdom: The Buddha explains that one who follows the spiritual path will develop wisdom, and will be able to understand the nature of reality and the path to liberation.
 - Happiness: The Buddha explains that one who follows the spiritual path will experience happiness, and will be free from anxiety and stress.
@@ -140,7 +140,7 @@ Some of the main points in the sutta are:
 - Eightfold Path: He then explains the Eightfold Path as the way to end suffering and attain enlightenment.
 - Three Universal Truths: The Buddha explains that all things are impermanent, that all beings are subject to suffering, and that there is no permanent self or soul.
 - Middle Way: The Buddha emphasizes the importance of avoiding extremes of self-indulgence and self-mortification and instead finding a middle way.
-- Mindfulness and Mental Cultivation: The Buddha encourages the cultivation of mindfulness and mental development as a means to overcome ignorance and attain wisdom.
+- MINDFULNESS and Mental Cultivation: The Buddha encourages the cultivation of MINDFULNESS and mental development as a means to overcome ignorance and attain wisdom.
 - Dependent Origination: The Buddha explains the principle of Dependent Origination, which states that all things arise in dependence upon other things and that nothing arises without a cause.
 
 Overall, the Dhammacakkappavattana Sutta lays out the core teachings of Buddhism and provides a foundation for the study and practice of Buddhism.
@@ -150,9 +150,9 @@ Overall, the Dhammacakkappavattana Sutta lays out the core teachings of Buddhism
 The "Middle Way" in Buddhism refers to the practice of avoiding the extremes of excessive indulgence and self-denial, and instead seeking a balanced and moderate approach to life. Here are some steps you can take to practice the Middle Way in Buddhism:
 
 - Understand the nature of suffering: The Buddha taught that suffering arises from craving and attachment to things that are impermanent and changing.
-- Cultivate mindfulness and self-awareness: By being mindful and aware of your thoughts and feelings, you can identify when you are veering towards either extreme of excessive indulgence or self-denial.
+- Cultivate MINDFULNESS and self-awareness: By being MINDFUL and aware of your thoughts and feelings, you can identify when you are veering towards either extreme of excessive indulgence or self-denial.
 - Develop wisdom: The Middle Way requires the development of wisdom, so that you can understand the impermanence and unsatisfactoriness of all things and let go of attachment.
-- Practice moderation in all things: Avoid extremes in all areas of life, such as food, work, and relationships. Seek a balance that is mindful and ethical, and that leads to happiness and peace.
+- Practice moderation in all things: Avoid extremes in all areas of life, such as food, work, and relationships. Seek a balance that is MINDFUL and ethical, and that leads to happiness and peace.
 - Cultivate compassion: The Middle Way also involves the development of compassion for all beings, recognizing that all beings experience suffering and seeking to help others find freedom from suffering.
 
 Remember that the Middle Way is a path that requires consistent effort and the development of wisdom over time. It may take time to fully integrate these principles into your life, but with patience and persistence, you can develop a life that is balanced, mindful, and compassionate.

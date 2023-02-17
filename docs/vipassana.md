@@ -20,7 +20,7 @@ Remember, meditation is a process that takes time, patience, and consistent effo
 
 ## definition
 
-"the goal of vipaśyanā is to realize the emptiness of all phenomena"
+"the goal of vipaśyanā is to realize the EMPTINESS of all phenomena"
 
 -- Alan Wallace from the book Heart of the Great Perfection
 

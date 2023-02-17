@@ -3,7 +3,7 @@ tags:
   - all contexts
   - primal confunsion 
   - impermanence 
-  - emptiness 
+  - EMPTINESS 
   - space 
   - shunyata
   - anicca 
@@ -18,10 +18,10 @@ tags:
 ```mermaid
 graph
 emptiness -- cojoined non dual --> awareness
-awareness -- cojoined non dual --> emptiness 
+awareness -- cojoined non dual --> EMPTINESS 
 emptiness --> space
 emptiness --> form  
-form --> emptiness 
+form --> EMPTINESS 
 emptiness --> impermanence 
 impermanence --> time
 ```
@@ -30,7 +30,7 @@ impermanence --> time
 
 ![](images/d.jpg)
 
-When we speak of a phenomenon as being empty, we are referring to its being empty of its own inherent existence. . . . Further, it is not that the object of the negation [inherent existence] formerly existed and is later eliminated, like the forest that existed yesterday and is burned by fire today, with the result that the area is now empty of the forest. Rather, this is an emptiness of an object of negation [inherent existence], which from beginningless time has never been known validly to exist.
+When we speak of a phenomenon as being empty, we are referring to its being empty of its own inherent existence. . . . Further, it is not that the object of the negation [inherent existence] formerly existed and is later eliminated, like the forest that existed yesterday and is burned by fire today, with the result that the area is now empty of the forest. Rather, this is an EMPTINESS of an object of negation [inherent existence], which from beginningless time has never been known validly to exist.
 
 > His Holiness the Fourteenth Dalai Lama
 
@@ -58,9 +58,9 @@ if you look and understand it on a deeper level, you see it's true nature
 
 these approaches I'm explaining are also applied to the concept of [a self](sense.md) in meditation
 
-if you meditate on emptiness and your car is stolen or breaks, you're less likely to [cling](aggregates.md), [cry](basics.md#the-51-mental-formations) and [suffer](dukka.md)
+if you meditate on EMPTINESS and your car is stolen or breaks, you're less likely to [cling](aggregates.md), [cry](basics.md#the-51-mental-formations) and [suffer](dukka.md)
 
-you [remind yourself](impermanence.md#benefits) there only appears to be car here and there is a stack of [inter dependant causes](interdependence.md) that we consider to be a car, there are parts that are not a car in theirselves which are combined into an object we at some point satisfy meets a definition of the term car
+you [remind yourself](impermenence.md#benefits) there only appears to be car here and there is a stack of [inter dependant causes](interdependence.md) that we consider to be a car, there are parts that are not a car in theirselves which are combined into an object we at some point satisfy meets a definition of the term car
 
 if I forget, and leave the doors unlocked with the keys in the ignition for example and park downtown, soon there is no car
 
@@ -70,9 +70,9 @@ a deeper insight is that nowhere in the universe, ever at any time, was there an
 
 [everything is changing](zen.md#everything-changes)
 
-## Emptiness is the Middle Way between existent and nonexistent
+## EMPTINESS is the Middle Way between existent and nonexistent
 
-The practice is to nourish the insight into emptiness all day long.
+The practice is to nourish the insight into EMPTINESS all day long.
 
 > Excerpt From The Heart Of The Buddha’s Teaching Hanh, Thich Nhat
 
@@ -96,9 +96,9 @@ We must surrender our hopes and expectations, as well as our fears, and march di
 
 ## EMPTINESS MEANS ABSENCE OF INHERENT REALITY
 
-![](images/k.jpg)
+![](images/k.jpeg)
 
-(The Buddha) demonstrated that not only in the ordinary sense is there no ego, but no inherent reality can ever be found in anything, no matter where we look. The Buddha taught emptiness as being a function of appearance, that is, the highest quality of appearance—the lack of true existence. The fundamental nature of all appearance is empty. There is no unitary, essential quality, no single identifiable reality, in either the external world that appears to us or the subjective mind. There is no single real nature to anything. There is no self in any appearance, no self in any dharma, no essential nature to anything at all. All dharmas or occurring events do not arise out of an inherent real nature but rather arise from a cause and secondary conditions that permit this cause to yield a particular effect.
+(The Buddha) demonstrated that not only in the ordinary sense is there no ego, but no inherent reality can ever be found in anything, no matter where we look. The Buddha taught EMPTINESS as being a function of appearance, that is, the highest quality of appearance—the lack of true existence. The fundamental nature of all appearance is empty. There is no unitary, essential quality, no single identifiable reality, in either the external world that appears to us or the subjective mind. There is no single real nature to anything. There is no self in any appearance, no self in any dharma, no essential nature to anything at all. All dharmas or occurring events do not arise out of an inherent real nature but rather arise from a cause and secondary conditions that permit this cause to yield a particular effect.
 
 > Khenchen Thrangu Rinpoche
 
@@ -106,28 +106,28 @@ We must surrender our hopes and expectations, as well as our fears, and march di
 
 Emptiness, or "shunyata" in Sanskrit, is a central teaching in Buddhism, particularly in the Mahayana tradition. It refers to the nature of all phenomena as being devoid of inherent existence.
 
-Here are some of the key attributes of emptiness in Buddhism:
+Here are some of the key attributes of EMPTINESS in Buddhism:
 
 - [Interdependent](interdependence.md) origination: All phenomena arise in dependence upon other causes and conditions, and are therefore not independently existent.
 - Impermanence: All phenomena are subject to change and are therefore inherently unsatisfactory.
 - Lack of self-nature: The idea that all things, including the self, lack a permanent, unchanging essence.
-- Emptiness of phenomena: All phenomena are empty of an inherent existence and are merely the coming together of various causes and conditions.
-- Emptiness of the self: The self is empty of an inherent existence and is merely a collection of five aggregates – form, feeling, perception, mental formations, and consciousness.
-- The two truths: The teaching of the two truths, relative and ultimate, helps to explain the relationship between the emptiness of all phenomena and the conventional reality of our everyday experience.
+- EMPTINESS of phenomena: All phenomena are empty of an inherent existence and are merely the coming together of various causes and conditions.
+- EMPTINESS of the self: The self is empty of an inherent existence and is merely a collection of five aggregates – form, feeling, perception, mental formations, and consciousness.
+- The two truths: The teaching of the two truths, relative and ultimate, helps to explain the relationship between the EMPTINESS of all phenomena and the conventional reality of our everyday experience.
 - Liberation: Through the understanding of emptiness, one can achieve liberation from suffering and attain the state of enlightenment.
 
 Emptiness is a profound and complex teaching that can be difficult to understand. However, it is considered a crucial aspect of Buddhist philosophy and is seen as a key to realizing the ultimate nature of reality.
 
 ## shunyata benefits of emptiness
 
-Emptiness, or "shunyata" in Sanskrit, is a central teaching in Buddhism, particularly in the Mahayana tradition. Understanding and realizing emptiness has many benefits, both in terms of personal growth and in achieving a greater understanding of reality. Here are some of the benefits of emptiness:
+Emptiness, or "shunyata" in Sanskrit, is a central teaching in Buddhism, particularly in the Mahayana tradition. Understanding and realizing EMPTINESS has many benefits, both in terms of personal growth and in achieving a greater understanding of reality. Here are some of the benefits of emptiness:
 
-- Overcoming ignorance: Emptiness helps to dispel the ignorance that underlies our suffering, leading to a greater understanding of the true nature of reality.
-- Letting go of attachments: By realizing the emptiness of all phenomena, one can let go of attachments to things that cause suffering and attain a state of equanimity.
+- Overcoming ignorance: EMPTINESS helps to dispel the ignorance that underlies our suffering, leading to a greater understanding of the true nature of reality.
+- Letting go of attachments: By realizing the EMPTINESS of all phenomena, one can let go of attachments to things that cause suffering and attain a state of equanimity.
 - Overcoming suffering: Through the understanding of emptiness, one can overcome suffering caused by craving and attachment.
 - Compassion and wisdom: By seeing all phenomena as empty, one develops a deep compassion for all beings and a wisdom that realizes the ultimate nature of reality.
-- Freedom from duality: Emptiness helps to break down the dualistic view of the world and opens up the possibility of experiencing reality directly, beyond the dualistic thinking that creates suffering.
-- Attaining enlightenment: The ultimate goal of Buddhism is to attain enlightenment, and emptiness is seen as a key aspect of this process.
+- Freedom from duality: EMPTINESS helps to break down the dualistic view of the world and opens up the possibility of experiencing reality directly, beyond the dualistic thinking that creates suffering.
+- Attaining enlightenment: The ultimate goal of Buddhism is to attain enlightenment, and EMPTINESS is seen as a key aspect of this process.
 - Peace and happiness: By realizing emptiness, one can experience a deep peace and happiness that is not dependent on external conditions.
 
-It is important to note that the understanding of emptiness is not just an intellectual concept, but a direct realization that can be experienced through meditation and other spiritual practices.
+It is important to note that the understanding of EMPTINESS is not just an intellectual concept, but a direct realization that can be experienced through meditation and other spiritual practices.

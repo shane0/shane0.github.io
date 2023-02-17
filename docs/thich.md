@@ -2,14 +2,18 @@
 tags:
   - interdependence 
   - Nidanas
+  - concentration
+  - mindfulness
 ---
-# thich
+# thich nhat hahn
+
+![](images/Thay+and+Dr.jpeg)
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/F3XqhBigMao" title="Emptiness: Empty of What? | Thich Nhat Hanh (short teaching video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## thich nhat hanh
 
-Thich Nhat Hanh is a Vietnamese Zen Master, teacher, author, poet and peace activist. He is a founder of the Plum Village tradition, a mindfulness practice center in France and has written more than 100 books on mindfulness and meditation, including the bestseller "The Heart of the Buddha's Teaching." Nhat Hanh is known for promoting engaged Buddhism and has been a leader in the movement for peace and reconciliation in Vietnam.
+Thich Nhat Hanh is a Vietnamese Zen Master, teacher, author, poet and peace activist. He is a founder of the Plum Village tradition, a MINDFULNESS practice center in France and has written more than 100 books on MINDFULNESS and meditation, including the bestseller "The Heart of the Buddha's Teaching." Nhat Hanh is known for promoting engaged Buddhism and has been a leader in the movement for peace and reconciliation in Vietnam.
 
 ## cultivating non violence
 
@@ -69,15 +73,15 @@ These Three Doors of Liberation provide a path to freedom from suffering and ign
 
 - aimlessness can be confusing, the best analogy is a rose, a rose is find the way it is, it doesn't need to try to be more than a rose, the same applies to people
 
-Thich Nhat Hanh, the Vietnamese Zen Master and teacher, often emphasizes the importance of aimlessness or non-striving in the practice of mindfulness and meditation. He argues that we often have a tendency to constantly strive for something, whether it be material possessions or a certain state of mind. This striving can lead to stress, anxiety, and dissatisfaction.
+Thich Nhat Hanh, the Vietnamese Zen Master and teacher, often emphasizes the importance of aimlessness or non-striving in the practice of MINDFULNESS and meditation. He argues that we often have a tendency to constantly strive for something, whether it be material possessions or a certain state of mind. This striving can lead to stress, anxiety, and dissatisfaction.
 
 In his teachings, Thich Nhat Hanh encourages individuals to cultivate a state of aimlessness, where they can let go of their desires and just be in the present moment. He explains that when we let go of our goals and desires, we can experience true peace and happiness. In this state of aimlessness, we can simply be present and enjoy each moment as it unfolds, without being attached to outcomes or results.
 
-In his book, "The Sun My Heart," Thich Nhat Hanh writes: "The most precious gift we can offer others is our presence. When mindfulness embraces those we love, they will bloom like flowers." This highlights the importance of being present and aimless in our relationships with others and the world around us.
+In his book, "The Sun My Heart," Thich Nhat Hanh writes: "The most precious gift we can offer others is our presence. When MINDFULNESS embraces those we love, they will bloom like flowers." This highlights the importance of being present and aimless in our relationships with others and the world around us.
 
 ## signlessness
 
-Thich Nhat Hanh, the Vietnamese Zen Master and teacher, often emphasizes the importance of signlessness in the practice of mindfulness and meditation. Signlessness refers to the idea that things, events, and experiences do not have inherent meaning or essence and that meaning is created by the way we perceive and interpret them.
+Thich Nhat Hanh, the Vietnamese Zen Master and teacher, often emphasizes the importance of signlessness in the practice of MINDFULNESS and meditation. Signlessness refers to the idea that things, events, and experiences do not have inherent meaning or essence and that meaning is created by the way we perceive and interpret them.
 
 In his teachings, Thich Nhat Hanh argues that our clinging to signs and concepts, such as labels and judgments, can lead to suffering and a lack of understanding. He encourages individuals to practice signlessness in order to gain a deeper understanding of reality and to be free from the limitations of our perceptions and interpretations.
 
@@ -89,7 +93,7 @@ In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "Sign
 
 Thich Nhat Hanh, the Vietnamese Zen Master and teacher, has written about the concept of Dharmakaya in Buddhist philosophy. Dharmakaya refers to the ultimate nature of reality or the absolute truth. In Buddhist thought, it is the ultimate reality of all things and the ultimate goal of spiritual practice.
 
-Thich Nhat Hanh explains that the Dharmakaya is not separate from our individual experiences and is not something that can be grasped or attained. Instead, it is the underlying essence of all things, including ourselves. He argues that when we practice mindfulness and meditation, we can begin to realize the Dharmakaya within ourselves and the world around us.
+Thich Nhat Hanh explains that the Dharmakaya is not separate from our individual experiences and is not something that can be grasped or attained. Instead, it is the underlying essence of all things, including ourselves. He argues that when we practice MINDFULNESS and meditation, we can begin to realize the Dharmakaya within ourselves and the world around us.
 
 Thich Nhat Hanh writes that the Dharmakaya is not a separate entity, but rather the true nature of everything, including ourselves. He explains that when we realize the Dharmakaya, we can experience a deep sense of interconnectedness with all things and a sense of unity with the universe.
 
@@ -101,7 +105,7 @@ Thich Nhat Hanh, the Vietnamese Zen Master and teacher, has written about the co
 
 In his teachings, Thich Nhat Hanh explains that the Sambhogakaya is a form of the Buddha that is beyond the physical realm and can only be perceived by enlightened beings. It is said to embody the wisdom and compassion of the Buddha and is seen as a symbol of the ultimate potential for transformation and liberation.
 
-Thich Nhat Hanh argues that the Sambhogakaya represents the connection between the physical realm and the realm of pure consciousness, and can help us to connect with the wisdom and compassion of the Buddha. He writes that when we cultivate mindfulness and compassion in our daily lives, we can experience the Sambhogakaya within ourselves and the world around us.
+Thich Nhat Hanh argues that the Sambhogakaya represents the connection between the physical realm and the realm of pure consciousness, and can help us to connect with the wisdom and compassion of the Buddha. He writes that when we cultivate MINDFULNESS and compassion in our daily lives, we can experience the Sambhogakaya within ourselves and the world around us.
 
 In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The Sambhogakaya is the manifestation of the Buddha's wisdom and compassion, a symbol of the ultimate potential for transformation and liberation." This highlights the idea that the Sambhogakaya is a representation of the wisdom and compassion that lies within all of us, and can be realized through spiritual practice.
 
@@ -111,9 +115,9 @@ Thich Nhat Hanh, the Vietnamese Zen Master and teacher, has written about the co
 
 In his teachings, Thich Nhat Hanh explains that the Nirmanakaya is the physical manifestation of the Buddha in the world. It is the form that the Buddha takes in order to teach and guide beings on the path to liberation. He argues that the Nirmanakaya represents the interdependence and interrelatedness of all things and serves as a reminder that the wisdom and compassion of the Buddha are present in the world and can be experienced by all beings.
 
-Thich Nhat Hanh writes that when we practice mindfulness and compassion in our daily lives, we can embody the Nirmanakaya and serve as a manifestation of the Buddha's teachings in the world. He argues that this can help us to transform ourselves and the world around us and to bring peace, love, and understanding to those around us.
+Thich Nhat Hanh writes that when we practice MINDFULNESS and compassion in our daily lives, we can embody the Nirmanakaya and serve as a manifestation of the Buddha's teachings in the world. He argues that this can help us to transform ourselves and the world around us and to bring peace, love, and understanding to those around us.
 
-In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The Nirmanakaya is the manifestation of the Buddha's wisdom and compassion in the world. It represents the interdependence and interrelatedness of all things and serves as a reminder that the path to liberation is available to all beings." This highlights the idea that the Nirmanakaya is a representation of the transformative power of the Buddha's teachings, and that through mindfulness and compassion, we can embody this power and bring peace and happiness to the world.
+In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The Nirmanakaya is the manifestation of the Buddha's wisdom and compassion in the world. It represents the interdependence and interrelatedness of all things and serves as a reminder that the path to liberation is available to all beings." This highlights the idea that the Nirmanakaya is a representation of the transformative power of the Buddha's teachings, and that through MINDFULNESS and compassion, we can embody this power and bring peace and happiness to the world.
 
 ## thich 12 interdependent origination
 
@@ -135,17 +139,17 @@ According to this teaching, the 12 links of interdependent origination are:
 1. Aging and death
 1. Thich Nhat Hanh explains that these 12 links form a chain of causality that explains the origins of suffering. He argues that ignorance leads to volitional formations, which in turn give rise to consciousness, and so on, ultimately leading to aging and death.
 
-However, Thich Nhat Hanh also argues that this chain of causality is not a rigid, deterministic sequence. Instead, he explains that each link in the chain can influence the others, and that it is possible to interrupt the chain and prevent suffering from arising. He argues that through mindfulness and meditation, we can cultivate wisdom and compassion, which can help us to overcome ignorance and interrupt the chain of causality.
+However, Thich Nhat Hanh also argues that this chain of causality is not a rigid, deterministic sequence. Instead, he explains that each link in the chain can influence the others, and that it is possible to interrupt the chain and prevent suffering from arising. He argues that through MINDFULNESS and meditation, we can cultivate wisdom and compassion, which can help us to overcome ignorance and interrupt the chain of causality.
 
-In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The 12 links of interdependent origination provide us with a deep understanding of the nature of suffering and the path to liberation. By practicing mindfulness and compassion, we can interrupt the chain of causality and end the cycle of suffering." This highlights the idea that the 12 links of interdependent origination offer a roadmap for ending suffering and attaining liberation in Buddhist philosophy.
+In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The 12 links of interdependent origination provide us with a deep understanding of the nature of suffering and the path to liberation. By practicing MINDFULNESS and compassion, we can interrupt the chain of causality and end the cycle of suffering." This highlights the idea that the 12 links of interdependent origination offer a roadmap for ending suffering and attaining liberation in Buddhist philosophy.
 
 ## how do we water the seeds of our own lucid consciousness
 
-Watering the seeds of lucid consciousness refers to nurturing and cultivating the seeds of awareness and mindfulness within us. Lucid consciousness refers to the clear and awakened state of mind that allows us to see things as they truly are and to understand the nature of reality.
+Watering the seeds of lucid consciousness refers to nurturing and cultivating the seeds of awareness and MINDFULNESS within us. Lucid consciousness refers to the clear and awakened state of mind that allows us to see things as they truly are and to understand the nature of reality.
 
 Thich Nhat Hanh, the Vietnamese Zen Master and teacher, has written extensively on how to water the seeds of lucid consciousness. He argues that this can be achieved through the following practices:
 
-Mindfulness meditation: Regular practice of mindfulness meditation can help us to cultivate awareness and focus in the present moment. This can help us to develop our lucid consciousness and to become more attuned to the world around us.
+Mindfulness meditation: Regular practice of MINDFULNESS meditation can help us to cultivate awareness and focus in the present moment. This can help us to develop our lucid consciousness and to become more attuned to the world around us.
 
 Cultivating positive emotions: By focusing on positive emotions like love, joy, and compassion, we can water the seeds of lucid consciousness and help them to grow.
 
@@ -153,9 +157,9 @@ Engaging in acts of generosity and kindness: By performing acts of kindness and 
 
 Cultivating wisdom: Through studying the teachings of the Buddha and other wise teachers, we can deepen our understanding of the nature of reality and water the seeds of lucid consciousness.
 
-In his teachings, Thich Nhat Hanh emphasizes that the key to watering the seeds of lucid consciousness is to cultivate mindfulness and awareness in all aspects of our lives, not just during meditation. He argues that by integrating mindfulness into our daily activities and relationships, we can nurture and grow the seeds of lucid consciousness and deepen our understanding of the world around us.
+In his teachings, Thich Nhat Hanh emphasizes that the key to watering the seeds of lucid consciousness is to cultivate MINDFULNESS and awareness in all aspects of our lives, not just during meditation. He argues that by integrating MINDFULNESS into our daily activities and relationships, we can nurture and grow the seeds of lucid consciousness and deepen our understanding of the world around us.
 
-In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "By nurturing the seeds of mindfulness and compassion within us, we can water the seeds of lucid consciousness and awaken to the world as it truly is." This highlights the idea that through mindfulness and compassion, we can cultivate the seeds of lucid consciousness and deepen our understanding of reality.
+In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "By nurturing the seeds of MINDFULNESS and compassion within us, we can water the seeds of lucid consciousness and awaken to the world as it truly is." This highlights the idea that through MINDFULNESS and compassion, we can cultivate the seeds of lucid consciousness and deepen our understanding of reality.
 
 ## invoke the name Avalokiteshvara
 
@@ -185,9 +189,9 @@ In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "By i
 
 The idea of Great Mirror Wisdom is closely related to the concept of Buddhahood, which is the state of complete enlightenment and perfect wisdom. In Mahayana Buddhism, it is believed that all beings have the potential to awaken to their true nature and become a Buddha.
 
-The Great Mirror Wisdom represents the idea that the wisdom and insight of the Buddha is not something that can be acquired from outside, but rather it is something that lies within us, waiting to be awakened. When we practice mindfulness and cultivate compassion, we can start to uncover and reveal our own Great Mirror Wisdom.
+The Great Mirror Wisdom represents the idea that the wisdom and insight of the Buddha is not something that can be acquired from outside, but rather it is something that lies within us, waiting to be awakened. When we practice MINDFULNESS and cultivate compassion, we can start to uncover and reveal our own Great Mirror Wisdom.
 
-Thich Nhat Hanh often discusses the concept of Great Mirror Wisdom in his teachings, and encourages his students to cultivate awareness and mindfulness in order to awaken to their own innate wisdom. He argues that by connecting to our own Great Mirror Wisdom, we can start to see the world and our own experiences in a new way, and gain a deeper understanding of reality.
+Thich Nhat Hanh often discusses the concept of Great Mirror Wisdom in his teachings, and encourages his students to cultivate awareness and MINDFULNESS in order to awaken to their own innate wisdom. He argues that by connecting to our own Great Mirror Wisdom, we can start to see the world and our own experiences in a new way, and gain a deeper understanding of reality.
 
 In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The Great Mirror Wisdom is the innate wisdom that lies within all of us. It is like a clear and bright mirror, waiting to be revealed." This highlights the idea that the wisdom and insight of the Buddha is something that lies within all of us, waiting to be awakened.
 
@@ -231,7 +235,7 @@ Fear has countless faces: from the fear of failure to worries about everyday lif
 
 In these pages, Thich Nhat Hanh, a gifted teacher who was once nominated for the Nobel Peace Prize by Martin Luther King Jr., explores the origins of our fears, illuminating a path to finding peace and freedom from anxiety and offering powerful tools to help us eradicate it from our lives.
 
-> Concentration means you keep the insight alive for a long time. It’s not just a flash; that’s not enough to liberate you. So in your daily life, you keep that insight of nonself, of emptiness, of impermanence alive. When you see a person, a bird, a tree, or a rock, you see its nature of emptiness.
+> CONCENTRATION means you keep the insight alive for a long time. It’s not just a flash; that’s not enough to liberate you. So in your daily life, you keep that insight of nonself, of emptiness, of impermanence alive. When you see a person, a bird, a tree, or a rock, you see its nature of emptiness.
 >> Excerpt From Fear: Essential Wisdom for Getting Through the Storm Thich Nhat Hanh.
 
 ## Brahma Abodes
@@ -239,3 +243,55 @@ In these pages, Thich Nhat Hanh, a gifted teacher who was once nominated for the
 (Brahmaviharas) or Four Immeasurable Minds — love, compassion, joy, and equanimity.” Love in Sanskrit is maitri; in Pali it is metta. Compassion is karuna in both languages. Joy is mudita. Equanimity is upeksha in Sanskrit and upekkha in Pali. A vihara is an abode or a dwelling place. The Four Brahmaviharas are the abodes of true love. This address is much greater than a four-star hotel. It is a 1,000-star dwelling. The Four Brahmaviharas are called “immeasurable,” because if you practice them, they will grow in you every day until they embrace the whole world. You will become happier, and everyone around you will become happier, also.”
 
 > Excerpt From The Heart Of The Buddha’s Teaching Hanh, Thich Nhat
+
+## mindfulness
+
+Thich Nhat Hanh defined MINDFULNESS as
+
+- the energy of being aware and awake to the present moment.
+- MINDFULNESS means being fully present and attentive to what is happening in our body, mind, and environment in each moment,
+- without being distracted or judgmental
+
+Thich Nhat Hanh emphasized the importance of MINDFULNESS in helping us to live more fully and deeply, and to develop greater clarity, compassion, and insight.
+
+He taught various MINDFULNESS practices, including MINDFUL breathing, walking, eating, and speaking, as well as more formal sitting meditation.
+
+Thich Nhat Hanh's teachings on MINDFULNESS emphasize the {++integration of MINDFULNESS into every aspect of our lives, not just during formal meditation practice.++}
+
+He believed that by cultivating MINDFULNESS in each moment, we can reduce stress, anxiety, and suffering, and develop greater awareness, understanding, and connection with ourselves and others.
+
+## concentration
+
+Thich Nhat Hanh defined CONCENTRATION as the ability to focus one's attention on a single object, idea, or activity without being distracted by other thoughts or stimuli. According to him, CONCENTRATION is a key element of mindfulness and meditation practice, as it allows us to develop greater insight, clarity, and calmness of mind.
+
+Thich Nhat Hanh taught that CONCENTRATION is developed through regular meditation practice, and can be cultivated by focusing on a single point of attention, such as the breath, a sound, or a visual image. He also emphasized the importance of cultivating a relaxed and non-judgmental attitude towards the process of concentration, and encouraged his students to approach it with patience, openness, and curiosity.
+
+For Thich Nhat Hanh, CONCENTRATION is not an end in itself, but a means to develop deeper levels of mindfulness and insight. By cultivating concentration, we can gain greater awareness of our thoughts, emotions, and experiences, and develop greater understanding and compassion for ourselves and others. Ultimately, he taught that CONCENTRATION can help us to free ourselves from suffering and develop a more peaceful, harmonious, and fulfilling life.
+
+## Shamatha
+
+Shamatha is a Sanskrit word that refers to a type of meditation that aims to cultivate calmness, tranquility, and concentration. Thich Nhat Hanh often used the term "calm abiding" to refer to shamatha meditation.
+
+Thich Nhat Hanh emphasized that shamatha is an essential foundation for the practice of insight or vipassana meditation, which aims to develop greater clarity, wisdom, and compassion. He taught that by cultivating calmness and concentration through shamatha, we can develop the stability and clarity of mind that are necessary for deeper levels of insight and understanding.
+
+According to Thich Nhat Hanh, shamatha is developed through regular meditation practice, and involves focusing one's attention on a single object, such as the breath or a visual image, and continually returning one's attention to that object whenever the mind becomes distracted or agitated. He also taught that shamatha involves cultivating a non-judgmental and non-reactive attitude towards the process of meditation, and developing an open, curious, and compassionate relationship with one's own mind.
+
+Overall, Thich Nhat Hanh viewed shamatha as an important practice for cultivating inner peace, mental stability, and greater awareness and insight.
+
+## Vipassana
+
+Vipassana is a Pali word that translates to "insight" or "clear seeing" in English. It refers to a type of Buddhist meditation that aims to cultivate awareness and understanding of the nature of reality and the workings of the mind.
+
+Vipassana meditation is often contrasted with shamatha, which is a type of meditation that aims to cultivate calmness and concentration. While shamatha is a foundation for the practice of vipassana, vipassana involves going beyond calmness and concentration to develop deeper levels of insight and understanding.
+
+Thich Nhat Hanh taught that vipassana involves cultivating a clear and direct perception of the impermanent, interdependent, and empty nature of all phenomena, including thoughts, emotions, and perceptions. He emphasized that vipassana requires both mental clarity and emotional openness, and that it involves developing a deep understanding of the causes and conditions that give rise to our experiences.
+
+Overall, Thich Nhat Hanh viewed vipassana as an essential practice for developing greater awareness, understanding, and compassion, and for freeing ourselves from the causes of suffering and living more fully and deeply in the present moment.
+
+## emptiness
+
+In Buddhism, the concept of EMPTINESS refers to the absence of inherent existence or self-nature in all phenomena. It is the idea that all things are dependently originated, interconnected, and lack an independent, permanent essence or self.
+
+Thich Nhat Hanh often taught that the concept of EMPTINESS is not nihilistic, but rather an invitation to see things as they are, without projecting our own biases, expectations, or attachments onto them. He emphasized that the insight into EMPTINESS is a way to see the interdependent nature of all things and to cultivate greater wisdom, compassion, and freedom from suffering.
+
+For Thich Nhat Hanh, the concept of EMPTINESS was not just a philosophical idea, but a practice that involves letting go of our attachment to fixed ideas and beliefs, and cultivating a deep awareness of the impermanent and interdependent nature of all phenomena. By understanding that all things are constantly changing and interrelated, we can develop greater insight and compassion, and live in greater harmony with the world around us.

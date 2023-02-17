@@ -74,7 +74,7 @@ Sadayatana is a term in Buddhism that refers to the six sense organs and their c
 - Move on to the fire element, focusing on the sensation of heat in your body, such as the warmth of your breath or the feeling of warmth in your belly.
 - Pay attention to the air element, such as the sensation of air moving in and out of your nostrils.
 - Finally, focus on the sensations of space and consciousness, letting your awareness expand to encompass the entire room and beyond, without grasping at anything in particular.
-- Practice moving your attention from one element to the next in a slow and mindful way, without getting caught up in thoughts or distractions.
+- Practice moving your attention from one element to the next in a slow and MINDFUL way, without getting caught up in thoughts or distractions.
 - As you continue the meditation, aim to cultivate a sense of equanimity and balance, letting go of any judgments or preferences for one element over another.
 
 It's important to note that these steps are just a general outline and may vary depending on the tradition and teacher you are following. As with any meditation practice, it's best to approach it with patience, curiosity, and a non-judgmental attitude, allowing the practice to unfold naturally over time.

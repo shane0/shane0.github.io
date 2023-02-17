@@ -21,7 +21,7 @@ It is important to note that the understanding of karma can vary between differe
 
 In Buddhism, actions that lead to positive outcomes, reduce suffering, and promote well-being are considered wholesome or skillful. These actions are known as "kusala" in Pali, one of the ancient languages in which Buddhist texts were written.
 
-Wholesome or skillful actions include acts of generosity, kindness, compassion, wisdom, and ethical conduct. For example, giving to those in need, showing kindness and compassion to others, speaking truthfully and kindly, and cultivating mindfulness and wisdom are all considered wholesome or skillful actions in Buddhism.
+Wholesome or skillful actions include acts of generosity, kindness, compassion, wisdom, and ethical conduct. For example, giving to those in need, showing kindness and compassion to others, speaking truthfully and kindly, and cultivating MINDFULNESS and wisdom are all considered wholesome or skillful actions in Buddhism.
 
 On the other hand, actions that lead to negative outcomes, increase suffering, and harm others are considered unwholesome or unskillful. These actions are known as "akusala" in Pali. Examples of unwholesome or unskillful actions include harming others, lying, stealing, engaging in sexual misconduct, and consuming intoxicants.
 

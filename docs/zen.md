@@ -9,10 +9,10 @@ tags:
 ```mermaid
 graph
 emptiness -- cojoined non dual --> awareness
-awareness -- cojoined non dual --> emptiness 
+awareness -- cojoined non dual --> EMPTINESS 
 emptiness --> space
 emptiness --> form  
-form --> emptiness 
+form --> EMPTINESS 
 emptiness --> impermanence 
 impermanence --> time
 ```
@@ -35,7 +35,7 @@ impermanence --> time
 
 "Dwelling nowhere" is a phrase that comes from Zen Buddhism and refers to the state of mind where one is not attached to any particular place, concept, or experience. It is a state of being that transcends dualities and dualistic thinking, and is characterized by a sense of freedom and openness.
 
-In Zen, the idea of "dwelling nowhere" is often associated with the practice of mindfulness and the development of a deep awareness and connection to the present moment. By not getting caught up in thoughts, emotions, or preconceived ideas, one can experience a sense of peace, stillness, and clarity, even in the midst of the most chaotic and challenging circumstances.
+In Zen, the idea of "dwelling nowhere" is often associated with the practice of MINDFULNESS and the development of a deep awareness and connection to the present moment. By not getting caught up in thoughts, emotions, or preconceived ideas, one can experience a sense of peace, stillness, and clarity, even in the midst of the most chaotic and challenging circumstances.
 
 The concept of "dwelling nowhere" is also connected to the idea of non-attachment, which is a core teaching of Buddhism. By letting go of attachment and not clinging to anything, one can experience a sense of liberation and freedom from the limitations of the ego and the self.
 
@@ -68,7 +68,7 @@ is a school of Mahayana Buddhism that originated in China and later spread to Ja
 
 The origins of Zen can be traced back to the teachings of the Indian monk Bodhidharma, who is said to have brought Buddhism to China in the 6th century. From there, it developed into the distinct Chinese Chan tradition, which was then introduced to Japan in the 12th century as Zen.
 
-Zen places great emphasis on the practice of meditation, which is considered a means to directly experiencing one's own true nature, or the nature of reality itself. This experience is often referred to as "satori" in Japanese. Zen also places great importance on everyday activities and mindfulness, encouraging the integration of mindfulness into all aspects of life.
+Zen places great emphasis on the practice of meditation, which is considered a means to directly experiencing one's own true nature, or the nature of reality itself. This experience is often referred to as "satori" in Japanese. Zen also places great importance on everyday activities and mindfulness, encouraging the integration of MINDFULNESS into all aspects of life.
 
 Overall, the goal of Zen practice is to awaken to one's true nature, which is said to be pure and unchanging, and to live a life characterized by wisdom, compassion, and peace.
 
@@ -136,7 +136,7 @@ Here is a general outline of the key themes and topics covered in the Platform S
 
 The Nature of Mind: Hui-neng discusses the nature of mind and reality, emphasizing the idea that everything is impermanent and constantly changing, and that ultimate reality is beyond the reach of words and concepts. He also presents the concept of "store consciousness," which is the accumulation of all experiences and memories that make up an individual's unique perception of reality.
 
-The Practice of Meditation: Hui-neng emphasizes the importance of meditation and mindfulness as the path to awakening and realization of one's true nature. He teaches that through the practice of meditation, one can calm the mind, still the fluctuations of thought, and awaken to the nature of mind.
+The Practice of Meditation: Hui-neng emphasizes the importance of meditation and MINDFULNESS as the path to awakening and realization of one's true nature. He teaches that through the practice of meditation, one can calm the mind, still the fluctuations of thought, and awaken to the nature of mind.
 
 The Path to Enlightenment: Hui-neng presents a path to enlightenment that emphasizes the importance of direct experience and realization, rather than relying on scriptures or doctrine. He teaches that the ultimate goal of Buddhist practice is to awaken to one's true nature and to attain enlightenment.
 
@@ -146,7 +146,7 @@ The Mind-Only Doctrine: Hui-neng also discusses the Mind-Only doctrine, which te
 
 These are the main themes and topics covered in the Platform Sutra, which is a seminal text in the Zen tradition and continues to be studied and practiced by Zen practitioners today.
 
-## emptiness is form
+## EMPTINESS is form
 
 The phrase "emptiness is form" is a central teaching in Zen Buddhism that emphasizes the interdependence and mutual co-arising of all phenomena. It teaches that all things are empty of inherent existence, and that form arises in dependence on other factors. This idea helps to dissolve dualistic thinking and to awaken to the true nature of reality.
 

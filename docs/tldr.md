@@ -57,7 +57,7 @@ Just remaining like this everything is vividly experienced, but if you start to 
 
 “no matter what appears in the field of your vision for your eyes, the world and so forth, even though experienced just let it be without any fixation.”
 
-In other words, disown everything. Dissolving of subject and object is the pure form of the deity. Whatever moves or occurs in the realm of your ears in sound or the sounding whether pleasant or unpleasant, just let be in the continuity of the sound being emptiness because no matter what you are hearing in the sound it is indivisible from emptiness. The empty resounding beyond arising and ceasing is the voice of the victorious ones.
+In other words, disown everything. Dissolving of subject and object is the pure form of the deity. Whatever moves or occurs in the realm of your ears in sound or the sounding whether pleasant or unpleasant, just let be in the continuity of the sound being EMPTINESS because no matter what you are hearing in the sound it is indivisible from emptiness. The empty resounding beyond arising and ceasing is the voice of the victorious ones.
 
 Do not get involved in concepts, leading or following; by leading you’re thinking to yourself. It dissolves naturally into dharmakaya—erm, thinking means our thoughts of this and that. If you just let it be, it naturally dissolves.
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - impermanence 
-  - emptiness 
+  - EMPTINESS 
   - time 
   - maranasati
 ---
@@ -12,10 +12,10 @@ tags:
 ```mermaid
 graph
 emptiness -- cojoined non dual --> awareness
-awareness -- cojoined non dual --> emptiness 
+awareness -- cojoined non dual --> EMPTINESS 
 emptiness --> space
 emptiness --> form  
-form --> emptiness 
+form --> EMPTINESS 
 emptiness --> impermanence 
 impermanence --> time
 ```
@@ -43,5 +43,5 @@ Practitioners may also focus on the impermanence of physical objects and the cha
 - Improved wisdom and understanding: Maranasati can help practitioners develop a deeper understanding of the nature of reality and the Buddhist teachings, leading to increased wisdom and insight.
 - Overcoming fear of death: By contemplating death, practitioners can overcome fear and anxiety about the end of life, and develop a more peaceful and accepting attitude towards death.
 - Greater motivation to practice the Dharma: Maranasati can serve as a powerful reminder of the urgency of the spiritual path and motivate practitioners to engage in other Buddhist practices more fully.
-- Improving mindfulness: Meditation on impermanence encourages mindfulness of the present moment and helps one stay focused on what is happening in the present, rather than dwelling on the past or worrying about the future.
+- Improving mindfulness: Meditation on impermanence encourages MINDFULNESS of the present moment and helps one stay focused on what is happening in the present, rather than dwelling on the past or worrying about the future.
 - Encouraging self-reflection: By contemplating impermanence, one can reflect on the purpose and meaning of life, and focus on what is truly important.

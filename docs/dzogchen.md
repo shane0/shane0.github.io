@@ -33,7 +33,7 @@ Tulku Urgyen Rinpoche spent a total of 12 years in solitary retreat in his life,
 
 taught the following steps to help cultivate the experience of non-dual awareness:
 
-- [Calm the mind](shamatha.md): Begin by practicing mindfulness and calm abiding meditation to still the mind and cultivate inner peace.
+- [Calm the mind](shamatha.md): Begin by practicing MINDFULNESS and calm abiding meditation to still the mind and cultivate inner peace.
 - [Cultivate insight](vipassana.md): Develop insight into the nature of reality through the study of Buddhist teachings, and through the practice of analytical meditation, which helps to break down our dualistic concepts.
 - Cultivate devotion: Cultivate devotion to a teacher, deity, or enlightened being, which helps to create a connection to the non-dual reality and provide a source of inspiration.
 - Cultivate the practice of Dzogchen: Practice the teachings of Dzogchen, which are designed to help cultivate non-dual awareness directly.
@@ -174,11 +174,11 @@ In the context of practice, the goal is to recognize and cultivate rigpa, and to
 
 ## emptiness
 
-In Buddhism, meditation on emptiness (also called "shunyata" or "the emptiness of self") is a central practice in some schools, especially the Mahayana tradition. This type of meditation involves contemplating the nature of reality and our own perception of it, with the goal of understanding the concept of emptiness. Emptiness meditation is often used as a means of reducing attachment and achieving liberation from suffering.
+In Buddhism, meditation on EMPTINESS (also called "shunyata" or "the EMPTINESS of self") is a central practice in some schools, especially the Mahayana tradition. This type of meditation involves contemplating the nature of reality and our own perception of it, with the goal of understanding the concept of emptiness. EMPTINESS meditation is often used as a means of reducing attachment and achieving liberation from suffering.
 
-The exact methods of emptiness meditation can vary depending on the specific tradition, but some common practices include analytical meditation, in which one reflects on the emptiness of all phenomena, and calm abiding meditation, in which one maintains a stable and focused mind. In both cases, the goal is to develop insight into the ultimate nature of reality and the interdependence of all phenomena.
+The exact methods of EMPTINESS meditation can vary depending on the specific tradition, but some common practices include analytical meditation, in which one reflects on the EMPTINESS of all phenomena, and calm abiding meditation, in which one maintains a stable and focused mind. In both cases, the goal is to develop insight into the ultimate nature of reality and the interdependence of all phenomena.
 
-It's important to approach emptiness meditation with the guidance of a qualified teacher and to maintain a strong foundation in ethics and mindfulness practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
+It's important to approach EMPTINESS meditation with the guidance of a qualified teacher and to maintain a strong foundation in ethics and MINDFULNESS practices, as this type of meditation can be challenging and may require a certain level of maturity and understanding.
 
 ## mandala
 
@@ -194,6 +194,6 @@ Mandala meditation involves the following steps:
 - Expansion: Expand your awareness to include the entire universe and imagine that you are at one with the cosmos.
 - End: When you feel ready, slowly open your eyes and return to your ordinary state of consciousness. Take a few deep breaths and stretch your limbs.
 
-It is important to remember that mandala meditation is a tool for developing concentration and mindfulness, not just a way to produce beautiful images in your mind.
+It is important to remember that mandala meditation is a tool for developing CONCENTRATION and mindfulness, not just a way to produce beautiful images in your mind.
 
 With regular practice, you can learn to cultivate a peaceful and centered state of mind that will benefit you in your daily life.

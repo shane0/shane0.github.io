@@ -6,6 +6,10 @@ tags:
 ---
 # shamatha
 
+![](images/shamatha.jpg)
+
+<iframe width="840" height="473" src="https://www.youtube.com/embed/iONoeSfAVNc" title="A Guided Meditation on Calm Abiding (Shamatha) - H.H. Dudjom Rinpoche - Dzogchen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 9 stages
 
 - Mental pliancy: Developing the ability to focus the mind on a chosen object of meditation

@@ -12,10 +12,12 @@
     people will still want to search other websites
 
 !!! wow "ai is here, and the answer is not 42"
-    {++ai, will humans [live forever or wipe ourselves out completely](collapse.md?++}
+    {++ai, will humans [live forever or wipe ourselves out completely](collapse.md)?++}
 
 !!! note "highly recommended reading"
     I highly recommend [cormac mccarthy](cormac.md)'s books, {++ALL OF THEM!!!++}
+    cormac's latest books are fictions but just barely...
+    more than fiction, they are lessons on psychology, math, physics and quantum physics
 
 > topics I'm digging into here
 

@@ -4,10 +4,18 @@ tags:
 ---
 # 02 feb 2023
 
+## cormac haunting me
+
+- watched child of god, listened to the blood meridian audiobook, will have to do that a few more times...
+- cormac said everything he has to say is in the books
+- I wonder what cormac would ask chatgpt?
+
+## maranasati
+
 - I have been busy, I keep keep forgetting to practice [maranasati](../maranasati.md)
 - I am going to update that page now as I meditate and update the glossary on this site
 
-## condensing the maranasati page
+### condensing the maranasati page
 
 - if you're not familiar with {--death--} meditation, it's not about being a masochist
 - I'm going to add some highlighting to that paragraph
@@ -15,6 +23,7 @@ tags:
 
 ### chatgtp
 
+- asking ai, will we live forever or wipe ourselves out? both are very likely lol
 - Reflecting on the unpredictable nature of death: Consider that death can happen at any moment, without warning, and that you are never truly secure.
 - wow... ok if I had to pick one of these, the best case scenario is losing my eyes!!!! wow lol
 - very stoic, but consider going blind vs losing your entire brain function?  or heart problems

@@ -12,7 +12,7 @@
     people will still want to search other websites
 
 !!! wow "ai is here, and the answer is not 42"
-    {++ai, will humans live forever or wipe ourselves out completely?++}
+    {++ai, will humans [live forever or wipe ourselves out completely](collapse.md?++}
 
 !!! note "highly recommended reading"
     I highly recommend [cormac mccarthy](cormac.md)'s books, {++ALL OF THEM!!!++}

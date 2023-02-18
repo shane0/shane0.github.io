@@ -5,6 +5,31 @@ tags:
 ---
 # collapse of humanity
 
+!!! wow "will we live forever or wipe ourselves out?"
+    - ai?  are humans going to live forever or wipe ourselves out?
+
+## if we could live forever
+
+some researchers are exploring the use of CRISPR to modify genes that are involved in the aging process or that are implicated in specific diseases, with the {==aim of slowing or reversing the aging process==} or treating certain conditions.
+
+Other researchers are investigating the use of CRISPR {==to regenerate tissues or organs by editing cells to create new cells that can replace damaged or aging cells==}
+
+### total number of humans
+
+it is thought that the total number of humans who have ever lived is somewhere between 100 billion and 120 billion
+
+### the space that many would occupy
+
+Assuming an average population density of 50 people per square kilometer, 120 billion people would require around {==2.4 million square kilometers of land area==}.
+
+### space on land
+
+The total land area of the Earth is approximately {==148,940,000 square kilometers==}. This includes all the continents, islands, and other land masses on the planet. It is important to note that this number may vary slightly depending on how land area is defined and measured.
+
+### earths capacity
+
+Estimates of the Earth's carrying capacity for humans range widely, from as few as 1 billion to as many as 1 trillion or more, depending on assumptions and scenarios. However, most estimates fall within a range of 4 to 16 billion people, with the current global population of around 7.9 billion already exceeding the Earth's sustainable carrying capacity according to many experts.
+
 ## my best guess
 
 - the greatest threat to humans are humans

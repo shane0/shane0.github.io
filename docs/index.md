@@ -1,5 +1,5 @@
 
-!!! meditaitons ""
+!!! meditations ""
     [tldr videos](tldr.md){ .md-button }
     [anapanasati](anapanasati.md){ .md-button }
     [maranasati](maranasati.md){ .md-button }
@@ -11,8 +11,11 @@
     it will be used more than search engines, but does not replace them
     people will still want to search other websites
 
+!!! wow "ai is here, and the answer is not 42"
+    {++ai, will humans live forever or wipe ourselves out completely?++}
+
 !!! note "highly recommended reading"
-    I highly recommend [cormac mccarthy](cormac.md)'s latest books "the passenger" & "stella marris"
+    I highly recommend [cormac mccarthy](cormac.md)'s books, {++ALL OF THEM!!!++}
 
 > topics I'm digging into here
 

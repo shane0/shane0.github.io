@@ -7,8 +7,6 @@ tags:
 ## cormac haunting me
 
 - watched child of god, listened to the blood meridian audiobook, will have to do that a few more times...
-- cormac said everything he has to say is in the books
-- I wonder what cormac would ask chatgpt?
 
 ## maranasati
 

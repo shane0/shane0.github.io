@@ -6,24 +6,56 @@ tags:
 ---
 # zen
 
-```mermaid
-graph
-emptiness -- cojoined non dual --> awareness
-awareness -- cojoined non dual --> EMPTINESS 
-emptiness --> space
-emptiness --> form  
-form --> EMPTINESS 
-emptiness --> impermanence 
-impermanence --> time
-```
-
 ## Shunryu Suzuki
 
 ![](images/suzuki.jpeg)
 
 - <https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki>
 
+## emptiness is form
+
+```mermaid
+graph
+emptiness -- emptiness is form --> form  -- form is emptiness --> emptiness
+```
+
+The statement "emptiness is form, form is emptiness" is a central teaching in Mahayana Buddhism, and especially in the Zen tradition.
+
+It can be a difficult concept to grasp, but it points to the idea that the ultimate nature of reality is empty of inherent existence, and that all phenomena arise in dependence upon other factors.
+
+In this teaching, "emptiness" refers to the idea that all phenomena lack inherent existence or INDEPENDENT IDENTITY.
+
+Everything is interconnected and interdependent, and nothing exists on its own.
+
+All things arise in dependence upon other factors, and are thus empty of inherent existence. This emptiness is not a nihilistic void, but rather a dynamic and vibrant potentiality, full of possibilities and potential.
+
+On the other hand, "form" refers to the appearance or manifestation of phenomena. In other words, form refers to the world of appearances, which is constantly changing and arising in dependence upon other factors. 
+
+Form is not separate from emptiness, but rather arises in dependence upon it.
+
+Therefore, "emptiness is form, form is emptiness" means that form and emptiness are not separate, but rather two aspects of the same reality. Everything that arises in the world of form arises in dependence upon emptiness, and is thus empty of inherent existence. At the same time, emptiness is not separate from the world of form, but rather is the very ground out of which form arises.
+
+This teaching is not intended to be understood solely on an intellectual level, but is meant to be experienced directly through spiritual practice, such as meditation and mindfulness. By cultivating a deep awareness of the interdependence of all phenomena, we can awaken to the reality of emptiness and form, and live in greater harmony with the world around us.
+
+> meditaiton
+
+The phrase "emptiness is form" is a central teaching in Zen Buddhism that emphasizes the interdependence and mutual co-arising of all phenomena. It teaches that all things are empty of inherent existence, and that form arises in dependence on other factors. This idea helps to dissolve dualistic thinking and to awaken to the true nature of reality.
+
+Here are some steps for meditating on the idea of "emptiness is form:"
+
+- Find a quiet place to sit: Find a quiet, comfortable place to sit where you won't be disturbed. Sit with a straight back and relaxed posture.
+- Focus on your breath: Begin by focusing your attention on your breath. Pay attention to the sensation of air moving in and out of your nose. If your mind wanders, simply bring your attention back to your breath.
+- Observe your thoughts: As you focus on your breath, you may start to notice thoughts arising in your mind. Observe these thoughts as if you were a witness, but don't get caught up in them. Simply acknowledge them and return your focus to your breath.
+- Cultivate a sense of emptiness: As you continue to focus on your breath, cultivate a sense of emptiness. Imagine that all things, including your thoughts and emotions, are like clouds passing through the sky. Let go of attachment to them, and simply allow them to come and go without judgment or resistance.
+- Observe the arising of form: As you cultivate a sense of emptiness, observe how form arises in dependence on other factors. See how thoughts, emotions, and sensations arise in response to your environment and the conditions of your mind.
+- Cultivate equanimity: Cultivate a sense of equanimity and detachment, as if you were observing a play. Don't cling to anything or resist anything. Simply observe with openness and acceptance.
+- Repeat: Repeat this meditation as often as you like, deepening your understanding of the interdependence and mutual co-arising of all things.
+
+By practicing this meditation, you can develop a deeper understanding of the idea that "emptiness is form." You can cultivate a sense of openness, freedom, and peace, and awaken to the true nature of reality beyond dualistic thinking.
+
 ### everything changes
+
+buddhism reduced to one sentence: EVERYTHING CHANGES
 
 > To realize pure mind in your delusion is practice. If you try to expel the delusion it will only persist the more. Just say, ‘Oh, this is just delusion,’ and do not be bothered by it.
 >> Zen Mind, Beginner’s Mind
@@ -145,19 +177,3 @@ The Five Ranks: Hui-neng presents the concept of the Five Ranks, which describe 
 The Mind-Only Doctrine: Hui-neng also discusses the Mind-Only doctrine, which teaches that all phenomena arise from the mind and that ultimate reality is not separate from the mind. This doctrine emphasizes the idea that our perceptions and experiences are constructed by the mind, and that true reality cannot be grasped through the senses or intellect.
 
 These are the main themes and topics covered in the Platform Sutra, which is a seminal text in the Zen tradition and continues to be studied and practiced by Zen practitioners today.
-
-## EMPTINESS is form
-
-The phrase "emptiness is form" is a central teaching in Zen Buddhism that emphasizes the interdependence and mutual co-arising of all phenomena. It teaches that all things are empty of inherent existence, and that form arises in dependence on other factors. This idea helps to dissolve dualistic thinking and to awaken to the true nature of reality.
-
-Here are some steps for meditating on the idea of "emptiness is form:"
-
-- Find a quiet place to sit: Find a quiet, comfortable place to sit where you won't be disturbed. Sit with a straight back and relaxed posture.
-- Focus on your breath: Begin by focusing your attention on your breath. Pay attention to the sensation of air moving in and out of your nose. If your mind wanders, simply bring your attention back to your breath.
-- Observe your thoughts: As you focus on your breath, you may start to notice thoughts arising in your mind. Observe these thoughts as if you were a witness, but don't get caught up in them. Simply acknowledge them and return your focus to your breath.
-- Cultivate a sense of emptiness: As you continue to focus on your breath, cultivate a sense of emptiness. Imagine that all things, including your thoughts and emotions, are like clouds passing through the sky. Let go of attachment to them, and simply allow them to come and go without judgment or resistance.
-- Observe the arising of form: As you cultivate a sense of emptiness, observe how form arises in dependence on other factors. See how thoughts, emotions, and sensations arise in response to your environment and the conditions of your mind.
-- Cultivate equanimity: Cultivate a sense of equanimity and detachment, as if you were observing a play. Don't cling to anything or resist anything. Simply observe with openness and acceptance.
-- Repeat: Repeat this meditation as often as you like, deepening your understanding of the interdependence and mutual co-arising of all things.
-
-By practicing this meditation, you can develop a deeper understanding of the idea that "emptiness is form." You can cultivate a sense of openness, freedom, and peace, and awaken to the true nature of reality beyond dualistic thinking.

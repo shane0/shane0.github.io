@@ -18,9 +18,9 @@ tags:
 ```mermaid
 graph
 emptiness -- cojoined non dual --> awareness
-awareness -- cojoined non dual --> EMPTINESS 
+awareness -- cojoined non dual --> emptiness 
 emptiness --> space
-emptiness --> form  
+emptiness -- emptiness is form --> form -- form is emptiness--> emptiness
 form --> EMPTINESS 
 emptiness --> impermanence 
 impermanence --> time
@@ -68,7 +68,9 @@ if someone gifts you a car but they don't transfer the title, someone can take y
 
 a deeper insight is that nowhere in the universe, ever at any time, was there an object with inherent identity, and there never will be
 
-[everything is changing](zen.md#everything-changes)
+- [everything is changing](zen.md#everything-changes)
+
+- [emptiness is form](zen.md#emptiness-is-form)
 
 ## EMPTINESS is the Middle Way between existent and nonexistent
 

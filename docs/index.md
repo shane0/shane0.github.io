@@ -6,10 +6,7 @@
 
 !!! chatGPT 
     this content is mostly quotes from my books or conversations with chatGPT ai
-    my opinion on chatGTP is it is an extremely useful {==smart encyclopedia==}
-    it should be leverated in school, at work and home
-    it will be used more than search engines, but does not replace them
-    people will still want to search other websites
+    my opinion on chatGTP is (currently) it is an extremely useful {==smart encyclopedia==}
 
 !!! wow "ai is here, and the answer is not 42"
     {++ai, will humans [live forever or wipe ourselves out completely](collapse.md)?++}

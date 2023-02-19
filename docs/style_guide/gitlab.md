@@ -5,6 +5,8 @@ tags:
 ---
 # gitlab workflow
 
+- [gitlab style guide](style_guide.md)
+
 ## upload
 
 ```sh

@@ -8,6 +8,10 @@ tags:
 !!! wow "will we live forever or wipe ourselves out?"
     - ai?  are humans going to live forever or wipe ourselves out?
 
+## santa fe
+
+<iframe width="819" height="461" src="https://www.youtube.com/embed/-5A1WcFoxi4" title="My SFI: Cormac McCarthy describes the Santa Fe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## if we could live forever
 
 some researchers are exploring the use of CRISPR to modify genes that are involved in the aging process or that are implicated in specific diseases, with the {==aim of slowing or reversing the aging process==} or treating certain conditions.
@@ -69,6 +73,10 @@ Additionally, there are other species, such as snakes, crocodiles, and sharks, w
 - Cyborgs: The creation of highly advanced cyborgs (part human, part machine) could result in the displacement of the human race and eventual extinction.
 - Aliens: The discovery of hostile alien life forms could pose a threat to humanity's survival.
 - Eco-collapse: The widespread destruction of the natural world and loss of biodiversity could result in the collapse of the ecosystems that support human life.
+
+## sixth extinction
+
+<iframe width="819" height="461" src="https://www.youtube.com/embed/6TqhcZsxrPA" title="Earth currently experiencing a sixth mass extinction, according to scientists | 60 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## top 10 natural disasters
 

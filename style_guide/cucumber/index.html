@@ -5,11 +5,11 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
-<link href="../cucumber/" rel="prev"/>
-<link href="../history/" rel="next"/>
+<link href="../cross/" rel="prev"/>
+<link href="../gitlab/" rel="next"/>
 <link href="../../assets/images/favicon.png" rel="icon"/>
 <meta content="mkdocs-1.4.2, mkdocs-material-9.0.13" name="generator"/>
-<title>gitlab workflow - shane0 meditation notes</title>
+<title>cucumber tests - shane0 meditation notes</title>
 <link href="../../assets/stylesheets/main.ffa9267a.min.css" rel="stylesheet"/>
 <link href="../../assets/stylesheets/palette.a0c5b2b5.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
@@ -34,7 +34,7 @@
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
-<a class="md-skip" href="#gitlab-workflow">
+<a class="md-skip" href="#cucumber-tests">
           Skip to content
         </a>
 </div>
@@ -58,7 +58,7 @@
 <div class="md-header__topic" data-md-component="header-topic">
 <span class="md-ellipsis">
             
-              gitlab workflow
+              cucumber tests
             
           </span>
 </div>
@@ -377,19 +377,14 @@
         cross referencing
       </a>
 </li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../cucumber/">
-        cucumber tests
-      </a>
-</li>
 <li class="md-nav__item md-nav__item--active">
 <input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
 <label class="md-nav__link md-nav__link--active" for="__toc">
-          gitlab workflow
+          cucumber tests
           <span class="md-nav__icon md-icon"></span>
 </label>
 <a class="md-nav__link md-nav__link--active" href="./">
-        gitlab workflow
+        cucumber tests
       </a>
 <nav aria-label="Table of contents" class="md-nav md-nav--secondary">
 <label class="md-nav__title" for="__toc">
@@ -398,27 +393,22 @@
     </label>
 <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#upload">
-    upload
+<a class="md-nav__link" href="#api">
+    api
   </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="#push">
-    push
-  </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#workflow">
-    workflow
-  </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#branch">
-    branch
+<a class="md-nav__link" href="#basic-example">
+    basic example
   </a>
 </li>
 </ul>
 </nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../gitlab/">
+        gitlab workflow
+      </a>
 </li>
 <li class="md-nav__item">
 <a class="md-nav__link" href="../history/">
@@ -453,23 +443,13 @@
     </label>
 <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#upload">
-    upload
+<a class="md-nav__link" href="#api">
+    api
   </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="#push">
-    push
-  </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#workflow">
-    workflow
-  </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#branch">
-    branch
+<a class="md-nav__link" href="#basic-example">
+    basic example
   </a>
 </li>
 </ul>
@@ -479,72 +459,112 @@
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
-<nav class="md-tags">
-<a class="md-tag" href="../../#workflow">workflow</a>
-<a class="md-tag" href="../../#templates">templates</a>
-</nav>
-<h1 id="gitlab-workflow">gitlab workflow</h1>
+<h1 id="cucumber-tests">cucumber tests</h1>
+<h2 id="api">api</h2>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-0-1" id="__codelineno-0-1" name="__codelineno-0-1"></a>project/
+<a href="#__codelineno-0-2" id="__codelineno-0-2" name="__codelineno-0-2"></a>├── features/
+<a href="#__codelineno-0-3" id="__codelineno-0-3" name="__codelineno-0-3"></a>│   ├── api.feature
+<a href="#__codelineno-0-4" id="__codelineno-0-4" name="__codelineno-0-4"></a>│   ├── steps/
+<a href="#__codelineno-0-5" id="__codelineno-0-5" name="__codelineno-0-5"></a>│   │   └── api_steps.py
+<a href="#__codelineno-0-6" id="__codelineno-0-6" name="__codelineno-0-6"></a>│   └── environment.py
+<a href="#__codelineno-0-7" id="__codelineno-0-7" name="__codelineno-0-7"></a>├── requirements.txt
+<a href="#__codelineno-0-8" id="__codelineno-0-8" name="__codelineno-0-8"></a>└── README.md
+</code></pre></div>
 <ul>
-<li><a href="../style_guide/">gitlab style guide</a></li>
+<li>
+<p>requirements.txt = behave requests</p>
+</li>
+<li>
+<p><code>api.feature</code></p>
+</li>
 </ul>
-<h2 id="upload">upload</h2>
-<div class="highlight"><pre><span></span><code><a href="#__codelineno-0-1" id="__codelineno-0-1" name="__codelineno-0-1"></a><span class="c1"># upload.sh</span>
-<a href="#__codelineno-0-2" id="__codelineno-0-2" name="__codelineno-0-2"></a><span class="c1">#!/usr/bin/env bash</span>
-<a href="#__codelineno-0-3" id="__codelineno-0-3" name="__codelineno-0-3"></a>git<span class="w"> </span>init
-<a href="#__codelineno-0-4" id="__codelineno-0-4" name="__codelineno-0-4"></a>git<span class="w"> </span>add<span class="w"> </span>.
-<a href="#__codelineno-0-5" id="__codelineno-0-5" name="__codelineno-0-5"></a>git<span class="w"> </span>commit<span class="w"> </span>-m<span class="w"> </span><span class="s1">'setup folder'</span>
-<a href="#__codelineno-0-6" id="__codelineno-0-6" name="__codelineno-0-6"></a>git<span class="w"> </span>push<span class="w"> </span>--set-upstream<span class="w"> </span>git@gitlab.com:shane0/project.git<span class="w"> </span>master
-<a href="#__codelineno-0-7" id="__codelineno-0-7" name="__codelineno-0-7"></a>git<span class="w"> </span>remote<span class="w"> </span>add<span class="w"> </span>origin<span class="w"> </span>git@gitlab.com:shane0/project
-<a href="#__codelineno-0-8" id="__codelineno-0-8" name="__codelineno-0-8"></a>start<span class="w"> </span>git@gitlab.com:shane0/project
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-1-1" id="__codelineno-1-1" name="__codelineno-1-1"></a><span class="k">Feature:</span><span class="nf"> API Test</span>
+<a href="#__codelineno-1-2" id="__codelineno-1-2" name="__codelineno-1-2"></a>
+<a href="#__codelineno-1-3" id="__codelineno-1-3" name="__codelineno-1-3"></a><span class="nf">  </span><span class="k">Scenario:</span><span class="nf"> Get User</span>
+<a href="#__codelineno-1-4" id="__codelineno-1-4" name="__codelineno-1-4"></a><span class="k">    Given </span><span class="nf">a user with ID </span><span class="s">123</span>
+<a href="#__codelineno-1-5" id="__codelineno-1-5" name="__codelineno-1-5"></a><span class="nf">    </span><span class="k">When </span><span class="nf">I make a GET request to /users/</span><span class="s">123</span>
+<a href="#__codelineno-1-6" id="__codelineno-1-6" name="__codelineno-1-6"></a><span class="nf">    </span><span class="k">Then </span><span class="nf">the response should have status code </span><span class="s">200</span>
+<a href="#__codelineno-1-7" id="__codelineno-1-7" name="__codelineno-1-7"></a><span class="nf">    </span><span class="k">And </span><span class="nf">the response should contain the user's name</span>
+<a href="#__codelineno-1-8" id="__codelineno-1-8" name="__codelineno-1-8"></a>
+<a href="#__codelineno-1-9" id="__codelineno-1-9" name="__codelineno-1-9"></a><span class="nf">  </span><span class="k">Scenario:</span><span class="nf"> Add User</span>
+<a href="#__codelineno-1-10" id="__codelineno-1-10" name="__codelineno-1-10"></a><span class="k">    Given </span><span class="nf">a new user with name "</span><span class="s">John Doe</span><span class="nf">"</span>
+<a href="#__codelineno-1-11" id="__codelineno-1-11" name="__codelineno-1-11"></a><span class="nf">    </span><span class="k">When </span><span class="nf">I make a POST request to /users</span>
+<a href="#__codelineno-1-12" id="__codelineno-1-12" name="__codelineno-1-12"></a><span class="nf">    </span><span class="k">Then </span><span class="nf">the response should have status code </span><span class="s">201</span>
+<a href="#__codelineno-1-13" id="__codelineno-1-13" name="__codelineno-1-13"></a><span class="nf">    </span><span class="k">And </span><span class="nf">the response should contain the new user's ID</span>
 </code></pre></div>
-<h2 id="push">push</h2>
-<div class="highlight"><pre><span></span><code><a href="#__codelineno-1-1" id="__codelineno-1-1" name="__codelineno-1-1"></a><span class="c1"># push.sh 'comment'</span>
-<a href="#__codelineno-1-2" id="__codelineno-1-2" name="__codelineno-1-2"></a><span class="c1">#!/usr/bin/env bash</span>
-<a href="#__codelineno-1-3" id="__codelineno-1-3" name="__codelineno-1-3"></a><span class="c1"># ./push.sh commit_message</span>
-<a href="#__codelineno-1-4" id="__codelineno-1-4" name="__codelineno-1-4"></a>
-<a href="#__codelineno-1-5" id="__codelineno-1-5" name="__codelineno-1-5"></a><span class="k">function</span><span class="w"> </span>addcommitpush<span class="w"> </span><span class="o">()</span><span class="w"> </span><span class="o">{</span>
-<a href="#__codelineno-1-6" id="__codelineno-1-6" name="__codelineno-1-6"></a><span class="w">  </span><span class="nv">message</span><span class="o">=(</span><span class="se">\'</span><span class="s2">"</span><span class="nv">$@</span><span class="s2">"</span><span class="se">\'</span><span class="o">)</span>
-<a href="#__codelineno-1-7" id="__codelineno-1-7" name="__codelineno-1-7"></a><span class="w">  </span><span class="nv">current</span><span class="o">=</span><span class="k">$(</span>git<span class="w"> </span>branch<span class="w"> </span><span class="p">|</span><span class="w"> </span>grep<span class="w"> </span><span class="s2">"*"</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>cut<span class="w"> </span>-b<span class="w"> </span><span class="m">3</span>-<span class="k">)</span>
-<a href="#__codelineno-1-8" id="__codelineno-1-8" name="__codelineno-1-8"></a><span class="w">  </span><span class="c1"># read -r -i "$current" -e branch</span>
-<a href="#__codelineno-1-9" id="__codelineno-1-9" name="__codelineno-1-9"></a><span class="w">  </span><span class="nv">remote</span><span class="o">=</span><span class="k">$(</span>git<span class="w"> </span>remote<span class="w"> </span>-v<span class="w"> </span><span class="p">|</span><span class="w"> </span>head<span class="w"> </span>-1<span class="w"> </span><span class="p">|</span><span class="w"> </span>cut<span class="w"> </span>-d<span class="w"> </span><span class="s1">' '</span><span class="w"> </span>-f<span class="w"> </span><span class="m">1</span><span class="w"> </span><span class="k">)</span>
-<a href="#__codelineno-1-10" id="__codelineno-1-10" name="__codelineno-1-10"></a><span class="w">  </span><span class="nb">echo</span><span class="w"> </span>push<span class="w"> </span><span class="nb">local</span><span class="w"> </span>branch<span class="w"> </span><span class="s2">"</span><span class="nv">$current</span><span class="s2">"</span><span class="w"> </span>to<span class="w"> </span><span class="s2">"</span><span class="nv">$remote</span><span class="s2">"</span><span class="w"> </span>y<span class="w"> </span>n<span class="w"> </span>?
-<a href="#__codelineno-1-11" id="__codelineno-1-11" name="__codelineno-1-11"></a><span class="w">  </span><span class="nb">read</span><span class="w"> </span>-r<span class="w"> </span>yn
-<a href="#__codelineno-1-12" id="__codelineno-1-12" name="__codelineno-1-12"></a><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="o">[</span><span class="w"> </span><span class="s2">"</span><span class="nv">$yn</span><span class="s2">"</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>y<span class="w"> </span><span class="o">]</span><span class="p">;</span><span class="w"> </span><span class="k">then</span>
-<a href="#__codelineno-1-13" id="__codelineno-1-13" name="__codelineno-1-13"></a><span class="w">    </span><span class="c1"># echo "$current" "$remote"</span>
-<a href="#__codelineno-1-14" id="__codelineno-1-14" name="__codelineno-1-14"></a><span class="w">    </span>git<span class="w"> </span>add<span class="w"> </span>-A<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>git<span class="w"> </span>commit<span class="w"> </span>-a<span class="w"> </span>-m<span class="w"> </span><span class="s2">"</span><span class="nv">$message</span><span class="s2">"</span>
-<a href="#__codelineno-1-15" id="__codelineno-1-15" name="__codelineno-1-15"></a><span class="w">    </span>git<span class="w"> </span>push<span class="w"> </span>origin<span class="w"> </span><span class="s2">"</span><span class="nv">$current</span><span class="s2">"</span>
-<a href="#__codelineno-1-16" id="__codelineno-1-16" name="__codelineno-1-16"></a><span class="w">  </span><span class="k">else</span>
-<a href="#__codelineno-1-17" id="__codelineno-1-17" name="__codelineno-1-17"></a><span class="w">    </span><span class="nb">echo</span><span class="w"> </span><span class="s2">"nope"</span>
-<a href="#__codelineno-1-18" id="__codelineno-1-18" name="__codelineno-1-18"></a><span class="w">  </span><span class="k">fi</span>
-<a href="#__codelineno-1-19" id="__codelineno-1-19" name="__codelineno-1-19"></a><span class="o">}</span>
-<a href="#__codelineno-1-20" id="__codelineno-1-20" name="__codelineno-1-20"></a>
-<a href="#__codelineno-1-21" id="__codelineno-1-21" name="__codelineno-1-21"></a>addcommitpush<span class="w"> </span><span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span>
-<a href="#__codelineno-1-22" id="__codelineno-1-22" name="__codelineno-1-22"></a>mkdocs<span class="w"> </span>gh-deploy
+<ul>
+<li><code>environment.py</code></li>
+</ul>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-2-1" id="__codelineno-2-1" name="__codelineno-2-1"></a><span class="kn">import</span> <span class="nn">requests</span>
+<a href="#__codelineno-2-2" id="__codelineno-2-2" name="__codelineno-2-2"></a>
+<a href="#__codelineno-2-3" id="__codelineno-2-3" name="__codelineno-2-3"></a><span class="k">def</span> <span class="nf">before_scenario</span><span class="p">(</span><span class="n">context</span><span class="p">,</span> <span class="n">scenario</span><span class="p">):</span>
+<a href="#__codelineno-2-4" id="__codelineno-2-4" name="__codelineno-2-4"></a>    <span class="n">context</span><span class="o">.</span><span class="n">base_url</span> <span class="o">=</span> <span class="s2">"https://api.example.com"</span>
+<a href="#__codelineno-2-5" id="__codelineno-2-5" name="__codelineno-2-5"></a>
+<a href="#__codelineno-2-6" id="__codelineno-2-6" name="__codelineno-2-6"></a><span class="k">def</span> <span class="nf">after_scenario</span><span class="p">(</span><span class="n">context</span><span class="p">,</span> <span class="n">scenario</span><span class="p">):</span>
+<a href="#__codelineno-2-7" id="__codelineno-2-7" name="__codelineno-2-7"></a>    <span class="k">pass</span>
+<a href="#__codelineno-2-8" id="__codelineno-2-8" name="__codelineno-2-8"></a>
+<a href="#__codelineno-2-9" id="__codelineno-2-9" name="__codelineno-2-9"></a><span class="k">def</span> <span class="nf">before_step</span><span class="p">(</span><span class="n">context</span><span class="p">,</span> <span class="n">step</span><span class="p">):</span>
+<a href="#__codelineno-2-10" id="__codelineno-2-10" name="__codelineno-2-10"></a>    <span class="k">pass</span>
+<a href="#__codelineno-2-11" id="__codelineno-2-11" name="__codelineno-2-11"></a>
+<a href="#__codelineno-2-12" id="__codelineno-2-12" name="__codelineno-2-12"></a><span class="k">def</span> <span class="nf">after_step</span><span class="p">(</span><span class="n">context</span><span class="p">,</span> <span class="n">step</span><span class="p">):</span>
+<a href="#__codelineno-2-13" id="__codelineno-2-13" name="__codelineno-2-13"></a>    <span class="k">pass</span>
+<a href="#__codelineno-2-14" id="__codelineno-2-14" name="__codelineno-2-14"></a>
+<a href="#__codelineno-2-15" id="__codelineno-2-15" name="__codelineno-2-15"></a><span class="k">def</span> <span class="nf">before_feature</span><span class="p">(</span><span class="n">context</span><span class="p">,</span> <span class="n">feature</span><span class="p">):</span>
+<a href="#__codelineno-2-16" id="__codelineno-2-16" name="__codelineno-2-16"></a>    <span class="k">pass</span>
+<a href="#__codelineno-2-17" id="__codelineno-2-17" name="__codelineno-2-17"></a>
+<a href="#__codelineno-2-18" id="__codelineno-2-18" name="__codelineno-2-18"></a><span class="k">def</span> <span class="nf">after_feature</span><span class="p">(</span><span class="n">context</span><span class="p">,</span> <span class="n">feature</span><span class="p">):</span>
+<a href="#__codelineno-2-19" id="__codelineno-2-19" name="__codelineno-2-19"></a>    <span class="k">pass</span>
+<a href="#__codelineno-2-20" id="__codelineno-2-20" name="__codelineno-2-20"></a>
+<a href="#__codelineno-2-21" id="__codelineno-2-21" name="__codelineno-2-21"></a><span class="k">def</span> <span class="nf">before_all</span><span class="p">(</span><span class="n">context</span><span class="p">):</span>
+<a href="#__codelineno-2-22" id="__codelineno-2-22" name="__codelineno-2-22"></a>    <span class="k">pass</span>
+<a href="#__codelineno-2-23" id="__codelineno-2-23" name="__codelineno-2-23"></a>
+<a href="#__codelineno-2-24" id="__codelineno-2-24" name="__codelineno-2-24"></a><span class="k">def</span> <span class="nf">after_all</span><span class="p">(</span><span class="n">context</span><span class="p">):</span>
+<a href="#__codelineno-2-25" id="__codelineno-2-25" name="__codelineno-2-25"></a>    <span class="k">pass</span>
 </code></pre></div>
-<h2 id="workflow">workflow</h2>
-<p><a href="https://docs.gitlab.com/ee/topics/gitlab_flow.html">https://docs.gitlab.com/ee/topics/gitlab_flow.html</a></p>
-<p><a href="https://docs.gitlab.com/ee/index.html#new-to-git-and-gitlab">new to gitlab</a></p>
-<h2 id="branch">branch</h2>
-<p><a href="https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#create-a-branch">https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#create-a-branch</a></p>
-<div class="highlight"><pre><span></span><code><a href="#__codelineno-2-1" id="__codelineno-2-1" name="__codelineno-2-1"></a>git<span class="w"> </span>checkout<span class="w"> </span>-b<span class="w"> </span>&lt;name-of-branch&gt;
-<a href="#__codelineno-2-2" id="__codelineno-2-2" name="__codelineno-2-2"></a>git<span class="w"> </span>checkout<span class="w"> </span>&lt;name-of-branch&gt;
-<a href="#__codelineno-2-3" id="__codelineno-2-3" name="__codelineno-2-3"></a>git<span class="w"> </span>diff
-<a href="#__codelineno-2-4" id="__codelineno-2-4" name="__codelineno-2-4"></a>git<span class="w"> </span>status
-<a href="#__codelineno-2-5" id="__codelineno-2-5" name="__codelineno-2-5"></a>git<span class="w"> </span>add<span class="w"> </span>&lt;file<span class="w"> </span>or<span class="w"> </span>folder&gt;
-<a href="#__codelineno-2-6" id="__codelineno-2-6" name="__codelineno-2-6"></a>git<span class="w"> </span>status
-<a href="#__codelineno-2-7" id="__codelineno-2-7" name="__codelineno-2-7"></a>git<span class="w"> </span>commit<span class="w"> </span>-am<span class="w"> </span><span class="s2">"message"</span>
-<a href="#__codelineno-2-8" id="__codelineno-2-8" name="__codelineno-2-8"></a>git<span class="w"> </span>push<span class="w"> </span>&lt;remote&gt;<span class="w"> </span>&lt;name-of-branch&gt;
-<a href="#__codelineno-2-9" id="__codelineno-2-9" name="__codelineno-2-9"></a>git<span class="w"> </span>merge<span class="w"> </span>?
-<a href="#__codelineno-2-10" id="__codelineno-2-10" name="__codelineno-2-10"></a>git<span class="w"> </span>branch<span class="w"> </span>-l
+<h2 id="basic-example">basic example</h2>
+<ul>
+<li>example using python</li>
+</ul>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-3-1" id="__codelineno-3-1" name="__codelineno-3-1"></a><span class="k">Feature:</span><span class="nf"> Test function</span>
+<a href="#__codelineno-3-2" id="__codelineno-3-2" name="__codelineno-3-2"></a>
+<a href="#__codelineno-3-3" id="__codelineno-3-3" name="__codelineno-3-3"></a><span class="nf">  </span><span class="k">Scenario:</span><span class="nf"> Add two numbers</span>
+<a href="#__codelineno-3-4" id="__codelineno-3-4" name="__codelineno-3-4"></a><span class="k">    Given </span><span class="nf">two numbers x and y</span>
+<a href="#__codelineno-3-5" id="__codelineno-3-5" name="__codelineno-3-5"></a><span class="nf">    </span><span class="k">When </span><span class="nf">I call the function with x and y</span>
+<a href="#__codelineno-3-6" id="__codelineno-3-6" name="__codelineno-3-6"></a><span class="nf">    </span><span class="k">Then </span><span class="nf">the result should be the sum of x and y</span>
 </code></pre></div>
-<p>discard changes git checkout .</p>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-4-1" id="__codelineno-4-1" name="__codelineno-4-1"></a><span class="kn">from</span> <span class="nn">behave</span> <span class="kn">import</span> <span class="o">*</span>
+<a href="#__codelineno-4-2" id="__codelineno-4-2" name="__codelineno-4-2"></a><span class="kn">from</span> <span class="nn">mymodule</span> <span class="kn">import</span> <span class="n">function</span>
+<a href="#__codelineno-4-3" id="__codelineno-4-3" name="__codelineno-4-3"></a>
+<a href="#__codelineno-4-4" id="__codelineno-4-4" name="__codelineno-4-4"></a><span class="nd">@given</span><span class="p">(</span><span class="s2">"two numbers x and y"</span><span class="p">)</span>
+<a href="#__codelineno-4-5" id="__codelineno-4-5" name="__codelineno-4-5"></a><span class="k">def</span> <span class="nf">step_impl</span><span class="p">(</span><span class="n">context</span><span class="p">):</span>
+<a href="#__codelineno-4-6" id="__codelineno-4-6" name="__codelineno-4-6"></a>    <span class="n">context</span><span class="o">.</span><span class="n">x</span> <span class="o">=</span> <span class="mi">2</span>
+<a href="#__codelineno-4-7" id="__codelineno-4-7" name="__codelineno-4-7"></a>    <span class="n">context</span><span class="o">.</span><span class="n">y</span> <span class="o">=</span> <span class="mi">3</span>
+<a href="#__codelineno-4-8" id="__codelineno-4-8" name="__codelineno-4-8"></a>
+<a href="#__codelineno-4-9" id="__codelineno-4-9" name="__codelineno-4-9"></a><span class="nd">@when</span><span class="p">(</span><span class="s2">"I call the function with x and y"</span><span class="p">)</span>
+<a href="#__codelineno-4-10" id="__codelineno-4-10" name="__codelineno-4-10"></a><span class="k">def</span> <span class="nf">step_impl</span><span class="p">(</span><span class="n">context</span><span class="p">):</span>
+<a href="#__codelineno-4-11" id="__codelineno-4-11" name="__codelineno-4-11"></a>    <span class="n">context</span><span class="o">.</span><span class="n">result</span> <span class="o">=</span> <span class="n">function</span><span class="p">(</span><span class="n">context</span><span class="o">.</span><span class="n">x</span><span class="p">,</span> <span class="n">context</span><span class="o">.</span><span class="n">y</span><span class="p">)</span>
+<a href="#__codelineno-4-12" id="__codelineno-4-12" name="__codelineno-4-12"></a>
+<a href="#__codelineno-4-13" id="__codelineno-4-13" name="__codelineno-4-13"></a><span class="nd">@then</span><span class="p">(</span><span class="s2">"the result should be the sum of x and y"</span><span class="p">)</span>
+<a href="#__codelineno-4-14" id="__codelineno-4-14" name="__codelineno-4-14"></a><span class="k">def</span> <span class="nf">step_impl</span><span class="p">(</span><span class="n">context</span><span class="p">):</span>
+<a href="#__codelineno-4-15" id="__codelineno-4-15" name="__codelineno-4-15"></a>    <span class="n">expected_result</span> <span class="o">=</span> <span class="n">context</span><span class="o">.</span><span class="n">x</span> <span class="o">+</span> <span class="n">context</span><span class="o">.</span><span class="n">y</span>
+<a href="#__codelineno-4-16" id="__codelineno-4-16" name="__codelineno-4-16"></a>    <span class="k">assert</span> <span class="n">context</span><span class="o">.</span><span class="n">result</span> <span class="o">==</span> <span class="n">expected_result</span><span class="p">,</span> <span class="sa">f</span><span class="s2">"Expected </span><span class="si">{</span><span class="n">expected_result</span><span class="si">}</span><span class="s2">, but got </span><span class="si">{</span><span class="n">context</span><span class="o">.</span><span class="n">result</span><span class="si">}</span><span class="s2">"</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-5-1" id="__codelineno-5-1" name="__codelineno-5-1"></a>project/
+<a href="#__codelineno-5-2" id="__codelineno-5-2" name="__codelineno-5-2"></a>├──<span class="w"> </span>features/
+<a href="#__codelineno-5-3" id="__codelineno-5-3" name="__codelineno-5-3"></a>│<span class="w">   </span>└──<span class="w"> </span>test_function.feature
+<a href="#__codelineno-5-4" id="__codelineno-5-4" name="__codelineno-5-4"></a>├──<span class="w"> </span>steps/
+<a href="#__codelineno-5-5" id="__codelineno-5-5" name="__codelineno-5-5"></a>│<span class="w">   </span>└──<span class="w"> </span>test_function_steps.py
+<a href="#__codelineno-5-6" id="__codelineno-5-6" name="__codelineno-5-6"></a>├──<span class="w"> </span>mymodule.py
+<a href="#__codelineno-5-7" id="__codelineno-5-7" name="__codelineno-5-7"></a>└──<span class="w"> </span>behave.ini
+</code></pre></div>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="399" src="https://www.youtube.com/embed/VwvrGfWmG_U" title="Introducing Example Mapping" width="710"></iframe>
 </article>
 </div>
 </div>
 </main>
 <footer class="md-footer">
 <nav aria-label="Footer" class="md-footer__inner md-grid">
-<a aria-label="Previous: cucumber tests" class="md-footer__link md-footer__link--prev" href="../cucumber/" rel="prev">
+<a aria-label="Previous: cross referencing" class="md-footer__link md-footer__link--prev" href="../cross/" rel="prev">
 <div class="md-footer__button md-icon">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
 </div>
@@ -553,17 +573,17 @@
 <span class="md-footer__direction">
                   Previous
                 </span>
-                cucumber tests
+                cross referencing
               </div>
 </div>
 </a>
-<a aria-label="Next: history" class="md-footer__link md-footer__link--next" href="../history/" rel="next">
+<a aria-label="Next: gitlab workflow" class="md-footer__link md-footer__link--next" href="../gitlab/" rel="next">
 <div class="md-footer__title">
 <div class="md-ellipsis">
 <span class="md-footer__direction">
                   Next
                 </span>
-                history
+                gitlab workflow
               </div>
 </div>
 <div class="md-footer__button md-icon">

@@ -1,5 +1,20 @@
 # cucumber tests
 
+## pipeline
+
+```yml
+stages:
+  - test
+
+test:
+  image: python:3.8
+  stage: test
+  script:
+    - pip install -r requirements.txt
+    - behave
+
+```
+
 ## api
 
 ```text

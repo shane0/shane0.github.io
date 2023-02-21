@@ -35,3 +35,24 @@ Buddhism emphasizes the importance of cultivating wholesome or skillful actions,
 - respect
 - truthfullness
 - timeliness
+
+## next life
+
+In Buddhism, it is believed that the actions, or karma, that a person performs in this life will determine the nature of their rebirth in the next life. The features that are carried forward to the next life are determined by this karma. This includes the person's mental and emotional tendencies, habits, and propensities, as well as the results of their actions, such as their level of happiness or suffering. The Buddha taught that the ultimate goal is to break free from this cycle of rebirth and attain enlightenment, which involves the cessation of all suffering and the transcendence of all conditioned existence.
+
+## bardo
+
+In Buddhism, bardo refers to the intermediate state between death and rebirth. It is believed that after death, the consciousness of the deceased person goes through a series of transitional experiences in the bardo state, which can last from a few moments up to several weeks. The concept of bardo is an important part of Tibetan Buddhism and is seen as an opportunity for spiritual liberation if one can maintain awareness and mindfulness during this transitional state.
+
+In Buddhism, meditation on the bardo can involve visualizations and contemplations aimed at preparing oneself for the experiences that may arise during the intermediate state between death and rebirth. Here are some general steps for meditating on the bardo:
+
+- Find a quiet and comfortable place where you can sit undisturbed for a period of time.
+- Take a few deep breaths and relax your body and mind.
+- Visualize yourself surrounded by a protective aura of light, and set the intention to use this meditation to prepare yourself for the bardo.
+- Contemplate the impermanence of all things, and the fact that death is an inevitable part of life.
+- Visualize the various stages of the bardo and the experiences that may arise, including the peaceful and wrathful deities, and the potential obstacles that may arise.
+- As you visualize these stages, cultivate a sense of detachment and equanimity, allowing your mind to remain clear and focused.
+- Offer prayers and aspirations for the benefit of all sentient beings, and dedicate the merit of your practice to their liberation.
+- Conclude the meditation by taking a few deep breaths and dedicating the merit of your practice to the benefit of all beings.
+
+It's important to note that the practice of bardo meditation can be complex and nuanced, and may vary depending on the specific teachings and traditions one follows. It may be helpful to seek guidance from a qualified teacher if you are interested in pursuing this practice.

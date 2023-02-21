@@ -5,7 +5,7 @@ tags:
   - skynet 
   - impermanence 
 ---
-# cormac cmcarthy
+# cormac mccarthy
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/wfYr5zF-oNs" title="EXCLUSIVE: Dialogue with Cormac McCarthy About Science, on the occasion of his newest book releases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -20,7 +20,7 @@ some excerpts talking to chatgpt about the books "the passenger" and "stella mar
 - cormacs literature is an endless buffet
 - the latest books contain just enough fiction to make us think they're not only about: math, physics, quantum physics and psychology
 - in his interview about them he said he writes facts, which is fun because he's writing fiction only to spoon feed us, good books, the ones with the facts
-- he can really point out the obvious things we all ignores
+- he can really point out the obvious things we all ignore
 - he's very zen without knowing it, the ongoing thread and foundation is a stream of change, suffering, impermenance, empty forms, SIGNLESS, AIMLESS
 
 ## that what drives the tale will not survive the tale

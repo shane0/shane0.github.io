@@ -262,3 +262,27 @@ basics -- pleasant unpleasant neutral --> feeling_tones
 basics -- pain change conditionality --> three_sufferings 
 
 ```
+
+## no birth no death
+
+- see also [signlessness](thich.md#signlessness) and [emptiness](emptiness.md)
+
+you've probably heard of the laws of conservation of energy
+
+the idea in buddhism of no birth, no death is similar
+
+energy is not created or destroyed it just changes form
+
+an objective comparison is a water, in different forms water is still water
+
+we could say a wave is born, and a wave dies, but does it really?
+
+this story is not different for for other forms, energy is always changing forms
+
+a drop of water in the ocean is not different from the drop of water in a wave
+
+a wave happens, it appears, from the wind, currents or other forces
+
+but if you examine a wave, there are no "wave atoms" there is just water
+
+no different if it is still water or in a wave

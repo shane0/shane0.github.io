@@ -49,7 +49,7 @@ Estimates of the Earth's carrying capacity for humans range widely, from as few 
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/e6FcNgOHYoo" title="Collapse in a Nutshell: Understanding Our Predicament (33 min)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## what creature is most likely end humanity?  most likely it's ourselves
+## what creature could most likely end humanity?  ...most likely it's ourselves
 
 According to the World Health Organization (WHO), mosquitoes are responsible for an estimated 725,000 deaths per year.
 
@@ -61,7 +61,7 @@ It's important to note that the numbers for both of these scenarios are estimate
 
 Additionally, there are other species, such as snakes, crocodiles, and sharks, which can also pose a significant threat to human life in certain regions or circumstances.
 
-## top 10 possible causes for human extinction
+## top 10 causes for human extinction
 
 - Natural disasters: This can include events such as supervolcanoes, asteroid impacts, and large-scale earthquakes and tsunamis.
 - Pandemics: The spread of a highly infectious and lethal disease could potentially cause a global pandemic leading to human extinction.

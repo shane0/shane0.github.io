@@ -29,7 +29,7 @@ Everything is interconnected and interdependent, and nothing exists on its own.
 
 All things arise in dependence upon other factors, and are thus empty of inherent existence. This emptiness is not a nihilistic void, but rather a dynamic and vibrant potentiality, full of possibilities and potential.
 
-On the other hand, "form" refers to the appearance or manifestation of phenomena. In other words, form refers to the world of appearances, which is constantly changing and arising in dependence upon other factors. 
+On the other hand, "form" refers to the appearance or manifestation of phenomena. In other words, form refers to the world of appearances, which is constantly changing and arising in dependence upon other factors.
 
 Form is not separate from emptiness, but rather arises in dependence upon it.
 
@@ -80,6 +80,10 @@ In Zen practice, "dwelling nowhere" is often cultivated through meditation, mind
 The Ten Ox-Herding Pictures or Verses is a series of paintings and poems that originated in medieval Japan. They are used as a visual representation of the process of awakening and enlightenment in Buddhism. The series follows the journey of a seeker from ignorance to awakening, symbolized by a young boy searching for an ox, eventually discovering it and mastering it, and ultimately transcending the ox and reaching enlightenment. Each picture or verse represents a stage in the journey, and they are often used as a meditation tool in Zen practice to help the practitioner reflect on their own path towards awakening.
 
 ## 10 oxherding verses
+
+> this poem is from the 12th centry (1100-1200)
+
+<https://en.wikipedia.org/wiki/Ten_Bulls>
 
 The 10 oxherding verses are a series of poems or visual images used in Zen Buddhism to describe the stages of spiritual development leading to enlightenment. The verses describe the seeker as a young oxherder who goes on a journey to find his lost ox, representing the seeker's journey to find enlightenment. The 10 stages depicted are:
 

@@ -197,3 +197,54 @@ Mandala meditation involves the following steps:
 It is important to remember that mandala meditation is a tool for developing CONCENTRATION and mindfulness, not just a way to produce beautiful images in your mind.
 
 With regular practice, you can learn to cultivate a peaceful and centered state of mind that will benefit you in your daily life.
+
+## dream yoga
+
+Dream yoga is a practice within Tibetan Buddhism that aims to help individuals gain awareness and control within the dream state. The following are general steps for practicing dream yoga:
+
+- Preparation: Begin by establishing a regular meditation practice and developing an intention to practice dream yoga.
+- Mindfulness and meditation: Before going to bed, practice mindfulness and meditation to calm the mind and prepare for sleep.
+- Set an intention: Before going to sleep, set a clear intention to become lucid in your dreams and practice dream yoga.
+- Reality checks: Throughout the day, practice checking if you are dreaming by looking at your hands or checking your surroundings. This can help you become more aware within your dreams.
+- Dream recall: Upon waking, take some time to recall and write down any dreams you remember. This can help with developing dream awareness and improve dream recall.
+- Lucid dreaming: With practice, you may become aware that you are dreaming while in a dream. At this point, you can begin to practice dream yoga.
+- Practice: Within the dream, practice mindfulness, and awareness, and try to remain focused and clear-headed. You can also practice visualization or other meditative practices.
+- Dedication: Before falling back asleep, dedicate any positive merit generated from your practice to the benefit of all sentient beings.
+
+It's worth noting that dream yoga is a complex practice that may require guidance and training from an experienced teacher.
+
+Staying in a meditative state as you fall asleep can be challenging, as the process of falling asleep can cause you to lose awareness and slip into unconsciousness. However, there are some tips that may be helpful:
+
+- Set a clear intention: Before you lie down to sleep, set a clear intention to stay aware and present as you fall asleep. This can help you stay focused and prevent your mind from wandering.
+- Focus on your breath: As you lie down, focus your attention on your breath. Feel the sensations of the breath as it enters and leaves your body. If your mind starts to wander, gently bring it back to the breath.
+- Use a mantra: You can also use a mantra or phrase to help you stay focused. For example, you could silently repeat the phrase "I am aware" as you fall asleep.
+- Practice relaxation techniques: Relaxation techniques, such as progressive muscle relaxation or visualization, can help you calm your mind and body and stay present as you fall asleep.
+
+Be patient: Remember that staying in a meditative state as you fall asleep can be challenging, especially if you are new to meditation. Be patient with yourself and keep practicing. Over time, you may find it easier to stay aware and present as you fall asleep.
+
+## Seven Line Supplication
+
+The Seven Line Supplication to Guru Rinpoche, also known as the Seven Line Prayer, is a famous and widely recited prayer in the Nyingma tradition of Tibetan Buddhism. It is considered to be an essential supplication to Guru Rinpoche (Padmasambhava), who is revered as the founder of the Nyingma lineage and the master who brought Buddhism to Tibet.
+
+```text
+The prayer reads as follows:
+
+HUNG
+ORGYEN YUL GYI NUB JANG TSAM
+PEMA GESAR DONGPO LA
+YAM TSEN CHOG GI NGO DRUB NYE
+PEMA JUNGNE SHYABAR SHOL
+
+It can be translated in English as:
+
+"HUNG,
+In the northwest of the land of Uddiyana,
+In the heart of a lotus flower,
+Endowed with the most marvelous attainments,
+You are renowned as the Lotus-born,
+Surrounded by many hosts of dakinis,
+Following in your footsteps,
+I pray to you: Come and bless me with your grace!"
+```
+
+Reciting this prayer is believed to invoke Guru Rinpoche's blessings and to open the heart to his wisdom and compassion. It is commonly recited at the beginning of meditation practices and other spiritual activities in the Nyingma tradition.

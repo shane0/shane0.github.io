@@ -7,10 +7,10 @@
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <link href="aggregates/" rel="next"/>
 <link href="assets/images/favicon.png" rel="icon"/>
-<meta content="mkdocs-1.4.2, mkdocs-material-9.0.13" name="generator"/>
+<meta content="mkdocs-1.4.2, mkdocs-material-9.0.6" name="generator"/>
 <title>shane0 meditation notes</title>
-<link href="assets/stylesheets/main.ffa9267a.min.css" rel="stylesheet"/>
-<link href="assets/stylesheets/palette.a0c5b2b5.min.css" rel="stylesheet"/>
+<link href="assets/stylesheets/main.558e4712.min.css" rel="stylesheet"/>
+<link href="assets/stylesheets/palette.2505c338.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
 <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
@@ -120,7 +120,7 @@
   </label>
 <ul class="md-nav__list" data-md-scrollfix="">
 <li class="md-nav__item md-nav__item--active">
-<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
 <label class="md-nav__link md-nav__link--active" for="__toc">
           Home
           <span class="md-nav__icon md-icon"></span>
@@ -450,6 +450,11 @@
   </a>
 </li>
 <li class="md-nav__item">
+<a class="md-nav__link" href="#root-cause">
+    root cause
+  </a>
+</li>
+<li class="md-nav__item">
 <a class="md-nav__link" href="#selenium">
     selenium
   </a>
@@ -598,11 +603,6 @@
       </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="code/">
-        code
-      </a>
-</li>
-<li class="md-nav__item">
 <a class="md-nav__link" href="collapse/">
         collapse of humanity
       </a>
@@ -610,21 +610,6 @@
 <li class="md-nav__item">
 <a class="md-nav__link" href="cormac/">
         cormac mccarthy
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="cucumber/">
-        cucumber tests
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="cucumber_api/">
-        python cucumber api test with mock
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="cucumber_log/">
-        cucumber check logs
       </a>
 </li>
 <li class="md-nav__item">
@@ -683,21 +668,6 @@
       </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="js_api_test/">
-        js api test
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="js_cucumber/">
-        javascript cucumber tests
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="js_vs_py/">
-        python vs js vs ps
-      </a>
-</li>
-<li class="md-nav__item">
 <a class="md-nav__link" href="karma/">
         karma
       </a>
@@ -720,26 +690,6 @@
 <li class="md-nav__item">
 <a class="md-nav__link" href="nibanna/">
         nibanna
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="productivity/">
-        productivity (when at a computer)
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="python_regex/">
-        python test with regex
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="python_regex_test/">
-        python tests with regex
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="python_selenium/">
-        python cucumber test
       </a>
 </li>
 <li class="md-nav__item">
@@ -813,13 +763,13 @@
       </a>
 </li>
 <li class="md-nav__item md-nav__item--nested">
-<input class="md-nav__toggle md-toggle" id="__nav_51" type="checkbox"/>
-<label class="md-nav__link" for="__nav_51" id="__nav_51_label" tabindex="0">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_40" id="__nav_40" type="checkbox"/>
+<label aria-expanded="false" class="md-nav__link" for="__nav_40" tabindex="0">
           Bujo
           <span class="md-nav__icon md-icon"></span>
 </label>
-<nav aria-expanded="false" aria-labelledby="__nav_51_label" class="md-nav" data-md-level="1">
-<label class="md-nav__title" for="__nav_51">
+<nav aria-label="Bujo" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_40">
 <span class="md-nav__icon md-icon"></span>
           Bujo
         </label>
@@ -843,13 +793,88 @@
 </nav>
 </li>
 <li class="md-nav__item md-nav__item--nested">
-<input class="md-nav__toggle md-toggle" id="__nav_52" type="checkbox"/>
-<label class="md-nav__link" for="__nav_52" id="__nav_52_label" tabindex="0">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_41" id="__nav_41" type="checkbox"/>
+<label aria-expanded="false" class="md-nav__link" for="__nav_41" tabindex="0">
+          Software tests
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Software tests" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_41">
+<span class="md-nav__icon md-icon"></span>
+          Software tests
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/code/">
+        code
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/cucumber/">
+        cucumber tests
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/cucumber_api/">
+        python cucumber api test with mock
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/cucumber_log/">
+        cucumber check logs
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/js_api_test/">
+        js api test
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/js_cucumber/">
+        javascript cucumber tests
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/js_vs_py/">
+        python vs js vs ps
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/productivity/">
+        productivity (when at a computer)
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/python_file_content/">
+        python test file contents
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/python_regex/">
+        python test with regex
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/python_regex_test/">
+        python tests with regex
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software_tests/python_selenium/">
+        python cucumber test
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_42" id="__nav_42" type="checkbox"/>
+<label aria-expanded="false" class="md-nav__link" for="__nav_42" tabindex="0">
           Style guide
           <span class="md-nav__icon md-icon"></span>
 </label>
-<nav aria-expanded="false" aria-labelledby="__nav_52_label" class="md-nav" data-md-level="1">
-<label class="md-nav__title" for="__nav_52">
+<nav aria-label="Style guide" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_42">
 <span class="md-nav__icon md-icon"></span>
           Style guide
         </label>
@@ -882,6 +907,11 @@
 <li class="md-nav__item">
 <a class="md-nav__link" href="style_guide/style_guide/">
         GitLab has a comprehensive style guide
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="style_guide/troubleshooter/">
+        troubleshooting
       </a>
 </li>
 </ul>
@@ -1217,6 +1247,11 @@
   </a>
 </li>
 <li class="md-nav__item">
+<a class="md-nav__link" href="#root-cause">
+    root cause
+  </a>
+</li>
+<li class="md-nav__item">
 <a class="md-nav__link" href="#selenium">
     selenium
   </a>
@@ -1340,24 +1375,24 @@
 <article class="md-content__inner md-typeset">
 <h1>Home</h1>
 <div class="admonition meditations">
+<p class="admonition-title">strength training for your mind</p>
 <p><a class="md-button" href="tldr/">tldr videos</a>
 <a class="md-button" href="anapanasati/">anapanasati</a>
 <a class="md-button" href="maranasati/">maranasati</a></p>
 </div>
 <div class="admonition chatgpt">
-<p class="admonition-title">Chatgpt</p>
+<p class="admonition-title">ai will be used for good and bad</p>
 <p>this content is mostly quotes from my books or conversations with chatGPT ai
-my opinion on chatGTP is (currently) it is an extremely useful <mark class="critic">smart encyclopedia</mark></p>
-</div>
-<div class="admonition wow">
-<p class="admonition-title">ai is here, and the answer is not 42</p>
-<p><ins class="critic">ai, will humans <a href="collapse/">live forever or wipe ourselves out completely</a>?</ins></p>
+my opinion on chatGTP is (currently) it is an extremely useful <mark class="critic">smart encyclopedia</mark>
+<ins class="critic">hey there ai, will humans <a href="collapse/">live forever or wipe ourselves out completely</a>?</ins></p>
 </div>
 <div class="admonition note">
-<p class="admonition-title">highly recommended reading</p>
-<p>I highly recommend <a href="cormac/">cormac mccarthy</a>'s books, <ins class="critic">ALL OF THEM!!!</ins>
-cormac's latest books are fictions but just barely...
-more than fiction, they are lessons on psychology, math, physics and quantum physics</p>
+<p class="admonition-title">the brightest mind that ever lived</p>
+<ul>
+<li>fears and fantasies</li>
+<li>I highly recommend <a href="cormac/">cormac mccarthy</a>'s movies &amp; books, <ins class="critic">ALL OF THEM!!!</ins></li>
+<li>cormac's latest books are hilarious masterpieces</li>
+</ul>
 </div>
 <blockquote>
 <p>topics I'm digging into here</p>
@@ -1427,7 +1462,7 @@ books --&gt; coarmac_mccarthy
 </ul>
 <h2 id="ai"><span class="md-tag">ai</span></h2>
 <ul>
-<li><a href="code/">code</a></li>
+<li><a href="software_tests/code/">code</a></li>
 </ul>
 <h2 id="all-contexts"><span class="md-tag">all contexts</span></h2>
 <ul>
@@ -1472,7 +1507,7 @@ books --&gt; coarmac_mccarthy
 </ul>
 <h2 id="code"><span class="md-tag">code</span></h2>
 <ul>
-<li><a href="code/">code</a></li>
+<li><a href="software_tests/code/">code</a></li>
 </ul>
 <h2 id="collapse"><span class="md-tag">collapse</span></h2>
 <ul>
@@ -1505,13 +1540,13 @@ books --&gt; coarmac_mccarthy
 </ul>
 <h2 id="cucumber"><span class="md-tag">cucumber</span></h2>
 <ul>
-<li><a href="cucumber/">cucumber tests</a></li>
-<li><a href="cucumber_api/">python cucumber api test with mock</a></li>
-<li><a href="cucumber_log/">cucumber check logs</a></li>
-<li><a href="js_api_test/">js api test</a></li>
-<li><a href="js_cucumber/">javascript cucumber tests</a></li>
-<li><a href="js_vs_py/">python vs js vs ps</a></li>
-<li><a href="python_regex_test/">python tests with regex</a></li>
+<li><a href="software_tests/cucumber/">cucumber tests</a></li>
+<li><a href="software_tests/cucumber_api/">python cucumber api test with mock</a></li>
+<li><a href="software_tests/cucumber_log/">cucumber check logs</a></li>
+<li><a href="software_tests/js_api_test/">js api test</a></li>
+<li><a href="software_tests/js_cucumber/">javascript cucumber tests</a></li>
+<li><a href="software_tests/js_vs_py/">python vs js vs ps</a></li>
+<li><a href="software_tests/python_regex_test/">python tests with regex</a></li>
 </ul>
 <h2 id="daily"><span class="md-tag">daily</span></h2>
 <ul>
@@ -1603,15 +1638,15 @@ books --&gt; coarmac_mccarthy
 </ul>
 <h2 id="java-script"><span class="md-tag">java script</span></h2>
 <ul>
-<li><a href="js_api_test/">js api test</a></li>
+<li><a href="software_tests/js_api_test/">js api test</a></li>
 </ul>
 <h2 id="javascript"><span class="md-tag">javascript</span></h2>
 <ul>
-<li><a href="cucumber/">cucumber tests</a></li>
-<li><a href="cucumber_api/">python cucumber api test with mock</a></li>
-<li><a href="cucumber_log/">cucumber check logs</a></li>
-<li><a href="js_cucumber/">javascript cucumber tests</a></li>
-<li><a href="js_vs_py/">python vs js vs ps</a></li>
+<li><a href="software_tests/cucumber/">cucumber tests</a></li>
+<li><a href="software_tests/cucumber_api/">python cucumber api test with mock</a></li>
+<li><a href="software_tests/cucumber_log/">cucumber check logs</a></li>
+<li><a href="software_tests/js_cucumber/">javascript cucumber tests</a></li>
+<li><a href="software_tests/js_vs_py/">python vs js vs ps</a></li>
 </ul>
 <h2 id="karma"><span class="md-tag">karma</span></h2>
 <ul>
@@ -1637,7 +1672,7 @@ books --&gt; coarmac_mccarthy
 </ul>
 <h2 id="matrix"><span class="md-tag">matrix</span></h2>
 <ul>
-<li><a href="code/">code</a></li>
+<li><a href="software_tests/code/">code</a></li>
 </ul>
 <h2 id="metta"><span class="md-tag">metta</span></h2>
 <ul>
@@ -1699,25 +1734,29 @@ books --&gt; coarmac_mccarthy
 </ul>
 <h2 id="productivity"><span class="md-tag">productivity</span></h2>
 <ul>
-<li><a href="productivity/">productivity (when at a computer)</a></li>
+<li><a href="software_tests/productivity/">productivity (when at a computer)</a></li>
 </ul>
 <h2 id="python"><span class="md-tag">python</span></h2>
 <ul>
-<li><a href="cucumber/">cucumber tests</a></li>
-<li><a href="cucumber_api/">python cucumber api test with mock</a></li>
-<li><a href="cucumber_log/">cucumber check logs</a></li>
-<li><a href="js_vs_py/">python vs js vs ps</a></li>
-<li><a href="python_regex_test/">python tests with regex</a></li>
-<li><a href="python_selenium/">python cucumber test</a></li>
+<li><a href="software_tests/cucumber/">cucumber tests</a></li>
+<li><a href="software_tests/cucumber_api/">python cucumber api test with mock</a></li>
+<li><a href="software_tests/cucumber_log/">cucumber check logs</a></li>
+<li><a href="software_tests/js_vs_py/">python vs js vs ps</a></li>
+<li><a href="software_tests/python_regex_test/">python tests with regex</a></li>
+<li><a href="software_tests/python_selenium/">python cucumber test</a></li>
 </ul>
 <h2 id="quantum-physics"><span class="md-tag">quantum physics</span></h2>
 <ul>
 <li><a href="cormac/">cormac mccarthy</a></li>
 <li><a href="quantum/">math and physics</a></li>
 </ul>
+<h2 id="root-cause"><span class="md-tag">root cause</span></h2>
+<ul>
+<li><a href="style_guide/troubleshooter/">troubleshooting</a></li>
+</ul>
 <h2 id="selenium"><span class="md-tag">selenium</span></h2>
 <ul>
-<li><a href="python_selenium/">python cucumber test</a></li>
+<li><a href="software_tests/python_selenium/">python cucumber test</a></li>
 </ul>
 <h2 id="shamatha"><span class="md-tag">shamatha</span></h2>
 <ul>
@@ -1733,19 +1772,19 @@ books --&gt; coarmac_mccarthy
 </ul>
 <h2 id="skynet"><span class="md-tag">skynet</span></h2>
 <ul>
-<li><a href="code/">code</a></li>
 <li><a href="cormac/">cormac mccarthy</a></li>
+<li><a href="software_tests/code/">code</a></li>
 </ul>
 <h2 id="software-testing"><span class="md-tag">software testing</span></h2>
 <ul>
-<li><a href="cucumber/">cucumber tests</a></li>
-<li><a href="cucumber_api/">python cucumber api test with mock</a></li>
-<li><a href="cucumber_log/">cucumber check logs</a></li>
-<li><a href="js_api_test/">js api test</a></li>
-<li><a href="js_cucumber/">javascript cucumber tests</a></li>
-<li><a href="js_vs_py/">python vs js vs ps</a></li>
-<li><a href="python_regex_test/">python tests with regex</a></li>
-<li><a href="python_selenium/">python cucumber test</a></li>
+<li><a href="software_tests/cucumber/">cucumber tests</a></li>
+<li><a href="software_tests/cucumber_api/">python cucumber api test with mock</a></li>
+<li><a href="software_tests/cucumber_log/">cucumber check logs</a></li>
+<li><a href="software_tests/js_api_test/">js api test</a></li>
+<li><a href="software_tests/js_cucumber/">javascript cucumber tests</a></li>
+<li><a href="software_tests/js_vs_py/">python vs js vs ps</a></li>
+<li><a href="software_tests/python_regex_test/">python tests with regex</a></li>
+<li><a href="software_tests/python_selenium/">python cucumber test</a></li>
 </ul>
 <h2 id="space"><span class="md-tag">space</span></h2>
 <ul>
@@ -1792,6 +1831,7 @@ books --&gt; coarmac_mccarthy
 <h2 id="troubleshooting"><span class="md-tag">troubleshooting</span></h2>
 <ul>
 <li><a href="style_guide/history/">history</a></li>
+<li><a href="style_guide/troubleshooter/">troubleshooting</a></li>
 </ul>
 <h2 id="untrained"><span class="md-tag">untrained</span></h2>
 <ul>
@@ -1860,7 +1900,7 @@ books --&gt; coarmac_mccarthy
 <div class="md-dialog" data-md-component="dialog">
 <div class="md-dialog__inner md-typeset"></div>
 </div>
-<script id="__config" type="application/json">{"base": ".", "features": ["content.code.copy", "content.action.edit", "content.action.view", "navigation.footer"], "search": "assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
-<script src="assets/javascripts/bundle.2a6f1dda.min.js"></script>
+<script id="__config" type="application/json">{"base": ".", "features": ["content.code.copy", "content.action.edit", "content.action.view", "navigation.footer"], "search": "assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+<script src="assets/javascripts/bundle.51d95adb.min.js"></script>
 <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>

@@ -20,7 +20,8 @@ jobs:
         SKIP_TESTS: ${{ env.SKIP_TESTS }}
       run: |
         if [ -z "$SKIP_TESTS" ]; then
-          behave -c 1
+          behave features/file.feature
+          # behave -c 1
         else
           echo "Tests skipped due to SKIP_TESTS environment variable."
         fi

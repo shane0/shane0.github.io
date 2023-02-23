@@ -1,24 +1,26 @@
-name: Run Tests
+name: Run tests
 
-on:
-  push:
-    branches: [ main ]
-  schedule:
-    - cron: '0 0 * * *'
+on: [push, pull_request]
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Install dependencies
-        run: npm install
-      - name: Run tests
-        env:
-          SKIP_TESTS: true
-        run: |
-          if [ -z "$SKIP_TESTS" ]; then
-            npm run test
-          else
-            echo "Skipping tests due to environment variable."
-          fi
+    - uses: actions/checkout@v2
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run tests
+      env:
+        SKIP_TESTS: ${{ env.SKIP_TESTS }}
+      run: |
+        if [ -z "$SKIP_TESTS" ]; then
+          behave -c 1
+        else
+          echo "Tests skipped due to SKIP_TESTS environment variable."
+        fi

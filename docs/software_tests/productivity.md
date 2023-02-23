@@ -11,6 +11,6 @@ tags:
 - js: markmap, reveal, react, codemirror (vim plugin)
 - shell: bash, awk, cron, etc.
 
-![](images/standards_2x.png)
+![](../images/standards_2x.png)
 
-![](images/computer_problems.png)
+![](../images/computer_problems.png)

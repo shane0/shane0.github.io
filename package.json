@@ -1,0 +1,23 @@
+{
+  "name": "shane0.github.io",
+  "version": "1.0.0",
+  "description": "mkdocs",
+  "main": "index.js",
+  "private": true,
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shane0/shane0.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shane0/shane0.github.io/issues"
+  },
+  "homepage": "https://github.com/shane0/shane0.github.io#readme"
+}

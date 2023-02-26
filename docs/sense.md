@@ -38,7 +38,8 @@ The "6 Rupa Sextets" or the "6 Sense Bases" is a meditation technique mentioned 
 1. Tongue and tastes
 1. Body and tactile sensations
 1. Mind and mental objects
-1. To meditate using the 6 sextets, you can follow these steps:
+
+To meditate using the 6 sextets, you can follow these steps:
 
 - Find a quiet place to sit, where you will not be disturbed.
 - Start by focusing your mind on your breath, letting go of any thoughts or distractions.

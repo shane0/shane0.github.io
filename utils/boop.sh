@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-touch docs/pipelines.md
+# touch docs/pipelines.md
+# touch docs/dotfiles.md
 
 # mkdir -p features/steps
 # touch features/steps/file_steps.py

@@ -1,5 +1,6 @@
 
 !!! meditations "strength training for your mind"
+    [flashcards](bujo/08.md)
     [tldr videos](tldr.md){ .md-button }
     [anapanasati](anapanasati.md){ .md-button }
     [maranasati](maranasati.md){ .md-button }

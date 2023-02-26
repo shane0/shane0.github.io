@@ -12,6 +12,29 @@ tags:
 
 - <https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki>
 
+## buddha nowhere
+
+- you are not an ego pretending to be a buddha
+- you are a buddha pretending it has an ego
+
+The phrase "Buddha nowhere" is often used in Zen Buddhism to describe the idea that enlightenment cannot be found in any particular place or time, or in any particular teaching or practice. Instead, it is said to be a realization that is always present, but obscured by our concepts and mental habits. In other words, the Buddha-nature or enlightenment is inherent in all beings, and the goal of practice is simply to remove the obstacles that prevent us from recognizing it. This idea is often expressed through Zen koans and other forms of paradoxical language, which are meant to bypass the limitations of ordinary thinking and point to a direct experience of reality.
+
+## not one not two
+
+The phrase "not one, not two" comes from the Buddhist doctrine of the Middle Way, which emphasizes the non-dual nature of reality. It suggests that reality is not characterized by any fixed, independent entities or substances, but is instead a dynamic interplay of causes and conditions. "Not one" refers to the absence of any inherently existing entity, while "not two" refers to the non-dual nature of reality, where all phenomena are interdependent and arise in dependence on each other. This understanding helps to overcome the false dichotomy between self and other, subject and object, and to see that all things are ultimately interconnected and empty of inherent existence.
+
+## beginner's mind
+
+Beginner's mind is a concept in Zen Buddhism that refers to the attitude of approaching life and experiences with openness, curiosity, and a lack of preconceptions. Some of the features of beginner's mind are:
+
+- Non-judgment: Beginner's mind involves suspending judgment and approaching things without preconceived notions.
+- Curiosity: It involves being open to new experiences and exploring things with a sense of wonder and curiosity.
+- Humility: It involves recognizing that there is always more to learn and being humble in the face of new knowledge and experiences.
+- Clarity: Beginner's mind involves seeing things clearly and without the distortions of our biases, assumptions, and beliefs.
+- Freshness: It involves seeing things as if for the first time, without being weighed down by past experiences or expectations.
+- Creativity: It can lead to new and innovative approaches to problem-solving, as one is not limited by past experiences or assumptions.
+- Presence: Beginner's mind involves being fully present in the moment, without getting lost in thoughts about the past or future.
+
 ## emptiness is form
 
 ```mermaid

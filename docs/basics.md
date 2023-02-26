@@ -109,6 +109,14 @@ They are:
 
 These mental states are believed to be the root cause of suffering and keep individuals trapped in cyclic existence. Practicing MINDFULNESS and meditation is said to help overcome the Kleshas and achieve liberation from suffering.
 
+## three marks of existence
+
+In Buddhism, there are three types of suffering, which are known as the Three Universal Truths or the Three Marks of Existence. They are:
+
+1. Dukkha-dukkha: This refers to the suffering that arises from painful experiences, such as sickness, old age, and death.
+1. Samkhara-dukkha: This refers to the suffering that arises from the impermanence of all things, including pleasant experiences that are bound to change or come to an end.
+1. Viparinama-dukkha: This refers to the suffering that arises from our tendency to cling to things or experiences that are impermanent and constantly changing. This includes the suffering that arises from attachment, craving, and aversion.
+
 ## what are the attributes of enlightenment
 
 Enlightenment is a term used in various spiritual traditions to describe a state of spiritual awakening, liberation, or self-realization. The specific attributes of enlightenment can vary across traditions, but some of the most common ones include:
@@ -262,6 +270,18 @@ basics -- pleasant unpleasant neutral --> feeling_tones
 basics -- pain change conditionality --> three_sufferings 
 
 ```
+
+## five hindrances
+
+The five hindrances are obstacles that can arise during meditation and prevent one from attaining deep states of concentration and insight. They are:
+
+- Sensory desire (kamacchanda): The strong attachment to pleasant sensory experiences and desire for more.
+- Ill-will (vyapada): Feelings of hostility, anger, and aversion towards oneself or others.
+- Sloth and torpor (thina-middha): A state of dullness or sleepiness that hinders alertness and clarity of mind.
+- Restlessness and worry (uddhacca-kukkucca): An agitated and restless mind that is distracted by worries, fears, and anxieties.
+- Doubt (vicikiccha): The lack of faith in oneself or the practice, leading to uncertainty and indecisiveness.
+
+By recognizing and working to overcome these hindrances, one can develop greater concentration, insight, and inner peace in meditation and in daily life.
 
 ## no birth no death
 

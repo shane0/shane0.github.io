@@ -5,11 +5,11 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
-<link href="../active_voice/" rel="prev"/>
-<link href="../cross/" rel="next"/>
+<link href="../history/" rel="prev"/>
+<link href="../project_template/" rel="next"/>
 <link href="../../assets/images/favicon.png" rel="icon"/>
 <meta content="mkdocs-1.4.2, mkdocs-material-9.0.6" name="generator"/>
-<title>cartesian doubt - shane0 meditation notes</title>
+<title>jargon - shane0 meditation notes</title>
 <link href="../../assets/stylesheets/main.558e4712.min.css" rel="stylesheet"/>
 <link href="../../assets/stylesheets/palette.2505c338.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
@@ -34,7 +34,7 @@
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
-<a class="md-skip" href="#cartesian-doubt">
+<a class="md-skip" href="#jargon">
           Skip to content
         </a>
 </div>
@@ -58,7 +58,7 @@
 <div class="md-header__topic" data-md-component="header-topic">
 <span class="md-ellipsis">
             
-              cartesian doubt
+              jargon
             
           </span>
 </div>
@@ -462,9 +462,8 @@
         active voice
       </a>
 </li>
-<li class="md-nav__item md-nav__item--active">
-<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
-<a class="md-nav__link md-nav__link--active" href="./">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../cartesian_doubt/">
         cartesian doubt
       </a>
 </li>
@@ -488,8 +487,9 @@
         history
       </a>
 </li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../jargon/">
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<a class="md-nav__link md-nav__link--active" href="./">
         jargon
       </a>
 </li>
@@ -537,23 +537,116 @@
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
 <nav class="md-tags">
-<a class="md-tag" href="../../#workflow">workflow</a>
+<a class="md-tag" href="../../#style-guide">style guide</a>
 </nav>
-<h1 id="cartesian-doubt">cartesian doubt</h1>
+<h1 id="jargon">jargon</h1>
+<blockquote>
+<p>regex</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-0-1" id="__codelineno-0-1" name="__codelineno-0-1"></a>r<span class="s1">'\b[A-Z]{2,}\b'</span>
+</code></pre></div>
+<blockquote>
+<p>python</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-1-1" id="__codelineno-1-1" name="__codelineno-1-1"></a><span class="kn">import</span> <span class="nn">re</span>
+<a href="#__codelineno-1-2" id="__codelineno-1-2" name="__codelineno-1-2"></a>
+<a href="#__codelineno-1-3" id="__codelineno-1-3" name="__codelineno-1-3"></a><span class="n">text</span> <span class="o">=</span> <span class="s2">"The CPU is a critical component of the PC. It processes data using an ALU and stores it in the RAM."</span>
+<a href="#__codelineno-1-4" id="__codelineno-1-4" name="__codelineno-1-4"></a><span class="n">pattern</span> <span class="o">=</span> <span class="sa">r</span><span class="s1">'\b[A-Z]{2,}\b'</span>
+<a href="#__codelineno-1-5" id="__codelineno-1-5" name="__codelineno-1-5"></a><span class="n">matches</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">pattern</span><span class="p">,</span> <span class="n">text</span><span class="p">)</span>
+<a href="#__codelineno-1-6" id="__codelineno-1-6" name="__codelineno-1-6"></a>
+<a href="#__codelineno-1-7" id="__codelineno-1-7" name="__codelineno-1-7"></a><span class="nb">print</span><span class="p">(</span><span class="n">matches</span><span class="p">)</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-2-1" id="__codelineno-2-1" name="__codelineno-2-1"></a>grep<span class="w"> </span>-rno<span class="w"> </span><span class="s1">'\b[A-Z]{2,}\b'</span><span class="w"> </span>/path/to/directory
+</code></pre></div>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Cartesian_doubt">https://en.wikipedia.org/wiki/Cartesian_doubt</a></li>
-<li>accepting only information you know to be true</li>
-<li>breaking down these truths into smaller units</li>
-<li>solving the simple problems first</li>
-<li>making complete lists of further problems</li>
+<li>r: Search recursively in all files under the specified directory.</li>
+<li>n: Print the line number where the match occurs.</li>
+<li>o: Only print the matched part of the line, rather than the whole line.</li>
 </ul>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-3-1" id="__codelineno-3-1" name="__codelineno-3-1"></a>sed<span class="w"> </span>-n<span class="w"> </span><span class="s1">'/\b[A-Z]{2,}\b/='</span><span class="w"> </span>filename.txt
+</code></pre></div>
+<ul>
+<li>-n: Suppresses the default behavior of sed to print every line.</li>
+<li>/\b[A-Z]{2,}\b/: Matches lines containing the regular expression \b[A-Z]{2,}\b.</li>
+<li>=: Prints the line number of the matched lines.</li>
+</ul>
+<blockquote>
+<p>python</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-4-1" id="__codelineno-4-1" name="__codelineno-4-1"></a>python<span class="w"> </span>jargon_detector.py<span class="w"> </span>/path/to/folder
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-5-1" id="__codelineno-5-1" name="__codelineno-5-1"></a><span class="kn">import</span> <span class="nn">os</span>
+<a href="#__codelineno-5-2" id="__codelineno-5-2" name="__codelineno-5-2"></a><span class="kn">import</span> <span class="nn">re</span>
+<a href="#__codelineno-5-3" id="__codelineno-5-3" name="__codelineno-5-3"></a>
+<a href="#__codelineno-5-4" id="__codelineno-5-4" name="__codelineno-5-4"></a><span class="k">def</span> <span class="nf">detect_jargon</span><span class="p">(</span><span class="n">folder</span><span class="p">):</span>
+<a href="#__codelineno-5-5" id="__codelineno-5-5" name="__codelineno-5-5"></a>    <span class="c1"># Compile the regular expression for detecting jargon</span>
+<a href="#__codelineno-5-6" id="__codelineno-5-6" name="__codelineno-5-6"></a>    <span class="n">pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="sa">r</span><span class="s1">'\b[A-Z]{2,}\b'</span><span class="p">)</span>
+<a href="#__codelineno-5-7" id="__codelineno-5-7" name="__codelineno-5-7"></a>
+<a href="#__codelineno-5-8" id="__codelineno-5-8" name="__codelineno-5-8"></a>    <span class="c1"># Open the output file for writing</span>
+<a href="#__codelineno-5-9" id="__codelineno-5-9" name="__codelineno-5-9"></a>    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">'jibberjabber.md'</span><span class="p">,</span> <span class="s1">'w'</span><span class="p">)</span> <span class="k">as</span> <span class="n">outfile</span><span class="p">:</span>
+<a href="#__codelineno-5-10" id="__codelineno-5-10" name="__codelineno-5-10"></a>        <span class="k">for</span> <span class="n">root</span><span class="p">,</span> <span class="n">dirs</span><span class="p">,</span> <span class="n">files</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span><span class="n">folder</span><span class="p">):</span>
+<a href="#__codelineno-5-11" id="__codelineno-5-11" name="__codelineno-5-11"></a>            <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+<a href="#__codelineno-5-12" id="__codelineno-5-12" name="__codelineno-5-12"></a>                <span class="c1"># Ignore non-text files</span>
+<a href="#__codelineno-5-13" id="__codelineno-5-13" name="__codelineno-5-13"></a>                <span class="k">if</span> <span class="ow">not</span> <span class="n">filename</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s1">'.txt'</span><span class="p">):</span>
+<a href="#__codelineno-5-14" id="__codelineno-5-14" name="__codelineno-5-14"></a>                    <span class="k">continue</span>
+<a href="#__codelineno-5-15" id="__codelineno-5-15" name="__codelineno-5-15"></a>
+<a href="#__codelineno-5-16" id="__codelineno-5-16" name="__codelineno-5-16"></a>                <span class="c1"># Construct the full path to the file</span>
+<a href="#__codelineno-5-17" id="__codelineno-5-17" name="__codelineno-5-17"></a>                <span class="n">filepath</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">filename</span><span class="p">)</span>
+<a href="#__codelineno-5-18" id="__codelineno-5-18" name="__codelineno-5-18"></a>
+<a href="#__codelineno-5-19" id="__codelineno-5-19" name="__codelineno-5-19"></a>                <span class="c1"># Open the file for reading</span>
+<a href="#__codelineno-5-20" id="__codelineno-5-20" name="__codelineno-5-20"></a>                <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">filepath</span><span class="p">,</span> <span class="s1">'r'</span><span class="p">)</span> <span class="k">as</span> <span class="n">infile</span><span class="p">:</span>
+<a href="#__codelineno-5-21" id="__codelineno-5-21" name="__codelineno-5-21"></a>                    <span class="k">for</span> <span class="n">linenum</span><span class="p">,</span> <span class="n">line</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">infile</span><span class="p">,</span> <span class="n">start</span><span class="o">=</span><span class="mi">1</span><span class="p">):</span>
+<a href="#__codelineno-5-22" id="__codelineno-5-22" name="__codelineno-5-22"></a>                        <span class="c1"># Search for jargon in the line</span>
+<a href="#__codelineno-5-23" id="__codelineno-5-23" name="__codelineno-5-23"></a>                        <span class="n">matches</span> <span class="o">=</span> <span class="n">pattern</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
+<a href="#__codelineno-5-24" id="__codelineno-5-24" name="__codelineno-5-24"></a>                        <span class="k">if</span> <span class="n">matches</span><span class="p">:</span>
+<a href="#__codelineno-5-25" id="__codelineno-5-25" name="__codelineno-5-25"></a>                            <span class="c1"># Write the match to the output file</span>
+<a href="#__codelineno-5-26" id="__codelineno-5-26" name="__codelineno-5-26"></a>                            <span class="n">outfile</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">filepath</span><span class="si">}</span><span class="s1">:</span><span class="si">{</span><span class="n">linenum</span><span class="si">}</span><span class="s1"> - </span><span class="si">{</span><span class="s2">", "</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">matches</span><span class="p">)</span><span class="si">}</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-6-1" id="__codelineno-6-1" name="__codelineno-6-1"></a><span class="kn">from</span> <span class="nn">jargon_detector</span> <span class="kn">import</span> <span class="n">detect_jargon</span>
+<a href="#__codelineno-6-2" id="__codelineno-6-2" name="__codelineno-6-2"></a>
+<a href="#__codelineno-6-3" id="__codelineno-6-3" name="__codelineno-6-3"></a><span class="n">detect_jargon</span><span class="p">(</span><span class="s1">'/path/to/folder'</span><span class="p">)</span>
+</code></pre></div>
+<blockquote>
+<p>with google it link</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-7-1" id="__codelineno-7-1" name="__codelineno-7-1"></a><span class="kn">import</span> <span class="nn">os</span>
+<a href="#__codelineno-7-2" id="__codelineno-7-2" name="__codelineno-7-2"></a><span class="kn">import</span> <span class="nn">re</span>
+<a href="#__codelineno-7-3" id="__codelineno-7-3" name="__codelineno-7-3"></a><span class="kn">from</span> <span class="nn">urllib.parse</span> <span class="kn">import</span> <span class="n">quote_plus</span>
+<a href="#__codelineno-7-4" id="__codelineno-7-4" name="__codelineno-7-4"></a>
+<a href="#__codelineno-7-5" id="__codelineno-7-5" name="__codelineno-7-5"></a><span class="k">def</span> <span class="nf">detect_jargon</span><span class="p">(</span><span class="n">folder</span><span class="p">):</span>
+<a href="#__codelineno-7-6" id="__codelineno-7-6" name="__codelineno-7-6"></a>    <span class="c1"># Compile the regular expression for detecting jargon</span>
+<a href="#__codelineno-7-7" id="__codelineno-7-7" name="__codelineno-7-7"></a>    <span class="n">pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="sa">r</span><span class="s1">'\b[A-Z]{2,}\b'</span><span class="p">)</span>
+<a href="#__codelineno-7-8" id="__codelineno-7-8" name="__codelineno-7-8"></a>
+<a href="#__codelineno-7-9" id="__codelineno-7-9" name="__codelineno-7-9"></a>    <span class="c1"># Open the output file for writing</span>
+<a href="#__codelineno-7-10" id="__codelineno-7-10" name="__codelineno-7-10"></a>    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">'jibberjabber.md'</span><span class="p">,</span> <span class="s1">'w'</span><span class="p">)</span> <span class="k">as</span> <span class="n">outfile</span><span class="p">:</span>
+<a href="#__codelineno-7-11" id="__codelineno-7-11" name="__codelineno-7-11"></a>        <span class="k">for</span> <span class="n">root</span><span class="p">,</span> <span class="n">dirs</span><span class="p">,</span> <span class="n">files</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span><span class="n">folder</span><span class="p">):</span>
+<a href="#__codelineno-7-12" id="__codelineno-7-12" name="__codelineno-7-12"></a>            <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+<a href="#__codelineno-7-13" id="__codelineno-7-13" name="__codelineno-7-13"></a>                <span class="c1"># Ignore non-text files</span>
+<a href="#__codelineno-7-14" id="__codelineno-7-14" name="__codelineno-7-14"></a>                <span class="k">if</span> <span class="ow">not</span> <span class="n">filename</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s1">'.txt'</span><span class="p">):</span>
+<a href="#__codelineno-7-15" id="__codelineno-7-15" name="__codelineno-7-15"></a>                    <span class="k">continue</span>
+<a href="#__codelineno-7-16" id="__codelineno-7-16" name="__codelineno-7-16"></a>
+<a href="#__codelineno-7-17" id="__codelineno-7-17" name="__codelineno-7-17"></a>                <span class="c1"># Construct the full path to the file</span>
+<a href="#__codelineno-7-18" id="__codelineno-7-18" name="__codelineno-7-18"></a>                <span class="n">filepath</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">filename</span><span class="p">)</span>
+<a href="#__codelineno-7-19" id="__codelineno-7-19" name="__codelineno-7-19"></a>
+<a href="#__codelineno-7-20" id="__codelineno-7-20" name="__codelineno-7-20"></a>                <span class="c1"># Open the file for reading</span>
+<a href="#__codelineno-7-21" id="__codelineno-7-21" name="__codelineno-7-21"></a>                <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">filepath</span><span class="p">,</span> <span class="s1">'r'</span><span class="p">)</span> <span class="k">as</span> <span class="n">infile</span><span class="p">:</span>
+<a href="#__codelineno-7-22" id="__codelineno-7-22" name="__codelineno-7-22"></a>                    <span class="k">for</span> <span class="n">linenum</span><span class="p">,</span> <span class="n">line</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">infile</span><span class="p">,</span> <span class="n">start</span><span class="o">=</span><span class="mi">1</span><span class="p">):</span>
+<a href="#__codelineno-7-23" id="__codelineno-7-23" name="__codelineno-7-23"></a>                        <span class="c1"># Search for jargon in the line</span>
+<a href="#__codelineno-7-24" id="__codelineno-7-24" name="__codelineno-7-24"></a>                        <span class="n">matches</span> <span class="o">=</span> <span class="n">pattern</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
+<a href="#__codelineno-7-25" id="__codelineno-7-25" name="__codelineno-7-25"></a>                        <span class="k">if</span> <span class="n">matches</span><span class="p">:</span>
+<a href="#__codelineno-7-26" id="__codelineno-7-26" name="__codelineno-7-26"></a>                            <span class="c1"># Generate a Google search link for each match</span>
+<a href="#__codelineno-7-27" id="__codelineno-7-27" name="__codelineno-7-27"></a>                            <span class="n">links</span> <span class="o">=</span> <span class="p">[</span><span class="sa">f</span><span class="s1">'[Google search](https://www.google.com/search?q=</span><span class="si">{</span><span class="n">quote_plus</span><span class="p">(</span><span class="n">match</span><span class="p">)</span><span class="si">}</span><span class="s1">)'</span>
+<a href="#__codelineno-7-28" id="__codelineno-7-28" name="__codelineno-7-28"></a>                                     <span class="k">for</span> <span class="n">match</span> <span class="ow">in</span> <span class="n">matches</span><span class="p">]</span>
+<a href="#__codelineno-7-29" id="__codelineno-7-29" name="__codelineno-7-29"></a>                            <span class="c1"># Write the match and link to the output file</span>
+<a href="#__codelineno-7-30" id="__codelineno-7-30" name="__codelineno-7-30"></a>                            <span class="n">outfile</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">filepath</span><span class="si">}</span><span class="s1">:</span><span class="si">{</span><span class="n">linenum</span><span class="si">}</span><span class="s1"> - </span><span class="si">{</span><span class="s2">", "</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">matches</span><span class="p">)</span><span class="si">}</span><span class="s1"> (</span><span class="si">{</span><span class="s2">", "</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">links</span><span class="p">)</span><span class="si">}</span><span class="s1">)</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+</code></pre></div>
 </article>
 </div>
 </div>
 </main>
 <footer class="md-footer">
 <nav aria-label="Footer" class="md-footer__inner md-grid">
-<a aria-label="Previous: active voice" class="md-footer__link md-footer__link--prev" href="../active_voice/" rel="prev">
+<a aria-label="Previous: history" class="md-footer__link md-footer__link--prev" href="../history/" rel="prev">
 <div class="md-footer__button md-icon">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
 </div>
@@ -562,17 +655,17 @@
 <span class="md-footer__direction">
                   Previous
                 </span>
-                active voice
+                history
               </div>
 </div>
 </a>
-<a aria-label="Next: cross referencing" class="md-footer__link md-footer__link--next" href="../cross/" rel="next">
+<a aria-label="Next: documentaiton templates" class="md-footer__link md-footer__link--next" href="../project_template/" rel="next">
 <div class="md-footer__title">
 <div class="md-ellipsis">
 <span class="md-footer__direction">
                   Next
                 </span>
-                cross referencing
+                documentaiton templates
               </div>
 </div>
 <div class="md-footer__button md-icon">

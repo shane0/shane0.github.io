@@ -5,11 +5,11 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
-<link href="../active_voice/" rel="prev"/>
-<link href="../cross/" rel="next"/>
+<link href="../style_guide/" rel="prev"/>
+<link href="../troubleshooter/" rel="next"/>
 <link href="../../assets/images/favicon.png" rel="icon"/>
 <meta content="mkdocs-1.4.2, mkdocs-material-9.0.6" name="generator"/>
-<title>cartesian doubt - shane0 meditation notes</title>
+<title>present tense - shane0 meditation notes</title>
 <link href="../../assets/stylesheets/main.558e4712.min.css" rel="stylesheet"/>
 <link href="../../assets/stylesheets/palette.2505c338.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
@@ -34,7 +34,7 @@
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
-<a class="md-skip" href="#cartesian-doubt">
+<a class="md-skip" href="#present-tense">
           Skip to content
         </a>
 </div>
@@ -58,7 +58,7 @@
 <div class="md-header__topic" data-md-component="header-topic">
 <span class="md-ellipsis">
             
-              cartesian doubt
+              present tense
             
           </span>
 </div>
@@ -462,9 +462,8 @@
         active voice
       </a>
 </li>
-<li class="md-nav__item md-nav__item--active">
-<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
-<a class="md-nav__link md-nav__link--active" href="./">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../cartesian_doubt/">
         cartesian doubt
       </a>
 </li>
@@ -503,8 +502,9 @@
         GitLab guide
       </a>
 </li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../tense/">
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<a class="md-nav__link md-nav__link--active" href="./">
         present tense
       </a>
 </li>
@@ -537,23 +537,117 @@
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
 <nav class="md-tags">
-<a class="md-tag" href="../../#workflow">workflow</a>
+<a class="md-tag" href="../../#style-guide">style guide</a>
 </nav>
-<h1 id="cartesian-doubt">cartesian doubt</h1>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Cartesian_doubt">https://en.wikipedia.org/wiki/Cartesian_doubt</a></li>
-<li>accepting only information you know to be true</li>
-<li>breaking down these truths into smaller units</li>
-<li>solving the simple problems first</li>
-<li>making complete lists of further problems</li>
-</ul>
+<h1 id="present-tense">present tense</h1>
+<p>from the gitlab style guide<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
+<blockquote>
+<p>regex</p>
+</blockquote>
+<p>To find future tense using a regular expression, you can look for auxiliary verbs like "will" or "shall" followed by a base form of the verb. Here's an example regular expression:</p>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-0-1" id="__codelineno-0-1" name="__codelineno-0-1"></a><span class="se">\b</span><span class="o">(</span>will<span class="p">|</span>shall<span class="o">)</span><span class="se">\s</span>+<span class="se">\w</span>+<span class="se">\b</span>
+</code></pre></div>
+<p>This regular expression matches a word boundary (\b), followed by either "will" or "shall" (will|shall), followed by one or more whitespace characters (\s+), followed by one or more word characters (\w+), followed by another word boundary (\b).</p>
+<p>This pattern matches common constructions of future tense in English, such as "will go," "shall return," or "will have finished." However, keep in mind that some expressions of future tense may not include an auxiliary verb or may use alternative constructions, such as "going to" or the present continuous tense. Therefore, it's important to use your judgment and understanding of English grammar when interpreting the results.</p>
+<blockquote>
+<p>grep</p>
+</blockquote>
+<p>To add line numbers to the output of grep when searching for future tense, you can use the -n flag to show line numbers and the -E flag to enable extended regular expressions. Here's an example command:</p>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-1-1" id="__codelineno-1-1" name="__codelineno-1-1"></a>grep<span class="w"> </span>-nE<span class="w"> </span><span class="s1">'\b(will|shall)\s+\w+\b'</span><span class="w"> </span>myfile.txt
+</code></pre></div>
+<p>This command searches for lines in myfile.txt that match the regular expression pattern for future tense. The -n flag tells grep to include line numbers in its output, and the -E flag enables extended regular expressions.</p>
+<p>The output of this command will be a list of line numbers and matching lines containing future tense. You can then review these lines manually to determine if they need to be revised.</p>
+<p>Keep in mind that this command is not foolproof and may produce false positives or miss some instances of future tense, so it's important to use your judgment and understanding of English grammar when interpreting the results.</p>
+<blockquote>
+<p>sed</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-2-1" id="__codelineno-2-1" name="__codelineno-2-1"></a>sed<span class="w"> </span>-n<span class="w"> </span><span class="s1">'/\b\(will\|shall\)\s\+\w\+\b/{=;}'</span><span class="w"> </span>myfile.txt
+</code></pre></div>
+<blockquote>
+<p>python</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-3-1" id="__codelineno-3-1" name="__codelineno-3-1"></a><span class="kn">import</span> <span class="nn">re</span>
+<a href="#__codelineno-3-2" id="__codelineno-3-2" name="__codelineno-3-2"></a><span class="kn">import</span> <span class="nn">os</span>
+<a href="#__codelineno-3-3" id="__codelineno-3-3" name="__codelineno-3-3"></a>
+<a href="#__codelineno-3-4" id="__codelineno-3-4" name="__codelineno-3-4"></a><span class="c1"># Specify the directory to search</span>
+<a href="#__codelineno-3-5" id="__codelineno-3-5" name="__codelineno-3-5"></a><span class="n">directory</span> <span class="o">=</span> <span class="s1">'/path/to/directory'</span>
+<a href="#__codelineno-3-6" id="__codelineno-3-6" name="__codelineno-3-6"></a>
+<a href="#__codelineno-3-7" id="__codelineno-3-7" name="__codelineno-3-7"></a><span class="c1"># Specify the regular expression for future tense</span>
+<a href="#__codelineno-3-8" id="__codelineno-3-8" name="__codelineno-3-8"></a><span class="n">future_tense_regex</span> <span class="o">=</span> <span class="sa">r</span><span class="s1">'\b(will|shall)\s+\w+\b'</span>
+<a href="#__codelineno-3-9" id="__codelineno-3-9" name="__codelineno-3-9"></a>
+<a href="#__codelineno-3-10" id="__codelineno-3-10" name="__codelineno-3-10"></a><span class="c1"># Specify the output file path</span>
+<a href="#__codelineno-3-11" id="__codelineno-3-11" name="__codelineno-3-11"></a><span class="n">output_file</span> <span class="o">=</span> <span class="s1">'output.md'</span>
+<a href="#__codelineno-3-12" id="__codelineno-3-12" name="__codelineno-3-12"></a>
+<a href="#__codelineno-3-13" id="__codelineno-3-13" name="__codelineno-3-13"></a><span class="c1"># Open the output file in write mode</span>
+<a href="#__codelineno-3-14" id="__codelineno-3-14" name="__codelineno-3-14"></a><span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">output_file</span><span class="p">,</span> <span class="s1">'w'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+<a href="#__codelineno-3-15" id="__codelineno-3-15" name="__codelineno-3-15"></a>
+<a href="#__codelineno-3-16" id="__codelineno-3-16" name="__codelineno-3-16"></a>    <span class="c1"># Traverse the directory and search for future tense in each file</span>
+<a href="#__codelineno-3-17" id="__codelineno-3-17" name="__codelineno-3-17"></a>    <span class="k">for</span> <span class="n">root</span><span class="p">,</span> <span class="n">dirs</span><span class="p">,</span> <span class="n">files</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span><span class="n">directory</span><span class="p">):</span>
+<a href="#__codelineno-3-18" id="__codelineno-3-18" name="__codelineno-3-18"></a>        <span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+<a href="#__codelineno-3-19" id="__codelineno-3-19" name="__codelineno-3-19"></a>            <span class="k">if</span> <span class="n">file</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s1">'.txt'</span><span class="p">):</span>  <span class="c1"># Specify the file extension to search</span>
+<a href="#__codelineno-3-20" id="__codelineno-3-20" name="__codelineno-3-20"></a>                <span class="n">file_path</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">file</span><span class="p">)</span>
+<a href="#__codelineno-3-21" id="__codelineno-3-21" name="__codelineno-3-21"></a>                <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">file_path</span><span class="p">,</span> <span class="s1">'r'</span><span class="p">)</span> <span class="k">as</span> <span class="n">text_file</span><span class="p">:</span>
+<a href="#__codelineno-3-22" id="__codelineno-3-22" name="__codelineno-3-22"></a>                    <span class="k">for</span> <span class="n">line_number</span><span class="p">,</span> <span class="n">line</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">text_file</span><span class="p">):</span>
+<a href="#__codelineno-3-23" id="__codelineno-3-23" name="__codelineno-3-23"></a>                        <span class="k">if</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="n">future_tense_regex</span><span class="p">,</span> <span class="n">line</span><span class="p">):</span>
+<a href="#__codelineno-3-24" id="__codelineno-3-24" name="__codelineno-3-24"></a>                            <span class="c1"># Write the file name and line number to the output file</span>
+<a href="#__codelineno-3-25" id="__codelineno-3-25" name="__codelineno-3-25"></a>                            <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">file_path</span><span class="si">}</span><span class="s1">:</span><span class="si">{</span><span class="n">line_number</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">1</span><span class="si">}</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+</code></pre></div>
+<blockquote>
+<p>module</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-4-1" id="__codelineno-4-1" name="__codelineno-4-1"></a><span class="kn">import</span> <span class="nn">re</span>
+<a href="#__codelineno-4-2" id="__codelineno-4-2" name="__codelineno-4-2"></a><span class="kn">import</span> <span class="nn">os</span>
+<a href="#__codelineno-4-3" id="__codelineno-4-3" name="__codelineno-4-3"></a>
+<a href="#__codelineno-4-4" id="__codelineno-4-4" name="__codelineno-4-4"></a>
+<a href="#__codelineno-4-5" id="__codelineno-4-5" name="__codelineno-4-5"></a><span class="k">def</span> <span class="nf">find_future_tense</span><span class="p">(</span><span class="n">directory</span><span class="p">):</span>
+<a href="#__codelineno-4-6" id="__codelineno-4-6" name="__codelineno-4-6"></a><span class="w">    </span><span class="sd">"""</span>
+<a href="#__codelineno-4-7" id="__codelineno-4-7" name="__codelineno-4-7"></a><span class="sd">    Find future tense in all files in the specified directory.</span>
+<a href="#__codelineno-4-8" id="__codelineno-4-8" name="__codelineno-4-8"></a><span class="sd">    Return a list of tuples containing the file path and line numbers where future tense is found.</span>
+<a href="#__codelineno-4-9" id="__codelineno-4-9" name="__codelineno-4-9"></a><span class="sd">    """</span>
+<a href="#__codelineno-4-10" id="__codelineno-4-10" name="__codelineno-4-10"></a>    <span class="c1"># Specify the regular expression for future tense</span>
+<a href="#__codelineno-4-11" id="__codelineno-4-11" name="__codelineno-4-11"></a>    <span class="n">future_tense_regex</span> <span class="o">=</span> <span class="sa">r</span><span class="s1">'\b(will|shall)\s+\w+\b'</span>
+<a href="#__codelineno-4-12" id="__codelineno-4-12" name="__codelineno-4-12"></a>
+<a href="#__codelineno-4-13" id="__codelineno-4-13" name="__codelineno-4-13"></a>    <span class="c1"># Create an empty list to store the results</span>
+<a href="#__codelineno-4-14" id="__codelineno-4-14" name="__codelineno-4-14"></a>    <span class="n">results</span> <span class="o">=</span> <span class="p">[]</span>
+<a href="#__codelineno-4-15" id="__codelineno-4-15" name="__codelineno-4-15"></a>
+<a href="#__codelineno-4-16" id="__codelineno-4-16" name="__codelineno-4-16"></a>    <span class="c1"># Traverse the directory and search for future tense in each file</span>
+<a href="#__codelineno-4-17" id="__codelineno-4-17" name="__codelineno-4-17"></a>    <span class="k">for</span> <span class="n">root</span><span class="p">,</span> <span class="n">dirs</span><span class="p">,</span> <span class="n">files</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span><span class="n">directory</span><span class="p">):</span>
+<a href="#__codelineno-4-18" id="__codelineno-4-18" name="__codelineno-4-18"></a>        <span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+<a href="#__codelineno-4-19" id="__codelineno-4-19" name="__codelineno-4-19"></a>            <span class="k">if</span> <span class="n">file</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s1">'.txt'</span><span class="p">):</span>  <span class="c1"># Specify the file extension to search</span>
+<a href="#__codelineno-4-20" id="__codelineno-4-20" name="__codelineno-4-20"></a>                <span class="n">file_path</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">file</span><span class="p">)</span>
+<a href="#__codelineno-4-21" id="__codelineno-4-21" name="__codelineno-4-21"></a>                <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">file_path</span><span class="p">,</span> <span class="s1">'r'</span><span class="p">)</span> <span class="k">as</span> <span class="n">text_file</span><span class="p">:</span>
+<a href="#__codelineno-4-22" id="__codelineno-4-22" name="__codelineno-4-22"></a>                    <span class="k">for</span> <span class="n">line_number</span><span class="p">,</span> <span class="n">line</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">text_file</span><span class="p">):</span>
+<a href="#__codelineno-4-23" id="__codelineno-4-23" name="__codelineno-4-23"></a>                        <span class="k">if</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="n">future_tense_regex</span><span class="p">,</span> <span class="n">line</span><span class="p">):</span>
+<a href="#__codelineno-4-24" id="__codelineno-4-24" name="__codelineno-4-24"></a>                            <span class="c1"># Append the file path and line number to the results list</span>
+<a href="#__codelineno-4-25" id="__codelineno-4-25" name="__codelineno-4-25"></a>                            <span class="n">results</span><span class="o">.</span><span class="n">append</span><span class="p">((</span><span class="n">file_path</span><span class="p">,</span> <span class="n">line_number</span> <span class="o">+</span> <span class="mi">1</span><span class="p">))</span>
+<a href="#__codelineno-4-26" id="__codelineno-4-26" name="__codelineno-4-26"></a>
+<a href="#__codelineno-4-27" id="__codelineno-4-27" name="__codelineno-4-27"></a>    <span class="k">return</span> <span class="n">results</span>
+</code></pre></div>
+<div class="highlight"><pre><span></span><code><a href="#__codelineno-5-1" id="__codelineno-5-1" name="__codelineno-5-1"></a><span class="kn">import</span> <span class="nn">future_tense</span>
+<a href="#__codelineno-5-2" id="__codelineno-5-2" name="__codelineno-5-2"></a>
+<a href="#__codelineno-5-3" id="__codelineno-5-3" name="__codelineno-5-3"></a><span class="n">directory</span> <span class="o">=</span> <span class="s1">'/path/to/directory'</span>
+<a href="#__codelineno-5-4" id="__codelineno-5-4" name="__codelineno-5-4"></a><span class="n">results</span> <span class="o">=</span> <span class="n">future_tense</span><span class="o">.</span><span class="n">find_future_tense</span><span class="p">(</span><span class="n">directory</span><span class="p">)</span>
+<a href="#__codelineno-5-5" id="__codelineno-5-5" name="__codelineno-5-5"></a>
+<a href="#__codelineno-5-6" id="__codelineno-5-6" name="__codelineno-5-6"></a><span class="c1"># Write the results to an output file</span>
+<a href="#__codelineno-5-7" id="__codelineno-5-7" name="__codelineno-5-7"></a><span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">'output.md'</span><span class="p">,</span> <span class="s1">'w'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+<a href="#__codelineno-5-8" id="__codelineno-5-8" name="__codelineno-5-8"></a>    <span class="k">for</span> <span class="n">file_path</span><span class="p">,</span> <span class="n">line_number</span> <span class="ow">in</span> <span class="n">results</span><span class="p">:</span>
+<a href="#__codelineno-5-9" id="__codelineno-5-9" name="__codelineno-5-9"></a>        <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">file_path</span><span class="si">}</span><span class="s1">:</span><span class="si">{</span><span class="n">line_number</span><span class="si">}</span><span class="se">\n</span><span class="s1">'</span><span class="p">)</span>
+</code></pre></div>
+<div class="footnote">
+<hr/>
+<ol>
+<li id="fn:1">
+<p><a href="https://docs.gitlab.com/ee/development/documentation/styleguide/">https://docs.gitlab.com/ee/development/documentation/styleguide/</a> <a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a></p>
+</li>
+</ol>
+</div>
 </article>
 </div>
 </div>
 </main>
 <footer class="md-footer">
 <nav aria-label="Footer" class="md-footer__inner md-grid">
-<a aria-label="Previous: active voice" class="md-footer__link md-footer__link--prev" href="../active_voice/" rel="prev">
+<a aria-label="Previous: GitLab guide" class="md-footer__link md-footer__link--prev" href="../style_guide/" rel="prev">
 <div class="md-footer__button md-icon">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
 </div>
@@ -562,17 +656,17 @@
 <span class="md-footer__direction">
                   Previous
                 </span>
-                active voice
+                GitLab guide
               </div>
 </div>
 </a>
-<a aria-label="Next: cross referencing" class="md-footer__link md-footer__link--next" href="../cross/" rel="next">
+<a aria-label="Next: troubleshooting" class="md-footer__link md-footer__link--next" href="../troubleshooter/" rel="next">
 <div class="md-footer__title">
 <div class="md-ellipsis">
 <span class="md-footer__direction">
                   Next
                 </span>
-                cross referencing
+                troubleshooting
               </div>
 </div>
 <div class="md-footer__button md-icon">

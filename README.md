@@ -19,3 +19,9 @@ pip install --upgrade mkdocs-material
 virtualenv venv
 pip install mkdocs-glightbox
 ```
+
+- whoops
+
+```sh
+git pull --no-ff
+```

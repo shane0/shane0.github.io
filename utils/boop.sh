@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
+
+# git pull --no-ff
 # grep -rno '\b[A-Z]{2,}\b' docs/
-sed -n '/\b[A-Z]{2,}\b/=' docs/index.md
+# sed -n '/\b[A-Z]{2,}\b/=' docs/index.md
 
 
 # find /docs -type f -exec sed -i 's/replace me//g' {} +

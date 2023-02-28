@@ -87,7 +87,7 @@ It's important to note that this list is not exhaustive and other suttas may als
 
 The Sigalovada Sutta is a Buddhist scripture that provides advice on how to live an ethical and harmonious life, and foster good relationships with family, friends, and community.
 
-It provides a code of conduct for laypeople, outlining the duties and responsibilities of householders towards their parents, spouse, children, friends, employees, and society as a whole.
+It provides a code of conduct for laypeople, outlining the duties and responsibilities of householders towards their parents, spouse, children, friends, a person's, and society as a whole.
 
 The sutta emphasizes the importance of generosity, honesty, wisdom, and virtuous behavior, and provides guidance on how to cultivate these qualities and live a fulfilling life.
 

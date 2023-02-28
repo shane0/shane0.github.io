@@ -5,6 +5,7 @@
     [tldr videos](tldr.md){ .md-button }
     [anapanasati](anapanasati.md){ .md-button }
     [maranasati](maranasati.md){ .md-button }
+    [zen](zen.md){ .md-button }
 
 !!! warning "strength training for your body"
 

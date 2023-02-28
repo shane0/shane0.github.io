@@ -248,3 +248,20 @@ I pray to you: Come and bless me with your grace!"
 ```
 
 Reciting this prayer is believed to invoke Guru Rinpoche's blessings and to open the heart to his wisdom and compassion. It is commonly recited at the beginning of meditation practices and other spiritual activities in the Nyingma tradition.
+
+## padmasambhava
+
+| Quote                                                       | Source                      |
+| ------------------------------------------------------------ | ---------------------------|
+| "My father is the intrinsic awareness, Samantabhadra. My mother is the ultimate sphere of reality, Samantabhadri." | The Light of Wisdom Volume I |
+| "All the suffering of the lower realms, whatever difficulty and unhappiness we may experience as human beings, as well as every other possible suffering of the three realms of existence, have their origin in ignorance." | The Light of Wisdom Volume I |
+| "Do not let your mind be stained by any negativity. Do not let your name be sullied by any evil." | The Light of Wisdom Volume I |
+| "All the manifestations of samsara and nirvana are nothing but the display of the mind's own nature." | The Light of Wisdom Volume II |
+| "Those who are attached to their own self-importance will not be open to a greater understanding of the teachings." | The Lotus-Born: The Life Story of Padmasambhava |
+| "Even if we have meditated for years, if we cannot apply our practice to everyday life and transform our deluded emotions, it is doubtful that we have attained any realization at all." | The Light of Wisdom Volume II |
+| "The ultimate result of all practices is the realization of the primordial state of enlightenment, which is beyond all conceptual elaboration." | The Light of Wisdom Volume I |
+| "The nature of mind is like space: it is empty and vast, encompassing all phenomena without discrimination." | The Light of Wisdom Volume II |
+| "All phenomena are like a dream, an illusion, a bubble, a shadow, like dew or like a flash of lightning." | The Light of Wisdom Volume I |
+| "May the blessings of the Guru, the Lama, and the Yidam purify all obscurations and transform all beings into the primordial nature of mind." | The Light of Wisdom Volume II |
+
+## 

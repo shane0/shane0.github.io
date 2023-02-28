@@ -5,7 +5,7 @@ tags:
   - dukkha 
   - style guide 
 ---
-# language dysfunction
+# labels and form[^1]
 
 - language is a double edged sword
 - language (name & form) is a root cause in egocentrism in buddhism and psychology
@@ -44,7 +44,7 @@ Overall, language barriers are often a result of a combination of these factors,
 - Government: Governments may face language barriers when communicating with citizens who speak different languages, which can lead to misunderstandings and decreased trust in government institutions.
 - Legal: Legal professionals may face language barriers when dealing with clients who do not speak the same language as them, which can make it difficult to provide effective representation.
 - Tourism: Tourism can create language barriers when tourists visit countries where they do not speak the language, making it difficult to communicate with locals and navigate the local culture.
-- Technology: The rise of global technology companies has created language barriers in the workplace, as companies may have employees from different countries who do not speak the same language.
+- Technology: The rise of global technology companies has created language barriers in the workplace, as companies may have a person from different countries who do not speak the same language.
 
 > Language barrier symptoms
 
@@ -122,20 +122,20 @@ Passive voice is a grammatical construction in which the subject of a sentence a
 
 ## Gaslighting
 
-Gaslighting is a form of emotional abuse that involves manipulating or distorting someone's perception of reality in order to gain power or control over them. Here are some behaviors that a person who is gaslighting their employees may exhibit:
+Gaslighting is a form of emotional abuse that involves manipulating or distorting someone's perception of reality in order to gain power or control over them. Here are some behaviors that a person who is gaslighting their a person may exhibit:
 
-- Denying or dismissing employees' concerns or emotions as unimportant or invalid.
-- Blaming employees for mistakes or problems that are not their fault.
+- Denying or dismissing a person' concerns or emotions as unimportant or invalid.
+- Blaming a person for mistakes or problems that are not their fault.
 - Minimizing or denying facts or evidence that contradicts their own version of events.
-- Dismissing employees' achievements or contributions, or taking credit for their work.
-- Making employees doubt their own memory, perception, or judgment.
-- Twisting employees' words or intentions, or using them out of context.
-- Invalidating employees' experiences or feelings by telling them they are "too sensitive" or "overreacting."
-- Insisting that employees apologize for things they did not do, or that they are responsible for other people's mistakes.
-- Criticizing employees excessively or inconsistently, or using mixed messages to confuse them.
-- Threatening employees with negative consequences if they do not comply with their demands or expectations.
+- Dismissing a person' achievements or contributions, or taking credit for their work.
+- Making a person doubt their own memory, perception, or judgment.
+- Twisting a person' words or intentions, or using them out of context.
+- Invalidating a person' experiences or feelings by telling them they are "too sensitive" or "overreacting."
+- Insisting that a person apologize for things they did not do, or that they are responsible for other people's mistakes.
+- Criticizing a person excessively or inconsistently, or using mixed messages to confuse them.
+- Threatening a person with negative consequences if they do not comply with their demands or expectations.
 
-It is important to note that gaslighting is a serious form of emotional abuse and can have lasting negative effects on a person's mental health and well-being. Employers should take all complaints of gaslighting seriously and take appropriate action to address the issue.
+It is important to note that gaslighting is a serious form of emotional abuse and can have lasting negative effects on a person mental health and well-being.
 
 ## cults
 
@@ -179,3 +179,5 @@ Cult leaders may use a variety of brainwashing techniques to control their follo
 - Fragile self-esteem that is easily threatened
 - Need for constant admiration and praise
 - Sense of entitlement to special treatment or privileges
+
+[^1]:[interdependence](interdependence.md)

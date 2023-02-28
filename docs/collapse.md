@@ -26,7 +26,7 @@ it is thought that the total number of humans who have ever lived is somewhere b
 
 Assuming an average population density of 50 people per square kilometer, 120 billion people would require around {==2.4 million square kilometers of land area==}.
 
-### space on land
+### land area
 
 The total land area of the Earth is approximately {==148,940,000 square kilometers==}. This includes all the continents, islands, and other land masses on the planet. It is important to note that this number may vary slightly depending on how land area is defined and measured.
 
@@ -34,14 +34,143 @@ The total land area of the Earth is approximately {==148,940,000 square kilomete
 
 Estimates of the Earth's carrying capacity for humans range widely, from as few as 1 billion to as many as 1 trillion or more, depending on assumptions and scenarios. However, most estimates fall within a range of 4 to 16 billion people, with the current global population of around 7.9 billion already exceeding the Earth's sustainable carrying capacity according to many experts.
 
-## my best guess
+## greed
 
-- the greatest threat to humans are humans
-- ai and crispr are vastly underestimated
-- ai first but in the end cripsr will result in super humans that are unrecognizable
-- crisp: someone already edited babies, gloves are off, beyond that we won't know what research is happening until it is too late
-- military and crispr: the first country to use crispr for military will rule earth
-- military and ai: same, robocop is already here, wars are fought with drones
+Greed is often caused by a desire for more wealth or possessions, as well as a fear of not having enough. It can also be influenced by societal and cultural values, such as a focus on material success and competition. Additionally, some research suggests that biological factors, such as genetics and brain chemistry, may play a role in shaping individuals' propensity for greed.
+
+| Rank | Name | Net Worth (Billion USD) | Source of Wealth |
+| --- | --- | --- | --- |
+| 1 | Elon Musk | 195.7 | Tesla, SpaceX, Neuralink |
+| 2 | Jeff Bezos | 191.6 | Amazon |
+| 3 | Bernard Arnault & Family | 178.2 | LVMH |
+| 4 | Bill Gates | 130.9 | Microsoft |
+| 5 | Mark Zuckerberg | 106.4 | Facebook |
+| 6 | Warren Buffett | 94.7 | Berkshire Hathaway |
+| 7 | Larry Ellison | 84.6 | Oracle |
+| 8 | Larry Page | 79.4 | Google |
+| 9 | Sergey Brin | 76.8 | Google |
+| 10 | Steve Ballmer | 71.6 | Microsoft |
+
+## monopolies
+
+| Event | Date | Citation |
+|-------|------|----------|
+| Standard Oil Company is incorporated | January 10, 1870 | [Source](https://www.history.com/topics/early-20th-century-us/standard-oil-trust) |
+| United States Steel Corporation is founded | February 25, 1901 | [Source](https://www.history.com/topics/19th-century/american-industrial-revolution) |
+| American Tobacco Company is formed | January 31, 1902 | [Source](https://www.britannica.com/topic/American-Tobacco-Company) |
+| International Mercantile Marine Company is formed | April 1902 | [Source](https://www.britannica.com/topic/International-Mercantile-Marine-Company) |
+| Northern Securities Company is formed | November 1901 | [Source](https://www.history.com/this-day-in-history/theodore-roosevelt-takes-on-trusts) |
+| Radio Corporation of America (RCA) is formed | October 17, 1919 | [Source](https://www.britannica.com/topic/Radio-Corporation-of-America) |
+| Aluminum Company of America (Alcoa) is formed | October 1, 1888 | [Source](https://www.britannica.com/topic/Aluminum-Company-of-America) |
+| International Business Machines Corporation (IBM) is founded | June 16, 1911 | [Source](https://www.ibm.com/ibm/history/history/year_1911.html) |
+| Bell Telephone Company is founded | July 9, 1877 | [Source](https://www.history.com/topics/inventions/telephone) |
+| Microsoft Corporation is founded | April 4, 1975 | [Source](https://www.britannica.com/topic/Microsoft-Corporation) |
+
+> coca cola
+
+| Company | Business |
+|---------|----------|
+| Costa Coffee | Coffee Shops |
+| Honest Tea | Bottled Tea |
+| Minute Maid | Fruit Beverages |
+| Simply Orange | Orange Juice |
+| SmartWater | Bottled Water |
+| Vitamin Water | Flavored Water |
+| Zico | Coconut Water |
+| Odwalla | Smoothies and Juices |
+| FUZE Tea | Bottled Tea |
+| Innocent Drinks | Smoothies and Juices |
+
+> pepsi
+
+| Company Name           | Type of Business        |
+|------------------------|------------------------|
+| Pepsi-Cola              | Beverage Manufacturing  |
+| Frito-Lay               | Snack Food Manufacturing|
+| Tropicana              | Juice Manufacturing     |
+| Gatorade              | Sports Drink Manufacturing |
+| Quaker Foods            | Cereal and Snack Manufacturing|
+| Sabra Dipping Company  | Hummus and Dips Manufacturing|
+| Naked Juice            | Juice and Smoothie Manufacturing|
+| KeVita                 | Probiotic Drinks Manufacturing|
+| Lipton                 | Tea Manufacturing       |
+| Rockstar Energy        | Energy Drink Manufacturing |
+| Starbucks Ready-to-Drink Beverages | Bottled Coffee and Tea Manufacturing |
+| Muscle Milk            | Protein Drink Manufacturing |
+| Bang Energy           | Energy Drink Manufacturing |
+| Izze                   | Sparkling Juice Manufacturing |
+| Hilo Life             | Keto Snack Manufacturing |
+
+| Brand           | Product Type     |
+|----------------|-----------------|
+| Pepsi           | Carbonated Soft Drink |
+| Lay's           | Potato Chips    |
+| Tostitos        | Tortilla Chips  |
+| Doritos         | Tortilla Chips  |
+| Cheetos         | Cheese Snacks   |
+| Quaker         | Oats and Snacks  |
+| Gatorade        | Sports Drink    |
+| Tropicana       | Juice           |
+| Naked Juice     | Juice           |
+| Mountain Dew    | Carbonated Soft Drink |
+| 7UP             | Carbonated Soft Drink |
+| Mirinda         | Carbonated Soft Drink |
+| Aquafina        | Bottled Water   |
+| Lipton          | Iced Tea        |
+| Brisk           | Iced Tea        |
+| Starbucks      | Bottled Coffee |
+| Rockstar        | Energy Drink   |
+
+> yum brand
+
+| Restaurant         | Type          |
+|--------------------|---------------|
+| KFC                | Fast Food     |
+| Taco Bell          | Fast Food     |
+| Pizza Hut          | Fast Casual   |
+| The Habit Burger   | Fast Casual   |
+
+> manipulation
+
+| Event | Date | Description | Consequences | Citation |
+| --- | --- | --- | --- | --- |
+| South Sea Bubble | 1720 | A stock market bubble in England | Resulted in the bankruptcy of many investors, including the government and the Company of the Bank of England | [source](https://www.history.com/topics/british-history/south-sea-bubble) |
+| Mississippi Company | 1719-1720 | A speculative bubble in France | Led to the bankruptcy of the company and the collapse of the French economy | [source](https://www.investopedia.com/terms/m/mississippi-bubble.asp) |
+| Panic of 1907 | 1907 | A financial crisis in the United States | Led to the creation of the Federal Reserve System to prevent future financial crises | [source](https://www.history.com/topics/early-20th-century-us/panic-of-1907) |
+| Tulip Mania | 1637 | A speculative bubble in the Netherlands | Led to the collapse of the Dutch tulip market | [source](https://www.britannica.com/topic/Tulip-Mania) |
+| Wall Street Crash of 1929 | 1929 | A stock market crash in the United States | Led to the Great Depression and a decade of economic hardship | [source](https://www.history.com/topics/1920s/wall-street-crash-of-1929) |
+
+> manipulating prices
+
+Vincent Kosuga was a farmer who became known for his attempt to manipulate the potato market in the United States in the 1950s. He managed to gain control of a large portion of the potato market by buying up the entire potato crop from farmers across the country and holding onto it in storage facilities. He then waited for the potato prices to rise before selling the potatoes for a profit.
+
+Kosuga's actions were not illegal, but they did raise concerns about the potential for individuals to manipulate commodity markets in this way. As a result of his actions, the government introduced new regulations to prevent market manipulation in the future.
+
+Silos are used to manipulate agriculture prices by allowing buyers to hold onto their stocks of crops until prices increase. This is known as hoarding, and it can lead to a shortage of crops in the market, which drives prices up. By controlling the supply of crops, silos can create an artificial shortage, allowing the owners to charge higher prices. Additionally, silos can be used to store crops until they can be sold at a more favorable price, further manipulating the market.
+
+> diamond silo
+
+There is no way to accurately determine the value of diamonds that are kept in vaults and not sold, as this information is not publicly available. Diamond companies and traders generally do not disclose the exact amount of inventory they hold, and the value of diamonds can also vary depending on a number of factors such as size, color, and clarity. Additionally, the value of diamonds can fluctuate over time due to changes in market demand and other economic factors.
+
+## genome
+
+The Human Genome Project, which was completed in 2003, identified the complete sequence of human DNA, which is estimated to contain approximately 3 billion base pairs. Since then, continued research has led to a better understanding of the structure and function of the human genome. While the majority of the human genome has been identified, there is still much that is not fully understood.
+
+It is estimated that only about 1-2% of the human genome encodes for proteins, the functional molecules that perform a wide range of tasks in the cell. The rest of the genome is made up of non-coding DNA, which was once thought to be "junk" but is now known to play important roles in regulation of gene expression and other cellular processes.
+
+There is a wealth of evidence for evolution, from observations of the natural world to the fossil record to the molecular evidence of DNA. Here are some of the key lines of evidence:
+
+Fossil record: The fossil record provides evidence of the evolution of species over time. Fossils of extinct species that were clearly distinct from any species alive today demonstrate that evolution has occurred.
+
+Comparative anatomy: The similarities in anatomy and structure among different species can be explained by a common ancestry. For example, the bones of the forelimbs of mammals such as humans, bats, whales, and birds all have the same basic structure, despite their differences in function, indicating that they evolved from a common ancestor.
+
+Biochemistry: The similarities in biochemistry and genetics among different species also provide evidence of evolution. For example, all living things use DNA as the genetic material, and the DNA sequences of different species are often similar in specific regions, reflecting a common ancestry.
+
+Geographic distribution of species: The geographic distribution of species can also provide evidence for evolution. For example, many species that are found on the same continents or island groups are more similar to each other than to species found elsewhere, suggesting that they evolved from a common ancestor and have diversified over time.
+
+Natural selection: Observing the process of natural selection in action, such as the development of antibiotic resistance in bacteria, provides further evidence of evolution. Natural selection is the mechanism by which evolution occurs, and by observing it, we can see how populations of organisms change over time.
+
+These are just a few examples of the many lines of evidence that support the theory of evolution.
 
 ## thegreatstory
 

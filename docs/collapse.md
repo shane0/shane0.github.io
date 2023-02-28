@@ -2,8 +2,9 @@
 tags:
   - impermanence
   - collapse 
+  - dna 
 ---
-# collapse of humanity
+# collapse
 
 !!! wow "will we live forever or wipe ourselves out?"
     - ai?  are humans going to live forever or wipe ourselves out?
@@ -11,6 +12,215 @@ tags:
 ## santa fe
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/-5A1WcFoxi4" title="My SFI: Cormac McCarthy describes the Santa Fe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- collapse of humanity, or any complex systems
+
+## extinction
+
+| Extinction Event | Approximate Time      | Estimated Number of Species Lost |
+| ---------------- | --------------------- | -------------------------------- |
+| End-Ordovician   | 444 million years ago | 85% of species lost              |
+| Late Devonian    | 383 million years ago | 75% of species lost              |
+| End-Permian      | 252 million years ago | 96% of species lost              |
+| End-Triassic     | 201 million years ago | 80% of species lost              |
+| End-Cretaceous   | 66 million years ago  | 76% of species lost              |
+
+## pandemics
+
+| Pandemic            | Year         | Death Toll                   |
+| ------------------- | ------------ | ---------------------------- |
+| Plague of Justinian | 541-542      | 25-50 million                |
+| Black Death         | 1346-1353    | 75-200 million               |
+| Smallpox            | 1520         | 56 million                   |
+| Spanish Flu         | 1918-1920    | 50 million                   |
+| HIV/AIDS            | 1981-present | 32 million (as of 2020)      |
+| COVID-19            | 2019-present | 5.5 million (as of Feb 2022) |
+
+## nautral disasters
+
+| Rank | Event                                    | Date | Location                       | Death Toll            |
+| ---- | ---------------------------------------- | ---- | ------------------------------ | --------------------- |
+| 1    | 1931 China floods                        | 1931 | China                          | 1,000,000 - 4,000,000 |
+| 2    | 1970 Bhola Cyclone                       | 1970 | East Pakistan (now Bangladesh) | 500,000 - 1,000,000   |
+| 3    | 1556 Shaanxi earthquake                  | 1556 | China                          | 830,000               |
+| 4    | 2010 Haiti earthquake                    | 2010 | Haiti                          | 230,000               |
+| 5    | 2004 Indian Ocean earthquake and tsunami | 2004 | Indian Ocean                   | 227,898               |
+| 6    | 1920 Haiyuan earthquake                  | 1920 | China                          | 200,000 - 240,000     |
+| 7    | 526 Antioch earthquake                   | 526  | Byzantine Empire (now Turkey)  | 250,000               |
+| 8    | 1976 Tangshan earthquake                 | 1976 | China                          | 242,000               |
+| 9    | 2013 Typhoon Haiyan                      | 2013 | Philippines                    | 6,300 - 6,700         |
+| 10   | 1991 Bangladesh cyclone                  | 1991 | Bangladesh                     | 138,000               |
+
+| Rank | Event                                           | Date               | Location                | Fatalities |
+| ---- | ----------------------------------------------- | ------------------ | ----------------------- | ---------- |
+| 1    | 2004 Indian Ocean earthquake and tsunami        | December 26, 2004  | Indian Ocean            | 230,000    |
+| 2    | 2011 Tōhoku earthquake and tsunami              | March 11, 2011     | Japan                   | 15,897     |
+| 3    | 1883 eruption of Krakatoa and tsunami           | August 26, 1883    | Sunda Strait, Indonesia | 36,417     |
+| 4    | 1993 Hokkaido Nansei-oki earthquake and tsunami | July 12, 1993      | Japan                   | 230        |
+| 5    | 2018 Sulawesi earthquake and tsunami            | September 28, 2018 | Indonesia               | 4,340      |
+| 6    | 1896 Sanriku earthquake and tsunami             | June 15, 1896      | Japan                   | 22,070     |
+| 7    | 1946 Nankaidō earthquake and tsunami            | December 20, 1946  | Japan                   | 1,330      |
+| 8    | 1868 Arica earthquake and tsunami               | August 13, 1868    | Peru and Chile          | 25,000     |
+| 9    | 2010 Chile earthquake and tsunami               | February 27, 2010  | Chile                   | 525        |
+| 10   | 2018 Sulawesi earthquake and tsunami            | September 28, 2018 | Indonesia               | 4,340      |
+
+| Rank | Storm Name         | Date     | Location        | Death Toll |
+| ---- | ------------------ | -------- | --------------- | ---------- |
+| 1    | Bhola Cyclone      | Nov 1970 | Bangladesh      | 500,000+   |
+| 2    | Haiphong Typhoon   | Oct 1881 | Vietnam         | 300,000+   |
+| 3    | Typhoon Nina       | Aug 1975 | China           | 229,000    |
+| 4    | Haiyan Typhoon     | Nov 2013 | Philippines     | 6,300      |
+| 5    | Bangladesh Cyclone | Apr 1991 | Bangladesh      | 138,000    |
+| 6    | Nagasaki Typhoon   | Sep 1945 | Japan           | 50,000+    |
+| 7    | Mitch Hurricane    | Oct 1998 | Central America | 11,000+    |
+| 8    | Nargis Cyclone     | May 2008 | Myanmar         | 138,000+   |
+| 9    | Katrina Hurricane  | Aug 2005 | United States   | 1,833      |
+| 10   | Audrey Hurricane   | Jun 1957 | United States   | 416        |
+
+| Rank | Fire Name                | Year | Location                      | Size (acres) | Fatalities |
+| ---- | ------------------------ | ---- | ----------------------------- | ------------ | ---------- |
+| 1    | Peshtigo Fire            | 1871 | Wisconsin, United States      | 1,200,000    | 1,500+     |
+| 2    | Great Fire of 1910       | 1910 | Idaho, Montana, United States | 3,000,000    | 87         |
+| 3    | Black Saturday Bushfires | 2009 | Victoria, Australia           | 1,100,000    | 173        |
+| 4    | Hinckley Fire            | 1894 | Minnesota, United States      | 250,000      | 418+       |
+| 5    | Waldo Canyon Fire        | 2012 | Colorado, United States       | 18,247       | 2          |
+| 6    | Camp Fire                | 2018 | California, United States     | 153,336      | 85         |
+| 7    | Cloquet Fire             | 1918 | Minnesota, United States      | 100,000      | 453        |
+| 8    | Yacolt Burn              | 1902 | Washington, United States     | 238,920      | 65+        |
+| 9    | Black Dragon Fire        | 1987 | Heilongjiang, China           | 3,000,000    | 200+       |
+| 10   | Matilija Fire            | 1932 | California, United States     | 220,000      | 0          |
+
+| Rank | Event                                      | Year(s)       | Area Deforested |
+| ---- | ------------------------------------------ | ------------- | --------------- |
+| 1    | Deforestation of the Amazon rainforest     | 1970s-present | 17%             |
+| 2    | Deforestation of the Indonesian rainforest | 1950s-present | 12%             |
+| 3    | Deforestation of the Congo rainforest      | 1900s-present | 8%              |
+| 4    | Deforestation of the Atlantic Forest       | 1500s-present | 93%             |
+| 5    | Deforestation of the Chaco                 | 1980s-present | 25%             |
+| 6    | Deforestation of the Gran Chaco            | 1900s-present | 20%             |
+| 7    | Deforestation of the Mata Atlântica        | 1500s-present | 88%             |
+| 8    | Deforestation of the Sundarbans            | 1900s-present | 26%             |
+| 9    | Deforestation of the Caatinga              | 1950s-present | 46%             |
+| 10   | Deforestation of the Cerrado               | 1960s-present | 50%             |
+
+| Rank | Event                              | Date              | Location                          | Death toll |
+| ---- | ---------------------------------- | ----------------- | --------------------------------- | ---------- |
+| 1    | Fukushima Daiichi nuclear disaster | March 11, 2011    | Japan                             | 15,899     |
+| 2    | Chernobyl disaster                 | April 26, 1986    | Ukraine                           | 4,000      |
+| 3    | Bhopal gas tragedy                 | December 3, 1984  | India                             | 3,787      |
+| 4    | Rana Plaza building collapse       | April 24, 2013    | Bangladesh                        | 1,135      |
+| 5    | Sampoong Department Store collapse | June 29, 1995     | South Korea                       | 502        |
+| 6    | Tenerife airport disaster          | March 27, 1977    | Canary Islands, Spain             | 583        |
+| 7    | Hyatt Regency walkway collapse     | July 17, 1981     | Kansas City, Missouri, USA        | 114        |
+| 8    | Pemberton Mill collapse            | January 10, 1860  | Lawrence, Massachusetts, USA      | 145        |
+| 9    | Ytong factory collapse             | November 24, 1995 | Lüneburg, Germany                 | 5          |
+| 10   | Willow Island disaster             | April 27, 1978    | Willow Island, West Virginia, USA | 51         |
+
+## manmade disasters
+
+| Rank | Event                         | Date             | Location             | Death Toll              |
+| ---- | ----------------------------- | ---------------- | -------------------- | ----------------------- |
+| 1    | Chernobyl disaster            | April 26, 1986   | Pripyat, Ukraine     | 4,000 (estimated)       |
+| 2    | Bhopal gas tragedy            | December 3, 1984 | Bhopal, India        | 15,000 (estimated)      |
+| 3    | Tangshan earthquake           | July 28, 1976    | Tangshan, China      | 242,769                 |
+| 4    | Cyclone Nargis                | May 2-3, 2008    | Myanmar              | 138,366                 |
+| 5    | The Great Leap Forward        | 1958-1962        | China                | 30 million (estimated)  |
+| 6    | The Holocaust                 | 1941-1945        | Europe               | 11 million (estimated)  |
+| 7    | Soviet famine of 1932-33      | 1932-1933        | Soviet Union         | 7 million (estimated)   |
+| 8    | Hiroshima bombing             | August 6, 1945   | Hiroshima, Japan     | 140,000 (estimated)     |
+| 9    | Nagasaki bombing              | August 9, 1945   | Nagasaki, Japan      | 70,000 (estimated)      |
+| 10   | Three Gorges Dam construction | 1994-ongoing     | Yangtze River, China | 1.3 million (estimated) |
+
+> another version
+
+| Rank | Event                           | Date                 | Location           | Death Toll      |
+| ---- | ------------------------------- | -------------------- | ------------------ | --------------- |
+| 1    | The Great Chinese Famine        | 1959-1961            | China              | 15-45 million   |
+| 2    | World War II                    | 1939-1945            | Worldwide          | 70-85 million   |
+| 3    | Spanish Flu Pandemic            | 1918-1920            | Worldwide          | 17-50 million   |
+| 4    | Mao Zedong's regime             | 1949-1976            | China              | 40-70 million   |
+| 5    | Soviet famine of 1932-33        | 1932-1933            | Soviet Union       | 7 million       |
+| 6    | Hiroshima and Nagasaki bombings | August 6 and 9, 1945 | Japan              | 129,000-226,000 |
+| 7    | Partition of India              | August 1947          | India and Pakistan | 1 million       |
+| 8    | Armenian genocide               | 1915-1917            | Ottoman Empire     | 1.5 million     |
+| 9    | Rwandan genocide                | April-July 1994      | Rwanda             | 800,000         |
+| 10   | Cambodian genocide              | 1975-1979            | Cambodia           | 1.7 million     |
+
+> economic
+
+| Rank | Event                                            | Date               | Location                               | Death toll |
+| ---- | ------------------------------------------------ | ------------------ | -------------------------------------- | ---------- |
+| 1    | Wall Street Crash of 1929                        | October 24, 1929   | New York City, New York, United States | N/A        |
+| 2    | Ponzi Scheme by Bernie Madoff                    | December 11, 2008  | New York City, New York, United States | N/A        |
+| 3    | Savings and Loan Crisis of the 1980s and 1990s   | 1980s-1990s        | United States                          | N/A        |
+| 4    | Enron Scandal                                    | October 16, 2001   | Houston, Texas, United States          | N/A        |
+| 5    | Global Financial Crisis of 2008                  | 2008-2009          | Worldwide                              | N/A        |
+| 6    | Lehman Brothers Collapse                         | September 15, 2008 | New York City, New York, United States | N/A        |
+| 7    | WorldCom Accounting Scandal                      | 2002               | Clinton, Mississippi, United States    | N/A        |
+| 8    | Long-Term Capital Management Hedge Fund Collapse | 1998               | Greenwich, Connecticut, United States  | N/A        |
+| 9    | Mad Cow Disease Outbreak                         | 1986-2006          | Worldwide                              | 227 deaths |
+| 10   | BP Oil Spill                                     | April 20, 2010     | Gulf of Mexico, United States          | 11 deaths  |
+
+> famine
+
+| Rank | Event                         | Date      | Location             | Death Toll          |
+| ---- | ----------------------------- | --------- | -------------------- | ------------------- |
+| 1    | Great Chinese Famine          | 1958-1962 | China                | 15-45 million       |
+| 2    | Irish Potato Famine           | 1845-1852 | Ireland              | 1 million           |
+| 3    | Bengal Famine of 1943         | 1943      | India and Bangladesh | 2-3 million         |
+| 4    | Holodomor (Ukrainian Famine)  | 1932-1933 | Ukraine              | 3.3-7.5 million     |
+| 5    | Ethiopian Famine of 1984-1985 | 1984-1985 | Ethiopia             | 400,000-1.2 million |
+| 6    | North Korean Famine           | 1994-1998 | North Korea          | 240,000-3.5 million |
+| 7    | Sahel Famine                  | 1968-1974 | West Africa          | 100,000-1 million   |
+| 8    | Great Famine of 1876-1878     | 1876-1878 | India                | 5.5 million         |
+| 9    | Soviet Famine of 1932-1933    | 1932-1933 | Soviet Union         | 6-8 million         |
+| 10   | Madhya Pradesh famine         | 1943-1944 | India                | 1.5-2 million       |
+
+> industrial
+
+| Rank | Event                              | Date         | Location                     | Death toll |
+| ---- | ---------------------------------- | ------------ | ---------------------------- | ---------- |
+| 1    | Bhopal disaster                    | Dec 3, 1984  | Bhopal, India                | 3,787      |
+| 2    | Chernobyl disaster                 | Apr 26, 1986 | Pripyat, Ukraine             | 4,000      |
+| 3    | Fukushima Daiichi nuclear disaster | Mar 11, 2011 | Fukushima, Japan             | 1,600      |
+| 4    | Deepwater Horizon oil spill        | Apr 20, 2010 | Gulf of Mexico               | 11         |
+| 5    | Sidoarjo mud flow disaster         | May 29, 2006 | Sidoarjo, Indonesia          | 15         |
+| 6    | Texas City refinery explosion      | Apr 16, 1947 | Texas City, Texas            | 581        |
+| 7    | Exxon Valdez oil spill             | Mar 24, 1989 | Prince William Sound, Alaska | 11         |
+| 8    | Piper Alpha oil rig disaster       | Jul 6, 1988  | North Sea                    | 167        |
+| 9    | Baia Mare cyanide spill            | Jan 30, 2000 | Baia Mare, Romania           | 2          |
+| 10   | Buncefield oil depot explosion     | Dec 11, 2005 | Hertfordshire, UK            | 0          |
+
+## top earthquakes
+
+| Rank | Magnitude | Date              | Location                               | Death Toll |
+| ---- | --------- | ----------------- | -------------------------------------- | ---------- |
+| 1    | 9.5       | May 22, 1960      | Valdivia, Chile                        | 5,700+     |
+| 2    | 9.2       | March 27, 1964    | Prince William Sound, Alaska           | 131        |
+| 3    | 9.1       | December 26, 2004 | Off the west coast of northern Sumatra | 230,000+   |
+| 4    | 9.0       | March 11, 2011    | Honshu, Japan                          | 15,896     |
+| 5    | 8.8       | February 27, 2010 | Maule Region, Chile                    | 525        |
+| 6    | 8.6       | August 15, 1950   | Assam, India-Tibet                     | 780        |
+| 7    | 8.5       | November 25, 1833 | Sumatra, Indonesia                     | 5,000+     |
+| 8    | 8.5       | January 31, 1906  | Ecuador-Colombia border region         | 1,000+     |
+| 9    | 8.5       | February 4, 1965  | Rat Islands, Alaska                    | 0          |
+| 10   | 8.5       | March 28, 2005    | Northern Sumatra, Indonesia            | 1,313      |
+
+## our dna
+
+> are we infected
+
+It is estimated that about 8% of human DNA actually originated from viruses that infected our ancestors millions of years ago. These viral fragments have been passed down from generation to generation and are now an integral part of the human genome. Some of these viral DNA sequences have even been co-opted by the human body for beneficial purposes, such as helping to regulate gene expression or protecting against viral infections.
+
+> are we chimps?
+
+| Similar Life | Percentage of Genome |
+| ------------ | -------------------- |
+| Chimpanzee   | 98.7%                |
+| Bonobo       | 98.7%                |
+| Gorilla      | 98.3%                |
+| Orangutan    | 97.9%                |
+| Gibbon       | 96%                  |
 
 ## if we could live forever
 
@@ -203,6 +413,21 @@ Additionally, there are other species, such as snakes, crocodiles, and sharks, w
 - Aliens: The discovery of hostile alien life forms could pose a threat to humanity's survival.
 - Eco-collapse: The widespread destruction of the natural world and loss of biodiversity could result in the collapse of the ecosystems that support human life.
 
+## eco collapse
+
+| Rank | Event                           | Date            | Location         | Description                                                  | Impact                                       |
+| ---- | ------------------------------- | --------------- | ---------------- | ------------------------------------------------------------ | -------------------------------------------- |
+| 1    | The Great Barrier Reef die-off  | 2016-2017       | Australia        | Warming oceans caused by climate change                      | 50% loss of coral                            |
+| 2    | Amazon rainforest deforestation | Ongoing         | Brazil and Peru  | Slash-and-burn agriculture, cattle farming, mining           | Biodiversity loss, emissions                 |
+| 3    | Aral Sea drying up              | 1960s - present | Kazakhstan       | Diversion of water for irrigation                            | Ecosystem collapse                           |
+| 4    | Dust Bowl                       | 1930s           | Great Plains, US | Unsustainable farming practices, drought                     | Soil erosion, crop failures                  |
+| 5    | Gulf of Mexico Dead Zone        | Ongoing         | Gulf of Mexico   | Agricultural runoff causes algal bloom and oxygen loss       | Fish and shellfish die-offs                  |
+| 6    | Three Gorges Dam construction   | 1994 - present  | China            | Resettlement of over 1 million people, loss of ecosystem     | Habitat loss, displaced people               |
+| 7    | Exxon Valdez oil spill          | 1989            | Alaska, US       | Oil tanker ran aground, spilling millions of gallons of oil  | Ecosystem damage, loss of marine life        |
+| 8    | Fukushima nuclear disaster      | 2011            | Japan            | Earthquake and tsunami caused nuclear meltdown               | Environmental contamination, radiation       |
+| 9    | Deepwater Horizon oil spill     | 2010            | Gulf of Mexico   | Oil rig explosion caused millions of gallons of oil to spill | Ecosystem damage, loss of marine life        |
+| 10   | Bhopal gas tragedy              | 1984            | India            | Gas leak from pesticide plant                                | Over 15,000 deaths, long-term health effects |
+
 ## sixth extinction
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/6TqhcZsxrPA" title="Earth currently experiencing a sixth mass extinction, according to scientists | 60 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -224,6 +449,32 @@ Additionally, there are other species, such as snakes, crocodiles, and sharks, w
 
 ## eco collapse
 
+| Potential Effects of Global Temperature Rising 3 Degrees |
+| -------------------------------------------------------- |
+| Increased frequency and intensity of heat waves          |
+| More frequent and severe droughts                        |
+| More intense hurricanes and tropical storms              |
+| Rising sea levels, causing coastal flooding              |
+| Disruption to agriculture, leading to food shortages     |
+| Increased risk of forest fires and wildfires             |
+| Extinction of certain plant and animal species           |
+| Spread of disease and illness, such as malaria           |
+| Decreased availability of fresh water resources          |
+| Economic losses and damage to infrastructure             |
+
+| Effect of Ocean Rising 10 Inches    |
+| ----------------------------------- |
+| Coastal flooding and erosion        |
+| Saltwater intrusion into crops      |
+| Increased storm surge damage        |
+| Loss of habitat for marine life     |
+| Increased ocean acidification       |
+| Displacement of coastal communities |
+| Water quality issues                |
+| Impacts on fishing industry         |
+| Damage to coastal infrastructure    |
+| Increase in climate refugees        |
+
 There are several factors that contribute to the ecological collapse of a region or the planet as a whole. Here are some of the most significant ones:
 
 - Climate change: The burning of fossil fuels and deforestation are leading to rising levels of greenhouse gases, which are causing the planet to warm. This is leading to changes in weather patterns, melting of polar ice caps, and rising sea levels, which can have devastating impacts on ecosystems and the species that inhabit them.
@@ -238,6 +489,20 @@ There are several factors that contribute to the ecological collapse of a region
 - Human population growth: The growing human population is putting increasing pressure on the planet's resources, leading to habitat destruction, deforestation, and overexploitation of resources, which can have negative impacts on the environment and wildlife.
 
 Addressing these factors is critical for avoiding ecological collapse and ensuring the health and sustainability of ecosystems and the species that inhabit them. This will require a concerted effort from individuals, governments, and businesses to reduce emissions, conserve resources, and protect habitats.
+
+| Rank | Country       | CO2 Emissions (in metric tons) |
+| ---- | ------------- | ------------------------------ |
+| 1    | China         | 10,723,821,100                 |
+| 2    | United States | 5,416,968,300                  |
+| 3    | India         | 2,654,469,500                  |
+| 4    | Russia        | 1,711,083,600                  |
+| 5    | Japan         | 1,191,114,200                  |
+| 6    | Germany       | 801,172,200                    |
+| 7    | Iran          | 720,427,200                    |
+| 8    | South Korea   | 649,155,200                    |
+| 9    | Saudi Arabia  | 592,480,100                    |
+| 10   | Canada        | 563,498,200                    |
+
 
 ## Population overshoot
 
@@ -269,6 +534,21 @@ This approach to technology can be problematic because it ignores the fact that 
 
 To avoid the negative consequences of techno-idolatry, it is important to adopt a more balanced and nuanced approach to technology, one that recognizes its benefits while also acknowledging its limitations and potential downsides. This involves considering the ethical, social, and environmental implications of technological advancements, and striving to use technology in a responsible and sustainable way.
 
+## us protests
+
+| Rank | Protest Event                            | Date             | Location         | Estimated Attendance |
+| ---- | ---------------------------------------- | ---------------- | ---------------- | -------------------- |
+| 1    | Women's March                            | January 21, 2017 | Washington, D.C. | 470,000 - 680,000    |
+| 2    | March for Our Lives                      | March 24, 2018   | Washington, D.C. | 800,000              |
+| 3    | The People's Climate March               | April 29, 2017   | Washington, D.C. | 200,000              |
+| 4    | Tax March                                | April 15, 2017   | Washington, D.C. | 100,000              |
+| 5    | Families Belong Together                 | June 30, 2018    | Various Cities   | 100,000 - 700,000    |
+| 6    | March for Science                        | April 22, 2017   | Various Cities   | 1 million            |
+| 7    | Black Lives Matter                       | Summer 2020      | Various Cities   | Millions             |
+| 8    | Occupy Wall Street                       | September 2011   | New York City    | Thousands            |
+| 9    | Anti-War Protests                        | 2002-2003        | Various Cities   | Millions             |
+| 10   | March on Washington for Jobs and Freedom | August 28, 1963  | Washington, D.C. | 200,000              |
+
 ## The Seneca Curve
 
 > Growth is slow, while the road to ruin is fast.
@@ -286,3 +566,52 @@ The Seneca Curve has been applied to the study of the collapse of civilizations,
 ## main drivers of ecocide
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/uU0DC6qcp18" title="Main Drivers of Collapse, Ecocide, and Likely NTHE - Dowd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## cargo / globalization
+
+The amount of gas a cargo ship would use on a trip depends on several factors such as the distance traveled, the size and efficiency of the ship's engines, the weather conditions, and the type of fuel used. However, as a rough estimate, a cargo ship carrying 200,000,000 tons of cargo could use anywhere from 1,000 to 3,000 metric tons of fuel per day, depending on the factors mentioned above. This means that for a trip of, say, 10 days, the ship could use anywhere from 10,000 to 30,000 metric tons of fuel.
+
+The amount of CO2 produced by burning 30,000 metric tons of fuel would depend on the type of fuel being burned.
+
+Assuming the fuel being burned is diesel, which produces approximately 2.68 kg of CO2 per liter of fuel burned, the amount of CO2 produced by burning 30,000 metric tons (30 million kilograms) of diesel would be approximately:
+
+30,000,000 kg x 2.68 kg CO2/liter = 80,400,000 kg or 80,400 metric tons of CO2.
+
+| Rank | Port Name              | Weight of Cargo (in tons) | Type of Cargo                                          |
+| ---- | ---------------------- | ------------------------- | ------------------------------------------------------ |
+| 1    | South Louisiana        | 251,243,271               | Petroleum, chemicals, coal, grain, and other dry goods |
+| 2    | Houston                | 225,603,757               | Petroleum, chemicals, and coal                         |
+| 3    | New York/New Jersey    | 161,453,662               | Petroleum, chemicals, and vehicles                     |
+| 4    | Beaumont               | 91,294,291                | Petroleum and chemicals                                |
+| 5    | Corpus Christi         | 84,229,610                | Petroleum, chemicals, and grain                        |
+| 6    | New Orleans            | 77,267,910                | Petroleum, chemicals, and grain                        |
+| 7    | Long Beach/Los Angeles | 69,307,234                | Petroleum, chemicals, vehicles, and other dry goods    |
+| 8    | Baton Rouge            | 58,466,552                | Petroleum, chemicals, and grain                        |
+| 9    | Port Arthur            | 51,585,801                | Petroleum, chemicals, and coal                         |
+| 10   | Mobile                 | 44,789,271                | Chemicals and petroleum                                |
+
+| Rank | Ship Name                        | Cargo Capacity (TEU) | Year Built | Flag      |
+| ---- | -------------------------------- | -------------------- | ---------- | --------- |
+| 1    | MSC Gülsün                       | 23,756               | 2019       | Panama    |
+| 2    | OOCL Hong Kong                   | 21,413               | 2017       | Hong Kong |
+| 3    | COSCO Shipping Universe          | 21,237               | 2018       | Hong Kong |
+| 4    | Madrid Maersk                    | 20,568               | 2017       | Denmark   |
+| 5    | Ever Golden                      | 20,388               | 2020       | Panama    |
+| 6    | MOL Triumph                      | 20,170               | 2017       | Panama    |
+| 7    | CMA CGM Antoine de Saint Exupéry | 20,078               | 2018       | France    |
+| 8    | CMA CGM Jacques Saadé            | 20,000               | 2020       | France    |
+| 9    | MSC Isabella                     | 19,630               | 2019       | Panama    |
+| 10   | MSC Sixin                        | 19,574               | 2019       | Panama    |
+
+| Rank | Flight                  | Cargo Type    | Fuel Capacity (gallons) | Plane Model |
+| ---- | ----------------------- | ------------- | ----------------------- | ----------- |
+| 1    | Emirates SkyCargo       | General Cargo | 324,848                 | 777-200LR   |
+| 2    | Qatar Airways Cargo     | Fresh Produce | 265,000                 | 747-8F      |
+| 3    | Etihad Cargo            | General Cargo | 222,000                 | 777-200F    |
+| 4    | Cargolux Italia         | General Cargo | 220,000                 | 747-400F    |
+| 5    | Korean Air Cargo        | General Cargo | 200,000                 | 747-8F      |
+| 6    | Cathay Pacific Cargo    | General Cargo | 205,000                 | 747-8F      |
+| 7    | Turkish Airlines Cargo  | General Cargo | 200,000                 | A330-200F   |
+| 8    | Lufthansa Cargo         | General Cargo | 179,000                 | 777F        |
+| 9    | AirBridgeCargo Airlines | General Cargo | 168,000                 | 747-8F      |
+| 10   | Atlas Air               | General Cargo | 159,000                 | 747-8F      |

@@ -1,6 +1,7 @@
-# daily meditation reminders
 
-!!! danger "strength training for your mind"
+## daily meditation reminders
+
+!!! danger "training for your heart and mind"
     [flashcards](bujo/08.md){ .md-button }
     [tldr videos](tldr.md){ .md-button }
     [anapanasati](anapanasati.md){ .md-button }
@@ -11,38 +12,65 @@
 
     draft: [strength training app](https://shane0.github.io/strength/){ .md-button }
 
+## fun facts
+
+| Event               | Age                     |
+| ------------------- | ----------------------- |
+| Big Bang            | 13.8 billion years ago  |
+| Formation of Earth  | 4.5 billion years ago   |
+| Emergence of life   | 3.5-4 billion years ago |
+| Emergence of humans | ~2.5 million years ago  |
+| Modern humans       | ~200,000 years ago      |
+| Homo Consumericus   | 70 years ago            |
+| Homo Crispr         | 2 years ago             |
+| Homo Whoknowswhat   | tbd                     |
+
+### are we infected?
+
+It is estimated that about {++8% of human DNA actually originated from viruses that infected our ancestors millions of years ago++}.
+
+### are we chimps?
+
+| Similar Life | Percentage of Genome |
+| ------------ | -------------------- |
+| Chimpanzee   | 98.7%                |
+| Bonobo       | 98.7%                |
+| Gorilla      | 98.3%                |
+| Orangutan    | 97.9%                |
+| Gibbon       | 96%                  |
+
 ## training the mind and heart
 
-|             | Meditative Mind | Untrained Mind |
-|-------------|----------------|----------------|
-| Attention   | Focused        | Distracted     |
-| Awareness   | Expanded       | Limited        |
-| Thoughts    | Observing      | Identifying    |
-| Emotions    | Regulating     | Reactive       |
-| Perception  | Clear          | Clouded        |
-| Judgment    | Non-judgmental | Judgmental     |
-| Response    | Intentional    | Automatic      |
-| Concentration | Developed     | Scattered     |
-| Insight     | Cultivated     | Absent         |
-| Clarity]     | Increased      | Decreased      |
-| Equanimity]  | Present        | Absent         |
+|               | Meditative Mind | Untrained Mind |
+| ------------- | --------------- | -------------- |
+| Attention     | Focused         | Distracted     |
+| Awareness     | Expanded        | Limited        |
+| Thoughts      | Observing       | Identifying    |
+| Emotions      | Regulating      | Reactive       |
+| Perception    | Clear           | Clouded        |
+| Judgment      | Non-judgmental  | Judgmental     |
+| Response      | Intentional     | Automatic      |
+| Concentration | Developed       | Scattered      |
+| Insight       | Cultivated      | Absent         |
+| Clarity]      | Increased       | Decreased      |
+| Equanimity]   | Present         | Absent         |
 
 ## understanding interdependence
 
-|             | 12 Links of Dependent Origination          | True Mind Versions                                      |
-|-------------|--------------------------------------------|--------------------------------------------------------|
-| Ignorance   | Ignorance of the Four Noble Truths          | Awakening to the Four Noble Truths                      |
-| Volitional  | Volitional formation                        | Mindful intention                                       |
-| Consciousness | Consciousness arising from volitional formation | Non-dual awareness                                  |
-| Name-and-form | Name-and-form                                | Interbeing, inseparability of form and emptiness        |
-| Six Sense Bases | Six sense bases                            | Collective consciousness and the One Mind               |
-| Contact     | Contact                                    | Contemplation of emptiness and interbeing                |
-| Feeling     | Feeling                                    | Compassionate understanding                             |
-| Craving     | Craving                                    | Mindful consumption                                     |
-| Grasping    | Grasping                                   | Non-attachment, letting go                              |
-| Becoming    | Becoming                                   | Engaged practice, acting with compassion                 |
-| Birth       | Birth                                      | Continuation                                           |
-| Aging and Death | Aging and Death                            | Impermanence and non-self realization                    |
+|                 | 12 Links of Dependent Origination               | True Mind Versions                               |
+| --------------- | ----------------------------------------------- | ------------------------------------------------ |
+| Ignorance       | Ignorance of the Four Noble Truths              | Awakening to the Four Noble Truths               |
+| Volitional      | Volitional formation                            | Mindful intention                                |
+| Consciousness   | Consciousness arising from volitional formation | Non-dual awareness                               |
+| Name-and-form   | Name-and-form                                   | Interbeing, inseparability of form and emptiness |
+| Six Sense Bases | Six sense bases                                 | Collective consciousness and the One Mind        |
+| Contact         | Contact                                         | Contemplation of emptiness and interbeing        |
+| Feeling         | Feeling                                         | Compassionate understanding                      |
+| Craving         | Craving                                         | Mindful consumption                              |
+| Grasping        | Grasping                                        | Non-attachment, letting go                       |
+| Becoming        | Becoming                                        | Engaged practice, acting with compassion         |
+| Birth           | Birth                                           | Continuation                                     |
+| Aging and Death | Aging and Death                                 | Impermanence and non-self realization            |
 
 ## targeted meditations
 

@@ -17,12 +17,12 @@ Overall, living on Mars would require significant technological advancements and
 
 Mercury, the innermost planet of our solar system, has a tilt of approximately 0.03 degrees. This means that its rotational axis is nearly perpendicular to its orbital plane, resulting in minimal seasonal variation on the planet.
 
-Shane Null
-how does that effect weather
+> how does that effect weather
+
 Mercury is a planet that does not have a significant atmosphere, and thus, it does not experience weather as we know it on Earth. The lack of tilt on Mercury does affect its surface temperature, as different areas of the planet receive varying amounts of solar radiation at different times. The temperature on Mercury can range from extremely hot during the day to extremely cold at night due to this lack of tilt and the planet's close proximity to the sun. However, it is important to note that this discussion on the lack of tilt on Mercury is separate from the topic of climate change and its impact on weather patterns on Earth.
 
-Shane Null
-what would happen to a human body on mercury
+> what would happen to a human body on mercury
+
 Mercury, the closest planet to the sun, has a harsh environment that would be extremely hazardous to humans.
 
 Firstly, the daytime temperature on Mercury can reach up to 800 degrees Fahrenheit (427 degrees Celsius) while the nighttime temperature can drop as low as -290 degrees Fahrenheit (-180 degrees Celsius). This extreme temperature difference would be lethal to humans without proper protection.
@@ -33,8 +33,8 @@ Furthermore, the lack of a strong magnetic field on Mercury means that the plane
 
 Overall, it is not possible for humans to survive on Mercury without advanced technology and protective equipment.
 
-Shane Null
-what would happen to a human body on mars
+> what would happen to a human body on mars
+
 Living on Mars would be challenging for humans due to several factors:
 
 Gravity: Mars has only about one-third of Earth's gravity. This could cause muscle and bone loss over time and may affect cardiovascular function.

@@ -116,6 +116,34 @@ tags:
 | 9    | Ytong factory collapse             | November 24, 1995 | Lüneburg, Germany                 | 5          |
 | 10   | Willow Island disaster             | April 27, 1978    | Willow Island, West Virginia, USA | 51         |
 
+## the visible money trail
+
+| Rank | Organization                                     | Lobbying Expenditures |
+|------|--------------------------------------------------|----------------------|
+| 1    | U.S. Chamber of Commerce                          | $39,320,000          |
+| 2    | National Association of Realtors                  | $36,190,000          |
+| 3    | Pharmaceutical Research & Manufacturers of America | $25,891,272          |
+| 4    | American Medical Association                      | $22,300,000          |
+| 5    | American Hospital Association                     | $19,815,000          |
+| 6    | Business Roundtable                               | $19,530,000          |
+| 7    | Blue Cross Blue Shield                            | $18,910,000          |
+| 8    | Koch Industries                                   | $17,910,000          |
+| 9    | National Association of Broadcasters              | $17,620,000          |
+| 10   | American Chemistry Council                        | $16,880,000          |
+
+| Rank | Organization                                      | Lobbying Expenditures |
+|------|---------------------------------------------------|----------------------|
+| 1    | U.S. Chamber of Commerce                           | $82,920,000          |
+| 2    | National Association of Realtors                   | $74,435,514          |
+| 3    | Pharmaceutical Research & Manufacturers of America | $27,970,000          |
+| 4    | American Medical Association                       | $24,374,000          |
+| 5    | Blue Cross Blue Shield                             | $23,040,000          |
+| 6    | American Hospital Association                      | $21,518,719          |
+| 7    | American Association for Justice                   | $18,470,000          |
+| 8    | National Association of Home Builders              | $16,620,000          |
+| 9    | American Chemistry Council                         | $15,610,000          |
+| 10   | National Association of Broadcasters               | $15,545,000          |
+
 ## manmade disasters
 
 | Rank | Event                         | Date             | Location             | Death Toll              |
@@ -503,7 +531,6 @@ Addressing these factors is critical for avoiding ecological collapse and ensuri
 | 9    | Saudi Arabia  | 592,480,100                    |
 | 10   | Canada        | 563,498,200                    |
 
-
 ## Population overshoot
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/lPMPINPcrdk" title="Overshoot in a Nutshell: Understanding Our Predicament (31 min)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -576,6 +603,23 @@ The amount of CO2 produced by burning 30,000 metric tons of fuel would depend on
 Assuming the fuel being burned is diesel, which produces approximately 2.68 kg of CO2 per liter of fuel burned, the amount of CO2 produced by burning 30,000 metric tons (30 million kilograms) of diesel would be approximately:
 
 30,000,000 kg x 2.68 kg CO2/liter = 80,400,000 kg or 80,400 metric tons of CO2.
+
+> Note: TEU stands for "Twenty-foot Equivalent Unit" and is a measure of a ship's cargo carrying capacity.
+
+| Rank | Ship Name | Fuel Capacity (metric tons) | Cargo Capacity (TEU) |
+|------|----------|-----------------------------|----------------------|
+| 1 | HMM Algeciras | 17,500 | 23,964 |
+| 2 | MSC Gülsün | 23,756 | 23,756 |
+| 3 | MSC Mina | 20,000 | 23,756 |
+| 4 | OOCL Hong Kong | 18,000 | 21,413 |
+| 5 | CMA CGM Antoine de Saint Exupery | 18,000 | 20,776 |
+| 6 | Ever Golden | 20,388 | 20,124 |
+| 7 | COSCO Shipping Universe | 20,119 | 19,100 |
+| 8 | COSCO Shipping Virgo | 20,000 | 19,000 |
+| 9 | OOCL Germany | 18,000 | 21,413 |
+| 10 | MSC Anna | 18,000 | 19,224 |
+
+MSC Gülsün co2 emissions for example: burning 23,000 metric tons of crude oil would produce approximately 2,308 metric tons of CO2.
 
 | Rank | Port Name              | Weight of Cargo (in tons) | Type of Cargo                                          |
 | ---- | ---------------------- | ------------------------- | ------------------------------------------------------ |

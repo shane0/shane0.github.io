@@ -4,5 +4,9 @@
 
 pip install mkdocs-glightbox
 
-
 ![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
+
+<https://squidfunk.github.io/mkdocs-material/reference/admonitions/>
+----
+
+----

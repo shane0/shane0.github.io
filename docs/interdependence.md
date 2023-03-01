@@ -8,6 +8,23 @@ tags:
 
 <iframe width="802" height="501" src="https://www.youtube.com/embed/7gCfZVXYOjQ" title="200818 Dependent Co-arising Right Now \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## true mind interdependence
+
+|                 | 12 Links of Dependent Origination               | True Mind Versions                               |
+| --------------- | ----------------------------------------------- | ------------------------------------------------ |
+| Ignorance       | Ignorance of the Four Noble Truths              | Awakening to the Four Noble Truths               |
+| Volitional      | Volitional formation                            | Mindful intention                                |
+| Consciousness   | Consciousness arising from volitional formation | Non-dual awareness                               |
+| Name-and-form   | Name-and-form                                   | Interbeing, inseparability of form and emptiness |
+| Six Sense Bases | Six sense bases                                 | Collective consciousness and the One Mind        |
+| Contact         | Contact                                         | Contemplation of emptiness and interbeing        |
+| Feeling         | Feeling                                         | Compassionate understanding                      |
+| Craving         | Craving                                         | Mindful consumption                              |
+| Grasping        | Grasping                                        | Non-attachment, letting go                       |
+| Becoming        | Becoming                                        | Engaged practice, acting with compassion         |
+| Birth           | Birth                                           | Continuation                                     |
+| Aging and Death | Aging and Death                                 | Impermanence and non-self realization            |
+
 ## twelve nidanas
 
 The term "nidana" means "cause" or "link."

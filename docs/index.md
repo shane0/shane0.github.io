@@ -1,16 +1,42 @@
+## why stuff happens
+
+<iframe width="668" height="501" src="https://www.youtube.com/embed/S5BhQiny7O0" title="Kurt Vonnegut   The Shapes of Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## the excrement hit the air conditioner
+
+- what do we sell out for?
+
+<iframe width="668" height="501" src="https://www.youtube.com/embed/m5Few-ZOGXk" title="Kurt Vonnegut on the future of the United States (1987)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+----
 
 ## daily meditation reminders
 
-!!! danger "training for your heart and mind"
+!!! tip "training for your heart and mind"
     [flashcards](bujo/08.md){ .md-button }
     [tldr videos](tldr.md){ .md-button }
     [anapanasati](anapanasati.md){ .md-button }
     [maranasati](maranasati.md){ .md-button }
     [zen](zen.md){ .md-button }
 
-!!! warning "strength training for your body"
+----
 
-    draft: [strength training app](https://shane0.github.io/strength/){ .md-button }
+`Zen master Dogen said:`
+
+:   - To study Buddhism is to study the self.
+    - To study the self is to forget the self.
+    - To forget the self is to be enlightened by all things.
+    - To be enlightened by all things is to remove the barriers between oneself and others."
+
+----
+
+!!! bug "strength training for your body"
+
+    [strength training app](https://shane0.github.io/strength/){ .md-button }
+
+----
 
 ## fun facts
 
@@ -24,6 +50,8 @@
 | Homo Consumericus   | 70 years ago            |
 | Homo Crispr         | 2 years ago             |
 | Homo Whoknowswhat   | tbd                     |
+
+----
 
 ### are we infected?
 
@@ -39,7 +67,9 @@ It is estimated that about {++8% of human DNA actually originated from viruses t
 | Orangutan    | 97.9%                |
 | Gibbon       | 96%                  |
 
-## training the mind and heart
+----
+
+## the meditative mind
 
 |               | Meditative Mind | Untrained Mind |
 | ------------- | --------------- | -------------- |
@@ -55,24 +85,7 @@ It is estimated that about {++8% of human DNA actually originated from viruses t
 | Clarity]      | Increased       | Decreased      |
 | Equanimity]   | Present         | Absent         |
 
-## understanding interdependence
-
-|                 | 12 Links of Dependent Origination               | True Mind Versions                               |
-| --------------- | ----------------------------------------------- | ------------------------------------------------ |
-| Ignorance       | Ignorance of the Four Noble Truths              | Awakening to the Four Noble Truths               |
-| Volitional      | Volitional formation                            | Mindful intention                                |
-| Consciousness   | Consciousness arising from volitional formation | Non-dual awareness                               |
-| Name-and-form   | Name-and-form                                   | Interbeing, inseparability of form and emptiness |
-| Six Sense Bases | Six sense bases                                 | Collective consciousness and the One Mind        |
-| Contact         | Contact                                         | Contemplation of emptiness and interbeing        |
-| Feeling         | Feeling                                         | Compassionate understanding                      |
-| Craving         | Craving                                         | Mindful consumption                              |
-| Grasping        | Grasping                                        | Non-attachment, letting go                       |
-| Becoming        | Becoming                                        | Engaged practice, acting with compassion         |
-| Birth           | Birth                                           | Continuation                                     |
-| Aging and Death | Aging and Death                                 | Impermanence and non-self realization            |
-
-## targeted meditations
+### targeted meditations
 
 - Attention: Focused attention meditation, such as mindfulness of breath or body scanning.[^1]
 - Awareness: Open awareness meditation, such as choiceless awareness or mindfulness of sounds.[^2]
@@ -89,14 +102,14 @@ It is estimated that about {++8% of human DNA actually originated from viruses t
 !!! chatGPT  "ai will be used for good and bad"
     this content is mostly quotes from my books or conversations with chatGPT ai
     my opinion on chatGTP is (currently) it is an extremely useful {==smart encyclopedia==}
-    {++hey there ai, will humans [live forever or wipe ourselves out completely](collapse.md)?++}
+    {++[hey there ai, will humans live forever or wipe ourselves out completely](collapse.md)?++}
 
 !!! note "the brightest mind that ever lived"
     - fears and fantasies
-    - I highly recommend [cormac mccarthy](cormac.md)'s movies & books, {++ALL OF THEM!!!++}
-    - cormac's latest books are hilarious masterpieces
+    - I highly recommend [cormac mccarthy](cormac.md)'s movies
+    - cormac's latest books are masterpieces
 
-> other topics I'm digging into here
+> topics I'm digging into here
 
 ```mermaid
 graph
@@ -116,6 +129,8 @@ coding --> software_testing
 coding --> software_documentation
 ```
 
+----
+
 !!! note "favorite quotes"
     The design intent should always be less, but better.
 
@@ -127,6 +142,10 @@ coding --> software_documentation
 
     > richard feynman
 
+    Of course, we live in a completely corrupted world where every government is just a bunch of businessmen working for a bunch of bigger businessmen and none of them give a shit about the people, the sad fact is no one knows how to change it, because no one knows how to take on the corporations. So I guess we’re stuck with this system until the oil runs out.
+
+    > woody harrelson
+
 > other sites
 
 - [wordpress](https://shanenull.com)
@@ -134,6 +153,8 @@ coding --> software_documentation
 - [game dev](https://shane0.github.io/adventure/)
 - [docusaurus](https://shane0.github.io/docs/)
 - [strength training](https://shane0.github.io/strength/)
+
+----
 
 ## tags
 

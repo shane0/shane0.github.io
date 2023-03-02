@@ -25,6 +25,19 @@ tags:
 | End-Triassic     | 201 million years ago | 80% of species lost              |
 | End-Cretaceous   | 66 million years ago  | 76% of species lost              |
 
+| Reference | Author(s) | Publication Date |
+|-----------|-----------|------------------|
+| "The Sixth Extinction: An Unnatural History" | Elizabeth Kolbert | 2014 |
+| "Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines" | Gerardo Ceballos, Paul R. Ehrlich, and Peter H. Raven | 2017 |
+| "The Anthropocene is functionally and stratigraphically distinct from the Holocene" | Colin N. Waters et al. | 2016 |
+| "Accelerated modern human–induced species losses: Entering the sixth mass extinction" | Anthony D. Barnosky et al. | 2011 |
+| "The biodiversity of species and their rates of extinction, distribution, and protection" | Stuart L. Pimm et al. | 2014 |
+| "Historical overfishing and the recent collapse of coastal ecosystems" | Jeremy B.C. Jackson et al. | 2001 |
+| "The Amphibian Extinction Crisis: What Will Not Work" | Michael J. Lannoo | 2005 |
+| "Trophic Downgrading of Planet Earth" | James A. Estes et al. | 2011 |
+| "Conservation: Earth is home to millions of species. Now we're tracking the decline of almost every one" | Damian Carrington | 2017 |
+| "Extinction risk from climate change" | Mark C. Urban | 2015 |
+
 ## pandemics
 
 | Pandemic            | Year         | Death Toll                   |
@@ -89,6 +102,19 @@ tags:
 | 8    | Yacolt Burn              | 1902 | Washington, United States     | 238,920      | 65+        |
 | 9    | Black Dragon Fire        | 1987 | Heilongjiang, China           | 3,000,000    | 200+       |
 | 10   | Matilija Fire            | 1932 | California, United States     | 220,000      | 0          |
+
+| Event                                       | Date                           | Citation                                                                                                                             |
+|---------------------------------------------|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Deforestation of the Amazon Rainforest      | ongoing                        | <https://www.bbc.com/news/world-latin-america-35618548>                                                                                |
+| Deforestation of the Indonesian Rainforest  | ongoing                        | <https://www.reuters.com/article/us-indonesia-environment-forests/indonesia-aims-to-protect-30-of-forests-to-cut-emissions-idUSKBN23L0XN> |
+| Deforestation of the Congo Rainforest        | ongoing                        | <https://rainforests.mongabay.com/congo/>                                                                                              |
+| The Great Plains Dust Bowl                   | 1930s                          | <https://www.history.com/topics/great-plains-dust-bowl>                                                                                |
+| Deforestation of the Eastern United States  | 1600s - 1900s                  | <https://www.nationalgeographic.org/article/deforestation-united-states/>                                                             |
+| Deforestation of the Brazilian Cerrado      | ongoing                        | <https://www.sciencedirect.com/science/article/abs/pii/S0264837711002694>                                                               |
+| Deforestation of Madagascar                  | ongoing                        | <https://www.conservation.org/stories/Pages/10-deforestation-areas-most-critical-for-conservation.aspx>                                |
+| Deforestation of Borneo                      | ongoing                        | <https://www.nationalgeographic.com/environment/2019/07/borneo-deforestation-shocking-loss-of-wildlife-habitat/>                       |
+| Deforestation of the Sahel                   | ongoing                        | <https://www.wri.org/applications/maps/sahel-deforestation>                                                                             |
+| Deforestation of Haiti                       | ongoing                        | <https://www.nationalgeographic.com/news/2010/1/100119-haiti-earthquake-deforestation-mudslides/>                                      |
 
 | Rank | Event                                      | Year(s)       | Area Deforested |
 | ---- | ------------------------------------------ | ------------- | --------------- |
@@ -530,6 +556,21 @@ Addressing these factors is critical for avoiding ecological collapse and ensuri
 | 8    | South Korea   | 649,155,200                    |
 | 9    | Saudi Arabia  | 592,480,100                    |
 | 10   | Canada        | 563,498,200                    |
+
+## pollution
+
+| Rank | Date | Location | Event | Toxic Material | Fatalities | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1984 | Bhopal, India | Gas Leak Disaster | Methyl Isocyanate | 4,000-16,000 | Considered the world's worst industrial disaster |
+| 2 | 1978 | Love Canal, USA | Chemical Waste Dumping | Dioxin, Benzene, Toluene, Xylene, PCBs | Unknown | Resulted in the creation of the Superfund program |
+| 3 | 1996 | Baia Mare, Romania | Cyanide Spill | Cyanide | 0 | Released over 100,000 cubic meters of cyanide-contaminated waste water into a river |
+| 4 | 2010 | Gulf of Mexico, USA | Deepwater Horizon Oil Spill | Crude Oil | 11 | Considered the largest marine oil spill in history |
+| 5 | 2015 | Minamata Bay, Japan | Mercury Poisoning | Methyl Mercury | Unknown | Thousands affected by eating contaminated fish |
+| 6 | 1956 | Minamata, Japan | Mercury Poisoning | Methyl Mercury | Unknown | Discharged into Minamata Bay by a chemical factory |
+| 7 | 1986 | Chernobyl, Ukraine | Nuclear Disaster | Radioactive Material | 4,000 | Considered the worst nuclear power plant accident in history |
+| 8 | 2006 | Abidjan, Ivory Coast | Toxic Waste Dumping | Unknown | Unknown | Over 100,000 people affected by illegal dumping of toxic waste |
+| 9 | 1985 | Pemex Refinery, Mexico | Explosion and Fire | Hydrocarbon | 500-600 | One of the worst industrial disasters in Mexico |
+| 10 | 1976 | Seveso, Italy | Dioxin Release | Dioxin | 37 | One of the highest recorded levels of dioxin exposure in humans |
 
 ## Population overshoot
 

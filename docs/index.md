@@ -1,16 +1,3 @@
-## why stuff happens
-
-<iframe width="668" height="501" src="https://www.youtube.com/embed/S5BhQiny7O0" title="Kurt Vonnegut   The Shapes of Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
-## the excrement hit the air conditioner
-
-- what do we sell out for?
-
-<iframe width="668" height="501" src="https://www.youtube.com/embed/m5Few-ZOGXk" title="Kurt Vonnegut on the future of the United States (1987)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-----
 
 ## daily meditation reminders
 
@@ -127,6 +114,10 @@ books --> coarmac_mccarthy
 coding --> ai --> chatGpt
 coding --> software_testing 
 coding --> software_documentation
+style 2023 fill: brown
+style meditations fill: blue 
+style books fill: orange 
+style coding fill: yellow 
 ```
 
 ----
@@ -146,6 +137,19 @@ coding --> software_documentation
 
     > woody harrelson
 
+## why stuff happens
+
+<iframe width="668" height="501" src="https://www.youtube.com/embed/S5BhQiny7O0" title="Kurt Vonnegut   The Shapes of Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## the excrement hit the air conditioner
+
+- what do we sell out for?
+
+<iframe width="668" height="501" src="https://www.youtube.com/embed/m5Few-ZOGXk" title="Kurt Vonnegut on the future of the United States (1987)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+----
 > other sites
 
 - [wordpress](https://shanenull.com)

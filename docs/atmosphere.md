@@ -15,6 +15,16 @@ tags:
 
 ## greenhouse gas
 
+According to a 2021 study by Oxfam, the world's top 1% of income earners (which includes many billionaires) are responsible for {++more than twice as much carbon emissions as the bottom 50% of the population combined++}.
+
+The report estimates that the top 10% of income earners (which likely includes most billionaires) are responsible for around 52% of global emissions.
+
+Based on these estimates, we could assume that the average billionaire is responsible for emitting {++at least several hundred metric tons of CO2 per year, if not more++}.
+
+Some common sources of carbon emissions among the ultra-wealthy may include private jet travel, yacht ownership and use, ownership of multiple large homes, and investments in high-emitting industries such as fossil fuels.
+
+Additionally, some billionaires may have significant carbon footprints associated with their philanthropic activities, such as funding large-scale construction projects or investing in technologies that require significant energy use.
+
 ## IPCC releases
 
 The Intergovernmental Panel on Climate Change (IPCC) releases periodic reports that provide a comprehensive assessment of the state of knowledge on climate change. The latest IPCC report is the Sixth Assessment Report (AR6), which was released in three parts between August 2021 and August 2022.

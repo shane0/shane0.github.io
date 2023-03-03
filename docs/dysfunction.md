@@ -10,6 +10,18 @@ tags:
 - language is a double edged sword
 - language (name & form) is a root cause in egocentrism in buddhism and psychology
 
+## cartesian doubt
+
+```mermaid
+graph TD
+A[Assume Everything is Doubtful] --> B(Reject Unreliable Beliefs)
+B --> C{Suspend Judgement}
+C -->|Clear and Distinct| D[Accept Certain Beliefs]
+C -->|Not Clear and Distinct| E[Continue to Suspend Judgement]
+E --> B
+D --> F[Build Knowledge on Accepted Beliefs]
+```
+
 ## language barriers
 
 There are many reasons why humans create language barriers, including:

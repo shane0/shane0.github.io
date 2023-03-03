@@ -14,6 +14,18 @@ The technique involves explaining a concept in your own words as if you were tea
 
 ## Here's how to use the Feynman Technique
 
+```mermaid
+flowchart TB
+A[Choose a Concept] --> B(Write it down)
+B --> C{Explain it as if teaching someone else}
+C -->|Identify Gaps| D[Go back to the source material]
+D --> E{Review and Simplify}
+E --> F(Re-explain)
+F --> G{Eliminate Jargon and Technical Terms}
+G --> H(Repeat until you can explain it simply)
+H --> I[Master the Concept]
+```
+
 - Choose a topic you want to study.
 - Write down everything you already know about the topic.
 - Pretend to teach the topic to someone else. Write down the explanation as if you were teaching it to a student.
@@ -24,3 +36,17 @@ The technique involves explaining a concept in your own words as if you were tea
 The Feynman Technique is useful because it forces you to actively engage with the material, instead of passively reading or listening to someone else's explanation.
 
 By teaching the concept to someone else, you are forced to think deeply about the topic and understand it at a deeper level.
+
+## path integral
+
+```mermaid
+graph TD
+A[Initial State] --> B(Path Integral)
+B --> C{All possible paths}
+C -->|Multiple Paths| D[Sum over all paths]
+D --> E{Weighted by action}
+E -->|Minimize Action| F[Classical path]
+F --> G{Quantum fluctuations}
+G -->|Virtual Paths| H[Non-classical paths]
+H --> I(Final State)
+```

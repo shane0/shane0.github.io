@@ -45,7 +45,8 @@ def edit():
 @cli.command()
 def zl():
     """markdownlint"""
-    os.system('markdownlint docs/*.md')
+    cmd = "npx markdownlint 'docs/*.md' --config .markdownlint.json"
+    os.system(cmd)
 
 @cli.command()
 def st():

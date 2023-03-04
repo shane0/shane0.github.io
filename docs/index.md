@@ -2,21 +2,14 @@
 
 --8<-- "https://wttr.in/?0"
 
+--8<-- "snippets/dogen.md"
+
 !!! tip "training for your heart and mind"
     [flashcards](bujo/08.md){ .md-button }
     [tldr videos](tldr.md){ .md-button }
     [anapanasati](anapanasati.md){ .md-button }
     [maranasati](maranasati.md){ .md-button }
     [zen](zen.md){ .md-button }
-
-----
-
-`Zen master Dogen said:`
-
-:   - To study Buddhism is to study the self.
-    - To study the self is to forget the self.
-    - To forget the self is to be enlightened by all things.
-    - To be enlightened by all things is to remove the barriers between oneself and others.
 
 ----
 

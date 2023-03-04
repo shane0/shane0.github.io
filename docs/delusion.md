@@ -11,6 +11,8 @@ tags:
 ---
 # three great myths
 
+--8<-- "snippets/dogen.md"
+
 ```mermaid
 graph
 myths --> time --> impermanence

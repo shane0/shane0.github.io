@@ -5,9 +5,9 @@ tags:
   - dukkha 
   - style guide 
 ---
-# labels and form[^1]
+# labels and form
 
-- language is a double edged sword
+- language is a double edged sword[^1]
 - language (name & form) is a root cause in egocentrism in buddhism and psychology
 
 ## cartesian doubt
@@ -20,6 +20,11 @@ C -->|Clear and Distinct| D[Accept Certain Beliefs]
 C -->|Not Clear and Distinct| E[Continue to Suspend Judgement]
 E --> B
 D --> F[Build Knowledge on Accepted Beliefs]
+style A fill: grey
+style B fill: aliceblue
+style C fill: lightgreen
+style D fill: lightblue
+style E fill: pink
 ```
 
 ## language barriers

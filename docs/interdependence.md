@@ -7,6 +7,9 @@ tags:
 ---
 # interdependence
 
+- primoridal confusion:
+--8<-- "snippets/garfield.md:25:26"
+
 <iframe width="802" height="501" src="https://www.youtube.com/embed/7gCfZVXYOjQ" title="200818 Dependent Co-arising Right Now \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## true mind interdependence

@@ -283,3 +283,9 @@ The Five Ranks: Hui-neng presents the concept of the Five Ranks, which describe 
 The Mind-Only Doctrine: Hui-neng also discusses the Mind-Only doctrine, which teaches that all phenomena arise from the mind and that ultimate reality is not separate from the mind. This doctrine emphasizes the idea that our perceptions and experiences are constructed by the mind, and that true reality cannot be grasped through the senses or intellect.
 
 These are the main themes and topics covered in the Platform Sutra, which is a seminal text in the Zen tradition and continues to be studied and practiced by Zen practitioners today.
+
+## oxherding gist
+
+- this paragraph is using `url_download` to embed a github gist on this site
+
+--8<-- "https://gist.githubusercontent.com/shane0/a9a62b532f0bbd0e091ceaa63cb73b0e/raw/788903a4a2362667a219cfdf352dbacf70eb29c2/ten_oxherding.md"

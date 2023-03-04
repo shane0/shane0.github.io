@@ -6,7 +6,7 @@ tags:
 ---
 # dzogchen
 
-- dzogchen is like a telescope + a microscope
+--8<-- "snippets/dogen.md"
 
 <iframe width="798" height="449" src="https://www.youtube.com/embed/5QYJ5mVrm7E" title="tulku urgyen rinpoche teaching non duality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

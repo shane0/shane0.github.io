@@ -137,14 +137,6 @@ The Metta Sutta is a teaching on the cultivation of universal loving-kindness an
 
 In addition to its importance as a teaching on loving-kindness, the Metta Sutta is also highly regarded for its poetic and meditative quality. It is often recited and used as a focus for meditation and has been widely translated into various languages.
 
-## A Friend Mitta Sutta (AN 7:35)
-
-The "A Friend" Metta Sutta (AN 7:35) is a Buddhist sutta that is part of the Pali Canon. It is a discourse on the practice of loving-kindness and compassion, and is considered to be one of the most important teachings on these qualities in early Buddhism.
-
-In this sutta, the Buddha teaches the importance of cultivating feelings of friendliness and compassion towards oneself, one's friends, neutral individuals, and even one's enemies. By doing so, one can cultivate inner peace, reduce feelings of hatred and anger, and create the conditions for a harmonious and peaceful life.
-
-The sutta is often recited as part of Buddhist practice, and is used as a focus for meditation. It is considered to be a powerful tool for developing love, compassion, and mindfulness, and for reducing negative emotions like hatred, anger, and fear.
-
 ## in buddhism what meditations use dicohtomies
 
 In Buddhism, there are several meditation practices that use dichotomies or pairs of opposites.

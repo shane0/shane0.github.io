@@ -182,6 +182,35 @@ It's important to approach EMPTINESS meditation with the guidance of a qualified
 
 ## mandala
 
+- drawn by chatgpt lol
+
+```text
+       ┌───┐
+       │   │
+   ┌───┼───┼───┐
+   │   │   │   │
+┌──┼───┼───┼───┼───┐
+│  │   │   │   │   │
+├──┼───┼───┼───┼───┤
+│  │   │   │   │   │
+└──┼───┼───┼───┼───┘
+   │   │   │   │
+   └───┼───┼───┘
+       │   │
+       └───┘
+````
+
+> dharmachakra
+
+````text
+         /\
+        /  \
+       /____\
+       \    /
+        \  /
+         \/
+````
+
 Mandala meditation involves the following steps:
 
 - Preparation: Find a quiet place where you won’t be disturbed, and sit comfortably with your back straight.

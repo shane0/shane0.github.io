@@ -107,4 +107,4 @@ style kayanupassana fill: lightblue
 style anapanasati fill: pink
 ```
 
---8<-- "https://gist.githubusercontent.com/shane0/a9a62b532f0bbd0e091ceaa63cb73b0e/raw/788903a4a2362667a219cfdf352dbacf70eb29c2/ten_oxherding.md"
+--8<-- "https://gist.githubusercontent.com/shane0/a9a62b532f0bbd0e091ceaa63cb73b0e/raw/788903a4a2362667a219cfdf352dbacf70eb29c2/anapanasati.md"

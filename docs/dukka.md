@@ -15,6 +15,8 @@ In Tibetan Buddhism, Mingyur Rinpoche teaches that there are two forms of suffer
 
 By recognizing and overcoming the root cause of ultimate suffering, one can attain liberation and ultimate happiness, which is referred to as enlightenment. Mingyur Rinpoche teaches that this can be achieved through the practice of meditation and the development of wisdom and compassion.
 
+--8<-- "snippets/disappointment.md"
+
 ## two fold ignorance
 
 In Tibetan Buddhism, Tulku Urgyen Rinpoche taught about two types of ignorance that obscure our true nature and prevent us from realizing our full potential. These are:

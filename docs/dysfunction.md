@@ -4,8 +4,13 @@ tags:
   - language
   - dukkha 
   - style guide 
+  - interdependence 
 ---
 # labels and form
+
+--8<-- "snippets/disappointment.md"
+
+## labels
 
 - language is a double edged sword[^1]
 - language (name & form) is a root cause in egocentrism in buddhism and psychology

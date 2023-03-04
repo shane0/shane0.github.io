@@ -1,5 +1,6 @@
 ---
 tags:
+  - primordial confusion 
   - all contexts
   - primal confunsion 
   - impermanence 
@@ -28,7 +29,7 @@ impermanence --> time
 
 ## WHAT ARE PHENOMENA EMPTY OF?
 
-![](images/d.jpg)
+![d](images/d.jpg)
 
 When we speak of a phenomenon as being empty, we are referring to its being empty of its own inherent existence. . . . Further, it is not that the object of the negation [inherent existence] formerly existed and is later eliminated, like the forest that existed yesterday and is burned by fire today, with the result that the area is now empty of the forest. Rather, this is an EMPTINESS of an object of negation [inherent existence], which from beginningless time has never been known validly to exist.
 
@@ -82,7 +83,7 @@ The practice is to nourish the insight into EMPTINESS all day long.
 
 ## OUR WORLD IS RELENTLESSLY IMPERMANENT
 
-![](images/chagdud.jpg)
+![c](images/chagdud.jpg)
 
 Change is continuous. Day by day, one season slips into the next. Day turns into night and night to day. Buildings don’t suddenly grow old; rather, second by second, from the moment they’re constructed, they begin to deteriorate. . . . Think of beings inhabiting this universe. How many people born a hundred years ago are still alive? . . . We see the play of impermanence in our relationships as well. How many of our family members, friends, people in our hometown, have died? How many have moved away, disappearing from our lives forever? . . . At one time we felt happy just being near a person we loved. Just to hold that person’s hand made us feel wonderful. Now maybe we can’t stand him, we don’t want to know anything about him. Whatever comes together must fall apart, whatever once fathered must separate, whatever was born must die. Continual change, relentless change, is constant in our world.
 
@@ -90,7 +91,7 @@ Change is continuous. Day by day, one season slips into the next. Day turns into
 
 ## DISAPPOINTMENT
 
-![](images/b.jpg)
+![s](images/b.jpg)
 
 We must surrender our hopes and expectations, as well as our fears, and march directly into disappointment, work with disappointment, go into it and make it our way of life. . . . If we can open, then we suddenly begin to see that our expectations are irrelevant compared with the reality of the situations we are facing. This automatically brings disappointment. Disappointment is the best chariot to use on the path of the dharma. It does not confirm the existence of our ego and its dreams.
 

@@ -42,6 +42,10 @@ def edit():
     """edit plugin"""
     click.edit(filename=inspect.getfile(inspect.currentframe()), editor="code")
 
+@cli.command()
+def zl():
+    """markdownlint"""
+    os.system('markdownlint docs/*.md')
 
 @cli.command()
 def st():

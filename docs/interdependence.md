@@ -1,6 +1,7 @@
 ---
 tags:
   - interdependence 
+  - primordial confusion 
   - Nidanas
   - deduction 
 ---

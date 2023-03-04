@@ -40,7 +40,7 @@ tags:
 └── 2023.md
 ```
 
-# bujo python script with pipeline
+## bujo python script with pipeline
 
 ```yml
 my_job:

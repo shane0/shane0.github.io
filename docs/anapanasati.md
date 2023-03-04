@@ -82,7 +82,7 @@ Maintain focus: Try to maintain your focus on the breath for at least a few minu
 
 These are the basic instructions for anapanasati meditation, but there are many variations and approaches to this practice, and individuals may find that certain modifications or modifications work better for them. The important thing is to develop a regular practice and to be patient with yourself as you develop your MINDFULNESS and CONCENTRATION skills.
 
-## diagram 
+## diagram
 
 ```mermaid
 graph LR

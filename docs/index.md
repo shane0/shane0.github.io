@@ -1,5 +1,6 @@
+# daily meditation reminders
 
-## daily meditation reminders
+--8<-- "https://wttr.in/?0"
 
 !!! tip "training for your heart and mind"
     [flashcards](bujo/08.md){ .md-button }
@@ -15,7 +16,7 @@
 :   - To study Buddhism is to study the self.
     - To study the self is to forget the self.
     - To forget the self is to be enlightened by all things.
-    - To be enlightened by all things is to remove the barriers between oneself and others."
+    - To be enlightened by all things is to remove the barriers between oneself and others.
 
 ----
 
@@ -141,7 +142,7 @@ style coding fill: yellow
 
 <iframe width="668" height="501" src="https://www.youtube.com/embed/S5BhQiny7O0" title="Kurt Vonnegut   The Shapes of Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
----
+----
 
 ## the excrement hit the air conditioner
 

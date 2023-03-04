@@ -3,6 +3,7 @@ tags:
   - nibanna 
   - cessation 
   - notions 
+  - primordial confusion 
 ---
 # nibanna
 

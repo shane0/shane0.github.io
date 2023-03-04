@@ -263,5 +263,3 @@ Reciting this prayer is believed to invoke Guru Rinpoche's blessings and to open
 | "The nature of mind is like space: it is empty and vast, encompassing all phenomena without discrimination." | The Light of Wisdom Volume II |
 | "All phenomena are like a dream, an illusion, a bubble, a shadow, like dew or like a flash of lightning." | The Light of Wisdom Volume I |
 | "May the blessings of the Guru, the Lama, and the Yidam purify all obscurations and transform all beings into the primordial nature of mind." | The Light of Wisdom Volume II |
-
-## 

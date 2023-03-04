@@ -9,7 +9,7 @@ tags:
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/wfYr5zF-oNs" title="EXCLUSIVE: Dialogue with Cormac McCarthy About Science, on the occasion of his newest book releases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**spoiler alert**
+> **spoiler alert**
 
 some excerpts talking to chatgpt about the books "the passenger" and "stella marris"
 

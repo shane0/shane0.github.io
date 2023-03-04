@@ -12,16 +12,16 @@ The Nang-jang Dudjom Tersar is a terma (treasure) cycle of teachings and practic
 
 ## buddhahood without meditation dudjom 7 phases
 
-"Buddhahood Without Meditation" is a text by the great master Dudjom Rinpoche, who was a highly revered Nyingma teacher and one of the leading figures in 20th century Tibetan Buddhism. The text presents the seven phases of a practice that leads to the attainment of Buddhahood without meditation. According to this text, the seven phases are: 
+"Buddhahood Without Meditation" is a text by the great master Dudjom Rinpoche, who was a highly revered Nyingma teacher and one of the leading figures in 20th century Tibetan Buddhism. The text presents the seven phases of a practice that leads to the attainment of Buddhahood without meditation. According to this text, the seven phases are:
 
-1. The phase of initial aspiration, 
-1. The phase of encountering the master, 
-1. The phase of hearing the teachings, 
-1. The phase of contemplating the teachings, 
-1. The phase of engaging in the practices, 
-1. The phase of reaching a state of stabilization, and 
-1. The phase of attaining Buddhahood. 
- 
+1. The phase of initial aspiration,
+1. The phase of encountering the master,
+1. The phase of hearing the teachings,
+1. The phase of contemplating the teachings,
+1. The phase of engaging in the practices,
+1. The phase of reaching a state of stabilization, and
+1. The phase of attaining Buddhahood.
+
 These phases are meant to be followed sequentially in order to attain the ultimate goal of Buddhahood without meditation.
 
 ## dudjom vajra essence phase one

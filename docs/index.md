@@ -1,3 +1,6 @@
+![lint](https://github.com/shane0/shane0.github.io/actions/workflows/markdownlint.yml/badge.svg)
+![tests](https://github.com/shane0/shane0.github.io/actions/workflows/run-tests.yml/badge.svg)
+
 # daily meditation reminders
 
 --8<-- "https://wttr.in/?0"

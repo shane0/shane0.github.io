@@ -49,3 +49,5 @@ The ego-mind of grasping and fixation is the fundamental obstacle to our path of
 - human nature: the ego secretly loves drama
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/GOGru_4z1Vc" title="Kurt Vonnegut, Shape of Stories (subtitulos castellano)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+--8<-- "snippets/conclusions.md"

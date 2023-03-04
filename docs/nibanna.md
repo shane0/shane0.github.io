@@ -60,3 +60,5 @@ While these mental constructs can be useful in navigating our everyday lives, th
 Nirvana is said to be the cessation of these notions or concepts, as it represents a complete letting go of attachment, aversion, and delusion. In this state, the mind is completely free from all mental constructs and is liberated from the cycle of birth and death.
 
 While Nirvana may seem abstract or unattainable, the Buddhist path offers practical teachings and practices to help us gradually let go of our notions and concepts and cultivate a more liberated, compassionate, and wise way of living.
+
+--8<-- "snippets/conclusions.md"

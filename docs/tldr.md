@@ -96,9 +96,3 @@ But the moment you recognize your own expression, it arises out of yourself, dis
 There is no other meditation or object or act apart from that as much as dust mote, even. But, if you forget and get distracted, you are involved in thoughts.
 
 So please train in this. That is the practice. This is what rinpoche (Padmasambhava) taught in the past and today he has nothing to say besides this.”
-
-## yogacara
-
-the cessation of notions is an aspect of nirvana
-
-<iframe width="700" height="394" src="https://www.youtube.com/embed/nNcFquUuKww" title="Give Up Your Conclusions | Sadhguru" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

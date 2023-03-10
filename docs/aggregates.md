@@ -30,6 +30,8 @@ aggregates --> consciousness
 - you are not your body, feelings, perceptions, mental formations or consciousness
 - these all [arise from interdependent causes](interdependence.md) and pass away
 
+--8<-- "snippets/5_aggregates.md"
+
 ## what is khanda sutta
 
 The Khandha Sutta is a discourse from the Pali Canon of Theravada Buddhism. The word "khandha" in Pali refers to the five aggregates of physical and mental phenomena that make up the concept of an individual self.

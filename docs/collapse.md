@@ -1,19 +1,23 @@
 ---
 tags:
   - impermanence
-  - collapse 
-  - dna 
+  - collapse
+  - dna
 ---
+
 # collapse
 
-!!! wow "will we live forever or wipe ourselves out?"
-    - ai?  are humans going to live forever or wipe ourselves out?
+!!! wow "will we live forever or wipe ourselves out?" - ai? are humans going to live forever or wipe ourselves out?
 
 ## santa fe
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/-5A1WcFoxi4" title="My SFI: Cormac McCarthy describes the Santa Fe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 --8<-- "snippets/disappointment.md"
+
+## conditionality
+
+<iframe width="835" height="470" src="https://www.youtube.com/embed/JR93X7xK05o" title="Complexity Explorer Lecture: David Krakauer • What is Complexity?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## extinction
 
@@ -25,18 +29,18 @@ tags:
 | End-Triassic     | 201 million years ago | 80% of species lost              |
 | End-Cretaceous   | 66 million years ago  | 76% of species lost              |
 
-| Reference | Author(s) | Publication Date |
-|-----------|-----------|------------------|
-| "The Sixth Extinction: An Unnatural History" | Elizabeth Kolbert | 2014 |
-| "Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines" | Gerardo Ceballos, Paul R. Ehrlich, and Peter H. Raven | 2017 |
-| "The Anthropocene is functionally and stratigraphically distinct from the Holocene" | Colin N. Waters et al. | 2016 |
-| "Accelerated modern human–induced species losses: Entering the sixth mass extinction" | Anthony D. Barnosky et al. | 2011 |
-| "The biodiversity of species and their rates of extinction, distribution, and protection" | Stuart L. Pimm et al. | 2014 |
-| "Historical overfishing and the recent collapse of coastal ecosystems" | Jeremy B.C. Jackson et al. | 2001 |
-| "The Amphibian Extinction Crisis: What Will Not Work" | Michael J. Lannoo | 2005 |
-| "Trophic Downgrading of Planet Earth" | James A. Estes et al. | 2011 |
-| "Conservation: Earth is home to millions of species. Now we're tracking the decline of almost every one" | Damian Carrington | 2017 |
-| "Extinction risk from climate change" | Mark C. Urban | 2015 |
+| Reference                                                                                                             | Author(s)                                             | Publication Date |
+| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------- |
+| "The Sixth Extinction: An Unnatural History"                                                                          | Elizabeth Kolbert                                     | 2014             |
+| "Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines" | Gerardo Ceballos, Paul R. Ehrlich, and Peter H. Raven | 2017             |
+| "The Anthropocene is functionally and stratigraphically distinct from the Holocene"                                   | Colin N. Waters et al.                                | 2016             |
+| "Accelerated modern human–induced species losses: Entering the sixth mass extinction"                                 | Anthony D. Barnosky et al.                            | 2011             |
+| "The biodiversity of species and their rates of extinction, distribution, and protection"                             | Stuart L. Pimm et al.                                 | 2014             |
+| "Historical overfishing and the recent collapse of coastal ecosystems"                                                | Jeremy B.C. Jackson et al.                            | 2001             |
+| "The Amphibian Extinction Crisis: What Will Not Work"                                                                 | Michael J. Lannoo                                     | 2005             |
+| "Trophic Downgrading of Planet Earth"                                                                                 | James A. Estes et al.                                 | 2011             |
+| "Conservation: Earth is home to millions of species. Now we're tracking the decline of almost every one"              | Damian Carrington                                     | 2017             |
+| "Extinction risk from climate change"                                                                                 | Mark C. Urban                                         | 2015             |
 
 ## pandemics
 
@@ -103,18 +107,18 @@ tags:
 | 9    | Black Dragon Fire        | 1987 | Heilongjiang, China           | 3,000,000    | 200+       |
 | 10   | Matilija Fire            | 1932 | California, United States     | 220,000      | 0          |
 
-| Event                                       | Date                           | Citation                                                                                                                             |
-|---------------------------------------------|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Deforestation of the Amazon Rainforest      | ongoing                        | <https://www.bbc.com/news/world-latin-america-35618548>                                                                                |
-| Deforestation of the Indonesian Rainforest  | ongoing                        | <https://www.reuters.com/article/us-indonesia-environment-forests/indonesia-aims-to-protect-30-of-forests-to-cut-emissions-idUSKBN23L0XN> |
-| Deforestation of the Congo Rainforest        | ongoing                        | <https://rainforests.mongabay.com/congo/>                                                                                              |
-| The Great Plains Dust Bowl                   | 1930s                          | <https://www.history.com/topics/great-plains-dust-bowl>                                                                                |
-| Deforestation of the Eastern United States  | 1600s - 1900s                  | <https://www.nationalgeographic.org/article/deforestation-united-states/>                                                             |
-| Deforestation of the Brazilian Cerrado      | ongoing                        | <https://www.sciencedirect.com/science/article/abs/pii/S0264837711002694>                                                               |
-| Deforestation of Madagascar                  | ongoing                        | <https://www.conservation.org/stories/Pages/10-deforestation-areas-most-critical-for-conservation.aspx>                                |
-| Deforestation of Borneo                      | ongoing                        | <https://www.nationalgeographic.com/environment/2019/07/borneo-deforestation-shocking-loss-of-wildlife-habitat/>                       |
-| Deforestation of the Sahel                   | ongoing                        | <https://www.wri.org/applications/maps/sahel-deforestation>                                                                             |
-| Deforestation of Haiti                       | ongoing                        | <https://www.nationalgeographic.com/news/2010/1/100119-haiti-earthquake-deforestation-mudslides/>                                      |
+| Event                                      | Date          | Citation                                                                                                                                  |
+| ------------------------------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Deforestation of the Amazon Rainforest     | ongoing       | <https://www.bbc.com/news/world-latin-america-35618548>                                                                                   |
+| Deforestation of the Indonesian Rainforest | ongoing       | <https://www.reuters.com/article/us-indonesia-environment-forests/indonesia-aims-to-protect-30-of-forests-to-cut-emissions-idUSKBN23L0XN> |
+| Deforestation of the Congo Rainforest      | ongoing       | <https://rainforests.mongabay.com/congo/>                                                                                                 |
+| The Great Plains Dust Bowl                 | 1930s         | <https://www.history.com/topics/great-plains-dust-bowl>                                                                                   |
+| Deforestation of the Eastern United States | 1600s - 1900s | <https://www.nationalgeographic.org/article/deforestation-united-states/>                                                                 |
+| Deforestation of the Brazilian Cerrado     | ongoing       | <https://www.sciencedirect.com/science/article/abs/pii/S0264837711002694>                                                                 |
+| Deforestation of Madagascar                | ongoing       | <https://www.conservation.org/stories/Pages/10-deforestation-areas-most-critical-for-conservation.aspx>                                   |
+| Deforestation of Borneo                    | ongoing       | <https://www.nationalgeographic.com/environment/2019/07/borneo-deforestation-shocking-loss-of-wildlife-habitat/>                          |
+| Deforestation of the Sahel                 | ongoing       | <https://www.wri.org/applications/maps/sahel-deforestation>                                                                               |
+| Deforestation of Haiti                     | ongoing       | <https://www.nationalgeographic.com/news/2010/1/100119-haiti-earthquake-deforestation-mudslides/>                                         |
 
 | Rank | Event                                      | Year(s)       | Area Deforested |
 | ---- | ------------------------------------------ | ------------- | --------------- |
@@ -144,31 +148,31 @@ tags:
 
 ## the visible money trail
 
-| Rank | Organization                                     | Lobbying Expenditures |
-|------|--------------------------------------------------|----------------------|
-| 1    | U.S. Chamber of Commerce                          | $39,320,000          |
-| 2    | National Association of Realtors                  | $36,190,000          |
-| 3    | Pharmaceutical Research & Manufacturers of America | $25,891,272          |
-| 4    | American Medical Association                      | $22,300,000          |
-| 5    | American Hospital Association                     | $19,815,000          |
-| 6    | Business Roundtable                               | $19,530,000          |
-| 7    | Blue Cross Blue Shield                            | $18,910,000          |
-| 8    | Koch Industries                                   | $17,910,000          |
-| 9    | National Association of Broadcasters              | $17,620,000          |
-| 10   | American Chemistry Council                        | $16,880,000          |
+| Rank | Organization                                       | Lobbying Expenditures |
+| ---- | -------------------------------------------------- | --------------------- |
+| 1    | U.S. Chamber of Commerce                           | $39,320,000           |
+| 2    | National Association of Realtors                   | $36,190,000           |
+| 3    | Pharmaceutical Research & Manufacturers of America | $25,891,272           |
+| 4    | American Medical Association                       | $22,300,000           |
+| 5    | American Hospital Association                      | $19,815,000           |
+| 6    | Business Roundtable                                | $19,530,000           |
+| 7    | Blue Cross Blue Shield                             | $18,910,000           |
+| 8    | Koch Industries                                    | $17,910,000           |
+| 9    | National Association of Broadcasters               | $17,620,000           |
+| 10   | American Chemistry Council                         | $16,880,000           |
 
-| Rank | Organization                                      | Lobbying Expenditures |
-|------|---------------------------------------------------|----------------------|
-| 1    | U.S. Chamber of Commerce                           | $82,920,000          |
-| 2    | National Association of Realtors                   | $74,435,514          |
-| 3    | Pharmaceutical Research & Manufacturers of America | $27,970,000          |
-| 4    | American Medical Association                       | $24,374,000          |
-| 5    | Blue Cross Blue Shield                             | $23,040,000          |
-| 6    | American Hospital Association                      | $21,518,719          |
-| 7    | American Association for Justice                   | $18,470,000          |
-| 8    | National Association of Home Builders              | $16,620,000          |
-| 9    | American Chemistry Council                         | $15,610,000          |
-| 10   | National Association of Broadcasters               | $15,545,000          |
+| Rank | Organization                                       | Lobbying Expenditures |
+| ---- | -------------------------------------------------- | --------------------- |
+| 1    | U.S. Chamber of Commerce                           | $82,920,000           |
+| 2    | National Association of Realtors                   | $74,435,514           |
+| 3    | Pharmaceutical Research & Manufacturers of America | $27,970,000           |
+| 4    | American Medical Association                       | $24,374,000           |
+| 5    | Blue Cross Blue Shield                             | $23,040,000           |
+| 6    | American Hospital Association                      | $21,518,719           |
+| 7    | American Association for Justice                   | $18,470,000           |
+| 8    | National Association of Home Builders              | $16,620,000           |
+| 9    | American Chemistry Council                         | $15,610,000           |
+| 10   | National Association of Broadcasters               | $15,545,000           |
 
 ## manmade disasters
 
@@ -302,107 +306,107 @@ Estimates of the Earth's carrying capacity for humans range widely, from as few 
 
 Greed is often caused by a desire for more wealth or possessions, as well as a fear of not having enough. It can also be influenced by societal and cultural values, such as a focus on material success and competition. Additionally, some research suggests that biological factors, such as genetics and brain chemistry, may play a role in shaping individuals' propensity for greed.
 
-| Rank | Name | Net Worth (Billion USD) | Source of Wealth |
-| --- | --- | --- | --- |
-| 1 | Elon Musk | 195.7 | Tesla, SpaceX, Neuralink |
-| 2 | Jeff Bezos | 191.6 | Amazon |
-| 3 | Bernard Arnault & Family | 178.2 | LVMH |
-| 4 | Bill Gates | 130.9 | Microsoft |
-| 5 | Mark Zuckerberg | 106.4 | Facebook |
-| 6 | Warren Buffett | 94.7 | Berkshire Hathaway |
-| 7 | Larry Ellison | 84.6 | Oracle |
-| 8 | Larry Page | 79.4 | Google |
-| 9 | Sergey Brin | 76.8 | Google |
-| 10 | Steve Ballmer | 71.6 | Microsoft |
+| Rank | Name                     | Net Worth (Billion USD) | Source of Wealth         |
+| ---- | ------------------------ | ----------------------- | ------------------------ |
+| 1    | Elon Musk                | 195.7                   | Tesla, SpaceX, Neuralink |
+| 2    | Jeff Bezos               | 191.6                   | Amazon                   |
+| 3    | Bernard Arnault & Family | 178.2                   | LVMH                     |
+| 4    | Bill Gates               | 130.9                   | Microsoft                |
+| 5    | Mark Zuckerberg          | 106.4                   | Facebook                 |
+| 6    | Warren Buffett           | 94.7                    | Berkshire Hathaway       |
+| 7    | Larry Ellison            | 84.6                    | Oracle                   |
+| 8    | Larry Page               | 79.4                    | Google                   |
+| 9    | Sergey Brin              | 76.8                    | Google                   |
+| 10   | Steve Ballmer            | 71.6                    | Microsoft                |
 
 ## monopolies
 
-| Event | Date | Citation |
-|-------|------|----------|
-| Standard Oil Company is incorporated | January 10, 1870 | [Source](https://www.history.com/topics/early-20th-century-us/standard-oil-trust) |
-| United States Steel Corporation is founded | February 25, 1901 | [Source](https://www.history.com/topics/19th-century/american-industrial-revolution) |
-| American Tobacco Company is formed | January 31, 1902 | [Source](https://www.britannica.com/topic/American-Tobacco-Company) |
-| International Mercantile Marine Company is formed | April 1902 | [Source](https://www.britannica.com/topic/International-Mercantile-Marine-Company) |
-| Northern Securities Company is formed | November 1901 | [Source](https://www.history.com/this-day-in-history/theodore-roosevelt-takes-on-trusts) |
-| Radio Corporation of America (RCA) is formed | October 17, 1919 | [Source](https://www.britannica.com/topic/Radio-Corporation-of-America) |
-| Aluminum Company of America (Alcoa) is formed | October 1, 1888 | [Source](https://www.britannica.com/topic/Aluminum-Company-of-America) |
-| International Business Machines Corporation (IBM) is founded | June 16, 1911 | [Source](https://www.ibm.com/ibm/history/history/year_1911.html) |
-| Bell Telephone Company is founded | July 9, 1877 | [Source](https://www.history.com/topics/inventions/telephone) |
-| Microsoft Corporation is founded | April 4, 1975 | [Source](https://www.britannica.com/topic/Microsoft-Corporation) |
+| Event                                                        | Date              | Citation                                                                                 |
+| ------------------------------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------- |
+| Standard Oil Company is incorporated                         | January 10, 1870  | [Source](https://www.history.com/topics/early-20th-century-us/standard-oil-trust)        |
+| United States Steel Corporation is founded                   | February 25, 1901 | [Source](https://www.history.com/topics/19th-century/american-industrial-revolution)     |
+| American Tobacco Company is formed                           | January 31, 1902  | [Source](https://www.britannica.com/topic/American-Tobacco-Company)                      |
+| International Mercantile Marine Company is formed            | April 1902        | [Source](https://www.britannica.com/topic/International-Mercantile-Marine-Company)       |
+| Northern Securities Company is formed                        | November 1901     | [Source](https://www.history.com/this-day-in-history/theodore-roosevelt-takes-on-trusts) |
+| Radio Corporation of America (RCA) is formed                 | October 17, 1919  | [Source](https://www.britannica.com/topic/Radio-Corporation-of-America)                  |
+| Aluminum Company of America (Alcoa) is formed                | October 1, 1888   | [Source](https://www.britannica.com/topic/Aluminum-Company-of-America)                   |
+| International Business Machines Corporation (IBM) is founded | June 16, 1911     | [Source](https://www.ibm.com/ibm/history/history/year_1911.html)                         |
+| Bell Telephone Company is founded                            | July 9, 1877      | [Source](https://www.history.com/topics/inventions/telephone)                            |
+| Microsoft Corporation is founded                             | April 4, 1975     | [Source](https://www.britannica.com/topic/Microsoft-Corporation)                         |
 
 > coca cola
 
-| Company | Business |
-|---------|----------|
-| Costa Coffee | Coffee Shops |
-| Honest Tea | Bottled Tea |
-| Minute Maid | Fruit Beverages |
-| Simply Orange | Orange Juice |
-| SmartWater | Bottled Water |
-| Vitamin Water | Flavored Water |
-| Zico | Coconut Water |
-| Odwalla | Smoothies and Juices |
-| FUZE Tea | Bottled Tea |
+| Company         | Business             |
+| --------------- | -------------------- |
+| Costa Coffee    | Coffee Shops         |
+| Honest Tea      | Bottled Tea          |
+| Minute Maid     | Fruit Beverages      |
+| Simply Orange   | Orange Juice         |
+| SmartWater      | Bottled Water        |
+| Vitamin Water   | Flavored Water       |
+| Zico            | Coconut Water        |
+| Odwalla         | Smoothies and Juices |
+| FUZE Tea        | Bottled Tea          |
 | Innocent Drinks | Smoothies and Juices |
 
 > pepsi
 
-| Company Name           | Type of Business        |
-|------------------------|------------------------|
-| Pepsi-Cola              | Beverage Manufacturing  |
-| Frito-Lay               | Snack Food Manufacturing|
-| Tropicana              | Juice Manufacturing     |
-| Gatorade              | Sports Drink Manufacturing |
-| Quaker Foods            | Cereal and Snack Manufacturing|
-| Sabra Dipping Company  | Hummus and Dips Manufacturing|
-| Naked Juice            | Juice and Smoothie Manufacturing|
-| KeVita                 | Probiotic Drinks Manufacturing|
-| Lipton                 | Tea Manufacturing       |
-| Rockstar Energy        | Energy Drink Manufacturing |
+| Company Name                       | Type of Business                     |
+| ---------------------------------- | ------------------------------------ |
+| Pepsi-Cola                         | Beverage Manufacturing               |
+| Frito-Lay                          | Snack Food Manufacturing             |
+| Tropicana                          | Juice Manufacturing                  |
+| Gatorade                           | Sports Drink Manufacturing           |
+| Quaker Foods                       | Cereal and Snack Manufacturing       |
+| Sabra Dipping Company              | Hummus and Dips Manufacturing        |
+| Naked Juice                        | Juice and Smoothie Manufacturing     |
+| KeVita                             | Probiotic Drinks Manufacturing       |
+| Lipton                             | Tea Manufacturing                    |
+| Rockstar Energy                    | Energy Drink Manufacturing           |
 | Starbucks Ready-to-Drink Beverages | Bottled Coffee and Tea Manufacturing |
-| Muscle Milk            | Protein Drink Manufacturing |
-| Bang Energy           | Energy Drink Manufacturing |
-| Izze                   | Sparkling Juice Manufacturing |
-| Hilo Life             | Keto Snack Manufacturing |
+| Muscle Milk                        | Protein Drink Manufacturing          |
+| Bang Energy                        | Energy Drink Manufacturing           |
+| Izze                               | Sparkling Juice Manufacturing        |
+| Hilo Life                          | Keto Snack Manufacturing             |
 
-| Brand           | Product Type     |
-|----------------|-----------------|
-| Pepsi           | Carbonated Soft Drink |
-| Lay's           | Potato Chips    |
-| Tostitos        | Tortilla Chips  |
-| Doritos         | Tortilla Chips  |
-| Cheetos         | Cheese Snacks   |
-| Quaker         | Oats and Snacks  |
-| Gatorade        | Sports Drink    |
-| Tropicana       | Juice           |
-| Naked Juice     | Juice           |
-| Mountain Dew    | Carbonated Soft Drink |
-| 7UP             | Carbonated Soft Drink |
-| Mirinda         | Carbonated Soft Drink |
-| Aquafina        | Bottled Water   |
-| Lipton          | Iced Tea        |
-| Brisk           | Iced Tea        |
-| Starbucks      | Bottled Coffee |
-| Rockstar        | Energy Drink   |
+| Brand        | Product Type          |
+| ------------ | --------------------- |
+| Pepsi        | Carbonated Soft Drink |
+| Lay's        | Potato Chips          |
+| Tostitos     | Tortilla Chips        |
+| Doritos      | Tortilla Chips        |
+| Cheetos      | Cheese Snacks         |
+| Quaker       | Oats and Snacks       |
+| Gatorade     | Sports Drink          |
+| Tropicana    | Juice                 |
+| Naked Juice  | Juice                 |
+| Mountain Dew | Carbonated Soft Drink |
+| 7UP          | Carbonated Soft Drink |
+| Mirinda      | Carbonated Soft Drink |
+| Aquafina     | Bottled Water         |
+| Lipton       | Iced Tea              |
+| Brisk        | Iced Tea              |
+| Starbucks    | Bottled Coffee        |
+| Rockstar     | Energy Drink          |
 
 > yum brand
 
-| Restaurant         | Type          |
-|--------------------|---------------|
-| KFC                | Fast Food     |
-| Taco Bell          | Fast Food     |
-| Pizza Hut          | Fast Casual   |
-| The Habit Burger   | Fast Casual   |
+| Restaurant       | Type        |
+| ---------------- | ----------- |
+| KFC              | Fast Food   |
+| Taco Bell        | Fast Food   |
+| Pizza Hut        | Fast Casual |
+| The Habit Burger | Fast Casual |
 
 > manipulation
 
-| Event | Date | Description | Consequences | Citation |
-| --- | --- | --- | --- | --- |
-| South Sea Bubble | 1720 | A stock market bubble in England | Resulted in the bankruptcy of many investors, including the government and the Company of the Bank of England | [source](https://www.history.com/topics/british-history/south-sea-bubble) |
-| Mississippi Company | 1719-1720 | A speculative bubble in France | Led to the bankruptcy of the company and the collapse of the French economy | [source](https://www.investopedia.com/terms/m/mississippi-bubble.asp) |
-| Panic of 1907 | 1907 | A financial crisis in the United States | Led to the creation of the Federal Reserve System to prevent future financial crises | [source](https://www.history.com/topics/early-20th-century-us/panic-of-1907) |
-| Tulip Mania | 1637 | A speculative bubble in the Netherlands | Led to the collapse of the Dutch tulip market | [source](https://www.britannica.com/topic/Tulip-Mania) |
-| Wall Street Crash of 1929 | 1929 | A stock market crash in the United States | Led to the Great Depression and a decade of economic hardship | [source](https://www.history.com/topics/1920s/wall-street-crash-of-1929) |
+| Event                     | Date      | Description                               | Consequences                                                                                                  | Citation                                                                     |
+| ------------------------- | --------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| South Sea Bubble          | 1720      | A stock market bubble in England          | Resulted in the bankruptcy of many investors, including the government and the Company of the Bank of England | [source](https://www.history.com/topics/british-history/south-sea-bubble)    |
+| Mississippi Company       | 1719-1720 | A speculative bubble in France            | Led to the bankruptcy of the company and the collapse of the French economy                                   | [source](https://www.investopedia.com/terms/m/mississippi-bubble.asp)        |
+| Panic of 1907             | 1907      | A financial crisis in the United States   | Led to the creation of the Federal Reserve System to prevent future financial crises                          | [source](https://www.history.com/topics/early-20th-century-us/panic-of-1907) |
+| Tulip Mania               | 1637      | A speculative bubble in the Netherlands   | Led to the collapse of the Dutch tulip market                                                                 | [source](https://www.britannica.com/topic/Tulip-Mania)                       |
+| Wall Street Crash of 1929 | 1929      | A stock market crash in the United States | Led to the Great Depression and a decade of economic hardship                                                 | [source](https://www.history.com/topics/1920s/wall-street-crash-of-1929)     |
 
 > manipulating prices
 
@@ -442,7 +446,7 @@ These are just a few examples of the many lines of evidence that support the the
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/e6FcNgOHYoo" title="Collapse in a Nutshell: Understanding Our Predicament (33 min)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## what creature could most likely end humanity?  ...most likely it's ourselves
+## what creature could most likely end humanity? ...most likely it's ourselves
 
 According to the World Health Organization (WHO), mosquitoes are responsible for an estimated 725,000 deaths per year.
 
@@ -559,18 +563,18 @@ Addressing these factors is critical for avoiding ecological collapse and ensuri
 
 ## pollution
 
-| Rank | Date | Location | Event | Toxic Material | Fatalities | Notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1984 | Bhopal, India | Gas Leak Disaster | Methyl Isocyanate | 4,000-16,000 | Considered the world's worst industrial disaster |
-| 2 | 1978 | Love Canal, USA | Chemical Waste Dumping | Dioxin, Benzene, Toluene, Xylene, PCBs | Unknown | Resulted in the creation of the Superfund program |
-| 3 | 1996 | Baia Mare, Romania | Cyanide Spill | Cyanide | 0 | Released over 100,000 cubic meters of cyanide-contaminated waste water into a river |
-| 4 | 2010 | Gulf of Mexico, USA | Deepwater Horizon Oil Spill | Crude Oil | 11 | Considered the largest marine oil spill in history |
-| 5 | 2015 | Minamata Bay, Japan | Mercury Poisoning | Methyl Mercury | Unknown | Thousands affected by eating contaminated fish |
-| 6 | 1956 | Minamata, Japan | Mercury Poisoning | Methyl Mercury | Unknown | Discharged into Minamata Bay by a chemical factory |
-| 7 | 1986 | Chernobyl, Ukraine | Nuclear Disaster | Radioactive Material | 4,000 | Considered the worst nuclear power plant accident in history |
-| 8 | 2006 | Abidjan, Ivory Coast | Toxic Waste Dumping | Unknown | Unknown | Over 100,000 people affected by illegal dumping of toxic waste |
-| 9 | 1985 | Pemex Refinery, Mexico | Explosion and Fire | Hydrocarbon | 500-600 | One of the worst industrial disasters in Mexico |
-| 10 | 1976 | Seveso, Italy | Dioxin Release | Dioxin | 37 | One of the highest recorded levels of dioxin exposure in humans |
+| Rank | Date | Location               | Event                       | Toxic Material                         | Fatalities   | Notes                                                                               |
+| ---- | ---- | ---------------------- | --------------------------- | -------------------------------------- | ------------ | ----------------------------------------------------------------------------------- |
+| 1    | 1984 | Bhopal, India          | Gas Leak Disaster           | Methyl Isocyanate                      | 4,000-16,000 | Considered the world's worst industrial disaster                                    |
+| 2    | 1978 | Love Canal, USA        | Chemical Waste Dumping      | Dioxin, Benzene, Toluene, Xylene, PCBs | Unknown      | Resulted in the creation of the Superfund program                                   |
+| 3    | 1996 | Baia Mare, Romania     | Cyanide Spill               | Cyanide                                | 0            | Released over 100,000 cubic meters of cyanide-contaminated waste water into a river |
+| 4    | 2010 | Gulf of Mexico, USA    | Deepwater Horizon Oil Spill | Crude Oil                              | 11           | Considered the largest marine oil spill in history                                  |
+| 5    | 2015 | Minamata Bay, Japan    | Mercury Poisoning           | Methyl Mercury                         | Unknown      | Thousands affected by eating contaminated fish                                      |
+| 6    | 1956 | Minamata, Japan        | Mercury Poisoning           | Methyl Mercury                         | Unknown      | Discharged into Minamata Bay by a chemical factory                                  |
+| 7    | 1986 | Chernobyl, Ukraine     | Nuclear Disaster            | Radioactive Material                   | 4,000        | Considered the worst nuclear power plant accident in history                        |
+| 8    | 2006 | Abidjan, Ivory Coast   | Toxic Waste Dumping         | Unknown                                | Unknown      | Over 100,000 people affected by illegal dumping of toxic waste                      |
+| 9    | 1985 | Pemex Refinery, Mexico | Explosion and Fire          | Hydrocarbon                            | 500-600      | One of the worst industrial disasters in Mexico                                     |
+| 10   | 1976 | Seveso, Italy          | Dioxin Release              | Dioxin                                 | 37           | One of the highest recorded levels of dioxin exposure in humans                     |
 
 ## Population overshoot
 
@@ -647,18 +651,18 @@ Assuming the fuel being burned is diesel, which produces approximately 2.68 kg o
 
 > Note: TEU stands for "Twenty-foot Equivalent Unit" and is a measure of a ship's cargo carrying capacity.
 
-| Rank | Ship Name | Fuel Capacity (metric tons) | Cargo Capacity (TEU) |
-|------|----------|-----------------------------|----------------------|
-| 1 | HMM Algeciras | 17,500 | 23,964 |
-| 2 | MSC Gülsün | 23,756 | 23,756 |
-| 3 | MSC Mina | 20,000 | 23,756 |
-| 4 | OOCL Hong Kong | 18,000 | 21,413 |
-| 5 | CMA CGM Antoine de Saint Exupery | 18,000 | 20,776 |
-| 6 | Ever Golden | 20,388 | 20,124 |
-| 7 | COSCO Shipping Universe | 20,119 | 19,100 |
-| 8 | COSCO Shipping Virgo | 20,000 | 19,000 |
-| 9 | OOCL Germany | 18,000 | 21,413 |
-| 10 | MSC Anna | 18,000 | 19,224 |
+| Rank | Ship Name                        | Fuel Capacity (metric tons) | Cargo Capacity (TEU) |
+| ---- | -------------------------------- | --------------------------- | -------------------- |
+| 1    | HMM Algeciras                    | 17,500                      | 23,964               |
+| 2    | MSC Gülsün                       | 23,756                      | 23,756               |
+| 3    | MSC Mina                         | 20,000                      | 23,756               |
+| 4    | OOCL Hong Kong                   | 18,000                      | 21,413               |
+| 5    | CMA CGM Antoine de Saint Exupery | 18,000                      | 20,776               |
+| 6    | Ever Golden                      | 20,388                      | 20,124               |
+| 7    | COSCO Shipping Universe          | 20,119                      | 19,100               |
+| 8    | COSCO Shipping Virgo             | 20,000                      | 19,000               |
+| 9    | OOCL Germany                     | 18,000                      | 21,413               |
+| 10   | MSC Anna                         | 18,000                      | 19,224               |
 
 MSC Gülsün co2 emissions for example: burning 23,000 metric tons of crude oil would produce approximately 2,308 metric tons of CO2.
 
@@ -700,3 +704,49 @@ MSC Gülsün co2 emissions for example: burning 23,000 metric tons of crude oil 
 | 8    | Lufthansa Cargo         | General Cargo | 179,000                 | 777F        |
 | 9    | AirBridgeCargo Airlines | General Cargo | 168,000                 | 747-8F      |
 | 10   | Atlas Air               | General Cargo | 159,000                 | 747-8F      |
+
+| Rank | Name                         | Primary Income     | Net Worth (USD) |
+| ---- | ---------------------------- | ------------------ | --------------- |
+| 1    | Elon Musk                    | Tesla, SpaceX      | 195B            |
+| 2    | Jeff Bezos                   | Amazon.com         | 185B            |
+| 3    | Bernard Arnault              | LVMH               | 150B            |
+| 4    | Bill Gates                   | Microsoft          | 124B            |
+| 5    | Mark Zuckerberg              | Facebook           | 96B             |
+| 6    | Warren Buffett               | Berkshire Hathaway | 96B             |
+| 7    | Larry Ellison                | Software           | 93B             |
+| 8    | Larry Page                   | Google             | 91.5B           |
+| 9    | Sergey Brin                  | Google             | 89B             |
+| 10   | Mukesh Ambani                | Diversified        | 87B             |
+| 11   | Steve Ballmer                | Microsoft          | 86.8B           |
+| 12   | Jim Walton                   | Walmart            | 81.7B           |
+| 13   | Alice Walton                 | Walmart            | 81.5B           |
+| 14   | Rob Walton                   | Walmart            | 81.3B           |
+| 15   | Francoise Bettencourt Meyers | L'Oreal            | 71.7B           |
+| 16   | Amancio Ortega               | Zara               | 71B             |
+| 17   | Zhong Shanshan               | Beverages          | 68.6B           |
+| 18   | Larry Fink                   | BlackRock          | 61.9B           |
+| 19   | Carlos Slim Helu             | Telecom            | 59.2B           |
+| 20   | Steve Schwarzman             | Private Equity     | 34.3B           |
+
+| Rank | Company Name        | Country       | Industry        | Estimated Annual Revenue |
+| ---- | ------------------- | ------------- | --------------- | ------------------------ |
+| 1    | IBM Watson          | United States | Enterprise AI   | $4 billion+              |
+| 2    | Microsoft           | United States | Enterprise AI   | $3 billion+              |
+| 3    | Google              | United States | Enterprise AI   | $1.2 billion+            |
+| 4    | Amazon Web Services | United States | Enterprise AI   | $1 billion+              |
+| 5    | Salesforce          | United States | Enterprise AI   | $500 million+            |
+| 6    | Apple               | United States | Consumer AI     | $300 million+            |
+| 7    | Baidu               | China         | Consumer AI     | $270 million+            |
+| 8    | Tencent             | China         | Enterprise AI   | $240 million+            |
+| 9    | Intel               | United States | Enterprise AI   | $200 million+            |
+| 10   | Facebook            | United States | Consumer AI     | $180 million+            |
+| 11   | SAP                 | Germany       | Enterprise AI   | $165 million+            |
+| 12   | Nvidia              | United States | Hardware for AI | $160 million+            |
+| 13   | Samsung             | South Korea   | Enterprise AI   | $140 million+            |
+| 14   | Alibaba Cloud       | China         | Enterprise AI   | $135 million+            |
+| 15   | SenseTime           | China         | Enterprise AI   | $120 million+            |
+| 16   | Huawei              | China         | Enterprise AI   | $115 million+            |
+| 17   | OpenAI              | United States | Research        | $100 million+            |
+| 18   | IBM (other)         | United States | Research        | $90 million+             |
+| 19   | Wipro               | India         | Enterprise AI   | $80 million+             |
+| 20   | Tencent Cloud       | China         | Enterprise AI   | $75 million+             |

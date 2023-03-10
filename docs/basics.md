@@ -38,6 +38,19 @@ samudaya -->
 nirodha
 ```
 
+## concepts
+
+| Concept | Meaning |
+|---------|---------|
+| Impermanence | All conditioned things are impermanent and constantly changing |
+| Emptiness | All phenomena are empty of inherent existence and dependently originated |
+| No self | There is no permanent, unchanging, independent self or soul |
+| Signless | All phenomena are without any inherent characteristics or signs |
+| Aimlessness | There is no ultimate goal or purpose |
+| Nirvana | The ultimate goal of Buddhism, a state of liberation from suffering and rebirth |
+
+## universal truths
+
 In Buddhism, the Three Universal Truths are the fundamental principles that underlie the teachings of the Buddha. They are:
 
 1. The truth of suffering ([dukkha](dukka.md)): This truth acknowledges that all forms of existence are characterized by suffering, including physical and mental suffering.
@@ -83,6 +96,10 @@ Buddhism teaches that all beings can achieve ultimate liberation from the cycle 
 These are some of the core teachings in Buddhism, and there are many other aspects and practices within the tradition, such as meditation, chanting, and visualization, which are designed to help individuals cultivate these principles and attain liberation.
 
 ## 7 factors of awakening
+
+- [playlist](https://www.youtube.com/playlist?list=PLCXN1GlAupG0zwUfPOv9uoBFI6DYDuTNf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLCXN1GlAupG0zwUfPOv9uoBFI6DYDuTNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The 7 factors of awakening, also known as the 7 limbs of awakening, are:
 

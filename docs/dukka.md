@@ -17,6 +17,8 @@ By recognizing and overcoming the root cause of ultimate suffering, one can atta
 
 --8<-- "snippets/disappointment.md"
 
+--8<-- "snippets/3_marks.md"
+
 ## two fold ignorance
 
 In Tibetan Buddhism, Tulku Urgyen Rinpoche taught about two types of ignorance that obscure our true nature and prevent us from realizing our full potential. These are:

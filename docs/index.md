@@ -150,7 +150,6 @@ style coding fill: yellow
 > other sites
 
 - [wordpress](https://shanenull.com)
-- [django](https://birdup.info)
 - [game dev](https://shane0.github.io/adventure/)
 - [docusaurus](https://shane0.github.io/docs/)
 - [strength training](https://shane0.github.io/strength/)

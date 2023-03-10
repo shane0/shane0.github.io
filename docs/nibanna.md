@@ -17,6 +17,15 @@ Nirvana, in Buddhism, refers to the ultimate goal of spiritual liberation and th
 - Equanimity: Nirvana is a state of complete equanimity and freedom from all attachments, aversions, and ignorance.
 - Unconditional love: Nirvana is a state of unconditional love and compassion for all beings, free from all forms of hatred and ill-will.
 
+## stages
+
+| Stage of Enlightenment | Pali Term | Description |
+|------------------------|-----------|-------------|
+| Stream Entry | Sotapanna | First glimpse of Nirvana, at least 3 fetters broken |
+| Once-Returner | Sakadagami | Reduced attachment and aversion, will return to human realm at most once more |
+| Non-Returner | Anagami | No longer attached to desire realm, will not be reborn in human realm |
+| Arahant | Arahant | Fully awakened, no longer bound by the 5 aggregates |
+
 ## tmi
 
 Nibbāna: Literally, the “unbinding” of the mind from passion, aversion, and delusion, and from the entire round of death and rebirth. As this term also denotes the extinguishing of a fire, it carries connotations of stilling, cooling, and peace. “Total nibbāna” in some contexts denotes the experience of awakening; in others, the final passing away of an arahant. Sanskrit form: Nirvāṇa.

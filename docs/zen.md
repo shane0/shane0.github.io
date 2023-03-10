@@ -1,9 +1,10 @@
 ---
 tags:
-  - non dual 
-  - zen 
-  - oxherding 
+  - non dual
+  - zen
+  - oxherding
 ---
+
 # zen
 
 ## Shunryu Suzuki
@@ -81,8 +82,10 @@ By practicing this meditation, you can develop a deeper understanding of the ide
 buddhism reduced to one sentence: EVERYTHING CHANGES
 
 > To realize pure mind in your delusion is practice. If you try to expel the delusion it will only persist the more. Just say, ‘Oh, this is just delusion,’ and do not be bothered by it.
->> Zen Mind, Beginner’s Mind
->>> Shunryu Suzuki
+>
+> > Zen Mind, Beginner’s Mind
+> >
+> > > Shunryu Suzuki
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/vjpXPECBi5o" title="📖 ZEN MIND, BEGINNER'S MIND by Shunryu Suzuki" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -107,6 +110,8 @@ The Ten Ox-Herding Pictures or Verses is a series of paintings and poems that or
 > this poem is from the 12th centry (1100-1200)
 
 <https://en.wikipedia.org/wiki/Ten_Bulls>
+
+--8<-- "snippets/oxherding.md"
 
 The 10 oxherding verses are a series of poems or visual images used in Zen Buddhism to describe the stages of spiritual development leading to enlightenment. The verses describe the seeker as a young oxherder who goes on a journey to find his lost ox, representing the seeker's journey to find enlightenment. The 10 stages depicted are:
 
@@ -155,76 +160,76 @@ These are just a few of the many Zen teachers who have contributed to the develo
 
 ## Bodhidharma
 
-| Quote                                                       | Source                      |
-| ------------------------------------------------------------ | ---------------------------|
-| "The ultimate Truth is beyond words. Doctrines are words. They’re not the Way." | The Zen Teaching of Bodhidharma |
-| "All beings are by nature Buddha, as ice by nature is water. Apart from water there is no ice; apart from beings, no Buddha." | The Zen Teaching of Bodhidharma |
-| "To find a Buddha, you have to see your nature."              | The Zen Teaching of Bodhidharma |
+| Quote                                                                                                                                                                                                                                                   | Source                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| "The ultimate Truth is beyond words. Doctrines are words. They’re not the Way."                                                                                                                                                                         | The Zen Teaching of Bodhidharma |
+| "All beings are by nature Buddha, as ice by nature is water. Apart from water there is no ice; apart from beings, no Buddha."                                                                                                                           | The Zen Teaching of Bodhidharma |
+| "To find a Buddha, you have to see your nature."                                                                                                                                                                                                        | The Zen Teaching of Bodhidharma |
 | "When you see forms or hear sounds fully engaging body-and-mind, you grasp things directly. Unlike things and their reflections in the mirror, and unlike the moon and its reflection in the water, when one side is illumined the other side is dark." | The Zen Teaching of Bodhidharma |
-| "The Buddha is your own mind. Don't use a Buddha to worship a Buddha." | The Zen Teaching of Bodhidharma |
-| "All know the way; few actually walk it."                     | The Zen Teaching of Bodhidharma |
-| "If you use your mind to study reality, you won’t understand either your mind or reality. If you study reality without using your mind, you’ll understand both." | The Zen Teaching of Bodhidharma |
-| "If you want to travel the Way of Buddhas and Zen masters, then expect nothing, seek nothing, and grasp nothing." | The Zen Teaching of Bodhidharma |
-| "To enter by reason is to realize the essence through instruction and to believe that all living things share the same true nature, which isn’t apparent because it’s shrouded by sensation and delusion." | The Zen Teaching of Bodhidharma |
-| "One instant is eternity; eternity is the now. When you see through this one instant, you see through the one who sees." | The Zen Teaching of Bodhidharma |
+| "The Buddha is your own mind. Don't use a Buddha to worship a Buddha."                                                                                                                                                                                  | The Zen Teaching of Bodhidharma |
+| "All know the way; few actually walk it."                                                                                                                                                                                                               | The Zen Teaching of Bodhidharma |
+| "If you use your mind to study reality, you won’t understand either your mind or reality. If you study reality without using your mind, you’ll understand both."                                                                                        | The Zen Teaching of Bodhidharma |
+| "If you want to travel the Way of Buddhas and Zen masters, then expect nothing, seek nothing, and grasp nothing."                                                                                                                                       | The Zen Teaching of Bodhidharma |
+| "To enter by reason is to realize the essence through instruction and to believe that all living things share the same true nature, which isn’t apparent because it’s shrouded by sensation and delusion."                                              | The Zen Teaching of Bodhidharma |
+| "One instant is eternity; eternity is the now. When you see through this one instant, you see through the one who sees."                                                                                                                                | The Zen Teaching of Bodhidharma |
 
 ## Shunryu Suzuki
 
-| Quote                                                       | Source                      |
-| ------------------------------------------------------------ | ---------------------------|
-| "In the beginner's mind there are many possibilities, but in the expert's there are few." | Zen Mind, Beginner's Mind  |
-| "Zen is not some kind of excitement, but concentration on our usual everyday routine." | Zen Mind, Beginner's Mind  |
-| "The most important point is to accept yourself and stand on your two feet." | Zen Mind, Beginner's Mind  |
-| "To live in the realm of Buddha nature means to die as a small being, moment after moment." | Zen Mind, Beginner's Mind  |
-| "We do not exist for the sake of something else. We exist for the sake of ourselves." | Zen Mind, Beginner's Mind  |
-| "We take care of the future best by taking care of the present now." | Zen Mind, Beginner's Mind  |
-| "The true practice of meditation is to sit as if you are drinking water when you are thirsty." | Unknown                    |
-| "The most important thing is to find out what is the most important thing." | Unknown                    |
-| "You are perfect just as you are, and you could use a little improvement." | Unknown                    |
-| "The secret of success is to be in harmony with existence, to be always calm to let each wave of life wash us a little farther up the shore." | Unknown                    |
+| Quote                                                                                                                                         | Source                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| "In the beginner's mind there are many possibilities, but in the expert's there are few."                                                     | Zen Mind, Beginner's Mind |
+| "Zen is not some kind of excitement, but concentration on our usual everyday routine."                                                        | Zen Mind, Beginner's Mind |
+| "The most important point is to accept yourself and stand on your two feet."                                                                  | Zen Mind, Beginner's Mind |
+| "To live in the realm of Buddha nature means to die as a small being, moment after moment."                                                   | Zen Mind, Beginner's Mind |
+| "We do not exist for the sake of something else. We exist for the sake of ourselves."                                                         | Zen Mind, Beginner's Mind |
+| "We take care of the future best by taking care of the present now."                                                                          | Zen Mind, Beginner's Mind |
+| "The true practice of meditation is to sit as if you are drinking water when you are thirsty."                                                | Unknown                   |
+| "The most important thing is to find out what is the most important thing."                                                                   | Unknown                   |
+| "You are perfect just as you are, and you could use a little improvement."                                                                    | Unknown                   |
+| "The secret of success is to be in harmony with existence, to be always calm to let each wave of life wash us a little farther up the shore." | Unknown                   |
 
 ## Hakuin Ekaku
 
-| Quote                                                       | Source                      |
-| ------------------------------------------------------------ | ---------------------------|
-| "What is the sound of one hand clapping?"                     | Unknown                    |
-| "The Buddha-Dharma is in your own hands and you must use it yourself." | Unknown                    |
-| "Zen is not some kind of excitement, but concentration on our usual everyday routine." | Unknown                    |
-| "To return to the root is to find meaning, but to pursue appearances is to miss the source." | Unknown                    |
-| "Hearing the words, you may understand the teaching, but experiencing it yourself you realize the truth." | Unknown                    |
-| "Do not seek to follow in the footsteps of the wise; seek what they sought." | Unknown                    |
-| "All beings by nature are Buddha, as ice by nature is water. Apart from water there is no ice; apart from beings, no Buddha." | Zen Koan                   |
-| "Meditation is the lifeblood of the Zen practitioner, the method by which the mind is made flexible and strong enough to penetrate the depths of reality." | Unknown                    |
-| "Realization is not acquisition of anything new nor is it a new faculty. It is only removal of all camouflage." | Unknown                    |
+| Quote                                                                                                                                                      | Source   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| "What is the sound of one hand clapping?"                                                                                                                  | Unknown  |
+| "The Buddha-Dharma is in your own hands and you must use it yourself."                                                                                     | Unknown  |
+| "Zen is not some kind of excitement, but concentration on our usual everyday routine."                                                                     | Unknown  |
+| "To return to the root is to find meaning, but to pursue appearances is to miss the source."                                                               | Unknown  |
+| "Hearing the words, you may understand the teaching, but experiencing it yourself you realize the truth."                                                  | Unknown  |
+| "Do not seek to follow in the footsteps of the wise; seek what they sought."                                                                               | Unknown  |
+| "All beings by nature are Buddha, as ice by nature is water. Apart from water there is no ice; apart from beings, no Buddha."                              | Zen Koan |
+| "Meditation is the lifeblood of the Zen practitioner, the method by which the mind is made flexible and strong enough to penetrate the depths of reality." | Unknown  |
+| "Realization is not acquisition of anything new nor is it a new faculty. It is only removal of all camouflage."                                            | Unknown  |
 
 ## hui-neng
 
-| Quote                                                       | Source                      |
-| ------------------------------------------------------------ | ---------------------------|
-| "The mind is the Buddha, and the Buddha is the mind."         | Platform Sutra             |
-| "In the midst of movement and chaos, keep stillness inside of you." | Unknown                    |
-| "The past no longer is; the future has not yet come; and the present is no more than the space between two breaths. Therefore, concentrate on the present moment." | Unknown                    |
-| "It is not a matter of 'gradual progress' as opposed to 'sudden enlightenment.' We do not seek to become 'better' or 'more enlightened.' We simply see what is already there." | Unknown                    |
-| "When we realize that our mind is the Buddha, we are no longer attached to appearances and we are freed from both mental entanglements and material things." | Platform Sutra             |
-| "If you want to see what you have been doing in the past, look at your body now. If you want to know what will happen to you in the future, look at your mind now." | Unknown                    |
-| "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." | Unknown                    |
-| "In the light of our true nature, all difficulties vanish."    | Unknown                    |
-| "Bodhi is originally without any tree; the bright mirror is also not a stand. Fundamentally there is not a single thing." | Platform Sutra             |
+| Quote                                                                                                                                                                          | Source         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| "The mind is the Buddha, and the Buddha is the mind."                                                                                                                          | Platform Sutra |
+| "In the midst of movement and chaos, keep stillness inside of you."                                                                                                            | Unknown        |
+| "The past no longer is; the future has not yet come; and the present is no more than the space between two breaths. Therefore, concentrate on the present moment."             | Unknown        |
+| "It is not a matter of 'gradual progress' as opposed to 'sudden enlightenment.' We do not seek to become 'better' or 'more enlightened.' We simply see what is already there." | Unknown        |
+| "When we realize that our mind is the Buddha, we are no longer attached to appearances and we are freed from both mental entanglements and material things."                   | Platform Sutra |
+| "If you want to see what you have been doing in the past, look at your body now. If you want to know what will happen to you in the future, look at your mind now."            | Unknown        |
+| "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."                                                                            | Unknown        |
+| "In the light of our true nature, all difficulties vanish."                                                                                                                    | Unknown        |
+| "Bodhi is originally without any tree; the bright mirror is also not a stand. Fundamentally there is not a single thing."                                                      | Platform Sutra |
 
 ## dogen
 
-| Quote                                                       | Source                      |
-| ------------------------------------------------------------ | ---------------------------|
-| "To study the Buddha Way is to study the self, to study the self is to forget the self, and to forget the self is to be enlightened by all things." | Genjokoan                  |
-| "When you do something, you should burn yourself completely, like a good bonfire, leaving no trace of yourself." | Zen Master Dogen           |
-| "Enlightenment is intimacy with all things."                  | Unknown                    |
-| "The truth is not outside. It is inside, like a seed buried in the ground or a pearl in the ocean." | Unknown                    |
-| "The moon is the moon, and the sun is the sun. It does not matter whether you are a monk or a layman; the blue sky is the blue sky, the water is water." | Shobogenzo                 |
-| "Do not follow the ideas of others, but learn to listen to the voice within yourself." | Shobogenzo                 |
-| "Life and death are of supreme importance. Time passes swiftly and opportunity is lost. Let us awaken, awaken, take heed, do not squander our life." | Unknown                    |
-| "To be enlightened is to be intimate with all things."        | Unknown                    |
-| "To be wronged is nothing, unless you continue to remember it." | Unknown                    |
-| "Realization is not attainment of anything new nor is it a new faculty. It is simply the awareness of what is already within us." | Unknown                    |
+| Quote                                                                                                                                                    | Source           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| "To study the Buddha Way is to study the self, to study the self is to forget the self, and to forget the self is to be enlightened by all things."      | Genjokoan        |
+| "When you do something, you should burn yourself completely, like a good bonfire, leaving no trace of yourself."                                         | Zen Master Dogen |
+| "Enlightenment is intimacy with all things."                                                                                                             | Unknown          |
+| "The truth is not outside. It is inside, like a seed buried in the ground or a pearl in the ocean."                                                      | Unknown          |
+| "The moon is the moon, and the sun is the sun. It does not matter whether you are a monk or a layman; the blue sky is the blue sky, the water is water." | Shobogenzo       |
+| "Do not follow the ideas of others, but learn to listen to the voice within yourself."                                                                   | Shobogenzo       |
+| "Life and death are of supreme importance. Time passes swiftly and opportunity is lost. Let us awaken, awaken, take heed, do not squander our life."     | Unknown          |
+| "To be enlightened is to be intimate with all things."                                                                                                   | Unknown          |
+| "To be wronged is nothing, unless you continue to remember it."                                                                                          | Unknown          |
+| "Realization is not attainment of anything new nor is it a new faculty. It is simply the awareness of what is already within us."                        | Unknown          |
 
 Zen master Dogen said:
 
@@ -289,3 +294,7 @@ These are the main themes and topics covered in the Platform Sutra, which is a s
 - this paragraph is using `url_download` to embed a github gist on this site
 
 --8<-- "https://gist.githubusercontent.com/shane0/a9a62b532f0bbd0e091ceaa63cb73b0e/raw/788903a4a2362667a219cfdf352dbacf70eb29c2/ten_oxherding.md"
+
+## more koans
+
+--8<-- "snippets/koans.md"

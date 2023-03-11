@@ -5,9 +5,7 @@ tags:
   - dna
 ---
 
-# collapse
-
-!!! wow "will we live forever or wipe ourselves out?" - ai? are humans going to live forever or wipe ourselves out?
+# collapse of complex systems
 
 ## santa fe
 
@@ -21,13 +19,33 @@ tags:
 
 ## extinction
 
-| Extinction Event | Approximate Time      | Estimated Number of Species Lost |
-| ---------------- | --------------------- | -------------------------------- |
-| End-Ordovician   | 444 million years ago | 85% of species lost              |
-| Late Devonian    | 383 million years ago | 75% of species lost              |
-| End-Permian      | 252 million years ago | 96% of species lost              |
-| End-Triassic     | 201 million years ago | 80% of species lost              |
-| End-Cretaceous   | 66 million years ago  | 76% of species lost              |
+we estimate there are currently 1.9 million species, natural disaster routinely cause extinction
+
+we are the first species to become the extinction event disaster
+
+| Extinction Event     | Cause 1                          | Cause 2             | Cause 3                                    |
+| -------------------- | -------------------------------- | ------------------- | ------------------------------------------ |
+| Ordovician-Silurian  | Global cooling                   | Glaciation          | Decreased sea level due to glaciation      |
+| Late Devonian        | Climate change                   | Ocean anoxia        | Habitat loss due to sea level fluctuations |
+| Permian-Triassic     | Global warming                   | Ocean acidification | Habitat loss due to sea level fluctuations |
+| Triassic-Jurassic    | Global warming and CO2 emissions | Asteroid impact     | Habitat loss due to sea level fluctuations |
+| Cretaceous-Paleogene | Asteroid impact                  | Global cooling      | Habitat loss due to asteroid impact        |
+| Holocene             | Human activity                   | Climate change      | Habitat loss due to human activity         |
+
+| Extinction Event               | Estimated Date              | Percentage of Species Lost  |
+| ------------------------------ | --------------------------- | --------------------------- |
+| Ordovician-Silurian Extinction | 440 million years ago       | 85%                         |
+| Late Devonian Extinction       | 365 million years ago       | 75%                         |
+| Permian-Triassic Extinction    | 250 million years ago       | 96%                         |
+| Triassic-Jurassic Extinction   | 200 million years ago       | 80%                         |
+| Cretaceous-Tertiary Extinction | 65 million years ago        | 76%                         |
+| Holocene Extinction            | 10,000 years ago to present | Up to 17% projected by 2100 |
+
+Ocean anoxia can be caused by a variety of factors, including excessive nutrient runoff from land, which leads to an overgrowth of algae and ultimately oxygen depletion when the algae dies and decomposes; ocean circulation changes; volcanic activity; and changes in ocean chemistry, such as increased atmospheric carbon dioxide levels leading to ocean acidification. Additionally, factors such as warming ocean temperatures and changes in sea level can exacerbate the effects of anoxia.
+
+Ocean acidification is caused by the absorption of excess carbon dioxide (CO2) from the atmosphere into the ocean, which lowers the pH level of seawater, making it more acidic. CO2 dissolves in seawater and reacts with water molecules to form carbonic acid (H2CO3), which in turn releases hydrogen ions (H+) that increase the acidity of the water. The increased acidity can have negative effects on marine life, particularly on shell-forming organisms like corals, mollusks, and some planktonic species.
+
+Global cooling can be caused by a variety of factors, including changes in the Earth's orbit, volcanic eruptions, and fluctuations in solar radiation. The cooling effect of volcanic eruptions is due to the release of large amounts of sulfur dioxide and ash into the atmosphere, which can block the sun's rays and reduce the amount of solar radiation that reaches the Earth's surface. Changes in the Earth's orbit can also affect the amount and distribution of solar radiation, which can impact global temperatures. Additionally, variations in solar activity, such as the 11-year solar cycle, can influence the amount of solar radiation that reaches the Earth's surface and impact global temperatures.
 
 | Reference                                                                                                             | Author(s)                                             | Publication Date |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------- |

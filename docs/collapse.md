@@ -618,7 +618,7 @@ The concept of population overshoot is based on the idea that populations of all
 
 The human population has been growing rapidly for the past few centuries, and it is estimated that the current global population of over 7.9 billion people is already beyond the carrying capacity of the planet. This has led to increasing concerns about the sustainability of human populations and the impacts of population overshoot on the environment, resources, and quality of life.
 
-### firetrucks 
+### firetruck
 
 <iframe width="726" height="408" src="https://www.youtube.com/embed/scXY34nV4LM" title="Are we all doomed? A climate scientist weighs in." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

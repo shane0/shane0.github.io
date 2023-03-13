@@ -9,7 +9,19 @@ tags:
 ---
 # tldr
 
-## mahayana and yogacara
+## tldr zen
+
+- everything changes
+
+## tldr buddhism
+
+- buddha said he teaches suffering and the end of suffering
+
+## translations
+
+- dukka: similar to suffering, disasstisfaction, bitter
+
+## mahayana[^1] or yogacara[^2]
 
 - the best summary I know of
 - might help to first understand some [basics](basics.md)
@@ -96,3 +108,6 @@ But the moment you recognize your own expression, it arises out of yourself, dis
 There is no other meditation or object or act apart from that as much as dust mote, even. But, if you forget and get distracted, you are involved in thoughts.
 
 So please train in this. That is the practice. This is what rinpoche (Padmasambhava) taught in the past and today he has nothing to say besides this.”
+
+[^1]:In Sanskrit, "mahayana" (महायान) literally means "great vehicle." It is a term used in Buddhism to refer to one of the two main branches of Buddhism, the other being Theravada. Mahayana is characterized by its emphasis on universal compassion, the attainment of Buddhahood for the benefit of all sentient beings, and the use of advanced philosophical and meditative techniques to achieve enlightenment. Mahayana is also known for its vast and diverse collection of sutras or scriptures, which are considered to be the word of the Buddha.
+[^2]:In Sanskrit, "yogacara" (योगाचार) literally means "practice of yoga." It is a school of Mahayana Buddhism that emphasizes the practice of meditation and mindfulness in order to understand the true nature of reality. Yogacara teaches that our perception of the world is created by our consciousness, and that by transforming our consciousness through meditation, we can achieve a deeper understanding of the world and our place in it. The school is also known for its theories of mind and cognition, which have influenced not only Buddhist philosophy but also psychology and cognitive science.

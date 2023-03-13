@@ -5,13 +5,31 @@ tags:
   - atmosphere 
   - interdependance 
 ---
-# earth's atmosphere
+# atmosphere
 
-- this is a tangent I went down
-- later I plan to backup and talk to chatgpt about general dependancies for life on earth
-- main factors like temperature, pressure, etc. but for now I'm starting with the atmosphere
-- and the elements: sun, earth, air, water
-- one of the many factors in collapse of complex interdependant systems
+In summary, an atmosphere forms on a planet through the process of outgassing, which releases trapped gases from the planet's interior. The amount and composition of the atmosphere depend on various factors, including the planet's size, distance from the sun, magnetic field and chemical composition of its surface.
+
+## atmospheric requirements for humans
+
+Humans require a specific range of atmospheric conditions to survive. The ideal atmospheric conditions for human life include:
+
+- Oxygen: Humans require oxygen to breathe. The ideal oxygen concentration for humans is between 19.5% and 23.5% by volume.
+- Carbon Dioxide: While humans exhale carbon dioxide, high concentrations of carbon dioxide can be harmful. The ideal concentration of carbon dioxide is less than 0.1% by volume.
+- Nitrogen: Nitrogen makes up the majority of Earth's atmosphere and is not harmful to humans. The ideal concentration of nitrogen is between 78% and 80% by volume.
+- Trace Gases: Other gases such as argon, helium, and neon are present in trace amounts in Earth's atmosphere and are not harmful to humans.
+
+In addition to these atmospheric conditions, humans also require the atmosphere to be at a comfortable temperature and pressure. The ideal temperature range for human comfort is between 18°C and 25°C (64°F to 77°F), and the ideal atmospheric pressure is between 1013 and 1015 hectopascals (hPa).
+
+If any of these atmospheric requirements are not met, it can result in adverse health effects for humans, such as hypoxia (low oxygen), hypercapnia (high carbon dioxide), or decompression sickness (low pressure).
+
+## heat pumps
+
+| Process      | Description                                                          |
+| ------------ | -------------------------------------------------------------------- |
+| Evaporation  | Heat pump absorbs heat from a low-temperature source (e.g., air)     |
+| Compression  | Compressor raises the temperature and pressure of the refrigerant    |
+| Condensation | Heat is released as the refrigerant condenses into a liquid          |
+| Expansion    | Pressure of the refrigerant is reduced as it moves through the valve |
 
 ## greenhouse gas
 

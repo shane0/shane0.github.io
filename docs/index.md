@@ -52,22 +52,7 @@ It is estimated that about {++8% of human DNA actually originated from viruses t
 | Gibbon       | 96%                  |
 
 ----
-
-## the meditative mind
-
-|               | Meditative Mind | Untrained Mind |
-| ------------- | --------------- | -------------- |
-| Attention     | Focused         | Distracted     |
-| Awareness     | Expanded        | Limited        |
-| Thoughts      | Observing       | Identifying    |
-| Emotions      | Regulating      | Reactive       |
-| Perception    | Clear           | Clouded        |
-| Judgment      | Non-judgmental  | Judgmental     |
-| Response      | Intentional     | Automatic      |
-| Concentration | Developed       | Scattered      |
-| Insight       | Cultivated      | Absent         |
-| Clarity]      | Increased       | Decreased      |
-| Equanimity]   | Present         | Absent         |
+--8<-- "snippets/meditative.md"
 
 ### targeted meditations
 
@@ -140,9 +125,11 @@ style coding fill: yellow
 
 ----
 
-## the excrement hit the air conditioner
+## the excrement hits the ventilation duck
 
 - what do we sell out for?
+
+<iframe width="641" height="481" src="https://www.youtube.com/embed/tFuionVJJRg" title="Kurt Vonnegut on Political Satire in America (2005)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="668" height="501" src="https://www.youtube.com/embed/m5Few-ZOGXk" title="Kurt Vonnegut on the future of the United States (1987)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

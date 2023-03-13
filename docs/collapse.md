@@ -337,6 +337,20 @@ Greed is often caused by a desire for more wealth or possessions, as well as a f
 | 9    | Sergey Brin              | 76.8                    | Google                   |
 | 10   | Steve Ballmer            | 71.6                    | Microsoft                |
 
+### living without oil
+
+- or worse without a sun (die by fire or morph into final form)
+
+<iframe width="641" height="481" src="https://www.youtube.com/embed/RfwsvSjXkJU" title="Of Beauty and Consolation Episode 9 Edward Witten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+According to the BP Statistical Review of World Energy 2021, as of the end of 2020, the world had proven reserves of about 1.3 trillion barrels of oil, which at current production rates would last about 47 years. The world also had proven reserves of about 7.6 trillion cubic meters of natural gas, which at current production rates would last about 55 years. Finally, the world had proven reserves of about 1732 billion tonnes of coal, which at current production rates would last about 149 years.
+
+When the oil runs out, there will be significant impacts on the global economy and society. Oil is used not only as a source of energy for transportation and electricity generation but also as a raw material for many products, including plastics and chemicals.
+
+Without oil, it is likely that the global economy would need to transition to alternative sources of energy, such as renewable energy sources like solar, wind, and hydropower, which may not be as efficient or as cost-effective as oil. There could also be significant geopolitical implications, as countries that are currently reliant on oil exports may need to find alternative sources of revenue and economic stability.
+
+Additionally, without oil, there could be significant disruptions to global supply chains and the availability of goods, as many products rely on oil-based raw materials for production. Finally, there could be significant environmental impacts as well, as the extraction and use of oil have significant impacts on air and water quality, wildlife, and natural habitats.
+
 ## monopolies
 
 | Event                                                        | Date              | Citation                                                                                 |
@@ -603,6 +617,10 @@ Population overshoot refers to a situation in which the population of a species,
 The concept of population overshoot is based on the idea that populations of all species are limited by the availability of resources, such as food, water, and habitat. When the population exceeds the carrying capacity of the environment, it results in competition for resources, and increased pressure on the environment. This can lead to the degradation of ecosystems, increased pollution, and a decline in the quality of life for individuals and societies.
 
 The human population has been growing rapidly for the past few centuries, and it is estimated that the current global population of over 7.9 billion people is already beyond the carrying capacity of the planet. This has led to increasing concerns about the sustainability of human populations and the impacts of population overshoot on the environment, resources, and quality of life.
+
+### firetrucks 
+
+<iframe width="726" height="408" src="https://www.youtube.com/embed/scXY34nV4LM" title="Are we all doomed? A climate scientist weighs in." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Carbon-sucking unicorns
 

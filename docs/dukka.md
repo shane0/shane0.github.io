@@ -2,11 +2,13 @@
 tags:
   - dukkha  
 ---
-# dukkha
+# DUKKHA
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/qni8LKMGXTo" title="Two Forms of Suffering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+In Sanskrit, "dukkha" (दुःख) means suffering, pain, or dissatisfaction. It is a key concept in Buddhist philosophy, which refers to the unsatisfactoriness and suffering that is inherent in all worldly experiences, due to impermanence, attachment, and ignorance.
 
 ## two forms of suffering
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/qni8LKMGXTo" title="Two Forms of Suffering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In Tibetan Buddhism, Mingyur Rinpoche teaches that there are two forms of suffering: ordinary suffering and ultimate suffering.
 
@@ -15,9 +17,13 @@ In Tibetan Buddhism, Mingyur Rinpoche teaches that there are two forms of suffer
 
 By recognizing and overcoming the root cause of ultimate suffering, one can attain liberation and ultimate happiness, which is referred to as enlightenment. Mingyur Rinpoche teaches that this can be achieved through the practice of meditation and the development of wisdom and compassion.
 
---8<-- "snippets/disappointment.md"
+## vedana and dukka
 
---8<-- "snippets/3_marks.md"
+| Term                 | Definition                                                                                                                                                                                                                                                                                                                                   |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vedana               | A Pali term that refers to the sensation or feeling tone associated with a particular experience or mental state.                                                                                                                                                                                                                            |
+| Meditation           | A practice that involves training the mind to focus and calm the mental chatter, often through a specific technique or method.                                                                                                                                                                                                               |
+| Vedana in Meditation | In meditation, the practitioner may become aware of different sensations or feeling tones arising in the body or mind. By cultivating awareness of vedana, the practitioner can develop a greater understanding of their thoughts, emotions, and physical sensations, and learn to respond to them in a more skillful and compassionate way. |
 
 ## two fold ignorance
 
@@ -46,10 +52,6 @@ The ego-mind of grasping and fixation is the fundamental obstacle to our path of
 
 > Excerpt From Turning Confusion into Clarity Yongey Mingyur
 
-## drama queens
-
-- human nature: the ego secretly loves drama
+## story chart
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/GOGru_4z1Vc" title="Kurt Vonnegut, Shape of Stories (subtitulos castellano)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
---8<-- "snippets/conclusions.md"

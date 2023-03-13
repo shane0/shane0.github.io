@@ -3,24 +3,22 @@
 
 # daily meditation reminders
 
---8<-- "https://wttr.in/?0"
-
 --8<-- "snippets/dogen.md"
 
 !!! tip "training for your heart and mind"
-    [flashcards](bujo/08.md){ .md-button }
-    [tldr videos](tldr.md){ .md-button }
-    [anapanasati](anapanasati.md){ .md-button }
-    [maranasati](maranasati.md){ .md-button }
-    [zen](zen.md){ .md-button }
+[flashcards](bujo/08.md){ .md-button }
+[tldr videos](tldr.md){ .md-button }
+[anapanasati](anapanasati.md){ .md-button }
+[maranasati](maranasati.md){ .md-button }
+[zen](zen.md){ .md-button }
 
-----
+---
 
 !!! bug "strength training for your body"
 
     [strength training app](https://shane0.github.io/strength/){ .md-button }
 
-----
+---
 
 ## fun facts
 
@@ -35,7 +33,7 @@
 | Homo Crispr         | 2 years ago             |
 | Homo Whoknowswhat   | tbd                     |
 
-----
+---
 
 ### are we infected?
 
@@ -51,7 +49,8 @@ It is estimated that about {++8% of human DNA actually originated from viruses t
 | Orangutan    | 97.9%                |
 | Gibbon       | 96%                  |
 
-----
+---
+
 --8<-- "snippets/meditative.md"
 
 ### targeted meditations
@@ -68,44 +67,41 @@ It is estimated that about {++8% of human DNA actually originated from viruses t
 - Clarity: Clarity meditation, such as awareness of breath or clear seeing meditation.[^10]
 - Equanimity: Equanimity meditation, such as mindfulness of emotions or body-centered equanimity meditation.[^11]
 
-!!! chatGPT  "ai will be used for good and bad"
-    this content is mostly quotes from my books or conversations with chatGPT ai
-    my opinion on chatGTP is (currently) it is an extremely useful {==smart encyclopedia==}
-    {++[hey there ai, will humans live forever or wipe ourselves out completely](collapse.md)?++}
+!!! chatGPT "ai will be used for good and bad"
+this content is mostly quotes from my books or conversations with chatGPT ai
+my opinion on chatGTP is (currently) it is an extremely useful {==smart encyclopedia==}
+{++[hey there ai, will humans live forever or wipe ourselves out completely](collapse.md)?++}
 
-!!! note "the brightest mind that ever lived"
-    - fears and fantasies
-    - I highly recommend [cormac mccarthy](cormac.md)'s movies
-    - cormac's latest books are masterpieces
+!!! note "the brightest mind that ever lived" - fears and fantasies - I highly recommend [cormac mccarthy](cormac.md)'s movies - cormac's latest books are masterpieces
 
 > topics I'm digging into here
 
 ```mermaid
 graph
-2023 --> books 
+2023 --> books
 2023 --> meditations
 meditations --> anapanasati
-meditations --> maranasati 
-meditations --> traditions 
-traditions --> theravada 
-traditions --> mahayana 
+meditations --> maranasati
+meditations --> traditions
+traditions --> theravada
+traditions --> mahayana
 traditions --> zen
-traditions --> dzogchen 
-books --> coarmac_mccarthy 
-2023 --> coding --> full_stack_bootcamp 
+traditions --> dzogchen
+books --> coarmac_mccarthy
+2023 --> coding --> full_stack_bootcamp
 coding --> ai --> chatGpt
-coding --> software_testing 
+coding --> software_testing
 coding --> software_documentation
 style 2023 fill: brown
-style meditations fill: blue 
-style books fill: orange 
-style coding fill: yellow 
+style meditations fill: blue
+style books fill: orange
+style coding fill: yellow
 ```
 
-----
+---
 
 !!! note "favorite quotes"
-    The design intent should always be less, but better.
+The design intent should always be less, but better.
 
     Don't spend time optimizing something that shouldn't exist.
 
@@ -123,7 +119,7 @@ style coding fill: yellow
 
 <iframe width="668" height="501" src="https://www.youtube.com/embed/S5BhQiny7O0" title="Kurt Vonnegut   The Shapes of Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-----
+---
 
 ## the excrement hits the ventilation duck
 
@@ -133,7 +129,8 @@ style coding fill: yellow
 
 <iframe width="668" height="501" src="https://www.youtube.com/embed/m5Few-ZOGXk" title="Kurt Vonnegut on the future of the United States (1987)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-----
+---
+
 > other sites
 
 - [wordpress](https://shanenull.com)
@@ -141,20 +138,20 @@ style coding fill: yellow
 - [docusaurus](https://shane0.github.io/docs/)
 - [strength training](https://shane0.github.io/strength/)
 
-----
+---
 
 ## tags
 
 [TAGS]
 
-[^1]:[Attention](anapanasati.md)
-[^2]:[Awareness](sense.md)
-[^3]:[Thoughts](noting.md)
-[^4]:[Emotions](metta.md)
-[^5]:[Perception](impermenence.md)
-[^6]:[Judgment](emptiness.md)
-[^7]:[Response](walking.md)
-[^8]:[Concentration](shamatha.md)
-[^9]:[Insight](vipassana.md)
-[^10]:[Clarity](anapanasati.md)
-[^11]:[Equanimity](metta.md)
+[^1]: [Attention](anapanasati.md)
+[^2]: [Awareness](sense.md)
+[^3]: [Thoughts](noting.md)
+[^4]: [Emotions](metta.md)
+[^5]: [Perception](impermenence.md)
+[^6]: [Judgment](emptiness.md)
+[^7]: [Response](walking.md)
+[^8]: [Concentration](shamatha.md)
+[^9]: [Insight](vipassana.md)
+[^10]: [Clarity](anapanasati.md)
+[^11]: [Equanimity](metta.md)

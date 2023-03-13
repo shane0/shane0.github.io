@@ -25,5 +25,3 @@
 ### `url_download`
 
 > moon phase
-
---8<-- "https://wttr.in/moon"

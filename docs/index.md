@@ -3,6 +3,8 @@
 
 # conversations with chatgtp
 
+<iframe width="802" height="501" src="https://www.youtube.com/embed/GTHd3dn7FJ0" title="the odds of you existing are zero, almost...." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 > buddhism: six roots
 
 | Root          | Pali/Sanskrit   | Opposite        |

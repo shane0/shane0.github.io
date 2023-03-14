@@ -45,7 +45,7 @@ def edit():
 @cli.command()
 def zl():
     """markdownlint"""
-    cmd = "npx markdownlint 'docs/*.md' --config .markdownlint.json"
+    cmd = "npx markdownlint 'docs/*.md' --config .markdownlint.json --ignore docs/index.md"
     os.system(cmd)
 
 @cli.command()

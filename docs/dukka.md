@@ -1,7 +1,8 @@
 ---
 tags:
-  - dukkha  
+  - dukkha
 ---
+
 # DUKKHA
 
 In Sanskrit, "dukkha" (दुःख) means suffering, pain, or dissatisfaction. It is a key concept in Buddhist philosophy, which refers to the unsatisfactoriness and suffering that is inherent in all worldly experiences, due to impermanence, attachment, and ignorance.
@@ -24,6 +25,10 @@ By recognizing and overcoming the root cause of ultimate suffering, one can atta
 | Vedana               | A Pali term that refers to the sensation or feeling tone associated with a particular experience or mental state.                                                                                                                                                                                                                            |
 | Meditation           | A practice that involves training the mind to focus and calm the mental chatter, often through a specific technique or method.                                                                                                                                                                                                               |
 | Vedana in Meditation | In meditation, the practitioner may become aware of different sensations or feeling tones arising in the body or mind. By cultivating awareness of vedana, the practitioner can develop a greater understanding of their thoughts, emotions, and physical sensations, and learn to respond to them in a more skillful and compassionate way. |
+
+## Samudaya
+
+Samudaya specifically refers to the cause or origin of suffering, which is seen as arising from the interconnected and interdependent nature of all things. According to the Buddha, all things arise in dependence upon causes and conditions, and understanding the nature of these causes and conditions can help us to eliminate the suffering they create.
 
 ## two fold ignorance
 

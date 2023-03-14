@@ -3,6 +3,10 @@ tags:
   - impermanence
   - collapse
   - dna
+  - population
+  - overshoot
+  - extinction events
+  - extinction
 ---
 
 # collapse of complex systems

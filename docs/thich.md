@@ -1,10 +1,11 @@
 ---
 tags:
-  - interdependence 
+  - interdependence
   - Nidanas
   - concentration
   - mindfulness
 ---
+
 # thich nhat hahn
 
 ![](images/Thay+and+Dr.jpeg)
@@ -236,7 +237,8 @@ Fear has countless faces: from the fear of failure to worries about everyday lif
 In these pages, Thich Nhat Hanh, a gifted teacher who was once nominated for the Nobel Peace Prize by Martin Luther King Jr., explores the origins of our fears, illuminating a path to finding peace and freedom from anxiety and offering powerful tools to help us eradicate it from our lives.
 
 > CONCENTRATION means you keep the insight alive for a long time. It’s not just a flash; that’s not enough to liberate you. So in your daily life, you keep that insight of nonself, of emptiness, of impermanence alive. When you see a person, a bird, a tree, or a rock, you see its nature of emptiness.
->> Excerpt From Fear: Essential Wisdom for Getting Through the Storm Thich Nhat Hanh.
+>
+> > Excerpt From Fear: Essential Wisdom for Getting Through the Storm Thich Nhat Hanh.
 
 ## Brahma Abodes
 
@@ -295,3 +297,29 @@ In Buddhism, the concept of EMPTINESS refers to the absence of inherent existenc
 Thich Nhat Hanh often taught that the concept of EMPTINESS is not nihilistic, but rather an invitation to see things as they are, without projecting our own biases, expectations, or attachments onto them. He emphasized that the insight into EMPTINESS is a way to see the interdependent nature of all things and to cultivate greater wisdom, compassion, and freedom from suffering.
 
 For Thich Nhat Hanh, the concept of EMPTINESS was not just a philosophical idea, but a practice that involves letting go of our attachment to fixed ideas and beliefs, and cultivating a deep awareness of the impermanent and interdependent nature of all phenomena. By understanding that all things are constantly changing and interrelated, we can develop greater insight and compassion, and live in greater harmony with the world around us.
+
+### targeted meditations
+
+- Attention: Focused attention meditation, such as mindfulness of breath or body scanning.[^1]
+- Awareness: Open awareness meditation, such as choiceless awareness or mindfulness of sounds.[^2]
+- Thoughts: Observing thoughts meditation, such as noting or labeling thoughts.[^3]
+- Emotions: Emotion regulation meditation, such as compassion or loving-kindness meditation.[^4]
+- Perception: Perception meditation, such as perception of impermanence or perception of non-self.[^5]
+- Judgment: Non-judgmental awareness meditation, such as mindfulness of thoughts or self-compassion.[^6]
+- Response: Intentional action meditation, such as mindful movement or walking meditation.[^7]
+- Concentration: Concentration meditation, such as samatha or one-pointedness meditation.[^8]
+- Insight: Insight meditation, such as vipassana or mindfulness of thoughts.[^9]
+- Clarity: Clarity meditation, such as awareness of breath or clear seeing meditation.[^10]
+- Equanimity: Equanimity meditation, such as mindfulness of emotions or body-centered equanimity meditation.[^11]
+
+[^1]: [Attention](anapanasati.md)
+[^2]: [Awareness](sense.md)
+[^3]: [Thoughts](noting.md)
+[^4]: [Emotions](metta.md)
+[^5]: [Perception](impermenence.md)
+[^6]: [Judgment](emptiness.md)
+[^7]: [Response](walking.md)
+[^8]: [Concentration](shamatha.md)
+[^9]: [Insight](vipassana.md)
+[^10]: [Clarity](anapanasati.md)
+[^11]: [Equanimity](metta.md)

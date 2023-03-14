@@ -1,11 +1,12 @@
 ---
 tags:
   - context
-  - basics 
-  - dukkha 
-  - nibanna 
+  - basics
+  - dukkha
+  - nibanna
   - stream entry
 ---
+
 # basics
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/YYml4qwg1CE" title="Insight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -40,14 +41,14 @@ nirodha
 
 ## concepts
 
-| Concept | Meaning |
-|---------|---------|
-| Impermanence | All conditioned things are impermanent and constantly changing |
-| Emptiness | All phenomena are empty of inherent existence and dependently originated |
-| No self | There is no permanent, unchanging, independent self or soul |
-| Signless | All phenomena are without any inherent characteristics or signs |
-| Aimlessness | There is no ultimate goal or purpose |
-| Nirvana | The ultimate goal of Buddhism, a state of liberation from suffering and rebirth |
+| Concept      | Meaning                                                                         |
+| ------------ | ------------------------------------------------------------------------------- |
+| Impermanence | All conditioned things are impermanent and constantly changing                  |
+| Emptiness    | All phenomena are empty of inherent existence and dependently originated        |
+| No self      | There is no permanent, unchanging, independent self or soul                     |
+| Signless     | All phenomena are without any inherent characteristics or signs                 |
+| Aimlessness  | There is no ultimate goal or purpose                                            |
+| Nirvana      | The ultimate goal of Buddhism, a state of liberation from suffering and rebirth |
 
 ## universal truths
 
@@ -58,6 +59,18 @@ In Buddhism, the Three Universal Truths are the fundamental principles that unde
 1. The truth of the end of suffering (nirodha): This truth states that it is possible to end suffering by letting go of craving and attachment and by realizing the nature of reality.
 
 These Three Universal Truths form the foundation of the Buddhist path to liberation, and understanding them is considered an essential step in attaining enlightenment. By recognizing the truth of suffering, practitioners can cultivate a sense of urgency to end it, and by recognizing the truth of its cause and cessation, they can develop a path to end suffering and achieve lasting happiness.
+
+## nirodha
+
+Nirodha is a concept in Buddhism that refers to the cessation or ending of suffering. It is one of the Four Noble Truths, which are considered the foundational teachings of Buddhism.
+
+According to Buddhist philosophy, suffering (dukkha) arises from craving, attachment, and ignorance. Nirodha is the state in which these causes of suffering have been eliminated, and the mind is in a state of complete equanimity and peace.
+
+Nirodha is achieved through the practice of the Noble Eightfold Path, which includes right understanding, intention, speech, action, livelihood, effort, mindfulness, and concentration. By following these eight steps, one can gradually overcome the causes of suffering and attain Nirodha.
+
+Nirodha is often associated with the concept of Nirvana, which is the ultimate goal of Buddhist practice. While Nirodha refers specifically to the cessation of suffering, Nirvana is a state of ultimate liberation and enlightenment that goes beyond the absence of suffering.
+
+In Buddhist practice, the realization of Nirodha is considered a profound spiritual accomplishment, as it allows one to live in a state of freedom and peace, no longer driven by the forces of craving and attachment.
 
 ## caturapramāṇa
 
@@ -275,8 +288,8 @@ basics --> five_hindrances
 basics -- greed hate love --> six_roots
 basics -- of posture arms legs head neck --> seven_points
 basics -- eyes ears tongue nose body mind--> sense_doors
-basics -- pleasant unpleasant neutral --> feeling_tones 
-basics -- pain change conditionality --> three_sufferings 
+basics -- pleasant unpleasant neutral --> feeling_tones
+basics -- pain change conditionality --> three_sufferings
 
 ```
 

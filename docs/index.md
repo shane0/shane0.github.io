@@ -7,13 +7,21 @@
 
 > buddhism: six roots
 
-| Root          | Pali/Sanskrit   | Opposite        |
-|---------------|----------------|----------------|
-| Greed         | lobha          | Non-greed (alobha) |
-| Hatred        | dosa           | Non-hatred (adosa) |
-| Delusion      | moha           | Non-delusion (amoha) |
+| Root     | Pali/Sanskrit | Opposite             |
+| -------- | ------------- | -------------------- |
+| Greed    | lobha         | Non-greed (alobha)   |
+| Hatred   | dosa          | Non-hatred (adosa)   |
+| Delusion | moha          | Non-delusion (amoha) |
 
 --8<-- "snippets/dogen.md"
+
+!!! quote "Skillful speech and actions"
+    intention and compassion for
+    
+    - kindness
+    - respect
+    - truthfullness
+    - timeliness
 
 `Lao Tzu said:`
 

@@ -29,7 +29,7 @@ Buddhism emphasizes the importance of cultivating wholesome or skillful actions,
 
 ## Skillful speech and actions
 
-- come from the compassion intention and are based on these for
+intention and compassion for
 
 - kindness
 - respect

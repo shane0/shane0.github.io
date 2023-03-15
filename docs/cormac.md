@@ -2,6 +2,7 @@
 tags:
   - quantum physics
   - cormac
+  - extinction 
   - skynet 
   - impermanence 
 ---
@@ -110,3 +111,17 @@ This idea highlights the importance of rules and structure in shaping our unders
 | The Judge's speech on war and violence | The Judge delivers a lengthy monologue on the nature of violence and war, which becomes one of the novel's most famous passages                                                               |
 | The final confrontation with the Yumas | The gang, now reduced in number, faces off against the Yuma tribe in a brutal battle that leaves only a handful of survivors                                                                  |
 | The Kid's encounter with the Judge     | In the novel's final scene, the Kid encounters the Judge years after their time together in the gang, and the Judge delivers a cryptic and ominous message before disappearing into the night |
+
+## the counselor
+
+and then all the grand designs and all the great plans will be exposed for what they really are
+
+### the extinciton of all reality is a concept no resignation can encompass
+
+<iframe width="726" height="303" src="https://www.youtube.com/embed/4nnqpZICG2Q" title="Jefe&#39;s wisdom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## comparisons
+
+The world has created no living thing that it does not intend to destroy
+
+the extinciton of all reality is a concept no resignation can encompass

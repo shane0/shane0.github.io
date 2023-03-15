@@ -89,6 +89,8 @@ This idea highlights the importance of rules and structure in shaping our unders
 
 ## blood meridian
 
+<iframe width="726" height="408" src="https://www.youtube.com/embed/z6zWNWKiJpk" title="Blood Meridian: The Judge&#39;s Final Sermon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 | Character Name            | Description                                                                                                                         |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | The Kid                   | The novel's protagonist, a young runaway who joins Glanton's gang                                                                   |
@@ -125,3 +127,13 @@ and then all the grand designs and all the great plans will be exposed for what 
 The world has created no living thing that it does not intend to destroy
 
 the extinciton of all reality is a concept no resignation can encompass
+
+## no country for old me
+
+<iframe width="726" height="408" src="https://www.youtube.com/embed/_-d1S79zt8c" title="No Country for Old Men - Hotel Scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="726" height="408" src="https://www.youtube.com/embed/VXNfxK5Q2Qg" title="No Country for Old Men - the ending scene [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## the road
+
+<iframe width="726" height="408" src="https://www.youtube.com/embed/pXlBmQfnWCY" title="The Road are you carrying the fire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

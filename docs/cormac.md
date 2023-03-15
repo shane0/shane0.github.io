@@ -85,3 +85,28 @@ elon was right, fear the skynet!!!
 This statement is suggesting that there are things in the world that may or may not exist in a physical sense, but still have rules that govern their behavior and interactions. For example, in modern computing, virtual objects and environments can be created using computer simulations and algorithms, even though they don't have a physical existence in the real world. However, these virtual objects still follow certain rules and behaviors, such as those defined by the software and programming that created them.
 
 This idea highlights the importance of rules and structure in shaping our understanding and experience of the world, regardless of whether that world is physical or virtual. Whether we're dealing with the laws of physics, the rules of a game, or the algorithms that govern a computer simulation, these rules provide a framework for understanding and interacting with the world, and help us make sense of the complex and ever-changing reality that surrounds us.
+
+## blood meridian
+
+| Character Name            | Description                                                                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| The Kid                   | The novel's protagonist, a young runaway who joins Glanton's gang                                                                   |
+| Judge Holden              | The novel's main antagonist, a towering and enigmatic figure who travels with Glanton's gang and espouses his own brutal philosophy |
+| Captain John Joel Glanton | The leader of the mercenary gang that the Kid joins                                                                                 |
+| Toadvine                  | A member of Glanton's gang, known for his violent tendencies and dark humor                                                         |
+| The ex-priest             | A former Catholic priest who travels with Glanton's gang as their chaplain                                                          |
+| Tobin                     | A member of Glanton's gang, known for his storytelling abilities                                                                    |
+| The black Jackson         | A runaway slave who joins Glanton's gang                                                                                            |
+| The reverend Green        | A preacher who joins Glanton's gang and is eventually killed by them                                                                |
+| Bathcat                   | A Comanche who initially works as a scout for Glanton's gang before turning against them                                            |
+
+| Scene                                  | Description                                                                                                                                                                                   |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Kid's arrival in Nacogdoches       | The novel begins with the Kid running away from home and arriving in the town of Nacogdoches, where he meets Toadvine and joins a group of men heading west                                   |
+| The confrontation with the Apaches     | The Kid and the other men encounter a group of Apaches and engage in a brutal battle                                                                                                          |
+| The massacre at the ferry              | The gang, led by Glanton and the Judge, attack a ferry crossing and kill nearly everyone on board, including women and children                                                               |
+| The sack of Arispe                     | Glanton's gang attacks the town of Arispe and engages in a prolonged and brutal massacre                                                                                                      |
+| The confrontation with the Comanches   | The gang encounters a group of Comanches, who they initially befriend before turning on them and killing them                                                                                 |
+| The Judge's speech on war and violence | The Judge delivers a lengthy monologue on the nature of violence and war, which becomes one of the novel's most famous passages                                                               |
+| The final confrontation with the Yumas | The gang, now reduced in number, faces off against the Yuma tribe in a brutal battle that leaves only a handful of survivors                                                                  |
+| The Kid's encounter with the Judge     | In the novel's final scene, the Kid encounters the Judge years after their time together in the gang, and the Judge delivers a cryptic and ominous message before disappearing into the night |

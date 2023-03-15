@@ -9,6 +9,8 @@ tags:
 
 In summary, an atmosphere forms on a planet through the process of outgassing, which releases trapped gases from the planet's interior. The amount and composition of the atmosphere depend on various factors, including the planet's size, distance from the sun, magnetic field and chemical composition of its surface.
 
+<iframe width="710" height="399" src="https://www.youtube.com/embed/-huPoqmOkmU" title="15 Craziest Natural Phenomena Recorded On Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## atmospheric requirements for humans
 
 Humans require a specific range of atmospheric conditions to survive. The ideal atmospheric conditions for human life include:

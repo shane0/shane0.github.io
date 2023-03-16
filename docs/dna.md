@@ -9,7 +9,9 @@ DNA (Deoxyribonucleic acid) is a long, complex molecule found in nearly all livi
 
 It is estimated that about {++8% of human DNA actually originated from viruses that infected our ancestors millions of years ago++}.
 
-## cousins
+## ancestors and inbreds
+
+a person living today likely had around 2^40 ancestors, or approximately 1 trillion, ancestors 1,000 years ago. This estimate assumes that there is no interbreeding between ancestors, which is not always the case.
 
 some genetic studies have suggested that all humans are at least 50th cousins, and possibly as closely related as 20th cousins. The degree of cousinship between two individuals depends on how recently they share a common ancestor. As humans have interbred and migrated throughout history, it is likely that we all share common ancestors at some point in the past.
 

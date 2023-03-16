@@ -2,8 +2,6 @@
 tags:
   - impermanence
   - collapse
-  - dna
-  - population
   - overshoot
   - extinction events
   - extinction
@@ -169,6 +167,39 @@ Global cooling can be caused by a variety of factors, including changes in the E
 | 10   | Willow Island disaster             | April 27, 1978    | Willow Island, West Virginia, USA | 51         |
 
 ## the visible money trail
+
+| Rank | Achievement (world economic forum)                    |
+| ---- | ----------------------------------------------------- |
+| 1    | Partnering Against Corruption Initiative (PACI)       |
+| 2    | Global Battery Alliance                               |
+| 3    | Tropical Forest Alliance 2020                         |
+| 4    | Shaping the Future of Construction                    |
+| 5    | Future of Electricity                                 |
+| 6    | Future of Health and Healthcare                       |
+| 7    | New Vision for Education                              |
+| 8    | Future of Food                                        |
+| 9    | Platform for Accelerating the Circular Economy (PACE) |
+| 10   | Global Future Councils                                |
+
+| Industrial Revolution        | Time Period                     | Main Characteristics                                                                          |
+| ---------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------- |
+| First Industrial Revolution  | 1760-1840                       | Transition from manual production to machines, steam power, and factories                     |
+| Second Industrial Revolution | Late 19th - Early 20th Century  | Advancements in steel production, electricity, and mass production                            |
+| Third Industrial Revolution  | 1969-present                    | Rise of electronics, telecommunications, and automation                                       |
+| Fourth Industrial Revolution | Ongoing since late 20th century | Emergence of digital technologies, artificial intelligence, and interconnectedness of devices |
+
+| Rank | Country        | GDP (nominal)    |
+| ---- | -------------- | ---------------- |
+| 1    | United States  | $22.675 trillion |
+| 2    | China          | $16.645 trillion |
+| 3    | Japan          | $4.872 trillion  |
+| 4    | Germany        | $4.170 trillion  |
+| 5    | United Kingdom | $2.622 trillion  |
+| 6    | India          | $2.611 trillion  |
+| 7    | France         | $2.582 trillion  |
+| 8    | Italy          | $1.935 trillion  |
+| 9    | Canada         | $1.655 trillion  |
+| 10   | South Korea    | $1.586 trillion  |
 
 | Rank | Organization                                       | Lobbying Expenditures |
 | ---- | -------------------------------------------------- | --------------------- |

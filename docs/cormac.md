@@ -159,3 +159,13 @@ the extinciton of all reality is a concept no resignation can encompass
 ## the road
 
 <iframe width="726" height="408" src="https://www.youtube.com/embed/pXlBmQfnWCY" title="The Road are you carrying the fire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+| Rule                                                | Example                                                                                                                      |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Keep moving, no matter what.                        | The Man and The Boy keep moving south, even in the face of extreme danger and hardship.                                      |
+| Trust no one.                                       | The Man is extremely cautious and suspicious of other people, and never lets his guard down.                                 |
+| Always be prepared for the worst.                   | The Man and The Boy carry minimal possessions but always have supplies and weapons ready.                                    |
+| Never waste resources.                              | The Man and The Boy conserve everything they have and only use what they need to survive.                                    |
+| Violence is sometimes necessary.                    | The Man is willing to use violence to protect himself and his son, and even teaches his son how to use a gun.                |
+| Maintain hope in the face of despair.               | The Man constantly reminds his son that they are "carrying the fire" and that there is still goodness and hope in the world. |
+| The past is gone, focus on survival in the present. | The Man rarely talks about his life before the apocalypse, and instead focuses on surviving in the present moment.           |

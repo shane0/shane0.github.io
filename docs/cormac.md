@@ -92,6 +92,16 @@ This idea highlights the importance of rules and structure in shaping our unders
 
 <iframe width="726" height="408" src="https://www.youtube.com/embed/z6zWNWKiJpk" title="Blood Meridian: The Judge&#39;s Final Sermon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+| Rule                                                       | Example                                                                                                     |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| War is God.                                                | The Judge believes that violence and war are divine forces that shape the world.                            |
+| The world is a machine, and men are parts of that machine. | The Judge sees humanity as a component of the larger, mechanical universe.                                  |
+| History is predetermined and inevitable.                   | The Judge believes that the course of history is predetermined, and that humans are powerless to change it. |
+| Life has no intrinsic value.                               | The Judge sees life as expendable, and views death as a necessary and natural part of existence.            |
+| Knowledge is power.                                        | The Judge is constantly seeking knowledge and information, and uses it to gain power over others.           |
+| The strong have a duty to rule over the weak.              | The Judge believes that the strong and intelligent should dominate and control the weak and ignorant.       |
+| Nature is indifferent to humanity.                         | The Judge sees nature as a force that operates independently of human interests and desires.                |
+
 | Character Name            | Description                                                                                                                         |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | The Kid                   | The novel's protagonist, a young runaway who joins Glanton's gang                                                                   |
@@ -134,6 +144,17 @@ the extinciton of all reality is a concept no resignation can encompass
 <iframe width="726" height="408" src="https://www.youtube.com/embed/_-d1S79zt8c" title="No Country for Old Men - Hotel Scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="726" height="408" src="https://www.youtube.com/embed/VXNfxK5Q2Qg" title="No Country for Old Men - the ending scene [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+| Rule                                                                | Example                                                                           |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Never deviate from your routine.                                    | Anton follows the same routine each time he kills someone.                        |
+| Never use your personal phone.                                      | Anton uses payphones or other people's phones to communicate.                     |
+| Never look into the eyes of the person you are going to kill.       | Anton avoids eye contact with his victims before killing them.                    |
+| Never involve yourself in something you can't walk away from.       | Anton only takes jobs that he knows he can complete and escape from.              |
+| Never bring a weapon into a place where it might be taken from you. | Anton uses improvised weapons or acquires weapons on site.                        |
+| Never point a weapon at anything you do not intend to kill.         | Anton only draws his weapon when he intends to kill someone.                      |
+| Never leave behind evidence.                                        | Anton is meticulous about cleaning up after himself and disposing of evidence.    |
+| Always have an escape plan.                                         | Anton always plans an escape route and is prepared to leave at a moment's notice. |
 
 ## the road
 

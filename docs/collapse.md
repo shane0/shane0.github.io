@@ -274,22 +274,6 @@ tags:
 | 9    | 8.5       | February 4, 1965  | Rat Islands, Alaska                    | 0          |
 | 10   | 8.5       | March 28, 2005    | Northern Sumatra, Indonesia            | 1,313      |
 
-## our dna
-
-> are we infected
-
-It is estimated that about 8% of human DNA actually originated from viruses that infected our ancestors millions of years ago. These viral fragments have been passed down from generation to generation and are now an integral part of the human genome. Some of these viral DNA sequences have even been co-opted by the human body for beneficial purposes, such as helping to regulate gene expression or protecting against viral infections.
-
-> are we chimps?
-
-| Similar Life | Percentage of Genome |
-| ------------ | -------------------- |
-| Chimpanzee   | 98.7%                |
-| Bonobo       | 98.7%                |
-| Gorilla      | 98.3%                |
-| Orangutan    | 97.9%                |
-| Gibbon       | 96%                  |
-
 ## if we could live forever
 
 some researchers are exploring the use of CRISPR to modify genes that are involved in the aging process or that are implicated in specific diseases, with the {==aim of slowing or reversing the aging process==} or treating certain conditions.

@@ -15,7 +15,7 @@ tags:
 
 some excerpts talking to chatgpt about the books "the passenger" and "stella marris"
 
-## cormac's rules
+## cormac and rules
 
 - cormac said everything he has to say is in the books
 - I wonder what cormac would ask chatgpt?
@@ -25,21 +25,27 @@ some excerpts talking to chatgpt about the books "the passenger" and "stella mar
 - he can really point out the obvious things we all ignore
 - he's very zen without knowing it, the ongoing thread and foundation is a stream of change, suffering, impermenance, empty forms, SIGNLESS, AIMLESS
 
-## that what drives the tale will not survive the tale
+!!! quote "the ground"
+    that what drives the tale will not survive the tale
 
-- my 2 cents
+> this chatgpt answer needs to be tuned
+>> I do not think the topic is storytelling, if you read the previous paragram the topic is the contrast between the universe and the human experience, with the universe itself being what drives the tale not the storyteller
 
-this answer needs to be tuned, I do not think the topic is storytelling, if you read the previous paragram the topic is the contrast between the universe and the human experience, with the universe itself being what drives the tale not the storyteller
+This statement can be interpreted as a commentary on the ephemeral nature of narrative and storytelling.
 
-> the problem is that what drives the tale will not survive the tale.
+It suggests that the underlying motivations, emotions, and experiences that drive a story will inevitably be lost or forgotten once the story has been told.
 
-This statement can be interpreted as a commentary on the ephemeral nature of narrative and storytelling. It suggests that the underlying motivations, emotions, and experiences that drive a story will inevitably be lost or forgotten once the story has been told.
+This idea is consistent with the broader theme of impermanence and the fleeting nature of human existence that runs throughout much of Cormac McCarthy's work.
 
-This idea is consistent with the broader theme of impermanence and the fleeting nature of human existence that runs throughout much of Cormac McCarthy's work. In his writing, characters often struggle against the forces of time, nature, and death, often with tragic results.
+In his writing, characters often struggle against the forces of time, nature, and death, often with tragic results.
 
-However, despite this bleak outlook, McCarthy's writing also suggests that the act of telling stories can be a way of preserving and immortalizing the experiences, emotions, and insights of the characters and the world they inhabit. By telling stories, we are able to preserve something of the human experience and keep it alive, even as the physical world around us fades away.
+However, despite this bleak outlook, McCarthy's writing also suggests that the act of telling stories can be a way of preserving and immortalizing the experiences, emotions, and insights of the characters and the world they inhabit.
+
+By telling stories, we are able to preserve something of the human experience and keep it alive, even as the physical world around us fades away.
 
 ## The world has created no living thing that it does not intend to destroy
+
+!!! quote "the ground"
 
 - my 2 cents
 - I heard they have had to tune chatgpt to provide "safe" answers
@@ -169,3 +175,18 @@ the extinciton of all reality is a concept no resignation can encompass
 | Violence is sometimes necessary.                    | The Man is willing to use violence to protect himself and his son, and even teaches his son how to use a gun.                |
 | Maintain hope in the face of despair.               | The Man constantly reminds his son that they are "carrying the fire" and that there is still goodness and hope in the world. |
 | The past is gone, focus on survival in the present. | The Man rarely talks about his life before the apocalypse, and instead focuses on surviving in the present moment.           |
+
+## random interview quotes
+
+| Date | Interview | Quote |
+| --- | --- | --- |
+| 1992 | The Paris Review | "I don't think there's anything particularly wrong about hitting someone if you think that's the right thing to do." |
+| 1998 | The New York Times | "I've never felt like a real writer. I've always felt like a guy who writes." |
+| 2005 | The Wall Street Journal | "I'm just trying to tell a story and trying to make it as compelling as I can." |
+| 2007 | The New York Times | "Writing novels is like working on foreign policy. There are problems to be solved. It's not all inspirational." |
+| 2010 | The Wall Street Journal | "I think that in order to be a writer you have to be a reader first. You have to know the field that you're in." |
+| 2011 | The New York Times | "You don't do anything without an idea of what you want to do. You don't just accidentally do something." |
+| 2012 | Oprah's Book Club | "I think the notion that the species can be improved in some way, that everyone could live in harmony, is a really dangerous idea." |
+| 2013 | The New York Times | "I have a certain comfort level with violence that's come from having grown up in a violent culture." |
+| 2015 | The Wall Street Journal | "I think most people are just trying to get through the day without breaking something." |
+| 2019 | The New York Times | "I think that a book that's worth reading is a book that you have to read." |

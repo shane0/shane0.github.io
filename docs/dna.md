@@ -53,3 +53,9 @@ Assuming each human individual had a unique DNA combination, the percentage of p
 | Gorilla      | 98.3%                |
 | Orangutan    | 97.9%                |
 | Gibbon       | 96%                  |
+
+## virus
+
+It is estimated that about 8% of human DNA actually originated from viruses that infected our ancestors millions of years ago. These viral fragments have been passed down from generation to generation and are now an integral part of the human genome. Some of these viral DNA sequences have even been co-opted by the human body for beneficial purposes, such as helping to regulate gene expression or protecting against viral infections.
+
+This amounts to around 100,000 pieces of viral DNA in the human genome.

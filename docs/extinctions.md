@@ -48,3 +48,31 @@ Global cooling can be caused by a variety of factors, including changes in the E
 | "Trophic Downgrading of Planet Earth"                                                                                 | James A. Estes et al.                                 | 2011             |
 | "Conservation: Earth is home to millions of species. Now we're tracking the decline of almost every one"              | Damian Carrington                                     | 2017             |
 | "Extinction risk from climate change"                                                                                 | Mark C. Urban                                         | 2015             |
+
+## sixth extinction
+
+<iframe width="819" height="461" src="https://www.youtube.com/embed/6TqhcZsxrPA" title="Earth currently experiencing a sixth mass extinction, according to scientists | 60 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## top 10 causes for human extinction
+
+- Natural disasters: This can include events such as supervolcanoes, asteroid impacts, and large-scale earthquakes and tsunamis.
+- Pandemics: The spread of a highly infectious and lethal disease could potentially cause a global pandemic leading to human extinction.
+- Nuclear war: The use of nuclear weapons in a global conflict could result in widespread destruction and the release of harmful radioactive material into the atmosphere.
+- Climate change: Rising global temperatures and changing weather patterns caused by human activities could lead to food and water shortages, as well as increased natural disasters, and render the planet uninhabitable.
+- Artificial intelligence: The development of highly advanced artificial intelligence that surpasses human control could pose a threat to humanity.
+- Genetic engineering: Unintended consequences or misuse of genetic engineering technologies could result in the creation of new, potentially deadly diseases.
+- Collapse of civilization: The collapse of modern society due to factors such as resource depletion, economic instability, and political conflict could lead to widespread violence and chaos.
+- Cyborgs: The creation of highly advanced cyborgs (part human, part machine) could result in the displacement of the human race and eventual extinction.
+- Aliens: The discovery of hostile alien life forms could pose a threat to humanity's survival.
+- Eco-collapse: The widespread destruction of the natural world and loss of biodiversity could result in the collapse of the ecosystems that support human life.
+
+
+## cloning endangered species
+
+Cloning is the process of creating an organism that is genetically identical to another organism through a process called somatic cell nuclear transfer (SCNT). While many different animals have been cloned over the years, the most complex animal that has been successfully cloned is the sheep, specifically the famous sheep named Dolly.
+
+Dolly the sheep was the first mammal to be cloned using the SCNT technique. She was born on July 5, 1996, and was created by scientists at the Roslin Institute in Edinburgh, Scotland, using cells from the udder of an adult sheep. Dolly was an exact genetic copy of the sheep from which the cells were taken.
+
+The successful cloning of Dolly was a major scientific breakthrough and opened up new possibilities for genetic research and animal cloning. However, it also raised ethical concerns about the use of cloning technology and the potential consequences for both animal welfare and human health.
+
+Since Dolly, many other animals have been successfully cloned, including cats, dogs, cows, pigs, and even some endangered species.

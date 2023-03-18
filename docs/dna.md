@@ -59,3 +59,21 @@ Assuming each human individual had a unique DNA combination, the percentage of p
 It is estimated that about 8% of human DNA actually originated from viruses that infected our ancestors millions of years ago. These viral fragments have been passed down from generation to generation and are now an integral part of the human genome. Some of these viral DNA sequences have even been co-opted by the human body for beneficial purposes, such as helping to regulate gene expression or protecting against viral infections.
 
 This amounts to around 100,000 pieces of viral DNA in the human genome.
+
+## oldest dna
+
+The oldest record of DNA that has been successfully sequenced and identified is from a horse fossil that is approximately 700,000 years old. The fossil, which was found in the Canadian permafrost, contained a well-preserved bone fragment that was used to extract and sequence DNA.
+
+In addition to the horse fossil, other ancient DNA samples have been successfully extracted and sequenced, including from fossils of Neanderthals and other extinct human relatives, as well as from animals such as woolly mammoths and ancient bacteria. These samples provide valuable insights into the genetic makeup and evolutionary history of these species.
+
+It is worth noting that the ability to extract and sequence DNA from ancient samples is highly dependent on the conditions in which the samples were preserved, and not all fossils or other ancient materials will contain viable DNA. As a result, the oldest record of DNA that can be successfully sequenced is likely to continue to evolve as new technologies and techniques for DNA extraction and sequencing are developed.
+
+## clones
+
+Cloning is the process of creating an organism that is genetically identical to another organism through a process called somatic cell nuclear transfer (SCNT). While many different animals have been cloned over the years, the most complex animal that has been successfully cloned is the sheep, specifically the famous sheep named Dolly.
+
+Dolly the sheep was the first mammal to be cloned using the SCNT technique. She was born on July 5, 1996, and was created by scientists at the Roslin Institute in Edinburgh, Scotland, using cells from the udder of an adult sheep. Dolly was an exact genetic copy of the sheep from which the cells were taken.
+
+The successful cloning of Dolly was a major scientific breakthrough and opened up new possibilities for genetic research and animal cloning. However, it also raised ethical concerns about the use of cloning technology and the potential consequences for both animal welfare and human health.
+
+Since Dolly, many other animals have been successfully cloned, including cats, dogs, cows, pigs, and even some endangered species.

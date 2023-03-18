@@ -466,19 +466,6 @@ It's important to note that the numbers for both of these scenarios are estimate
 
 Additionally, there are other species, such as snakes, crocodiles, and sharks, which can also pose a significant threat to human life in certain regions or circumstances.
 
-## top 10 causes for human extinction
-
-- Natural disasters: This can include events such as supervolcanoes, asteroid impacts, and large-scale earthquakes and tsunamis.
-- Pandemics: The spread of a highly infectious and lethal disease could potentially cause a global pandemic leading to human extinction.
-- Nuclear war: The use of nuclear weapons in a global conflict could result in widespread destruction and the release of harmful radioactive material into the atmosphere.
-- Climate change: Rising global temperatures and changing weather patterns caused by human activities could lead to food and water shortages, as well as increased natural disasters, and render the planet uninhabitable.
-- Artificial intelligence: The development of highly advanced artificial intelligence that surpasses human control could pose a threat to humanity.
-- Genetic engineering: Unintended consequences or misuse of genetic engineering technologies could result in the creation of new, potentially deadly diseases.
-- Collapse of civilization: The collapse of modern society due to factors such as resource depletion, economic instability, and political conflict could lead to widespread violence and chaos.
-- Cyborgs: The creation of highly advanced cyborgs (part human, part machine) could result in the displacement of the human race and eventual extinction.
-- Aliens: The discovery of hostile alien life forms could pose a threat to humanity's survival.
-- Eco-collapse: The widespread destruction of the natural world and loss of biodiversity could result in the collapse of the ecosystems that support human life.
-
 ## eco collapse
 
 | Rank | Event                           | Date            | Location         | Description                                                  | Impact                                       |
@@ -493,10 +480,6 @@ Additionally, there are other species, such as snakes, crocodiles, and sharks, w
 | 8    | Fukushima nuclear disaster      | 2011            | Japan            | Earthquake and tsunami caused nuclear meltdown               | Environmental contamination, radiation       |
 | 9    | Deepwater Horizon oil spill     | 2010            | Gulf of Mexico   | Oil rig explosion caused millions of gallons of oil to spill | Ecosystem damage, loss of marine life        |
 | 10   | Bhopal gas tragedy              | 1984            | India            | Gas leak from pesticide plant                                | Over 15,000 deaths, long-term health effects |
-
-## sixth extinction
-
-<iframe width="819" height="461" src="https://www.youtube.com/embed/6TqhcZsxrPA" title="Earth currently experiencing a sixth mass extinction, according to scientists | 60 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## top 10 natural disasters
 

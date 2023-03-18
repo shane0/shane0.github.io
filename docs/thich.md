@@ -298,6 +298,22 @@ Thich Nhat Hanh often taught that the concept of EMPTINESS is not nihilistic, bu
 
 For Thich Nhat Hanh, the concept of EMPTINESS was not just a philosophical idea, but a practice that involves letting go of our attachment to fixed ideas and beliefs, and cultivating a deep awareness of the impermanent and interdependent nature of all phenomena. By understanding that all things are constantly changing and interrelated, we can develop greater insight and compassion, and live in greater harmony with the world around us.
 
+## simultaneous methods
+
+> how do you focus attention and expand awareness at the same time
+
+By following these steps, you can cultivate both an expanded awareness of your environment and a focused attention on the present moment.
+
+| Step | Practice          |
+|------|------------------|
+| 1.   | Breath awareness |
+| 2.   | Body scan        |
+| 3.   | Mindful walking  |
+
+- Step 1. Breath awareness: Find a comfortable seat or lie down in a quiet place. Close your eyes and bring your attention to your breath. Notice the sensation of the breath moving in and out of your body. As you focus on your breath, maintain a broad awareness of your environment and any thoughts or emotions that arise.
+- Step 2. Body scan: Lie down on a comfortable surface with your eyes closed. Start from your toes and move up to your head, bringing your attention to each part of your body. As you focus on each body part, try to notice any sensations, such as tension or relaxation. At the same time, maintain an awareness of your environment and any thoughts or emotions that arise.
+- Step 3. Mindful walking: Find a quiet place to walk. As you walk, bring your attention to the sensations of your feet touching the ground and the movement of your body. At the same time, maintain an awareness of your environment and any thoughts or emotions that arise.
+
 ### targeted meditations
 
 - Attention: Focused attention meditation, such as mindfulness of breath or body scanning.[^1]

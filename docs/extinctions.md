@@ -66,7 +66,6 @@ Global cooling can be caused by a variety of factors, including changes in the E
 - Aliens: The discovery of hostile alien life forms could pose a threat to humanity's survival.
 - Eco-collapse: The widespread destruction of the natural world and loss of biodiversity could result in the collapse of the ecosystems that support human life.
 
-
 ## cloning endangered species
 
 Cloning is the process of creating an organism that is genetically identical to another organism through a process called somatic cell nuclear transfer (SCNT). While many different animals have been cloned over the years, the most complex animal that has been successfully cloned is the sheep, specifically the famous sheep named Dolly.

@@ -9,6 +9,8 @@ tags:
 
 # collapse of complex systems
 
+--8<-- "snippets/cognitive_complexity.md"
+
 ## santa fe
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/-5A1WcFoxi4" title="My SFI: Cormac McCarthy describes the Santa Fe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

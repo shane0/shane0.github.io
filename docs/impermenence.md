@@ -20,6 +20,14 @@ emptiness --> impermanence
 impermanence --> time
 ```
 
+## definition
+
+Anicca, which means impermanence, is one of the three characteristics of existence in Buddhism. It refers to the notion that all things are in a constant state of flux and that nothing is permanent or unchanging. According to Buddhist teachings, the realization of impermanence is essential for spiritual growth and liberation, as it helps individuals to let go of attachment, craving, and suffering. By accepting the impermanent nature of all things, Buddhists aim to cultivate a deeper sense of equanimity, wisdom, and compassion in their lives.
+
+ANICCA, or impermanence, is a central concept in Buddhism that refers to the ever-changing and transient nature of all phenomena. According to the Buddhist understanding, nothing in the world remains the same from one moment to the next, and everything is subject to constant transformation and decay. This includes not only physical objects but also thoughts, emotions, and experiences. By recognizing the impermanent nature of all things, Buddhists aim to develop a deeper understanding of the world and to cultivate a greater sense of detachment, wisdom, and compassion.
+
+## cormac
+
 > The world has created no living thing that it does not intend to destroy
 >> [cormac mccarthy](cormac.md)
 

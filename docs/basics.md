@@ -30,6 +30,99 @@ The Four Noble Truths are considered the cornerstone of Buddhist teaching, and w
 
 These Four Noble Truths provide a roadmap for individuals to understand the nature of suffering, its causes, and how to overcome it. By following the Eightfold Path, individuals can end their suffering, attain peace, and eventually reach enlightenment.
 
+## basic disagram
+
+```mermaid
+graph LR
+basics -- suffering cause of cessation path --> noble_truths
+basics -- view speech actions livelihood --> eight_fold_path
+basics --> five_precepts
+basics --> five_hindrances
+basics -- greed hate love --> six_roots
+basics -- of posture arms legs head neck --> seven_points
+basics -- eyes ears tongue nose body mind--> sense_doors
+basics -- pleasant unpleasant neutral --> feeling_tones
+basics -- pain change conditionality --> three_sufferings
+```
+
+## sanskrit word map
+
+```mermaid
+graph
+subgraph existence
+dukkha --> annica & annata
+
+subgraph noble truths
+dukkha
+dukkha --> samudaya --> nirodha --> magga
+end
+
+end
+
+subgraph four abodes 
+maitri & karuna & mudita & upeksha
+end
+
+shunyata --> annata
+
+prajna & karuna --> satori 
+annica --> upeksha
+upeksha -.- karuna
+bramaviharas --> maitri & karuna & mudita & upeksha
+
+
+style annata fill: lightyellow
+style upeksha fill: lightyellow
+```
+
+| Prajna (प्रज्ञा) | Description                                                                                                                                                                                                                                                                               |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pra (प्र)      | Means "before" or "preliminary"                                                                                                                                                                                                                                                           |
+| Jna (ज्ञ)      | Means "to know" or "to understand"                                                                                                                                                                                                                                                        |
+| Prajna (प्रज्ञा) | Refers to the wisdom or understanding that comes from deep meditation and insight into the true nature of reality, particularly the concept of emptiness. Prajna is one of the six perfections (paramitas) in Mahayana Buddhism, and is considered essential for achieving enlightenment. |
+
+| Four Types of Prajna  |                                                                                                                                                                                                     |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Shravaka Prajna       | Refers to the wisdom or understanding attained by Hinayana practitioners, who seek to attain individual liberation (nirvana) through the realization of the Four Noble Truths.                      |
+| Pratyekabuddha Prajna | Refers to the wisdom or understanding attained by solitary practitioners who seek to attain enlightenment for themselves alone, without the help of a teacher or community.                         |
+| Bodhisattva Prajna    | Refers to the wisdom or understanding attained by Mahayana practitioners, who seek to attain enlightenment not only for themselves but for the benefit of all sentient beings.                      |
+| Tathagata Prajna      | Refers to the highest form of wisdom or understanding, attained by fully enlightened Buddhas, who have realized the ultimate nature of reality and have the ability to teach others to do the same. |
+
+| Three Characteristics of Existence | Description                                                                                                                                                                                                                                                                                                                        |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Anicca                             | Refers to the idea that all things are constantly changing and in a state of flux. Nothing in the world is permanent, and everything is subject to birth, aging, sickness, and death.                                                                                                                                              |
+| Dukkha                             | Refers to the idea that all things in the world are inherently unsatisfactory and cannot provide lasting happiness or fulfillment. This suffering is caused by our attachment to impermanent things and our ignorance of the true nature of reality.                                                                               |
+| Anatta                             | Refers to the idea that there is no fixed or permanent self or soul. Rather, our sense of self is an ever-changing product of our thoughts, emotions, and experiences. The concept of anatta is closely related to the idea of emptiness (shunyata), which is the ultimate nature of all phenomena according to Mahayana Buddhism. |
+
+| English Translation | Sanskrit |
+| ------------------- | -------- |
+| Loving-kindness     | Maitri   |
+| Compassion          | Karuna   |
+| Sympathetic Joy     | Mudita   |
+| Equanimity          | Upeksha  |
+
+| Term    | Definition                                                                                                                                                                                                                                                                                                    |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bodhi   | A Sanskrit term used in Buddhism that refers to the state of awakening, enlightenment, or liberation that one can attain through the practice of meditation, ethical conduct, and other spiritual disciplines. It is considered the ultimate goal of Buddhist practice.                                       |
+| Satori  | A Japanese term used in Zen Buddhism that refers to a sudden flash of understanding or insight that can lead to a state of enlightenment. It is often associated with the practice of meditation and koans, which are riddles or paradoxical statements.                                                      |
+| Nirvana | A Sanskrit term used in various Buddhist traditions that refers to the state of liberation or enlightenment that one can attain through the practice of meditation and other spiritual disciplines. It is often associated with the cessation of suffering and the realization of the true nature of reality. |
+
+## karuna
+
+Karuna is a Sanskrit term used in Buddhism that refers to the quality of compassion, or the desire to alleviate the suffering of others. It is one of the four Brahmaviharas, or sublime attitudes, that are cultivated through meditation practice in Buddhist teachings. The practice of Karuna involves cultivating a sense of empathy and concern for the welfare of all beings, and taking action to relieve their suffering whenever possible. It is considered a key component of the path to enlightenment, and is often associated with the Bodhisattva ideal, in which an individual seeks to attain enlightenment for the benefit of all sentient beings.
+
+## prajna
+
+Prajna, which is also known as wisdom or insight, is a fundamental concept in Buddhism that refers to a deep understanding of the nature of reality and the causes of suffering. According to Buddhist teachings, prajna is one of the two wings of enlightenment, along with compassion, and is essential for attaining liberation from the cycle of rebirth and suffering. Prajna is often contrasted with ordinary knowledge, which is based on conceptual thinking and discrimination, and is described as a direct and intuitive understanding that arises from the practice of meditation and other spiritual disciplines. By cultivating prajna, Buddhists aim to develop a more profound and transformative understanding of the nature of existence and to overcome the ignorance and delusion that give rise to suffering.
+
+## upekkha
+
+Upekkha, which is also known as equanimity, is one of the four Brahma Viharas or sublime states in Buddhism. It refers to a state of balanced and even-minded awareness, characterized by a sense of peace and acceptance towards all experiences, whether pleasant or unpleasant. According to Buddhist teachings, cultivating upekkha can help individuals to overcome the afflictions of attachment, aversion, and ignorance, which are the root causes of suffering. By developing a sense of equanimity, Buddhists aim to cultivate a deeper understanding and acceptance of the impermanent and ever-changing nature of reality, as well as a greater sense of empathy and compassion towards all living beings.
+
+## annica
+
+Anicca, which means impermanence, is one of the three characteristics of existence in Buddhism. It refers to the notion that all things are in a constant state of flux and that nothing is permanent or unchanging. According to Buddhist teachings, the realization of impermanence is essential for spiritual growth and liberation, as it helps individuals to let go of attachment, craving, and suffering. By accepting the impermanent nature of all things, Buddhists aim to cultivate a deeper sense of equanimity, wisdom, and compassion in their lives.
+
 ## in buddhism what are the three universal truths?
 
 ```mermaid
@@ -41,14 +134,14 @@ nirodha
 
 ## concepts
 
-| Concept      | Meaning                                                                         |
-| ------------ | ------------------------------------------------------------------------------- |
-| Impermanence | All conditioned things are impermanent and constantly changing                  |
-| Emptiness    | All phenomena are empty of inherent existence and dependently originated        |
-| No self      | There is no permanent, unchanging, independent self or soul                     |
-| Signless     | All phenomena are without any inherent characteristics or signs                 |
-| Aimlessness  | There is no ultimate goal or purpose                                            |
-| Nirvana      | The ultimate goal of Buddhism, a state of liberation from suffering and rebirth |
+| Concept                | Meaning                                                                         |
+| ---------------------- | ------------------------------------------------------------------------------- |
+| annica -  Impermanence | All conditioned things are impermanent and constantly changing                  |
+| Emptiness              | All phenomena are empty of inherent existence and dependently originated        |
+| annata - No self       | There is no permanent, unchanging, independent self or soul                     |
+| Signless               | All phenomena are without any inherent characteristics or signs                 |
+| Aimlessness            | There is no ultimate goal or purpose                                            |
+| satori bodhi Nirvana   | The ultimate goal of Buddhism, a state of liberation from suffering and rebirth |
 
 ## universal truths
 
@@ -141,6 +234,13 @@ These mental states are believed to be the root cause of suffering and keep indi
 
 ## three marks of existence
 
+```mermaid
+graph
+dukkha -- natural: age illness death --> body
+samkhara --> annica
+viparinama --> avidyā 
+```
+
 In Buddhism, there are three types of suffering, which are known as the Three Universal Truths or the Three Marks of Existence. They are:
 
 1. Dukkha-dukkha: This refers to the suffering that arises from painful experiences, such as sickness, old age, and death.
@@ -176,6 +276,70 @@ In Buddhism, there are several meditation practices that use dichotomies or pair
 - Additionally, the Four Noble Truths also involve a dichotomy, with the first truth being the recognition of dukkha (suffering) and the fourth truth being the path to the end of suffering.
 
 These dichotomies are used as tools to help the practitioner understand the nature of reality and to develop greater insight and wisdom.
+
+## 6 roots
+
+1. Faith (saddhā)
+1. Energy (viriya)
+1. MINDFULNESS (sati)
+1. CONCENTRATION (samādhi)
+1. Wisdom (paññā)
+1. Moral Discipline (sīla)
+
+## Lokavipatti
+
+The Lokavipatti Sutta is a Buddhist discourse found in the Pali Canon's Majjhima Nikaya.
+
+It deals with the subject of avoiding errors or pitfalls (Lokavipatti) in one's spiritual journey.
+
+The sutta lists six factors that can cause one to fall into error:
+
+1. desire for sense objects
+1. wrong views
+1. lack of learning and inquiry
+1. heedlessness
+1. bad companionship
+1. laziness
+
+The sutta provides guidance on how to avoid these pitfalls by cultivating the opposite qualities, such as renunciation of sense desires, right views, learning and inquiry, mindfulness, good companionship, and diligence.
+
+The sutta emphasizes the importance of developing wisdom and insight to overcome obstacles in one's spiritual path.
+
+## five hindrances
+
+The five hindrances are obstacles that can arise during meditation and prevent one from attaining deep states of concentration and insight. They are:
+
+- Sensory desire (kamacchanda): The strong attachment to pleasant sensory experiences and desire for more.
+- Ill-will (vyapada): Feelings of hostility, anger, and aversion towards oneself or others.
+- Sloth and torpor (thina-middha): A state of dullness or sleepiness that hinders alertness and clarity of mind.
+- Restlessness and worry (uddhacca-kukkucca): An agitated and restless mind that is distracted by worries, fears, and anxieties.
+- Doubt (vicikiccha): The lack of faith in oneself or the practice, leading to uncertainty and indecisiveness.
+
+By recognizing and working to overcome these hindrances, one can develop greater concentration, insight, and inner peace in meditation and in daily life.
+
+## no birth no death
+
+- see also [signlessness](thich.md#signlessness) and [emptiness](emptiness.md)
+
+you've probably heard of the laws of conservation of energy
+
+the idea in buddhism of no birth, no death is similar
+
+energy is not created or destroyed it just changes form
+
+an objective comparison is a water, in different forms water is still water
+
+we could say a wave is born, and a wave dies, but does it really?
+
+this story is not different for for other forms, energy is always changing forms
+
+a drop of water in the ocean is not different from the drop of water in a wave
+
+a wave happens, it appears, from the wind, currents or other forces
+
+but if you examine a wave, there are no "wave atoms" there is just water
+
+no different if it is still water or in a wave
 
 ## the 51 mental formations
 
@@ -248,83 +412,3 @@ They are listed in the Abhidhamma, the Theravada Buddhist philosophical text, as
 63. non-ignorance
 
 These mental factors can be seen as interdependent and can arise in any combination, either in wholesome or unwholesome ways, depending on the conditions and circumstances that prompt their arising.
-
-## 6 roots
-
-1. Faith (saddhā)
-1. Energy (viriya)
-1. MINDFULNESS (sati)
-1. CONCENTRATION (samādhi)
-1. Wisdom (paññā)
-1. Moral Discipline (sīla)
-
-## Lokavipatti
-
-The Lokavipatti Sutta is a Buddhist discourse found in the Pali Canon's Majjhima Nikaya.
-
-It deals with the subject of avoiding errors or pitfalls (Lokavipatti) in one's spiritual journey.
-
-The sutta lists six factors that can cause one to fall into error:
-
-1. desire for sense objects
-1. wrong views
-1. lack of learning and inquiry
-1. heedlessness
-1. bad companionship
-1. laziness
-
-The sutta provides guidance on how to avoid these pitfalls by cultivating the opposite qualities, such as renunciation of sense desires, right views, learning and inquiry, mindfulness, good companionship, and diligence.
-
-The sutta emphasizes the importance of developing wisdom and insight to overcome obstacles in one's spiritual path.
-
-## diagram
-
-```mermaid
-graph LR
-basics -- suffering cause of cessation path --> noble_truths
-basics -- view speech actions livelihood --> eight_fold_path
-basics --> five_precepts
-basics --> five_hindrances
-basics -- greed hate love --> six_roots
-basics -- of posture arms legs head neck --> seven_points
-basics -- eyes ears tongue nose body mind--> sense_doors
-basics -- pleasant unpleasant neutral --> feeling_tones
-basics -- pain change conditionality --> three_sufferings
-
-```
-
-## five hindrances
-
-The five hindrances are obstacles that can arise during meditation and prevent one from attaining deep states of concentration and insight. They are:
-
-- Sensory desire (kamacchanda): The strong attachment to pleasant sensory experiences and desire for more.
-- Ill-will (vyapada): Feelings of hostility, anger, and aversion towards oneself or others.
-- Sloth and torpor (thina-middha): A state of dullness or sleepiness that hinders alertness and clarity of mind.
-- Restlessness and worry (uddhacca-kukkucca): An agitated and restless mind that is distracted by worries, fears, and anxieties.
-- Doubt (vicikiccha): The lack of faith in oneself or the practice, leading to uncertainty and indecisiveness.
-
-By recognizing and working to overcome these hindrances, one can develop greater concentration, insight, and inner peace in meditation and in daily life.
-
-## no birth no death
-
-- see also [signlessness](thich.md#signlessness) and [emptiness](emptiness.md)
-
-you've probably heard of the laws of conservation of energy
-
-the idea in buddhism of no birth, no death is similar
-
-energy is not created or destroyed it just changes form
-
-an objective comparison is a water, in different forms water is still water
-
-we could say a wave is born, and a wave dies, but does it really?
-
-this story is not different for for other forms, energy is always changing forms
-
-a drop of water in the ocean is not different from the drop of water in a wave
-
-a wave happens, it appears, from the wind, currents or other forces
-
-but if you examine a wave, there are no "wave atoms" there is just water
-
-no different if it is still water or in a wave

@@ -6,6 +6,10 @@ tags:
 
 # oil
 
+!!! bug 'the dumbest human experiments'
+    - removing carbon from the ground and dumping it into the atmosphere
+    - depeleting topsoil to grow ethanol fuel
+
 ## summary
 
 !!! bug "<50 years to oil depletion"

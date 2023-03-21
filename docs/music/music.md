@@ -4,6 +4,27 @@ tags:
 ---
 # music
 
+## jargon
+
+| Music Jargon      | Definition                                                                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Sharp (#)         | A symbol that raises the pitch of a note by a half step                                                                         |
+| Flat (b)          | A symbol that lowers the pitch of a note by a half step                                                                         |
+| Key Signature     | A set of sharps or flats at the beginning of a staff that indicates the key of the piece                                        |
+| Time Signature    | A symbol at the beginning of a staff that indicates the number of beats per measure and the type of note that receives one beat |
+| Chord Progression | A series of chords played in a specific order, often used as the harmonic foundation of a piece                                 |
+| Melody            | A sequence of single notes played in succession that forms a musical phrase                                                     |
+| Harmony           | The simultaneous sounding of two or more notes to create chords and chord progressions                                          |
+| Rhythm            | The pattern of sound and silence in a piece of music                                                                            |
+| Dynamics          | The variation of loudness and softness in a musical piece                                                                       |
+| Tempo             | The speed or pace of a piece of music                                                                                           |
+| Timbre            | The quality of sound that distinguishes one instrument or voice from another                                                    |
+| Crescendo         | A gradual increase in volume                                                                                                    |
+| Decrescendo       | A gradual decrease in volume                                                                                                    |
+| Legato            | A style of playing where notes are smoothly connected                                                                           |
+| Staccato          | A style of playing where notes are played short and detached                                                                    |
+| Arpeggio          | A chord where the notes are played in a sequence rather than simultaneously                                                     |
+
 ## composition
 
 | Composition Technique       | Description                                                                                                                            |

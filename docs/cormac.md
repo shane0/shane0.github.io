@@ -7,7 +7,7 @@ tags:
   - impermanence
 ---
 
-# the nature of existence
+# cormac 
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/wfYr5zF-oNs" title="EXCLUSIVE: Dialogue with Cormac McCarthy About Science, on the occasion of his newest book releases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -146,3 +146,39 @@ the extinciton of all reality is a concept no resignation can encompass
 | 2013 | The New York Times      | "I have a certain comfort level with violence that's come from having grown up in a violent culture."                               |
 | 2015 | The Wall Street Journal | "I think most people are just trying to get through the day without breaking something."                                            |
 | 2019 | The New York Times      | "I think that a book that's worth reading is a book that you have to read."                                                         |
+
+## sunset unlimited
+
+<iframe width="710" height="355" src="https://www.youtube.com/embed/CFpBxV84CFQ" title="Sunset Limited (Cormac McCarthy) - &quot;Damn Indeed&quot; - Samuel L. Jackson x Tommy Lee Jones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+| Topic        | Black's Argument                                           | White's Argument                                                                |
+| ------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Suicide      | Life is not worth living and death is preferable           | Life is worth living and suicide is a permanent solution to a temporary problem |
+| Religion     | There is no God and life is ultimately meaningless         | God exists and provides a purpose for life                                      |
+| Hope         | Hope is a form of self-delusion and should be abandoned    | Hope is necessary for human survival and provides a reason to live              |
+| Human Nature | Humans are fundamentally flawed and doomed to failure      | Humans have the capacity for goodness and can overcome their flaws              |
+| Free Will    | Free will is an illusion and our actions are predetermined | Free will exists and we are responsible for our own choices                     |
+
+| Topic        | Black's Argument                                                  | White's Argument                                                                |
+| ------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Suicide      | Life is not worth living and death is preferable                  | Life is worth living and suicide is a permanent solution to a temporary problem |
+| Religion     | There is no God and life is ultimately meaningless                | God exists and provides a purpose for life                                      |
+| Hope         | Hope is a form of self-delusion and should be abandoned           | Hope is necessary for human survival and provides a reason to live              |
+| Human Nature | Humans are fundamentally flawed and doomed to failure             | Humans have the capacity for goodness and can overcome their flaws              |
+| Free Will    | Free will is an illusion and our actions are predetermined        | Free will exists and we are responsible for our own choices                     |
+| Knowledge    | Knowledge is ultimately pointless and ignorance is bliss          | Knowledge is valuable and leads to a better understanding of the world          |
+| Morality     | Morality is subjective and there are no objective moral standards | Objective moral standards exist and guide human behavior                        |
+| Love         | Love is a form of weakness and vulnerability                      | Love is the highest form of human connection and brings meaning to life         |
+| Death        | Death is the end of consciousness and there is no afterlife       | Death is a transition to another state of being and there may be an afterlife   |
+
+| Topic         | Black's Argument                                                                      | White's Argument                                                                                   |
+| ------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Individualism | Individualism is a destructive force that isolates and dehumanizes people             | Individualism is necessary for personal freedom and autonomy                                       |
+| Society       | Society is corrupt and oppressive, and individuals should reject it                   | Society provides a framework for cooperation and progress, and individuals should contribute to it |
+| Art           | Art is useless and provides no practical value                                        | Art enriches the human experience and helps us understand the world                                |
+| Violence      | Violence is an inevitable part of human nature and can be a necessary means to an end | Violence is never justified and should be rejected in all forms                                    |
+| Politics      | Politics is a game of power and manipulation, and individuals should avoid it         | Politics is necessary for the functioning of society, and individuals should participate in it     |
+| Technology    | Technology is a threat to human existence and should be limited                       | Technology is a tool that can be used for human benefit and progress                               |
+| Perception    | Perception is subjective and reality is unknowable                                    | Perception can be objective and reality can be understood through observation and analysis         |
+| Memory        | Memory is unreliable and can be distorted over time                                   | Memory is essential for personal identity and provides a link to the past                          |
+| Nature        | Nature is indifferent to human existence and humans should not try to control it      | Nature is valuable and humans should respect and preserve it                                       |

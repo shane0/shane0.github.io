@@ -17,7 +17,34 @@ Nirvana, in Buddhism, refers to the ultimate goal of spiritual liberation and th
 - Equanimity: Nirvana is a state of complete equanimity and freedom from all attachments, aversions, and ignorance.
 - Unconditional love: Nirvana is a state of unconditional love and compassion for all beings, free from all forms of hatred and ill-will.
 
-## stages
+```mermaid
+graph TD;
+    Enlightenment-->Nirvana;
+    Enlightenment-->Bodhi;
+    Nirvana-->Samsara;
+    Bodhi-->Prajna;
+    Prajna-->Shunyata;
+    Bodhi-->Silas;
+    Silas-->Sila;
+    Silas-->Samadhi;
+    Silas-->Panna;
+    Silas-->Dana;
+```
+
+| Term | Definition |
+| --- | --- |
+| Enlightenment | The state of perfect knowledge and wisdom, achieved by a Buddha after a period of spiritual development and meditation. |
+| Nirvana | The ultimate goal of Buddhist practice, which is liberation from suffering and the cycle of birth, death, and rebirth. |
+| Bodhi | Refers to the awakening or enlightenment experienced by a Buddha, which allows them to fully understand the nature of reality and attain freedom from suffering. |
+| Prajna | Refers to the wisdom or understanding that comes from deep meditation and insight into the true nature of reality, particularly the concept of emptiness. |
+| Shunyata | The Buddhist concept of emptiness, which refers to the lack of inherent existence or substantiality in all phenomena. |
+| Silas | Refers to the moral or ethical conduct that is an essential part of Buddhist practice. |
+| Sila | Refers to ethical conduct or morality, which includes the Five Precepts (abstaining from killing, stealing, sexual misconduct, lying, and intoxicants) and other guidelines for right behavior. |
+| Samadhi | Refers to the state of meditative concentration achieved through deep focus and mental discipline. |
+| Panna | Refers to wisdom or understanding, particularly the understanding of the true nature of reality as taught by the Buddha. |
+| Dana | Refers to generosity or giving, which is considered an important practice in Buddhism and one of the six perfections (paramitas) in Mahayana Buddhism. |
+| Samsara | The cycle of birth, death, and rebirth, which is seen as an endless cycle of suffering and dissatisfaction from which one can escape through spiritual practice. |
+
 
 | Stage of Enlightenment | Pali Term | Description |
 |------------------------|-----------|-------------|

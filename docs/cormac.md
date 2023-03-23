@@ -30,7 +30,7 @@ the ephemeral nature of everything, particles, planets, life
 - my 2 cents
 - I heard they have had to tune chatgpt to provide "safe" answers
 - that's not going to work with cormacs books lol
-- see [benefits of impermanence](impermenence.md)
+- see [benefits of impermanence](buddhism/impermenence.md)
 
 This statement could be interpreted as a bleak outlook on life and the world as a whole, suggesting that everything that exists is ultimately doomed to destruction. It might reflect a belief that the very act of creation leads to destruction, and that everything that is born is destined to die.
 

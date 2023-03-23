@@ -13,6 +13,22 @@ tags:
 
 <iframe width="802" height="501" src="https://www.youtube.com/embed/7gCfZVXYOjQ" title="200818 Dependent Co-arising Right Now \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+```mermaid
+graph TD;
+    A[Ignorance] --> B[Volitional activities];
+    B --> C[Consciousness];
+    C --> D[Mind and body];
+    D --> E[Six senses];
+    E --> F[Contact];
+    F --> G[Sensation];
+    G --> H[Craving];
+    H --> I[Attachment];
+    I --> J[Becoming];
+    J --> K[Birth];
+    K --> L[Aging and death];
+    L --> A;
+```
+
 ## true mind interdependence
 
 |                 | 12 Links of Dependent Origination               | True Mind Versions                               |

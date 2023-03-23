@@ -8,7 +8,7 @@ tags:
 
 # thich nhat hahn
 
-![](images/Thay+and+Dr.jpeg)
+![](../images/Thay+and+Dr.jpeg)
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/F3XqhBigMao" title="Emptiness: Empty of What? | Thich Nhat Hanh (short teaching video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

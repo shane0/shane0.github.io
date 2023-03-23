@@ -29,7 +29,7 @@ impermanence --> time
 
 ## WHAT ARE PHENOMENA EMPTY OF?
 
-![d](images/d.jpg)
+![d](../images/d.jpg)
 
 When we speak of a phenomenon as being empty, we are referring to its being empty of its own inherent existence. . . . Further, it is not that the object of the negation [inherent existence] formerly existed and is later eliminated, like the forest that existed yesterday and is burned by fire today, with the result that the area is now empty of the forest. Rather, this is an EMPTINESS of an object of negation [inherent existence], which from beginningless time has never been known validly to exist.
 
@@ -83,7 +83,7 @@ The practice is to nourish the insight into EMPTINESS all day long.
 
 ## OUR WORLD IS RELENTLESSLY IMPERMANENT
 
-![c](images/chagdud.jpg)
+![c](../images/chagdud.jpg)
 
 Change is continuous. Day by day, one season slips into the next. Day turns into night and night to day. Buildings don’t suddenly grow old; rather, second by second, from the moment they’re constructed, they begin to deteriorate. . . . Think of beings inhabiting this universe. How many people born a hundred years ago are still alive? . . . We see the play of impermanence in our relationships as well. How many of our family members, friends, people in our hometown, have died? How many have moved away, disappearing from our lives forever? . . . At one time we felt happy just being near a person we loved. Just to hold that person’s hand made us feel wonderful. Now maybe we can’t stand him, we don’t want to know anything about him. Whatever comes together must fall apart, whatever once fathered must separate, whatever was born must die. Continual change, relentless change, is constant in our world.
 
@@ -91,7 +91,7 @@ Change is continuous. Day by day, one season slips into the next. Day turns into
 
 ## EMPTINESS MEANS ABSENCE OF INHERENT REALITY
 
-![](images/k.jpeg)
+![k](../images/k.jpeg)
 
 (The Buddha) demonstrated that not only in the ordinary sense is there no ego, but no inherent reality can ever be found in anything, no matter where we look. The Buddha taught EMPTINESS as being a function of appearance, that is, the highest quality of appearance—the lack of true existence. The fundamental nature of all appearance is empty. There is no unitary, essential quality, no single identifiable reality, in either the external world that appears to us or the subjective mind. There is no single real nature to anything. There is no self in any appearance, no self in any dharma, no essential nature to anything at all. All dharmas or occurring events do not arise out of an inherent real nature but rather arise from a cause and secondary conditions that permit this cause to yield a particular effect.
 

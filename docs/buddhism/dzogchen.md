@@ -27,7 +27,7 @@ These attributes are considered to be the essential qualities of rigpa, which ca
 
 ## Tulku Urgyen Rinpoche
 
-![urgyen](images/Tulku_Urgyen_Rinpoche.jpeg){ align=right }
+![urgyen](../images/Tulku_Urgyen_Rinpoche.jpeg{ align=right }
 
 Tulku Urgyen Rinpoche spent a total of 12 years in solitary retreat in his life, in addition to many other extended periods of retreat.
 

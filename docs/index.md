@@ -37,10 +37,10 @@
 
 !!! tip "training for your heart and mind"
     [flashcards](bujo/08.md){ .md-button }
-    [tldr videos](tldr.md){ .md-button }
-    [anapanasati](anapanasati.md){ .md-button }
-    [maranasati](maranasati.md){ .md-button }
-    [zen](zen.md){ .md-button }
+    [tldr videos](buddhism/tldr.md){ .md-button }
+    [anapanasati](buddhism/anapanasati.md){ .md-button }
+    [maranasati](buddhism/maranasati.md){ .md-button }
+    [zen](buddhism/zen.md){ .md-button }
     [strength training app](https://shane0.github.io/strength/){ .md-button }
 
 ----

@@ -10,14 +10,14 @@ tags:
 
 ## maranasati
 
-- I have been busy, I keep keep forgetting to practice [maranasati](../maranasati.md)
+- I have been busy, I keep keep forgetting to practice [maranasati](../buddhism/maranasati.md)
 - I am going to update that page now as I meditate and update the glossary on this site
 
 ### condensing the maranasati page
 
 - if you're not familiar with {--death--} meditation, it's not about being a masochist
 - I'm going to add some highlighting to that paragraph
-- it's for motivation, love, compassion, being [skillful](../karma.md)
+- it's for motivation, love, compassion, being [skillful](../buddhism/karma.md)
 
 ### chatgtp
 

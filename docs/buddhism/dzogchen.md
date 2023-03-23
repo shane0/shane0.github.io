@@ -10,6 +10,19 @@ tags:
 
 <iframe width="798" height="449" src="https://www.youtube.com/embed/5QYJ5mVrm7E" title="tulku urgyen rinpoche teaching non duality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+```mermaid
+graph LR
+    A[Base of Mind] --> B(Rigpa)
+    B --> C(Meditation)
+    C --> D(Non-Dual Awareness)
+    D --> E[Primordial State]
+    E --> F(Realization)
+    F --> G(Manifestation)
+    G --> H[Perfection]
+    H --> I(Compassionate Activity)
+    I --> A
+```
+
 ## rigpa
 
 Rigpa is a term in Tibetan Buddhism that refers to the ultimate nature of reality, also known as "pure awareness." In the context of Dzogchen meditation, rigpa is considered to be the primordial, pure, and unchanging state of consciousness that is free from dualistic thinking and the conventional understanding of self.

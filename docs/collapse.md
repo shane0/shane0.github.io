@@ -21,6 +21,23 @@ tags:
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/JR93X7xK05o" title="Complexity Explorer Lecture: David Krakauer • What is Complexity?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+```mermaid
+gantt
+    title Timeline of Events Leading to Eco Collapse
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%d/%Y
+    section Causes of Collapse
+    Unsustainable resource use          :done,    des1, 2010-01-01, 2020-01-01
+    Habitat destruction                 :done,    des2, 2010-01-01, 2020-01-01
+    Pollution                           :done,    des3, 2010-01-01, 2020-01-01
+    Climate change                      :done,    des4, 2010-01-01, 2020-01-01
+    section Effects of Collapse
+    Extinction of species               :done,    act1, 2020-01-01, 2040-01-01
+    Ecosystem collapse                  :done,    act2, 2040-01-01, 2060-01-01
+    Resource scarcity                   :done,    act3, 2060-01-01, 2080-01-01
+    Mass migration                      :done,    act4, 2080-01-01, 2100-01-01
+```
+
 ## pandemics
 
 | Pandemic            | Year         | Death Toll                   |
@@ -276,28 +293,6 @@ tags:
 | 9    | 8.5       | February 4, 1965  | Rat Islands, Alaska                    | 0          |
 | 10   | 8.5       | March 28, 2005    | Northern Sumatra, Indonesia            | 1,313      |
 
-## if we could live forever
-
-some researchers are exploring the use of CRISPR to modify genes that are involved in the aging process or that are implicated in specific diseases, with the {==aim of slowing or reversing the aging process==} or treating certain conditions.
-
-Other researchers are investigating the use of CRISPR {==to regenerate tissues or organs by editing cells to create new cells that can replace damaged or aging cells==}
-
-### total number of humans
-
-it is thought that the total number of humans who have ever lived is somewhere between 100 billion and 120 billion
-
-### the space that many would occupy
-
-Assuming an average population density of 50 people per square kilometer, 120 billion people would require around {==2.4 million square kilometers of land area==}.
-
-### land area
-
-The total land area of the Earth is approximately {==148,940,000 square kilometers==}. This includes all the continents, islands, and other land masses on the planet. It is important to note that this number may vary slightly depending on how land area is defined and measured.
-
-### earths capacity
-
-Estimates of the Earth's carrying capacity for humans range widely, from as few as 1 billion to as many as 1 trillion or more, depending on assumptions and scenarios. However, most estimates fall within a range of 4 to 16 billion people, with the current global population of around 7.9 billion already exceeding the Earth's sustainable carrying capacity according to many experts.
-
 ## greed
 
 Greed is often caused by a desire for more wealth or possessions, as well as a fear of not having enough. It can also be influenced by societal and cultural values, such as a focus on material success and competition. Additionally, some research suggests that biological factors, such as genetics and brain chemistry, may play a role in shaping individuals' propensity for greed.
@@ -314,20 +309,6 @@ Greed is often caused by a desire for more wealth or possessions, as well as a f
 | 8    | Larry Page               | 79.4                    | Google                   |
 | 9    | Sergey Brin              | 76.8                    | Google                   |
 | 10   | Steve Ballmer            | 71.6                    | Microsoft                |
-
-### living without oil
-
-- or worse without a sun (die by fire or morph into final form)
-
-<iframe width="641" height="481" src="https://www.youtube.com/embed/RfwsvSjXkJU" title="Of Beauty and Consolation Episode 9 Edward Witten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-According to the BP Statistical Review of World Energy 2021, as of the end of 2020, the world had proven reserves of about 1.3 trillion barrels of oil, which at current production rates would last about 47 years. The world also had proven reserves of about 7.6 trillion cubic meters of natural gas, which at current production rates would last about 55 years. Finally, the world had proven reserves of about 1732 billion tonnes of coal, which at current production rates would last about 149 years.
-
-When the oil runs out, there will be significant impacts on the global economy and society. Oil is used not only as a source of energy for transportation and electricity generation but also as a raw material for many products, including plastics and chemicals.
-
-Without oil, it is likely that the global economy would need to transition to alternative sources of energy, such as renewable energy sources like solar, wind, and hydropower, which may not be as efficient or as cost-effective as oil. There could also be significant geopolitical implications, as countries that are currently reliant on oil exports may need to find alternative sources of revenue and economic stability.
-
-Additionally, without oil, there could be significant disruptions to global supply chains and the availability of goods, as many products rely on oil-based raw materials for production. Finally, there could be significant environmental impacts as well, as the extraction and use of oil have significant impacts on air and water quality, wildlife, and natural habitats.
 
 ## monopolies
 
@@ -430,26 +411,6 @@ Silos are used to manipulate agriculture prices by allowing buyers to hold onto 
 
 There is no way to accurately determine the value of diamonds that are kept in vaults and not sold, as this information is not publicly available. Diamond companies and traders generally do not disclose the exact amount of inventory they hold, and the value of diamonds can also vary depending on a number of factors such as size, color, and clarity. Additionally, the value of diamonds can fluctuate over time due to changes in market demand and other economic factors.
 
-## genome
-
-The Human Genome Project, which was completed in 2003, identified the complete sequence of human DNA, which is estimated to contain approximately 3 billion base pairs. Since then, continued research has led to a better understanding of the structure and function of the human genome. While the majority of the human genome has been identified, there is still much that is not fully understood.
-
-It is estimated that only about 1-2% of the human genome encodes for proteins, the functional molecules that perform a wide range of tasks in the cell. The rest of the genome is made up of non-coding DNA, which was once thought to be "junk" but is now known to play important roles in regulation of gene expression and other cellular processes.
-
-There is a wealth of evidence for evolution, from observations of the natural world to the fossil record to the molecular evidence of DNA. Here are some of the key lines of evidence:
-
-Fossil record: The fossil record provides evidence of the evolution of species over time. Fossils of extinct species that were clearly distinct from any species alive today demonstrate that evolution has occurred.
-
-Comparative anatomy: The similarities in anatomy and structure among different species can be explained by a common ancestry. For example, the bones of the forelimbs of mammals such as humans, bats, whales, and birds all have the same basic structure, despite their differences in function, indicating that they evolved from a common ancestor.
-
-Biochemistry: The similarities in biochemistry and genetics among different species also provide evidence of evolution. For example, all living things use DNA as the genetic material, and the DNA sequences of different species are often similar in specific regions, reflecting a common ancestry.
-
-Geographic distribution of species: The geographic distribution of species can also provide evidence for evolution. For example, many species that are found on the same continents or island groups are more similar to each other than to species found elsewhere, suggesting that they evolved from a common ancestor and have diversified over time.
-
-Natural selection: Observing the process of natural selection in action, such as the development of antibiotic resistance in bacteria, provides further evidence of evolution. Natural selection is the mechanism by which evolution occurs, and by observing it, we can see how populations of organisms change over time.
-
-These are just a few examples of the many lines of evidence that support the theory of evolution.
-
 ## thegreatstory
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/uU0DC6qcp18" title="Main Drivers of Collapse, Ecocide, and Likely NTHE - Dowd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -468,21 +429,6 @@ It's important to note that the numbers for both of these scenarios are estimate
 
 Additionally, there are other species, such as snakes, crocodiles, and sharks, which can also pose a significant threat to human life in certain regions or circumstances.
 
-## eco collapse
-
-| Rank | Event                           | Date            | Location         | Description                                                  | Impact                                       |
-| ---- | ------------------------------- | --------------- | ---------------- | ------------------------------------------------------------ | -------------------------------------------- |
-| 1    | The Great Barrier Reef die-off  | 2016-2017       | Australia        | Warming oceans caused by climate change                      | 50% loss of coral                            |
-| 2    | Amazon rainforest deforestation | Ongoing         | Brazil and Peru  | Slash-and-burn agriculture, cattle farming, mining           | Biodiversity loss, emissions                 |
-| 3    | Aral Sea drying up              | 1960s - present | Kazakhstan       | Diversion of water for irrigation                            | Ecosystem collapse                           |
-| 4    | Dust Bowl                       | 1930s           | Great Plains, US | Unsustainable farming practices, drought                     | Soil erosion, crop failures                  |
-| 5    | Gulf of Mexico Dead Zone        | Ongoing         | Gulf of Mexico   | Agricultural runoff causes algal bloom and oxygen loss       | Fish and shellfish die-offs                  |
-| 6    | Three Gorges Dam construction   | 1994 - present  | China            | Resettlement of over 1 million people, loss of ecosystem     | Habitat loss, displaced people               |
-| 7    | Exxon Valdez oil spill          | 1989            | Alaska, US       | Oil tanker ran aground, spilling millions of gallons of oil  | Ecosystem damage, loss of marine life        |
-| 8    | Fukushima nuclear disaster      | 2011            | Japan            | Earthquake and tsunami caused nuclear meltdown               | Environmental contamination, radiation       |
-| 9    | Deepwater Horizon oil spill     | 2010            | Gulf of Mexico   | Oil rig explosion caused millions of gallons of oil to spill | Ecosystem damage, loss of marine life        |
-| 10   | Bhopal gas tragedy              | 1984            | India            | Gas leak from pesticide plant                                | Over 15,000 deaths, long-term health effects |
-
 ## top 10 natural disasters
 
 > this makes me want to move: I live on a faultline, near a volcano, near the ocean, in my free time I often section hike through the mountains, several years my hikes were cut short due to forest fires
@@ -497,21 +443,6 @@ Additionally, there are other species, such as snakes, crocodiles, and sharks, w
 - Volcanic eruptions: Volcanic eruptions can cause widespread damage and loss of life through ash fall, lava flows, and the creation of tsunamis.
 - Landslides: Landslides are the movement of rock, soil, and other materials down a slope, which can cause damage to structures and infrastructure.
 - Droughts: Droughts are prolonged periods of dry weather that can lead to crop failure, famine, and water shortages.
-
-## eco collapse
-
-| Potential Effects of Global Temperature Rising 3 Degrees |
-| -------------------------------------------------------- |
-| Increased frequency and intensity of heat waves          |
-| More frequent and severe droughts                        |
-| More intense hurricanes and tropical storms              |
-| Rising sea levels, causing coastal flooding              |
-| Disruption to agriculture, leading to food shortages     |
-| Increased risk of forest fires and wildfires             |
-| Extinction of certain plant and animal species           |
-| Spread of disease and illness, such as malaria           |
-| Decreased availability of fresh water resources          |
-| Economic losses and damage to infrastructure             |
 
 | Effect of Ocean Rising 10 Inches    |
 | ----------------------------------- |
@@ -569,16 +500,6 @@ Addressing these factors is critical for avoiding ecological collapse and ensuri
 | 9    | 1985 | Pemex Refinery, Mexico | Explosion and Fire          | Hydrocarbon                            | 500-600      | One of the worst industrial disasters in Mexico                                     |
 | 10   | 1976 | Seveso, Italy          | Dioxin Release              | Dioxin                                 | 37           | One of the highest recorded levels of dioxin exposure in humans                     |
 
-## Population overshoot
-
-<iframe width="835" height="470" src="https://www.youtube.com/embed/lPMPINPcrdk" title="Overshoot in a Nutshell: Understanding Our Predicament (31 min)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Population overshoot refers to a situation in which the population of a species, including human beings, exceeds the carrying capacity of its environment, resulting in a reduction of resources, degradation of ecosystems, and a decline in the quality of life for individuals and societies.
-
-The concept of population overshoot is based on the idea that populations of all species are limited by the availability of resources, such as food, water, and habitat. When the population exceeds the carrying capacity of the environment, it results in competition for resources, and increased pressure on the environment. This can lead to the degradation of ecosystems, increased pollution, and a decline in the quality of life for individuals and societies.
-
-The human population has been growing rapidly for the past few centuries, and it is estimated that the current global population of over 7.9 billion people is already beyond the carrying capacity of the planet. This has led to increasing concerns about the sustainability of human populations and the impacts of population overshoot on the environment, resources, and quality of life.
-
 ### firetruck
 
 <iframe width="726" height="408" src="https://www.youtube.com/embed/scXY34nV4LM" title="Are we all doomed? A climate scientist weighs in." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -631,10 +552,6 @@ The Seneca Curve is typically depicted as a graph that starts with slow growth, 
 The Seneca Curve has been applied to the study of the collapse of civilizations, including the Roman Empire, as well as to contemporary global challenges such as climate change, resource depletion, and economic instability. By understanding the dynamics of growth and collapse in complex systems, it is possible to develop strategies for avoiding or mitigating the consequences of collapse, and promoting long-term sustainability.
 
 <iframe width="710" height="399" src="https://www.youtube.com/embed/jWoCXLuTIkI" title="Climate Spiral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## main drivers of ecocide
-
-<iframe width="710" height="399" src="https://www.youtube.com/embed/uU0DC6qcp18" title="Main Drivers of Collapse, Ecocide, and Likely NTHE - Dowd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## cargo / globalization
 

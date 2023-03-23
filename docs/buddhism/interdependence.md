@@ -14,6 +14,34 @@ tags:
 <iframe width="802" height="501" src="https://www.youtube.com/embed/7gCfZVXYOjQ" title="200818 Dependent Co-arising Right Now \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ```mermaid
+sequenceDiagram
+    participant Ignorance
+    participant Karma
+    participant Consciousness
+    participant NameAndForm
+    participant SixSenseBases
+    participant Contact
+    participant Feeling
+    participant Craving
+    participant Grasping
+    participant Becoming
+    participant Birth
+    participant AgingAndDeath
+
+    Ignorance->>+Karma: Ignorance conditions Karma
+    Karma->>+Consciousness: Karma conditions Consciousness
+    Consciousness->>+NameAndForm: Consciousness conditions Name and Form
+    NameAndForm->>+SixSenseBases: Name and Form conditions Six Sense Bases
+    SixSenseBases->>+Contact: Six Sense Bases condition Contact
+    Contact->>+Feeling: Contact conditions Feeling
+    Feeling->>+Craving: Feeling conditions Craving
+    Craving->>+Grasping: Craving conditions Grasping
+    Grasping->>+Becoming: Grasping conditions Becoming
+    Becoming->>+Birth: Becoming conditions Birth
+    Birth->>+AgingAndDeath: Birth conditions Aging and Death
+```
+
+```mermaid
 graph TD;
     A[Ignorance] --> B[Volitional activities];
     B --> C[Consciousness];

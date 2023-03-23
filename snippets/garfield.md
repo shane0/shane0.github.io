@@ -19,7 +19,7 @@
 
 ### types of confusions
 
-- [impermanent](buddhism/impermenence.md) & permanent
-- conventionally real & [ultimately real](buddhism/emptiness.md)
-- source of [happiness](buddhism/hapiness.md) & source of suffering
-- [independent](buddhism/self.md) & [interdependent](buddhism/interdependence.md)
+- [impermanent](impermenence.md) & permanent
+- conventionally real & [ultimately real](emptiness.md)
+- source of [happiness](hapiness.md) & source of suffering
+- [independent](self.md) & [interdependent](interdependence.md)

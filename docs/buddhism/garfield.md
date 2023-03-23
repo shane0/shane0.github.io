@@ -10,7 +10,7 @@ tags:
 
 --8<-- "snippets/dogen.md"
 
-- this is a perfect example of the [feynman technique](feynman.md)
+- this is a perfect example of the [feynman technique](../feynman.md)
 - jay clearly has a very deep understanding of buddhism and non duality
 - I recommend his videos and book "losing ourselves"
 - this video speaks volumes, it summarizes the essence of all of the content here

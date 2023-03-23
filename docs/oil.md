@@ -53,3 +53,17 @@ A global temperature rise of 8.1 degrees Celsius would have catastrophic impacts
 - Acidification of the oceans, which would have devastating impacts on marine ecosystems, including coral reefs and fisheries.
 - Release of large amounts of methane from thawing permafrost and melting clathrates, which could trigger even more rapid and severe warming.
 - Collapse of many terrestrial ecosystems, such as forests, grasslands, and tundra, which would lead to significant losses in biodiversity and ecosystem services.
+
+## living without oil
+
+- or worse without a sun (die by fire or morph into final form)
+
+<iframe width="641" height="481" src="https://www.youtube.com/embed/RfwsvSjXkJU" title="Of Beauty and Consolation Episode 9 Edward Witten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+According to the BP Statistical Review of World Energy 2021, as of the end of 2020, the world had proven reserves of about 1.3 trillion barrels of oil, which at current production rates would last about 47 years. The world also had proven reserves of about 7.6 trillion cubic meters of natural gas, which at current production rates would last about 55 years. Finally, the world had proven reserves of about 1732 billion tonnes of coal, which at current production rates would last about 149 years.
+
+When the oil runs out, there will be significant impacts on the global economy and society. Oil is used not only as a source of energy for transportation and electricity generation but also as a raw material for many products, including plastics and chemicals.
+
+Without oil, it is likely that the global economy would need to transition to alternative sources of energy, such as renewable energy sources like solar, wind, and hydropower, which may not be as efficient or as cost-effective as oil. There could also be significant geopolitical implications, as countries that are currently reliant on oil exports may need to find alternative sources of revenue and economic stability.
+
+Additionally, without oil, there could be significant disruptions to global supply chains and the availability of goods, as many products rely on oil-based raw materials for production. Finally, there could be significant environmental impacts as well, as the extraction and use of oil have significant impacts on air and water quality, wildlife, and natural habitats.

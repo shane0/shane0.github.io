@@ -27,7 +27,26 @@ emptiness --> impermanence
 impermanence --> time
 ```
 
-## WHAT ARE PHENOMENA EMPTY OF?
+## Shunyata 
+
+Shunyata is a concept in Buddhism that refers to the emptiness or lack of inherent existence of all phenomena. It is a fundamental principle in Buddhist philosophy, particularly in the Mahayana and Vajrayana traditions, and is often associated with the teachings on Dependent Origination and the Four Noble Truths.
+
+According to Buddhist thought, all phenomena are empty of inherent existence because they are dependently originated and lack independent existence. Shunyata is not a state of nothingness, but rather a recognition of the lack of a permanent, independent self or essence in all phenomena. This includes not only physical objects but also thoughts, emotions, and even the self.
+
+Shunyata is often described as a way of seeing the world in a more accurate and authentic way, free from delusion and attachment to illusory concepts of self and reality. It is a key concept in Buddhist practice, particularly in the development of wisdom and insight, and is closely related to the concept of Prajna, or transcendental wisdom.
+
+| Attribute | Description | Contemplation/Meditation | Benefit |
+| --- | --- | --- | --- |
+| Emptiness | Lack of inherent existence of all phenomena | Contemplate the interdependence of all things | Freedom from attachment to illusions |
+| Non-duality | Absence of absolute distinction between subject and object | Meditate on the unity of all things | Greater compassion and understanding of interconnectedness |
+| Interdependence | All phenomena arise in dependence upon other phenomena | Reflect on the causes and conditions that brought about a particular phenomenon | Recognition of the complexity of reality and the impermanence of all things |
+| Ungraspability | Inability to grasp or hold onto anything as permanent or independently existing | Practice letting go of attachment to thoughts, emotions, and material objects | Freedom from suffering and a sense of liberation |
+
+Shunyata is a key concept in Buddhism, particularly in the Mahayana and Vajrayana traditions, that refers to the emptiness or lack of inherent existence of all phenomena. It is a fundamental principle in Buddhist philosophy that is closely related to the concepts of Dependent Origination and the Four Noble Truths.
+
+Meditating on the attributes of Shunyata can help cultivate wisdom and insight into the true nature of reality. Contemplating the interdependence of all things, recognizing the unity of all things, reflecting on causes and conditions, and practicing letting go of attachment can lead to freedom from suffering and greater compassion and understanding of interconnectedness.
+
+## what are phenomena empty of?
 
 ![d](../images/d.jpg)
 

@@ -11,6 +11,66 @@ tags:
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/YYml4qwg1CE" title="Insight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+```mermaid
+graph TD;
+    A[Samsara]-->B[Karma]
+    A[Samsara]-->C[Dharma]
+    A[Samsara]-->D[Tanha]
+    A[Samsara]-->E[Moha]
+    A[Samsara]-->F[Triple Gem]
+    B[Karma]-->G[Karmaphala]
+    C[Dharma]-->H[Prajna]
+    C[Dharma]-->I[Karuna]
+    C[Dharma]-->J[Maitri]
+    C[Dharma]-->K[Upeksha]
+    H[Prajna]-->L[Anatman]
+    H[Prajna]-->M[Sunyata]
+    F[Triple Gem]-->N[Buddha]
+    F[Triple Gem]-->O[Dharma]
+    F[Triple Gem]-->P[Sangha]
+```
+
+| Sanskrit Term | Definition |
+| --- | --- |
+| Dharma | The teachings of the Buddha |
+| Buddha | One who has achieved enlightenment |
+| Samsara | The cycle of birth, death, and rebirth |
+| Nirvana | The ultimate goal of Buddhist practice, liberation from suffering and rebirth |
+| Karma | The law of cause and effect; the accumulation of past actions influencing present and future experiences |
+| Sangha | The community of Buddhist practitioners |
+| Bodhisattva | One who is on the path to Buddhahood and seeks to help others achieve liberation |
+| Prajna | Wisdom, particularly the insight into the nature of reality |
+| Samadhi | Meditative concentration, the practice of stilling the mind |
+| Emptiness | The Buddhist understanding of the ultimate nature of reality, that all phenomena lack inherent existence |
+| Sutra | A canonical text containing the Buddha's teachings |
+| Mantra | A sacred sound or phrase used for meditation or spiritual practice |
+| Vajra | A ritual implement symbolizing spiritual power and clarity |
+| Mudra | A symbolic hand gesture used in meditation and ritual |
+| Mandala | A symbolic representation of the universe used in meditation and ritual |
+| Guru | A spiritual teacher or guide |
+| Tantra | A set of practices and texts that utilize ritual and visualization to achieve spiritual transformation |
+| Zen | A school of Mahayana Buddhism emphasizing meditation and direct experience |
+| Tathagata | Another name for the Buddha, meaning "thus-gone" or "thus-come" |
+| Dukkha | Suffering or unsatisfactoriness |
+| Bodhicitta | The altruistic intention to attain enlightenment for the benefit of all sentient beings |
+| Anicca | Impermanence, the understanding that all things are constantly changing |
+| Skandhas | The five aggregates that make up a person's experience: form, feeling, perception, mental formations, and consciousness |
+| Sunyata | Emptiness, the ultimate nature of reality as understood in Mahayana Buddhism |
+| Upaya | Skillful means, the use of various methods to help others achieve spiritual goals |
+| Bodhi | Awakening, the state of enlightenment |
+| Amitabha | A Buddha of the Pure Land school, associated with the western direction and the vow to help beings achieve rebirth in a pure land |
+| Dzogchen | A system of meditation and spiritual practice in Tibetan Buddhism emphasizing direct awareness of the nature of the mind |
+| Nyingma | The oldest school of Tibetan Buddhism, known for its emphasis on the Dzogchen teachings |
+| Gelug | A school of Tibetan Buddhism founded by the scholar and saint Je Tsongkhapa, emphasizing study and monastic discipline |
+| Kagyu | A school of Tibetan Buddhism emphasizing meditation and the transmission of teachings from teacher to student |
+| Mahamudra | A system of meditation and spiritual practice in the Kagyu school of Tibetan Buddhism, emphasizing the nature of mind |
+| Madhyamaka | A philosophical system of Mahayana Buddhism emphasizing the understanding of emptiness |
+| Pratityasamutpada | Dependent origination, the understanding that all phenomena arise in dependence on causes and conditions |
+| Bodhisattva Vow | A commitment to seek enlightenment for the benefit of all sentient beings |
+| Three Jewels | The Buddha, the Dharma, and the Sangha, the objects of refuge in Buddhism |
+| Three Yanas | The three vehicles or paths in Buddhism: Hinayana, Mahayana, and Vajrayana |
+| Hinayana | The "lesser vehicle" of Buddhism, emphasizing individual liberation
+
 ## what are the four noble truths?
 
 ```mermaid

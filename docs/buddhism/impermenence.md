@@ -26,6 +26,8 @@ Anicca, which means impermanence, is one of the three characteristics of existen
 
 ANICCA, or impermanence, is a central concept in Buddhism that refers to the ever-changing and transient nature of all phenomena. According to the Buddhist understanding, nothing in the world remains the same from one moment to the next, and everything is subject to constant transformation and decay. This includes not only physical objects but also thoughts, emotions, and experiences. By recognizing the impermanent nature of all things, Buddhists aim to develop a deeper understanding of the world and to cultivate a greater sense of detachment, wisdom, and compassion.
 
+The Sanskrit term for "everything is changing" is "Sarvam Anityam" (सर्वं अनित्यम्). "Sarvam" means "everything" and "anityam" means "impermanent" or "not permanent". This concept of impermanence is a fundamental teaching in Buddhism and is one of the Three Universal Truths (ti-lakkhana).
+
 ## cormac
 
 > The world has created no living thing that it does not intend to destroy

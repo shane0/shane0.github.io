@@ -7,9 +7,80 @@ tags:
 ---
 # atmosphere
 
+## formation
+
 In summary, an atmosphere forms on a planet through the process of outgassing, which releases trapped gases from the planet's interior. The amount and composition of the atmosphere depend on various factors, including the planet's size, distance from the sun, magnetic field and chemical composition of its surface.
 
-<iframe width="710" height="399" src="https://www.youtube.com/embed/-huPoqmOkmU" title="15 Craziest Natural Phenomena Recorded On Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Cycle Name | Description | Key Components |
+| --- | --- | --- |
+| Water cycle | The continuous process of water movement on Earth, including evaporation, condensation, precipitation, and runoff. | Water vapor, clouds, precipitation, evapotranspiration, rivers, lakes, and groundwater |
+| Carbon cycle | The process by which carbon is exchanged between living organisms, the ocean, the atmosphere, and the Earth's crust. | Photosynthesis, respiration, decomposition, fossil fuels, ocean absorption, deforestation |
+| Nitrogen cycle | The process by which nitrogen is converted between its various chemical forms in the atmosphere, soil, and living organisms. | Nitrogen fixation, nitrification, denitrification, ammonification |
+| Oxygen cycle | The process by which oxygen is exchanged between the Earth's atmosphere, biosphere, and lithosphere. | Photosynthesis, respiration, oxidation |
+| Phosphorus cycle | The process by which phosphorus is cycled through the Earth's crust, water, and living organisms. | Weathering, erosion, sedimentation, uptake by plants, decomposition |
+
+| Layer of Atmosphere | Height Range | Temperature | Composition |
+| --- | --- | --- | --- |
+| Troposphere | 0 - 12 km | Decreases with height | 78% nitrogen, 21% oxygen, 1% other gases |
+| Stratosphere | 12 - 50 km | Increases with height | Ozone layer (O3), 21% oxygen, 78% nitrogen, 1% other gases |
+| Mesosphere | 50 - 85 km | Decreases with height | 78% nitrogen, 21% oxygen, 1% other gases |
+| Thermosphere | 85 - 600 km | Increases with height | Ionized gases (plasma) |
+| Exosphere | 600+ km | Increases with height | Low density gases and atoms (hydrogen, helium, oxygen, nitrogen) |
+
+| Element | Percent by Volume |
+|---------|------------------|
+| Nitrogen | 78.084%          |
+| Oxygen  | 20.946%          |
+| Argon  | 0.934%           |
+| Carbon dioxide | 0.04% |
+| Neon | 0.0018% |
+| Helium | 0.0005% |
+| Methane | 0.00017% |
+| Hydrogen | 0.00005% |
+| Nitrous oxide | 0.00003% |
+| Ozone | 0.000004% |
+
+The nitrogen cycle, which involves nitrogen-fixing bacteria, lightning, and other processes, helps to maintain the balance of nitrogen in the atmosphere and the biosphere.
+
+The oxygen cycle is the biogeochemical cycle by which oxygen is exchanged between the Earth's atmosphere, biosphere, and geosphere. The oxygen cycle includes processes like photosynthesis by plants and phytoplankton, respiration by animals and bacteria, and decomposition of organic matter.
+
+During photosynthesis, plants and phytoplankton use carbon dioxide and light energy to produce oxygen and organic compounds. Oxygen is released into the atmosphere as a by-product of this process. During respiration, animals and bacteria consume oxygen and release carbon dioxide. Decomposition of organic matter also consumes oxygen and releases carbon dioxide.
+
+Overall, the oxygen cycle maintains a relatively stable balance of oxygen in the Earth's atmosphere, which is necessary for the survival of many forms of life.
+
+It is estimated that the concentration of carbon dioxide (CO2) in the atmosphere has increased by about 47% since the beginning of the Industrial Revolution, which corresponds to an increase of about 120 parts per million (ppm). Before the Industrial Revolution, the concentration of CO2 in the atmosphere was about 280 ppm, and as of 2021, it has reached about 415 ppm. Therefore, it can be said that approximately 35% of the total CO2 content in the atmosphere is estimated to be caused by the Industrial Revolution.
+
+| Property                     | Explanation                                                                                                   |
+|------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Polarity                     | Water molecules have a partial negative charge near the oxygen atom and a partial positive charge near the hydrogen atoms, making it a polar molecule. |
+| High specific heat capacity  | Water can absorb a lot of heat energy before its temperature rises, which helps regulate Earth's temperature.    |
+| High heat of vaporization    | Water requires a lot of energy to turn into a gas, which makes sweating an effective way to cool down.           |
+| High surface tension         | Water molecules are attracted to each other, which creates a strong surface tension that can support small objects. |
+| Low density of ice           | Water expands as it freezes, which makes ice less dense than liquid water and allows it to float.              |
+| Good solvent                  | Water is an excellent solvent for many substances, including salts and sugars.                                 |
+
+Changes in temperature of water (H2O) can affect the atmosphere in several ways. For example, as water temperature increases, it can lead to more water vapor in the atmosphere, which is a potent greenhouse gas. This increased water vapor can cause a positive feedback loop, where the warmer temperatures lead to more water vapor, which leads to even warmer temperatures. On the other hand, colder water temperatures can cause less water vapor to be present in the atmosphere, which can have a cooling effect.
+
+Changes in water temperature can also affect the circulation of the atmosphere, as warm water tends to rise and cool water tends to sink. This can influence the formation of weather patterns, such as the formation of low-pressure systems and the movement of storms.
+
+Overall, changes in water temperature can have significant impacts on the atmosphere and climate, and are an important factor to consider in understanding how the Earth's climate is changing.
+
+The properties of H2O that cause it to form clouds and rain are its ability to change its state from gas to liquid and vice versa, and its strong cohesive forces. As water vapor rises in the atmosphere, it cools and condenses into liquid droplets or ice crystals, forming clouds. These droplets or crystals grow larger as they collide and stick together, and eventually become too heavy to remain suspended in the air, falling to the ground as precipitation. The cohesive forces between water molecules also allow for the formation of surface tension, which allows water droplets to cling to surfaces and form into the shapes of clouds.
+
+## atmosphere impacts
+
+| Threat                 | Description                                                |
+|------------------------|------------------------------------------------------------|
+| Greenhouse gases       | Trapping of heat in the atmosphere leading to climate change |
+| Air pollution          | Release of harmful chemicals and particles into the air     |
+| Ozone depletion        | Destruction of the ozone layer leading to increased UV rays |
+| Acid rain              | Rainfall with high levels of acid leading to ecosystem damage|
+| Deforestation          | Removal of trees leading to reduced carbon sequestration and biodiversity loss |
+| Land use changes       | Conversion of natural landscapes leading to altered climate patterns and biodiversity loss |
+| Nuclear accidents      | Radiation released into the atmosphere due to accidents at nuclear facilities |
+| Meteor impacts         | Debris released into the atmosphere due to meteor impacts    |
+| Space debris           | Human-made debris orbiting the Earth causing potential collisions and damage to satellites |
+| Solar flares           | Eruptions on the Sun's surface that release high-energy particles into space, potentially impacting the Earth's atmosphere |
 
 ## atmospheric requirements for humans
 
@@ -104,3 +175,7 @@ According to the Intergovernmental Panel on Climate Change (IPCC), the global su
 The rate of temperature increase has not been constant over time and varies from year to year, but on average, the rate of global temperature increase over the past 50 years (1971-2020) has been approximately {==0.13°C (±0.03°C) per decade==}.
 
 This rate of increase is more than twice as fast as the rate of temperature increase over the past 100 years (1901-2020), which was approximately {==0.06°C (±0.04°C) per decade==}. The rate of temperature increase is expected to continue to accelerate in the coming decades unless greenhouse gas emissions are rapidly and deeply reduced.
+
+----
+
+<iframe width="710" height="399" src="https://www.youtube.com/embed/-huPoqmOkmU" title="15 Craziest Natural Phenomena Recorded On Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

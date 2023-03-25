@@ -11,5 +11,5 @@
 | Response      | Intentional     | Automatic      |
 | Concentration | Developed       | Scattered      |
 | Insight       | Cultivated      | Absent         |
-| Clarity]      | Increased       | Decreased      |
-| Equanimity]   | Present         | Absent         |
+| Clarity       | Increased       | Decreased      |
+| Equanimity    | Present         | Absent         |

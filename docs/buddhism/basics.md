@@ -105,6 +105,24 @@ basics -- pleasant unpleasant neutral --> feeling_tones
 basics -- pain change conditionality --> three_sufferings
 ```
 
+## three dharma seals
+
+- Anicca (impermanence), everything changes
+- Anatta (non-self), nothing has a separate existence
+- Dukkha (suffering), all conditioned things are unsatisfactory
+
+The three dharma seals are a central teaching in Buddhism. They help us to understand the nature of reality and to liberate ourselves from suffering.
+
+## Three Doors of Liberation
+
+The Three Doors of Liberation are a Buddhist teaching on how to overcome suffering. They are:
+
+- Emptiness: The realization that all phenomena are empty of any inherent nature or essence. This means that there is no such thing as a permanent, unchanging, or independent entity. Everything is constantly changing and evolving, and everything is interconnected.
+- Signlessness: The realization that all phenomena are devoid of any inherent signs or marks. This means that there is no such thing as a permanent, unchanging, or independent entity that can be identified or described. Everything is constantly changing and evolving, and everything is interconnected.
+- Aimlessness: The realization that all phenomena are devoid of any inherent goal or destination. This means that there is no such thing as a permanent, unchanging, or independent entity that can be achieved or attained. Everything is constantly changing and evolving, and everything is interconnected.
+
+The Three Doors of Liberation are not a destination, but a journey. They are a way of seeing the world that can help us to let go of our attachments and to find peace and happiness.
+
 ## sanskrit word map
 
 ```mermaid
@@ -183,6 +201,10 @@ Upekkha, which is also known as equanimity, is one of the four Brahma Viharas or
 
 Anicca, which means impermanence, is one of the three characteristics of existence in Buddhism. It refers to the notion that all things are in a constant state of flux and that nothing is permanent or unchanging. According to Buddhist teachings, the realization of impermanence is essential for spiritual growth and liberation, as it helps individuals to let go of attachment, craving, and suffering. By accepting the impermanent nature of all things, Buddhists aim to cultivate a deeper sense of equanimity, wisdom, and compassion in their lives.
 
+Anicca is both change and impermanence. Change is a more literal translation of the word, while impermanence is a more abstract concept. Change means that everything in the world is constantly changing, from the smallest particle to the largest galaxy. Even our own bodies are constantly changing, as cells die and are replaced. Impermanence means that nothing lasts forever. Everything in the world is eventually destroyed, even the most powerful empires and the most beautiful works of art.
+
+The concept of anicca is one of the most important concepts in Buddhism. By understanding anicca, we can learn to let go of attachments to things that are impermanent, and to accept the ever-changing nature of reality.
+
 ## in buddhism what are the three universal truths?
 
 ```mermaid
@@ -202,6 +224,37 @@ nirodha
 | Signless               | All phenomena are without any inherent characteristics or signs                 |
 | Aimlessness            | There is no ultimate goal or purpose                                            |
 | satori bodhi Nirvana   | The ultimate goal of Buddhism, a state of liberation from suffering and rebirth |
+
+## signlessness
+
+Buddhist signlessness in Sanskrit is called animitta. It is the third of the three marks of existence, along with impermanence and suffering. Animitta refers to the absence of any inherent signs or marks in phenomena.
+
+In Buddhism, it is believed that all phenomena are empty of any inherent nature or essence. This means that there is no such thing as a permanent, unchanging, or independent entity. Everything is constantly changing and evolving, and everything is interconnected.
+
+Animitta is often described as the realization that all phenomena are empty of any inherent meaning or significance. This does not mean that phenomena are meaningless, but rather that their meaning is dependent on the context in which they arise.
+
+Animitta is a difficult concept to grasp, but it is an essential part of Buddhist practice. It is said that when we achieve animitta, we will find true wisdom and enlightenment.
+
+## aimlessness
+
+Aimlessness in Buddhism is called Apranihita or uncommittedness or wishlessness in Sanskritapraṇihita अप्रणिहित. It is a form of "concentration" in some schools of Buddhist meditation. It is a state of mind where you are not attached to any particular goal or outcome. You are simply present in the moment, observing your thoughts and feelings without judgment.
+
+Aimlessness is not the same as laziness or apathy. It is not about giving up on your goals or dreams. It is about letting go of your attachment to them. When you are aimless, you are free to enjoy the journey, even if you don't know where you are going.
+
+Aimlessness can be a difficult concept to grasp, but it is an essential part of Buddhist practice. It is said that when we achieve aimlessness, we will find true happiness and enlightenment.
+
+## suttas
+
+- Dhammacakkappavattana Sutta (The Setting in Motion of the Wheel of Dhamma): MN 26
+- Anatta Sutta (The Non-Self Sutta): MN 3
+- Nibbida Sutta (The Extinction of Suffering Sutta): MN 22
+- Satipatthana Sutta (The Four Foundations of Mindfulness Sutta): MN 10
+- Samadhi Sutta (The Factors of Concentration Sutta): MN 12
+- Khandha Sutta (The Five Aggregates Sutta): MN 22
+- Anicca Sutta (The Impermanence Sutta): MN 27
+- Dukkha Sutta (The Suffering Sutta): MN 3
+- Metta Sutta (The Loving-Kindness Sutta): MN 117
+- Upekka Sutta (The Equanimity Sutta): MN 121
 
 ## universal truths
 

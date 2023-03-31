@@ -13,6 +13,54 @@ tags:
 
 <iframe width="802" height="501" src="https://www.youtube.com/embed/7gCfZVXYOjQ" title="200818 Dependent Co-arising Right Now \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## meditation
+
+- Find a comfortable position and close your eyes. Take a few deep breaths and relax your body.
+- Bring your awareness to the present moment. Notice the sounds, smells, and sensations around you.
+- As you breathe, bring your awareness to the sensation of your breath. Notice the rise and fall of your chest and abdomen.
+- As you breathe, bring your awareness to the thought of dependent origination. Recall the 12 links of dependent origination and how they are all interconnected.
+- As you breathe, bring your awareness to the first link of dependent origination: ignorance. Notice how ignorance leads to samskaras (mental and physical formations).
+- As you breathe, bring your awareness to the second link of dependent origination: samskaras. Notice how samskaras lead to consciousness.
+- As you breathe, bring your awareness to the third link of dependent origination: consciousness. Notice how consciousness leads to name-and-form.
+- As you breathe, bring your awareness to the fourth link of dependent origination: name-and-form. Notice how name-and-form leads to the six sense bases.
+- As you breathe, bring your awareness to the fifth link of dependent origination: six sense bases. Notice how the six sense bases lead to contact.
+- As you breathe, bring your awareness to the sixth link of dependent origination: contact. Notice how contact leads to feeling.
+- As you breathe, bring your awareness to the seventh link of dependent origination: feeling. Notice how feeling leads to craving.
+- As you breathe, bring your awareness to the eighth link of dependent origination: craving. Notice how craving leads to clinging.
+- As you breathe, bring your awareness to the ninth link of dependent origination: clinging. Notice how clinging leads to becoming.
+- As you breathe, bring your awareness to the tenth link of dependent origination: becoming. Notice how becoming leads to birth.
+- As you breathe, bring your awareness to the eleventh link of dependent origination: birth. Notice how birth leads to death.
+- As you breathe, bring your awareness to the twelfth link of dependent origination: death. Notice how death leads to ignorance.
+- Continue to breathe and bring your awareness to the links of dependent origination. Notice how they are all interconnected and how they lead to suffering.
+- As you breathe, bring your awareness to the possibility of freedom from suffering. Notice how it is possible to break free from the cycle of dependent origination through enlightenment.
+- Continue to breathe and bring your awareness to the present moment. Notice the sounds, smells, and sensations around you.
+- When you are ready, open your eyes and bring your awareness back to your surroundings.
+
+This meditation can help you to understand the links of dependent origination and how they are all interconnected. It can also help you to see the possibility of freedom from suffering through enlightenment.
+
+## origination
+
+The Twelve Dependent Origination is called Pratityasamutpada in Sanskrit. It is a key doctrine in Buddhism shared by all schools of Buddhism. It states that all dharmas (phenomena) arise in dependence upon other dharmas: "if this exists, that exists; if this ceases to exist, that also ceases to exist". The basic principle is that all things (dharmas, phenomena, principles) arise in dependence upon other things.
+
+The Twelve Dependent Origination is as follows:
+
+- Avidyā (ignorance)
+- Samskarā (mental and physical formations)
+- Vijñāna (consciousness)
+- Name-and-form (the world of objects)
+- Six Sense Bases (eye, ear, nose, tongue, body, and mind)
+- Contact (between the sense bases and objects)
+- Feeling (pleasant, unpleasant, or neutral)
+- Craving (for pleasant feelings to continue)
+- Clinging (to objects or ideas)
+- Becoming (of a new object or idea)
+- Birth (of a new being)
+- Death (of a being)
+
+The Twelve Dependent Origination is often depicted as a wheel, with each link leading to the next. The wheel represents the cycle of suffering that beings are caught in. The goal of Buddhism is to break free from this cycle and achieve nirvana.
+
+The Twelve Dependent Origination is a complex and profound doctrine. It is not easy to understand, but it is essential for understanding the Buddhist teachings.
+
 ```mermaid
 sequenceDiagram
     participant Ignorance

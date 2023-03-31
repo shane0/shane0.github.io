@@ -34,6 +34,29 @@ The 16 steps of Anapanasati meditation in the Theravada tradition are a gradual 
 
 These 16 steps are meant to be followed gradually, over time, as the practitioner develops their meditation practice. It is important to maintain a consistent and persistent practice, and to seek guidance from a qualified teacher or meditation center if needed. Each step builds upon the previous one, leading to deeper levels of mindfulness, concentration, and insight, and ultimately to the realization of nibbana.
 
+## bard version
+
+The 16 steps of Anapanasati are:
+
+- breathing in (Sanskrit: āyāmi)
+- breathing out (Sanskrit: evam)
+- aware of the whole body (Sanskrit: sāram)
+- calming the whole body (Sanskrit: sukhamayam)
+- aware of rapture (Sanskrit: piti)
+- aware of pleasure (Sanskrit: suka)
+- aware of mental processes (Sanskrit: citta)
+- aware of the mind (Sanskrit: citta)
+- gladdening the mind (Sanskrit: cittam sukhamayam)
+- steadying the mind (Sanskrit: cittam sukhamayam)
+- focusing on impermanence (Sanskrit: anityam)
+- focusing on fading away (Sanskrit: evanescence)
+- focusing on cessation (Sanskrit: nirodhā)
+- focusing on relinquishment (Sanskrit: nirodha)
+- focusing on the calming of all fabrication (Sanskrit: samādhi)
+- focusing on the attainment of knowledge (Sanskrit: prajñā)
+
+The Anapanasati Sutta is a discourse on the practice of mindfulness of breathing. The 16 steps of Anapanasati are a guide to following this practice.
+
 ## what traditions practice anapanasati
 
 Anapanasati is a MINDFULNESS meditation practice that is widely used in both Theravada and Mahayana Buddhist traditions. It is considered a foundational meditation practice in both traditions, and is often taught as part of the path to insight, liberation, and enlightenment.

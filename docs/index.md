@@ -1,93 +1,82 @@
+---
+tags:
+  - anapanasati 
+  - emptiness
+  - signlessness 
+  - aimlessness 
+  - shamatha 
+  - vipassana 
+---
 ![lint](https://github.com/shane0/shane0.github.io/actions/workflows/markdownlint.yml/badge.svg)
 ![tests](https://github.com/shane0/shane0.github.io/actions/workflows/run-tests.yml/badge.svg)
 
-# conversations with chatgtp
-
-<iframe width="802" height="501" src="https://www.youtube.com/embed/GTHd3dn7FJ0" title="the odds of you existing are zero, almost...." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-> buddhism: six roots
-
-| Root     | Pali/Sanskrit | Opposite             |
-| -------- | ------------- | -------------------- |
-| Greed    | lobha         | Non-greed (alobha)   |
-| Hatred   | dosa          | Non-hatred (adosa)   |
-| Delusion | moha          | Non-delusion (amoha) |
-
---8<-- "snippets/dogen.md"
-
-!!! quote "Skillful speech and actions"
-    intention and compassion for
-    
-    - kindness
-    - respect
-    - truthfullness
-    - timeliness
-
-`Lao Tzu said:`
-
-:   - If you are depressed you are living in the past.
-    - If you are anxious you are living in the future.
-    - If you are at peace you are living in the present.
-
-![img](images/suffering.png)
-
---8<-- "snippets/meditative.md"
-
-----
-
-!!! tip "training for your heart and mind"
-    [flashcards](bujo/08.md){ .md-button }
-    [tldr videos](buddhism/tldr.md){ .md-button }
-    [anapanasati](buddhism/anapanasati.md){ .md-button }
-    [maranasati](buddhism/maranasati.md){ .md-button }
-    [zen](buddhism/zen.md){ .md-button }
-    [strength training app](https://shane0.github.io/strength/){ .md-button }
-
-----
-
-!!! note "favorite quotes"
-    The design intent should always be less, but better.
-
-    Don't spend time optimizing something that shouldn't exist.
-
-    > elon musk
-
-    If you cannot explain something in simple terms, you don't understand it.
-
-    > richard feynman
-
-    Of course, we live in a completely corrupted world where every government is just a bunch of businessmen working for a bunch of bigger businessmen and none of them give a shit about the people, the sad fact is no one knows how to change it, because no one knows how to take on the corporations. So I guess we’re stuck with this system until the oil runs out.
-
-    > woody harrelson
-
+!!! success "anapanasati meditation steps"
+    - this meditation uses the breath as a support
+    - the book [How to Focus](#how-to-focus) is a good introduction to anapanasati
+    - there are 16 steps divided in 4 layers: body, feeling, mind, all phenomena
+    - mind: can be extended upsing the [51 mental formations](buddhism/basics.md#the-51-mental-formations)
+    - mental formation or emptiness can be extended with [noting](buddhism/noting.md) 
+    - or [vipassana](buddhism/vipassana.md)
 
 ```mermaid
-graph
-2023 --> books
-2023 --> meditations
-meditations --> anapanasati
-meditations --> maranasati
-meditations --> traditions
-traditions --> theravada
-traditions --> mahayana
-traditions --> zen
-traditions --> dzogchen
-books --> coarmac_mccarthy
-2023 --> coding --> full_stack_bootcamp
-coding --> ai --> chatGpt
-coding --> software_testing
-coding --> software_documentation
-style 2023 fill: brown
-style meditations fill: blue
-style books fill: orange
-style coding fill: yellow
+graph LR
+direction LR
+anapanasati --> body -- in and out --> breath --> one & two & three & four
+one -- aware of breathing in  --> in
+one -- aware of breathing out --> out
+two -- aware beginning to end --> in_2
+two -- aware beginning to end --> out_2
+three -- aware of whole body --> in_3
+three -- aware of whole body --> out_3
+four -- calm the body --> in_4
+four -- calm the body --> out_4
+anapanasati --> feeling
+feeling --> five & six & seven & eight 
+five -- aware of joy --> in_5
+five -- aware of joy --> out_5
+six -- aware of hapiness --> in_6
+six -- aware of hapiness --> out_6
+seven -- aware of painful feelings --> in_7
+seven -- aware of painful feelings --> out_7
+eight -- embrace painful feeling --> in_8
+eight -- calm painful feeling --> out_8
+anapanasati --> mind 
+mind --> nine & ten & eleven & twelve 
+nine -- contemplate mind --> in_9
+nine -- contemplate mind --> out_9
+ten -- cultivate happiness --> in_10
+ten -- cultivate happiness --> out_10
+eleven -- concentrate the mind --> in_11
+eleven -- concentrate the mind --> out_11
+twelve -- liberate the mind --> in_12
+twelve -- liberate the mind --> out_12
+anapanasati --> all_phenomena 
+all_phenomena --> thirteen & fourteen & fifteen & sixteen 
+thirteen -- observe impermanence --> in_13
+thirteen -- observe impermanence --> out_13
+fourteen -- contemplate letting go --> in_14
+fourteen -- contemplate letting go --> out_14
+fifteen -- observe disappearance of desire --> in_15
+fifteen -- observe disappearance of desire --> out_15
+sixteen -- contemplate the extinction of all notions --> in_16
+sixteen -- contemplate the extinction of all notions --> out_16
 ```
 
-> other sites
+### bonus: three doors of liberation
 
-- [wordpress](https://shanenull.com)
-- [game dev](https://shane0.github.io/adventure/)
-- [docusaurus](https://shane0.github.io/docs/)
-- [strength training](https://shane0.github.io/strength/)
+```mermaid
+graph LR
+emptiness -- contemplate emptiness  --> in
+emptiness -- contemplate emptiness  --> out
+signlessness -- contemplate signlessness  --> in_s
+signlessness -- contemplate signlessness  --> out_s
+aimlessness -- contemplate aimlessness  --> in_a
+aimlessness -- contemplate aimlessness  --> out_a
+```
 
-[TAGS]
+## how to focus
+
+- this book is an excellent introduction to [anapansati](buddhism/anapanasati.md) meditation
+- [buy it!](https://www.parallax.org/product/how-to-focus/){ .md-button }
+
+![f](images/htf.jpg)

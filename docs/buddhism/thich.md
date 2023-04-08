@@ -120,6 +120,45 @@ Thich Nhat Hanh writes that when we practice MINDFULNESS and compassion in our d
 
 In his book, "The Heart of the Buddha's Teaching," Thich Nhat Hanh writes: "The Nirmanakaya is the manifestation of the Buddha's wisdom and compassion in the world. It represents the interdependence and interrelatedness of all things and serves as a reminder that the path to liberation is available to all beings." This highlights the idea that the Nirmanakaya is a representation of the transformative power of the Buddha's teachings, and that through MINDFULNESS and compassion, we can embody this power and bring peace and happiness to the world.
 
+## attributes
+
+| Attribute | Meditative mind | Untrained mind |
+|---|---|---|
+| Attention | Focused and concentrated | Wandering and unfocused |
+| Awareness | Open and receptive | Narrow and selective |
+| Emotions | Calm and balanced | Reactive and volatile |
+| Thoughts | Clear and present | Busy and distracted |
+| Body | Relaxed and at ease | Tense and agitated |
+| Senses | Open and receptive | Closed and shut off |
+| Relationship to experience | Accepting and non-judgmental | Resistant and judgmental |
+| Sense of self | Open and spacious | Narrow and constricted |
+| Experience of time | Present and timeless | Past- or future-focused |
+| Experience of reality | Vivid and meaningful | Dull and meaningless |
+| Sense of purpose | Connected and meaningful | Lost and confused |
+| Overall experience | Peaceful and fulfilling | Stressful and unfulfilling |
+| Ability to focus on a task | High | Low |
+| Ability to manage emotions | High | Low |
+| Ability to stay calm under pressure | High | Low |
+| Ability to be present in the moment | High | Low |
+| Ability to be mindful of thoughts and feelings | High | Low |
+| Ability to let go of negative thoughts and emotions | High | Low |
+| Ability to be compassionate and understanding | High | Low |
+| Ability to live in the present moment | High | Low |
+| Ability to experience joy and happiness | High | Low |
+| Ability to connect with others | High | Low |
+| Ability to find meaning and purpose in life | High | Low |
+| Ability to be creative and imaginative | High | Low |
+| Ability to solve problems effectively | High | Low |
+| Ability to make decisions wisely | High | Low |
+| Ability to be resilient in the face of challenges | High | Low |
+| Ability to maintain a positive outlook | High | Low |
+| Ability to experience gratitude | High | Low |
+| Ability to live a meaningful and fulfilling life | High | Low |
+
+As you can see, there are many differences between a meditative mind and an untrained mind. A meditative mind is characterized by focus, awareness, calmness, clarity, openness, acceptance, compassion, creativity, imagination, problem-solving, decision-making, resilience, positive outlook, gratitude, and a sense of purpose. An untrained mind, on the other hand, is characterized by wandering attention, narrow awareness, reactivity, distraction, confusion, judgment, and a sense of purposelessness.
+
+Meditation can help you to develop a meditative mind. By practicing meditation, you can learn to focus your attention, be more aware of your thoughts and feelings, and accept your experiences without judgment. As you develop a meditative mind, you will experience greater peace, clarity, and purpose in your life.
+
 ## thich 12 interdependent origination
 
 Thich Nhat Hanh, the Vietnamese Zen Master and teacher, has written about the concept of the "12 links of interdependent origination" in Buddhist philosophy. This concept refers to a chain of causality that explains how suffering arises and how it can be overcome.

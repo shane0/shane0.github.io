@@ -71,6 +71,19 @@ graph TD;
 | Three Yanas | The three vehicles or paths in Buddhism: Hinayana, Mahayana, and Vajrayana |
 | Hinayana | The "lesser vehicle" of Buddhism, emphasizing individual liberation
 
+| Sutta | Type of Meditation |
+| --- | --- |
+| Anapanasati Sutta | Mindfulness of breath |
+| Satipatthana Sutta | Four foundations of mindfulness |
+| Metta Sutta | Loving-kindness |
+| Karaniya Metta Sutta | Loving-kindness |
+| Asubha Sutta | Contemplation of the unattractive |
+| Anattalakkhana Sutta | Contemplation of non-self |
+| Adittapariyaya Sutta | Contemplation of impermanence |
+| Bahiya Sutta | Contemplation of the external world |
+| Kayagatasati Sutta | Mindfulness of the body |
+| Dhammacakkappavattana Sutta | Turning the wheel of Dharma |
+
 ## what are the four noble truths?
 
 ```mermaid

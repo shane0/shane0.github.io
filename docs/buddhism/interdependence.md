@@ -13,6 +13,23 @@ tags:
 
 <iframe width="802" height="501" src="https://www.youtube.com/embed/7gCfZVXYOjQ" title="200818 Dependent Co-arising Right Now \ \ Thanissaro Bhikkhu \ \ Dhamma Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## pali
+
+| Number | Pali Term | English Translation           |
+| ------ | ---------| ------------------------------|
+| 1      | Avidya   | Ignorance                     |
+| 2      | Sankhara | Mental Formations             |
+| 3      | Vijnana  | Consciousness                 |
+| 4      | Nama-rupa| Name and Form                 |
+| 5      | Salayatana| Six Sense Bases               |
+| 6      | Sparsha  | Contact                       |
+| 7      | Vedana   | Feeling                       |
+| 8      | Trishna  | Craving                       |
+| 9      | Upadana  | Clinging                      |
+| 10     | Bhava    | Becoming                      |
+| 11     | Jati     | Birth                         |
+| 12     | Jara-marana | Aging and Death            |
+
 ## meditation
 
 - Find a comfortable position and close your eyes. Take a few deep breaths and relax your body.

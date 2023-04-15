@@ -10,7 +10,9 @@ tags:
 ![lint](https://github.com/shane0/shane0.github.io/actions/workflows/markdownlint.yml/badge.svg)
 ![tests](https://github.com/shane0/shane0.github.io/actions/workflows/run-tests.yml/badge.svg)
 
-!!! success "anapanasati meditation steps"
+## anapanasati
+
+!!! success "my daily meditation: anapanasati meditation"
     - this meditation uses the breath as a support
     - the book [How to Focus](#how-to-focus) is a good introduction to anapanasati
     - there are 16 steps divided in 4 layers: body, feeling, mind, all phenomena
@@ -73,6 +75,17 @@ signlessness -- contemplate signlessness  --> out_s
 aimlessness -- contemplate aimlessness  --> in_a
 aimlessness -- contemplate aimlessness  --> out_a
 ```
+
+## others
+
+| Technique          | Method                                        | Focus                            | Topic                                   |
+|--------------------|-----------------------------------------------|----------------------------------|-----------------------------------------|
+| Samatha            | Calming the mind through concentration         | One-pointedness, tranquility     | Developing concentration and focus     |
+| Vipassana          | Insight meditation, investigating reality      | Mindfulness, awareness           | Gaining insight and wisdom             |
+| Anapanasati        | Mindfulness of breathing                       | Breath awareness                 | Cultivating mindfulness and awareness  |
+| Satipathana        | Foundations of mindfulness                     | Body, sensations, mind, objects   | Developing mindfulness and awareness   |
+| Maranasati         | Mindfulness of death                            | Contemplation of death            | Overcoming fear and attachment to life |
+
 
 ## how to focus
 

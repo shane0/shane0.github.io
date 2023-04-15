@@ -538,3 +538,11 @@ They are listed in the Abhidhamma, the Theravada Buddhist philosophical text, as
 63. non-ignorance
 
 These mental factors can be seen as interdependent and can arise in any combination, either in wholesome or unwholesome ways, depending on the conditions and circumstances that prompt their arising.
+
+| Technique          | Method                                        | Focus                            | Topic                                   |
+|--------------------|-----------------------------------------------|----------------------------------|-----------------------------------------|
+| Samatha            | Calming the mind through concentration         | One-pointedness, tranquility     | Developing concentration and focus     |
+| Vipassana          | Insight meditation, investigating reality      | Mindfulness, awareness           | Gaining insight and wisdom             |
+| Anapanasati        | Mindfulness of breathing                       | Breath awareness                 | Cultivating mindfulness and awareness  |
+| Satipathana        | Foundations of mindfulness                     | Body, sensations, mind, objects   | Developing mindfulness and awareness   |
+| Maranasati         | Mindfulness of death                            | Contemplation of death            | Overcoming fear and attachment to life |

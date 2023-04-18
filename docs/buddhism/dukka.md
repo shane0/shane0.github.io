@@ -50,6 +50,26 @@ The four rivers of natural suffering, also known as the "four floods" or "four r
 
 These four rivers of natural suffering are seen as the fundamental causes of suffering in Buddhist teachings, and can be overcome through the cultivation of wisdom and the development of virtuous qualities such as compassion and altruism. By understanding and transcending these four rivers, one can experience a state of inner peace, happiness, and freedom from suffering.
 
+## fears
+
+| Fear | Description |
+| --- | --- |
+| Death | The fear of dying or the unknown that comes after death |
+| Failure | The fear of not succeeding or achieving one's goals |
+| Rejection | The fear of being disliked or not accepted by others |
+| Change | The fear of the unknown or the uncertainty that comes with change |
+| Loneliness | The fear of being alone or not having social connections |
+| Intimacy | The fear of being vulnerable and opening up to others |
+| Abandonment | The fear of being left behind or rejected by loved ones |
+| Humiliation | The fear of being embarrassed or publicly shamed |
+| Inadequacy | The fear of not being good enough or capable enough |
+| Loss of control | The fear of not being able to control one's environment or circumstances |
+| Pain | The fear of physical or emotional pain |
+| Uncertainty | The fear of the unknown or unexpected |
+| Disappointment | The fear of not meeting expectations or being let down |
+| Betrayal | The fear of being deceived or betrayed by someone |
+| Authority | The fear of being controlled or dominated by others |
+
 ## ego mind
 
 “We are giving away the mind that grasps,” Saljay Rinpoche said. “We let go of the mind that creates suffering. This is the ego-mind.”

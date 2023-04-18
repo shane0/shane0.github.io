@@ -88,7 +88,7 @@ the ephemeral nature of everything, particles, planets, life
 
 !!! warning "The world has created no living thing that it does not intend to destroy"
 
-- see [benefits of impermanence](buddhism/impermenence.md)
+- see [benefits of impermanence](../buddhism/impermenence.md)
 
 This statement could be interpreted as a bleak outlook on life and the world as a whole, suggesting that everything that exists is ultimately doomed to destruction. It might reflect a belief that the very act of creation leads to destruction, and that everything that is born is destined to die.
 

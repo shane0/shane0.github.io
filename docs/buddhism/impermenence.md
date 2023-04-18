@@ -31,7 +31,7 @@ The Sanskrit term for "everything is changing" is "Sarvam Anityam" (सर्व
 ## cormac
 
 > The world has created no living thing that it does not intend to destroy
->> [cormac mccarthy](../cormac.md)
+>> [cormac mccarthy](../books/cormac.md)
 
 Meditation on impermanence is a common practice in Buddhism, where it is recognized as one of the Three Universal Truths along with suffering and non-self.
 

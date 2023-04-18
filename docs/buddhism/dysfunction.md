@@ -8,8 +8,6 @@ tags:
 ---
 # labels and form
 
---8<-- "snippets/disappointment.md"
-
 ## labels
 
 - language is a double edged sword[^1]

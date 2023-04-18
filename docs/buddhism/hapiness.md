@@ -25,5 +25,3 @@ the Buddha teaches that craving and attachment are like a fire that burns within
     Bhikkhus, all is burning. And what is the all that is burning? The eye is burning, forms are burning, eye-consciousness is burning, eye-contact is burning, also whatever is felt as pleasant or painful or neither-painful-nor-pleasant that arises with eye-contact for its indispensable condition, that too is burning. Burning with what? Burning with the fire of lust, with the fire of hate, with the fire of delusion. I say it is burning with birth, aging and death, with sorrows, with lamentations, with pains, with griefs, with despairs.
 
 --8<-- "snippets/conclusions.md"
-
---8<-- "snippets/disappointment.md"

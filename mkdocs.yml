@@ -1,6 +1,7 @@
 site_name: shane0 meditation notes 
 dev_addr: "127.0.0.1:8001"
-repo_url: https://github.com/shane0/shane0.github.io
+repo_url: https://github.com/shane0/shane0.github.io 
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -67,3 +68,5 @@ plugins:
       # tags_file: tags.md
   - search
   - glightbox
+  - git-revision-date-localized:
+      enable_creation_date: true

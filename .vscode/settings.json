@@ -1,3 +1,11 @@
 {
-  "cmake.configureOnOpen": false
+  "cmake.configureOnOpen": false,
+  "spellchecker.ignoreWordsList": [
+    "saṃsāric",
+    "ucontrived",
+    "uncontrived",
+    "mind'",
+    "wonderstruck",
+    "rigpa"
+  ]
 }

@@ -58,9 +58,8 @@ markdown_extensions:
   - abbr
   - footnotes
   - def_list
-
-
-
+  - toc:
+      permalink: true
 
 plugins:
   - tags:

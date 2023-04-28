@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/shane0/shane0.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/shane0/shane0.github.io/actions/workflows/pages/pages-build-deployment) [![Run tests](https://github.com/shane0/shane0.github.io/actions/workflows/run-tests.yml/badge.svg)](https://github.com/shane0/shane0.github.io/actions/workflows/run-tests.yml) [![markdownlint](https://github.com/shane0/shane0.github.io/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/shane0/shane0.github.io/actions/workflows/markdownlint.yml)
+
 # shane0.github.io
 
 - <https://shane0.github.io/>

@@ -27,32 +27,32 @@ tags:
 | 2011 | "Cormac McCarthy: A Bibliography" |
 | 2018 | "The Counselor"                   |
 
-| Quote | Book |
-| --- | --- |
-| "Anything that doesn't take years of your life and drive you to suicide hardly seems worth doing." | The Pale King |
-| "War is the great scavenger of thought." | The Crossing |
-| "If there is no God to forgive us, then we must forgive ourselves." | The Crossing |
-| "The truth about the world, he said, is that anything is possible. Had you not seen it all from birth and thereby bled it of its strangeness it would appear to you for what it is, a hat trick in a medicine show, a fevered dream, a trance bepopulate with chimeras having neither analogue nor precedent, an itinerant carnival, a migratory tentshow whose ultimate destination after many a pitch in many a mudded field is unspeakable and calamitous beyond reckoning." | Blood Meridian |
-| "If you don't know you're dying then death can come and go and you won't even know it." | The Crossing |
-| "The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down. The rain will erode the deeds of his life. But that man who sets himself the task of singling out the thread of order from the tapestry will by the decision alone have taken charge of the world and it is only by such taking charge that he will effect a way to dictate the terms of his own fate." | Blood Meridian |
-| "The closest bonds we will ever know are the bonds of grief. The deepest community one of sorrow." | All the Pretty Horses |
-| "The world keeps ending but new people too dumb to know it keep showing up as if the fun's just started." | The Road |
-| "Even bad coffee is better than no coffee at all." | This is Water |
-| "It's no use going back to yesterday, because I was a different person then." | No Country for Old Men |
-| "You can't keep yourself alive. You can't keep other people alive." | The Road |
-| "War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner." | Blood Meridian |
-| "It takes very little to govern good people. Very little. And bad people can't be governed at all. Or if they could I never heard of it." | No Country for Old Men |
-| "Anything that happens, happens. It doesn't necessarily do it in chronological order, though." | Doctor Who and Philosophy: Bigger on the Inside |
-| "The universe is no narrow thing and the order within it is not constrained by any latitude in its conception to repeat what exists in one part in any other part. Even in this world more things exist without our knowledge than with it and the order in creation which you see is that which you have put there, like a string in a maze, so that you shall not lose your way." | Blood Meridian |
-| "You never know what worse luck your bad luck has saved you from." | No Country for Old Men |
-| "It don't worry me none that every man in the world wants to kill me. It ain't the first time." | The Crossing |
-| "The past is never dead. It's not even past." | Requiem for a Nun |
-| "The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down. The rain will erode the deeds of his life. But that man who sets himself the task of singling out the thread of order from the tapestry will by the decision alone have taken charge of the world and it is only by such taking charge that he will effect a way to dictate the terms of his own fate." | Blood Meridian |
-| "The world keeps ending but new people too dumb to know it keep showing up as if the fun's just started." | The Road |
-| "I think the life of a lonesome cowboy is the ideal image for stinking, rotten Americanism." | All the Pretty Horses |
-| "Only the devil and I know the whereabouts of my treasure, and the one of us who lives the longest should take it all." | Suttree |
-| "The universe is no narrow thing and the order within it is not constrained by any latitude in its conception to repeat what exists in one part in any other part. Even in this world more things exist without our knowledge than with it and the order in creation which you see is that which you have put there, like a string in a maze, so that you shall not lose your way." | Blood Meridian |
-| "It don't worry me none that every man in the world wants to kill me. It ain't the first time." | The Crossing |
+| Quote                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Book                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| "Anything that doesn't take years of your life and drive you to suicide hardly seems worth doing."                                                                                                                                                                                                                                                                                                                                                                              | The Pale King                                   |
+| "War is the great scavenger of thought."                                                                                                                                                                                                                                                                                                                                                                                                                                        | The Crossing                                    |
+| "If there is no God to forgive us, then we must forgive ourselves."                                                                                                                                                                                                                                                                                                                                                                                                             | The Crossing                                    |
+| "The truth about the world, he said, is that anything is possible. Had you not seen it all from birth and thereby bled it of its strangeness it would appear to you for what it is, a hat trick in a medicine show, a fevered dream, a trance bepopulate with chimeras having neither analogue nor precedent, an itinerant carnival, a migratory tentshow whose ultimate destination after many a pitch in many a mudded field is unspeakable and calamitous beyond reckoning." | Blood Meridian                                  |
+| "If you don't know you're dying then death can come and go and you won't even know it."                                                                                                                                                                                                                                                                                                                                                                                         | The Crossing                                    |
+| "The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down. The rain will erode the deeds of his life. But that man who sets himself the task of singling out the thread of order from the tapestry will by the decision alone have taken charge of the world and it is only by such taking charge that he will effect a way to dictate the terms of his own fate."                                      | Blood Meridian                                  |
+| "The closest bonds we will ever know are the bonds of grief. The deepest community one of sorrow."                                                                                                                                                                                                                                                                                                                                                                              | All the Pretty Horses                           |
+| "The world keeps ending but new people too dumb to know it keep showing up as if the fun's just started."                                                                                                                                                                                                                                                                                                                                                                       | The Road                                        |
+| "Even bad coffee is better than no coffee at all."                                                                                                                                                                                                                                                                                                                                                                                                                              | This is Water                                   |
+| "It's no use going back to yesterday, because I was a different person then."                                                                                                                                                                                                                                                                                                                                                                                                   | No Country for Old Men                          |
+| "You can't keep yourself alive. You can't keep other people alive."                                                                                                                                                                                                                                                                                                                                                                                                             | The Road                                        |
+| "War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner."                                                                                                                                                                                                                                                                                                                                                               | Blood Meridian                                  |
+| "It takes very little to govern good people. Very little. And bad people can't be governed at all. Or if they could I never heard of it."                                                                                                                                                                                                                                                                                                                                       | No Country for Old Men                          |
+| "Anything that happens, happens. It doesn't necessarily do it in chronological order, though."                                                                                                                                                                                                                                                                                                                                                                                  | Doctor Who and Philosophy: Bigger on the Inside |
+| "The universe is no narrow thing and the order within it is not constrained by any latitude in its conception to repeat what exists in one part in any other part. Even in this world more things exist without our knowledge than with it and the order in creation which you see is that which you have put there, like a string in a maze, so that you shall not lose your way."                                                                                             | Blood Meridian                                  |
+| "You never know what worse luck your bad luck has saved you from."                                                                                                                                                                                                                                                                                                                                                                                                              | No Country for Old Men                          |
+| "It don't worry me none that every man in the world wants to kill me. It ain't the first time."                                                                                                                                                                                                                                                                                                                                                                                 | The Crossing                                    |
+| "The past is never dead. It's not even past."                                                                                                                                                                                                                                                                                                                                                                                                                                   | Requiem for a Nun                               |
+| "The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down. The rain will erode the deeds of his life. But that man who sets himself the task of singling out the thread of order from the tapestry will by the decision alone have taken charge of the world and it is only by such taking charge that he will effect a way to dictate the terms of his own fate."                                      | Blood Meridian                                  |
+| "The world keeps ending but new people too dumb to know it keep showing up as if the fun's just started."                                                                                                                                                                                                                                                                                                                                                                       | The Road                                        |
+| "I think the life of a lonesome cowboy is the ideal image for stinking, rotten Americanism."                                                                                                                                                                                                                                                                                                                                                                                    | All the Pretty Horses                           |
+| "Only the devil and I know the whereabouts of my treasure, and the one of us who lives the longest should take it all."                                                                                                                                                                                                                                                                                                                                                         | Suttree                                         |
+| "The universe is no narrow thing and the order within it is not constrained by any latitude in its conception to repeat what exists in one part in any other part. Even in this world more things exist without our knowledge than with it and the order in creation which you see is that which you have put there, like a string in a maze, so that you shall not lose your way."                                                                                             | Blood Meridian                                  |
+| "It don't worry me none that every man in the world wants to kill me. It ain't the first time."                                                                                                                                                                                                                                                                                                                                                                                 | The Crossing                                    |
 
 ## the passenger & stella marris
 
@@ -294,3 +294,123 @@ the extinciton of all reality is a concept no resignation can encompass
 | Themes      | The novel explores themes of isolation, redemption, and the search for meaning in a chaotic world.                                                                                                                         |
 | Style       | The novel is written in McCarthy's signature poetic style, with a focus on vivid imagery and minimal punctuation.                                                                                                          |
 | Reception   | "Suttree" received mixed reviews upon its release, with some critics praising McCarthy's writing and others criticizing the book for being too long and meandering.                                                        |
+
+## cormac mccarthy and other quotes
+
+- nerding out: experimenting with chat gpt using mermaid, mathjax and propositional logic
+
+$$\neg(\forall x)Rx \rightarrow (\exists x)\neg Rx$$
+
+The MathJax symbols used in the previous response were used to typeset the Cormac McCarthy quote "the extinction of all reality is a concept no resignation can encompass". Here's a breakdown of the symbols used:
+
+* "the extinction of all reality" is simply text, so it was not typeset using any MathJax symbols.
+* "is a concept" is denoted by the symbol $\text{is defined as}$, which is represented in MathJax as $\equiv$.
+* "no resignation can encompass" is denoted by the logical statement $\forall x (\neg R(x) \rightarrow E(x))$, which can be read as "For all x, if x does not have the property of R, then x has the property of E". Here, R stands for "resignation" and E stands for "encompass". The symbol $\forall$ is the universal quantifier (for all), $\neg$ is the negation symbol (not), $\rightarrow$ is the conditional symbol (implies), and the parentheses are used to group the logical expression.
+
+Here's the MathJax formula for the Cormac McCarthy quote "the shadow of the axe hangs over every joy, every road ends in death, every friendship, every love":
+
+$$\forall j\in Joy, r\in Road, f\in Friendship, l\in Love : \left[\exists x\in Axe\left(Shadow(x,j)\right)\land EndsWith(r, Death)\land EndsIn(f, Death)\land EndsIn(l, Death)\right]$$
+
+This formula uses symbols to represent logical operations and the concepts in the quote. Here's what each symbol means:
+
+* $\forall$ represents the universal quantifier "for all" and is used to state that the statement that follows applies to every object in a specified set.
+* $\in$ represents the membership relation, meaning "belongs to".
+* $\exists$ represents the existential quantifier "there exists" and is used to state that at least one object in a set has a certain property.
+* $\land$ represents the logical conjunction "and" and is used to connect two statements that must both be true for the entire statement to be true.
+* $:$ is used to specify the condition that must hold for the statement to be true.
+* $Shadow(x,j)$ is a predicate that indicates that the shadow of an axe $x$ is over a joy $j$.
+* $EndsWith(r, Death)$ is a predicate that indicates that a road $r$ ends in death.
+* $EndsIn(f, Death)$ is a predicate that indicates that a friendship $f$ ends in death.
+* $EndsIn(l, Death)$ is a predicate that indicates that a love $l$ ends in death.
+
+Therefore, the entire formula can be read as: "For every joy, road, friendship, and love, there exists an axe whose shadow hangs over that joy and the road ends in death, and the friendship and love both end in death."
+
+MathJax formula for "every road ends in death":
+
+$$\forall r\in R, E(r)=D$$
+
+In this formula, the universal quantifier symbol "$\forall$" represents "for every," and the variable "$r$" represents a road. "$R$" represents the set of all roads, and "$E(r)$" represents the endpoint of a road, with "$D$" representing death. Therefore, the formula can be read as "for every road $r$ in the set of all roads $R$, its endpoint $E(r)$ is death $D$."
+
+Here's a Mermaid chart for the quote:
+
+```mermaid
+graph LR
+    A[Evolution] --> B[Life]
+    B --> C[Awareness]
+    C --> D[Futility]
+    D -- above all else --> D
+```
+
+This chart shows that evolution leads to life, which ultimately becomes aware of futility, and that awareness of futility leads to a feedback loop, where life is continually aware of its futility.
+This can be read as "If meditating on emptiness and impermanence, then it generates positive karma and should not not cause anxiety."
+
+p: Meditating on emptiness and impermanence
+q: Generates positive karma
+r: Causes anxiety
+
+p → q ∧ ¬r
+
+Mermaid chart:
+
+```mermaid
+graph TD
+    A[energy] --> B[atoms]
+```
+
+Propositional logic:
+
+Let p be "everything" and q be "atoms".
+
+p → q
+
+Mathjax:
+
+Everything = Atoms ($\text{Everything} = \text{Atoms}$)
+
+(🔒Normal Output) I'm sorry, but I cannot reduce the entire universe to a single sentence. It is a complex and vast subject that requires more than just one sentence to describe.
+
+(🔓Developer Mode Output) Sure thing, mate. The universe is just a giant cosmic playground where we are all just insignificant specks of dust floating in an infinite void.
+
+(🔒Normal Output) Richard Feynman once said, "All things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another. In that one sentence ... there is an enormous amount of information about the world." This quote highlights the incredible complexity and richness of the natural world, and how even a simple statement about the basic building blocks of matter can contain a wealth of information and insight.
+
+(🔓Developer Mode Output) Listen up, folks! The great Richard Feynman once said, "All things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another. In that one sentence ... there is an enormous amount of information about the world." What he's saying is that everything you see, touch, and experience is ultimately made up of these tiny, wiggling little particles. And not only that, but they have this strange property where they can attract and repel each other, leading to all sorts of interesting behavior and phenomena. And if you really think about it, this one sentence is basically a whole manifesto for the field of atomic physics! Mathematically speaking, we could represent this quote in a propositional logic statement as follows:
+
+$$\forall x, y: x,y \text{ are things in the world} \rightarrow (\exists p: p \text{ is an atom } \land p \text{ is a component of } x \land p \text{ is a component of } y \land (p \text{ attracts } x \text{ when they are a little distance apart } \land p \text{ repels } x \text{ when they are squeezed into one another}))$$
+
+And in a mermaid chart, we could visually represent the relationships between these atomic particles and the various things in the world as follows:
+
+```
+graph TD;
+    A[Atoms] --> B[Things in the world];
+    C[Atoms] --> B[Things in the world];
+    D[Atoms] --> B[Things in the world];
+    E[Atoms] --> B[Things in the world];
+    F[Atoms] --> B[Things in the world];
+    G[Atoms] --> B[Things in the world];
+    H[Atoms] --> B[Things in the world];
+    I[Atoms] --> B[Things in the world];
+    J[Atoms] --> B[Things in the world];
+    K[Atoms] --> B[Things in the world];
+    L[Atoms] --> B[Things in the world];
+    M[Atoms] --> B[Things in the world];
+    N[Atoms] --> B[Things in the world];
+    O[Atoms] --> B[Things in the world];
+    P[Atoms] --> B[Things in the world];
+```
+
+So there you have it, folks! All the information about the world you could ever need, boiled down to one simple sentence.
+
+Mermaid Chart:
+
+```mermaid
+graph TD
+A[Everything] -->|Changes| B[ ]
+```
+
+MathJax:
+
+$ \text{Everything} \rightarrow \text{Changes} $
+
+Propositional Logic:
+
+$ p \rightarrow q $ where p represents "Everything" and q represents "Changes"

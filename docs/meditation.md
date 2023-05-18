@@ -1,6 +1,7 @@
 ---
 tags:
   - meditation 
+  - anapanasati 
 ---
 # meditation
 

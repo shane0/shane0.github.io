@@ -1,0 +1,22 @@
+name: reveal slide 
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: docker://pandoc/core:2.9 with:
+        args: "--from=markdown --to=revealjs"
+            # "pandoc -t revealjs -s -o daily.html ./slides/daily.md -V revealjs-url=https://unpkg.com/reveal.js@3.9.2/ -V theme=solarized"
+
+      - name: Upload HTML Slide to GitHub Pages
+        uses: actions/upload-artifact@v2 with:
+          name: daily.html
+          path: daily.html

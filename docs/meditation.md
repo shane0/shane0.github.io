@@ -10,6 +10,7 @@ tags:
     - [plum village](https://plumvillage.org/)
     - [dhamma talks](https://www.dhammatalks.org/)
     - [lotsowahouse](https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/key-points-on-trekcho)
+    - [daily slide](../daily.html)
 
 anapanasati (अनापानसति) is a compound word made up of these three parts
 
@@ -157,3 +158,5 @@ style upeksha fill: lightyellow
 | Compassion          | Karuna   |
 | Sympathetic Joy     | Mudita   |
 | Equanimity          | Upeksha  |
+
+--8<-- "snippets/meditative.md"

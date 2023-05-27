@@ -11,6 +11,7 @@ tags:
     - [dhamma talks](https://www.dhammatalks.org/)
     - [lotsowahouse](https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/key-points-on-trekcho)
     - [daily slide](../daily.html)
+    - [noble truths slide](../noble.html)
 
 anapanasati (अनापानसति) is a compound word made up of these three parts
 

@@ -32,11 +32,94 @@ The 16 steps of Anapanasati meditation in the Theravada tradition are a gradual 
 1. Developing CONCENTRATION (samadhiganupassana)
 1. Realizing [nibbana](nibanna.md) (nibbananupassana)
 
-These 16 steps are meant to be followed gradually, over time, as the practitioner develops their meditation practice. It is important to maintain a consistent and persistent practice, and to seek guidance from a qualified teacher or meditation center if needed. Each step builds upon the previous one, leading to deeper levels of mindfulness, concentration, and insight, and ultimately to the realization of nibbana.
+### anapana
 
-## bard version
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| a- | na | - | Not, without |
+| | apa | - | Away, off |
+| | ana | - | Breathing, inhaling |
+| | pana | - | Drinking, consuming |
 
-The 16 steps of Anapanasati are:
+### kayanupassana
+
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| | kaya | - | Body |
+| anu- | passana | - | Observation, contemplation |
+
+### vedanapassana
+
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| | vedana | - | Sensation, feeling |
+| | passana | - | Observation, contemplation |
+
+### cittanupassana
+
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| | citta | - | Mind, consciousness |
+| | anu- | passana | - | Observation, contemplation |
+
+### viraganupassana
+
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| | viraga | - | Dispassion, non-attachment |
+| | anu- | passana | - | Observation, contemplation |
+
+The word "viraganupassana" in Sanskrit can be broken down into the root word "viraga," which means "dispassion" or "non-attachment," the prefix "anu-" indicating "observation" or "following," and the word "passana" signifying "contemplation" or "observation."
+
+The combined meaning of "viraganupassana" refers to the practice of "contemplation of non-attachment" or "mindfulness of dispassion." It involves observing and contemplating the arising and passing away of desires, attachments, and clinging within oneself, cultivating a state of non-attachment and letting go. This practice is a significant aspect of the Four Foundations of Mindfulness (Satipatthana) in Buddhism, aiding in the development of mindfulness, insight, and liberation from suffering.
+
+### upekkanupassana
+
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| | upekkha | - | Equanimity |
+| | anu- | passana | - | Observation, contemplation |
+
+The word "upekkanupassana" in Sanskrit can be broken down into the root word "upekkha," which means "equanimity," the prefix "anu-" indicating "observation" or "following," and the word "passana" signifying "contemplation" or "observation."
+
+The combined meaning of "upekkanupassana" refers to the practice of "contemplation of equanimity" or "mindfulness of impartiality." It involves observing and contemplating the quality of equanimity in one's mental and emotional states, cultivating a balanced and non-reactive stance towards experiences. This practice is an integral part of the Four Foundations of Mindfulness (Satipatthana) in Buddhism, supporting the development of mindfulness, insight, and a deep sense of equanimity.
+
+### viraganupassana
+
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| | viraga | - | Dispassion, non-attachment |
+| | anu- | passana | - | Observation, contemplation |
+
+### marananupassana
+
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| | marana | - | Death |
+| | anu- | passana | - | Observation, contemplation |
+
+### annicanupassana
+
+| Prefix | Root Word | Suffix | Meaning |
+| --- | --- | --- | --- |
+| | anicca | - | Impermanence |
+| | anu- | passana | - | Observation, contemplation |
+
+### dukkanupassana
+
+### anattanupassana
+
+### viraganupassana
+
+### patisantharanupassana
+
+### sati-sampajanna
+
+### samadhiganupassana
+
+### nibanna.md
+
+## another version
 
 - breathing in (Sanskrit: āyāmi)
 - breathing out (Sanskrit: evam)
@@ -54,8 +137,6 @@ The 16 steps of Anapanasati are:
 - focusing on relinquishment (Sanskrit: nirodha)
 - focusing on the calming of all fabrication (Sanskrit: samādhi)
 - focusing on the attainment of knowledge (Sanskrit: prajñā)
-
-The Anapanasati Sutta is a discourse on the practice of mindfulness of breathing. The 16 steps of Anapanasati are a guide to following this practice.
 
 ## what traditions practice anapanasati
 
@@ -130,4 +211,4 @@ style kayanupassana fill: lightblue
 style anapanasati fill: pink
 ```
 
---8<-- "https://gist.githubusercontent.com/shane0/a9a62b532f0bbd0e091ceaa63cb73b0e/raw/788903a4a2362667a219cfdf352dbacf70eb29c2/anapanasati.md"
+--8<-- "<https://gist.githubusercontent.com/shane0/a9a62b532f0bbd0e091ceaa63cb73b0e/raw/788903a4a2362667a219cfdf352dbacf70eb29c2/anapanasati.md>"

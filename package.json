@@ -8,7 +8,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "behave"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shane0/shane0.github.io/issues"
   },
-  "homepage": "https://github.com/shane0/shane0.github.io#readme"
+  "homepage": "https://github.com/shane0/shane0.github.io#readme",
+  "dependencies": {
+    "release-please": "^15.11.0"
+  }
 }

@@ -8,6 +8,22 @@
 mkdocs gh-deploy
 ```
 
+## 2023-07-02
+
+- setup release please
+- install cli
+
+```sh
+npm i release-please -g
+```
+
+- add action
+- <https://github.com/marketplace/actions/release-please-action>
+
+```sh
+touch .github/workflows/release-please.ymladd action
+```
+
 ## 2023-02-03
 
 - most of this content is my conversations with chatgpt

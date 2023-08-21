@@ -13,17 +13,6 @@ tags:
     - [daily slide](../daily.html)
     - [noble truths slide](../noble.html)
 
-anapanasati (अनापानसति) is a compound word made up of these three parts
-
-* "ana" (अन) means "in-breath"
-* "apana" (अपान) means "out-breath"
-* "sati" (सति) means "mindfulness" or "awareness"
-
-it refers to the buddhist practice of mindfulness meditation focused on the breath, specifically the sensations of the in-breath and out-breath
-
-in this meditation practice, the meditator cultivates awareness of their breath as it naturally occurs, without trying to control or manipulate it
-
-the aim of this practice is to develop mindfulness, concentration, and insight into the nature of the mind and body
 
 ## anapanasati sanskrit table
 
@@ -45,6 +34,45 @@ patisantharanupassana | Cultivating detachment
 satisampajanna        | Establishing MINDFULNESS as a habit
 samadhiganupassana    | Developing CONCENTRATION
 nibbananupassana      | Realizing nibanna
+
+
+| Attribute | Definition |
+|---|---|
+| **Awareness** | The state of being conscious or aware of and responsive to one's surroundings. |
+| **Intentionality** | The ability to direct one's attention to something. |
+| **Selectivity** | The ability to focus on one thing and ignore others. |
+| **Subjectivity** | The experience of the world from a particular point of view. |
+| **Unity** | The experience of the world as a coherent whole. |
+| **Transience** | The awareness that things are constantly changing. |
+| **Emotion** | The experience of feelings such as happiness, sadness, anger, and fear. |
+| **Self-awareness** | The ability to recognize oneself as a separate individual. |
+| **Free will** | The ability to make choices about one's actions. |
+
+|               | Meditative Mind | Untrained Mind |
+| ------------- | --------------- | -------------- |
+| Attention     | Focused         | Distracted     |
+| Awareness     | Expanded        | Limited        |
+| Thoughts      | Observing       | Identifying    |
+| Emotions      | Regulating      | Reactive       |
+| Perception    | Clear           | Clouded        |
+| Judgment      | Non-judgmental  | Judgmental     |
+| Response      | Intentional     | Automatic      |
+| Concentration | Developed       | Scattered      |
+| Insight       | Cultivated      | Absent         |
+| Clarity       | Increased       | Decreased      |
+| Equanimity    | Present         | Absent         |
+
+anapanasati (अनापानसति) is a compound word made up of these three parts
+
+* "ana" (अन) means "in-breath"
+* "apana" (अपान) means "out-breath"
+* "sati" (सति) means "mindfulness" or "awareness"
+
+it refers to the buddhist practice of mindfulness meditation focused on the breath, specifically the sensations of the in-breath and out-breath
+
+in this meditation practice, the meditator cultivates awareness of their breath as it naturally occurs, without trying to control or manipulate it
+
+the aim of this practice is to develop mindfulness, concentration, and insight into the nature of the mind and body
 
 ## bard
 

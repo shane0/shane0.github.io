@@ -11,6 +11,11 @@ tags:
     - if it's a big project I add python cookiecutter 
     - if it's a web or mobile app I usually use django, react and postgres
 
+app                                    | local                               | remote
+---------------------------------------|-------------------------------------|-----------------------------------------------------
+[tw](https://shane0.github.io/tw/)     | n/a                                 | gh pages requires api key other option is tiddlyhost
+[mkdocs-gh](https://shane0.github.io/) | vscode is slow mkdocs ok | online editing does not deploy?
+
 ## todocli
 
 ```text
@@ -20,6 +25,8 @@ tags:
 ```text
 -8<- "todocli/done.txt"
 ```
+
+----
 
 ## diddling around
 

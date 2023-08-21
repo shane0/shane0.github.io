@@ -13,7 +13,6 @@ tags:
     - [daily slide](../daily.html)
     - [noble truths slide](../noble.html)
 
-
 ## anapanasati sanskrit table
 
 sanskrit              | topic
@@ -34,7 +33,6 @@ patisantharanupassana | Cultivating detachment
 satisampajanna        | Establishing MINDFULNESS as a habit
 samadhiganupassana    | Developing CONCENTRATION
 nibbananupassana      | Realizing nibanna
-
 
 | Attribute | Definition |
 |---|---|

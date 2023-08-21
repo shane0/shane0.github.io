@@ -25,6 +25,29 @@ in this meditation practice, the meditator cultivates awareness of their breath 
 
 the aim of this practice is to develop mindfulness, concentration, and insight into the nature of the mind and body
 
+## anapanasati sanskrit table
+
+sanskrit              | topic
+----------------------|------------------------------------
+anapana               | MINDFULNESS of breathing
+kayanupassana         | MINDFULNESS of the whole body
+vedananupassana       | MINDFULNESS of bodily sensations
+cittanupassana        | MINDFULNESS of ental states
+viraganupassana       | Abandoning craving and attachment
+upekkhanupassana      | Cultivating a state of equanimity
+marananupassana       | MINDFULNESS of death
+anapanasati           | MINDFULNESS of breathing in and out
+aniccanupassana       | Awareness of impermanence emptiness
+dukkhanupassana       | Awareness of suffering dukka
+anattanupassana       | Awareness of non-self
+viraganupassana       | Developing dispassion
+patisantharanupassana | Cultivating detachment
+satisampajanna        | Establishing MINDFULNESS as a habit
+samadhiganupassana    | Developing CONCENTRATION
+nibbananupassana      | Realizing nibanna
+
+## bard
+
 1. MINDFULNESS of breathing in & out (anapana)
 1. MINDFULNESS of breathing in & out all the way through (anapana)
 1. MINDFULNESS of the whole body (kayanupassana)

@@ -13,6 +13,29 @@ tags:
 
 ## what are the 16 steps for anapanasati?
 
+## anapanasati sanskrit table
+
+sanskrit              | topic
+----------------------|------------------------------------
+anapana               | MINDFULNESS of breathing
+kayanupassana         | MINDFULNESS of the whole body
+vedananupassana       | MINDFULNESS of bodily sensations
+cittanupassana        | MINDFULNESS of ental states
+viraganupassana       | Abandoning craving and attachment
+upekkhanupassana      | Cultivating a state of equanimity
+marananupassana       | MINDFULNESS of death
+anapanasati           | MINDFULNESS of breathing in and out
+aniccanupassana       | Awareness of impermanence emptiness
+dukkhanupassana       | Awareness of suffering dukka
+anattanupassana       | Awareness of non-self
+viraganupassana       | Developing dispassion
+patisantharanupassana | Cultivating detachment
+satisampajanna        | Establishing MINDFULNESS as a habit
+samadhiganupassana    | Developing CONCENTRATION
+nibbananupassana      | Realizing nibanna
+
+## bard
+
 The 16 steps of Anapanasati meditation in the Theravada tradition are a gradual progression that build upon each other, leading to greater levels of mindfulness, concentration, and insight. Here is a general outline of the 16 steps of Anapanasati meditation:
 
 1. MINDFULNESS of breathing (anapana)
@@ -34,39 +57,39 @@ The 16 steps of Anapanasati meditation in the Theravada tradition are a gradual 
 
 ### anapana
 
-| Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| a- | na | - | Not, without |
-| | apa | - | Away, off |
-| | ana | - | Breathing, inhaling |
-| | pana | - | Drinking, consuming |
+| Prefix | Root Word | Suffix | Meaning             |
+|--------|-----------|--------|---------------------|
+| a-     | na        | -      | Not, without        |
+|        | apa       | -      | Away, off           |
+|        | ana       | -      | Breathing, inhaling |
+|        | pana      | -      | Drinking, consuming |
 
 ### kayanupassana
 
-| Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| | kaya | - | Body |
-| anu- | passana | - | Observation, contemplation |
+| Prefix | Root Word | Suffix | Meaning                    |
+|--------|-----------|--------|----------------------------|
+|        | kaya      | -      | Body                       |
+| anu-   | passana   | -      | Observation, contemplation |
 
 ### vedanapassana
 
-| Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| | vedana | - | Sensation, feeling |
-| | passana | - | Observation, contemplation |
+| Prefix | Root Word | Suffix | Meaning                    |
+|--------|-----------|--------|----------------------------|
+|        | vedana    | -      | Sensation, feeling         |
+|        | passana   | -      | Observation, contemplation |
 
 ### cittanupassana
 
-| Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| | citta | - | Mind, consciousness |
+| Prefix | Root Word | Suffix | Meaning             |
+|--------|-----------|--------|---------------------|
+|        | citta     | -      | Mind, consciousness |
 | | anu- | passana | - | Observation, contemplation |
 
 ### viraganupassana
 
-| Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| | viraga | - | Dispassion, non-attachment |
+| Prefix | Root Word | Suffix | Meaning                    |
+|--------|-----------|--------|----------------------------|
+|        | viraga    | -      | Dispassion, non-attachment |
 | | anu- | passana | - | Observation, contemplation |
 
 The word "viraganupassana" in Sanskrit can be broken down into the root word "viraga," which means "dispassion" or "non-attachment," the prefix "anu-" indicating "observation" or "following," and the word "passana" signifying "contemplation" or "observation."
@@ -75,9 +98,9 @@ The combined meaning of "viraganupassana" refers to the practice of "contemplati
 
 ### upekkanupassana
 
-| Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| | upekkha | - | Equanimity |
+| Prefix | Root Word | Suffix | Meaning    |
+|--------|-----------|--------|------------|
+|        | upekkha   | -      | Equanimity |
 | | anu- | passana | - | Observation, contemplation |
 
 The word "upekkanupassana" in Sanskrit can be broken down into the root word "upekkha," which means "equanimity," the prefix "anu-" indicating "observation" or "following," and the word "passana" signifying "contemplation" or "observation."
@@ -86,23 +109,23 @@ The combined meaning of "upekkanupassana" refers to the practice of "contemplati
 
 ### viraganupassana
 
-| Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| | viraga | - | Dispassion, non-attachment |
+| Prefix | Root Word | Suffix | Meaning                    |
+|--------|-----------|--------|----------------------------|
+|        | viraga    | -      | Dispassion, non-attachment |
 | | anu- | passana | - | Observation, contemplation |
 
 ### marananupassana
 
 | Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| | marana | - | Death |
+|--------|-----------|--------|---------|
+|        | marana    | -      | Death   |
 | | anu- | passana | - | Observation, contemplation |
 
 ### annicanupassana
 
-| Prefix | Root Word | Suffix | Meaning |
-| --- | --- | --- | --- |
-| | anicca | - | Impermanence |
+| Prefix | Root Word | Suffix | Meaning      |
+|--------|-----------|--------|--------------|
+|        | anicca    | -      | Impermanence |
 | | anu- | passana | - | Observation, contemplation |
 
 ### dukkanupassana

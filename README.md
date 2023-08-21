@@ -3,6 +3,7 @@
 # shane0.github.io
 
 - <https://shane0.github.io/>
+- `./push.sh` deploys using:
 
 ```sh
 mkdocs gh-deploy

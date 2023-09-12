@@ -1,1 +1,2 @@
 (A) cleanup drafts/
+(A) install lexi and fix their missing docs/

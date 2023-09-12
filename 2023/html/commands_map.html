@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bash Command Selector</title>
+  </head>
+  <body>
+    <h1>Bash Command Selector</h1>
+    <select id="command-select">
+      <option value="">Select a command...</option>
+    </select>
+    <br /><br />
+    <button id="copy-button" disabled>Copy to Clipboard</button>
+    <script>
+      // Define the available commands
+      const commands = {
+        "List Files": "ls",
+        "Change Directory": "cd",
+        "Make Directory": "mkdir",
+        "Remove Directory": "rmdir",
+        Copy: "cp",
+        Move: "mv",
+        Remove: "rm",
+        Find: "find",
+        Grep: "grep",
+        SSH: "ssh",
+      };
+
+      // Add the commands to the select box
+      const commandSelect = document.getElementById("command-select");
+      for (const [commandName, command] of Object.entries(commands)) {
+        const option = document.createElement("option");
+        option.value = command;
+        option.text = `${commandName} (${command})`;
+        commandSelect.appendChild(option);
+      }
+
+      // Add a listener to the select box to enable the copy button when a command is selected
+      commandSelect.addEventListener("change", () => {
+        const copyButton = document.getElementById("copy-button");
+        copyButton.disabled = commandSelect.value === "";
+      });
+
+      // Add a listener to the copy button to copy the selected command to the clipboard
+      const copyButton = document.getElementById("copy-button");
+      copyButton.addEventListener("click", () => {
+        const command = commandSelect.value;
+        if (command !== "") {
+          navigator.clipboard.writeText(command);
+        }
+      });
+    </script>
+  </body>
+</html>

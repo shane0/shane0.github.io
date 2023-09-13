@@ -13,6 +13,12 @@ tags:
     - [daily slide](../daily.html)
     - [noble truths slide](../noble.html)
 
+----
+
+## linji chan
+
+- just started, using a tiddly wiki for now
+
 ## anapanasati sanskrit table
 
 sanskrit              | topic

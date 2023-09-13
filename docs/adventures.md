@@ -12,6 +12,8 @@ tags:
     - sometimes I go on bicycle or motorcycle tours
     - I do have a jeep wrangler, but I haven't taken it on a long offroad trip, someday
 
+----
+
 <iframe width="835" height="470" src="https://www.youtube.com/embed/8dthxf4fah8" title="Red bridge campground" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/Xb4m17U4lHk" title="Pct section j 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

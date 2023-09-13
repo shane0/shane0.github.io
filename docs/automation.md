@@ -11,10 +11,16 @@ tags:
     - if it's a big project I add python cookiecutter 
     - if it's a web or mobile app I usually use django, react and postgres
 
-app                                    | local                               | remote
----------------------------------------|-------------------------------------|-----------------------------------------------------
-[tw](https://shane0.github.io/tw/)     | n/a                                 | gh pages requires api key other option is tiddlyhost
-[mkdocs-gh](https://shane0.github.io/) | vscode is slow mkdocs ok | online editing does not deploy?
+----
+
+app                                                 | local                           | remote
+----------------------------------------------------|---------------------------------|--------------------------------------------------------------
+[mkdocs-gh](https://shane0.github.io/)              | vscode is slow mkdocs ok        | online editing does not deploy?
+lexi readability report                             | github action                   | weird, this creates a report online only github pull requests
+markdownlint click & keyboard shortcut              | ++command++ ++h++ `fli bujo zl` | n/a
+tests                                               | wip demos                       | github action
+codemirror + vim [tw](https://shane0.github.io/tw/) | n/a                             | gh pages & requires api key other option is tiddlyhost
+slides                                              | wip                             | wip need to migrate my gitlab pipelines to github
 
 ## todocli
 

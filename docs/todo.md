@@ -10,7 +10,7 @@
 
 - [todo cli repo](https://github.com/todotxt/todo.txt-cli)
 
-## how I use todo cli
+## todo cli relative shortcuts
 
 - this seems obvious
 - configured to use `todocli/`

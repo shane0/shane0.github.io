@@ -11,7 +11,8 @@ mkdocs gh-deploy
 
 ## 2023-07-02
 
-- setup release please
+- wip: try lexi
+- wip: setup release please
 - install cli
 
 ```sh

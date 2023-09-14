@@ -20,6 +20,14 @@ tags:
 
 ----
 
+| English      | Sanskrit | Meaning                                                                                                  |
+|--------------|----------|----------------------------------------------------------------------------------------------------------|
+| Impermanence | Anitya   | Everything is constantly changing and nothing is permanent.                                              |
+| Attachment   | Raga     | Clinging to things that are impermanent, such as material possessions, relationships, and ideas.         |
+| Ignorance    | Avidya   | The lack of understanding of the true nature of reality, which is impermanence, non-self, and suffering. |
+
+----
+
 ## linji chan meditation class
 
 - 2023-09-13: started level 1 class
@@ -101,20 +109,20 @@ satisampajanna        | Establishing MINDFULNESS as a habit
 samadhiganupassana    | Developing CONCENTRATION
 nibbananupassana      | Realizing nibanna
 
-| Attribute | Definition |
-|---|---|
-| **Awareness** | The state of being conscious or aware of and responsive to one's surroundings. |
-| **Intentionality** | The ability to direct one's attention to something. |
-| **Selectivity** | The ability to focus on one thing and ignore others. |
-| **Subjectivity** | The experience of the world from a particular point of view. |
-| **Unity** | The experience of the world as a coherent whole. |
-| **Transience** | The awareness that things are constantly changing. |
-| **Emotion** | The experience of feelings such as happiness, sadness, anger, and fear. |
-| **Self-awareness** | The ability to recognize oneself as a separate individual. |
-| **Free will** | The ability to make choices about one's actions. |
+| Attribute          | Definition                                                                     |
+|--------------------|--------------------------------------------------------------------------------|
+| **Awareness**      | The state of being conscious or aware of and responsive to one's surroundings. |
+| **Intentionality** | The ability to direct one's attention to something.                            |
+| **Selectivity**    | The ability to focus on one thing and ignore others.                           |
+| **Subjectivity**   | The experience of the world from a particular point of view.                   |
+| **Unity**          | The experience of the world as a coherent whole.                               |
+| **Transience**     | The awareness that things are constantly changing.                             |
+| **Emotion**        | The experience of feelings such as happiness, sadness, anger, and fear.        |
+| **Self-awareness** | The ability to recognize oneself as a separate individual.                     |
+| **Free will**      | The ability to make choices about one's actions.                               |
 
 |               | Meditative Mind | Untrained Mind |
-| ------------- | --------------- | -------------- |
+|---------------|-----------------|----------------|
 | Attention     | Focused         | Distracted     |
 | Awareness     | Expanded        | Limited        |
 | Thoughts      | Observing       | Identifying    |
@@ -251,26 +259,26 @@ style upeksha fill: lightyellow
 ```
 
 | Prajna (प्रज्ञा) | Description                                                                                                                                                                                                                                                                               |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pra (प्र)      | Means "before" or "preliminary"                                                                                                                                                                                                                                                           |
-| Jna (ज्ञ)      | Means "to know" or "to understand"                                                                                                                                                                                                                                                        |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pra (प्र)        | Means "before" or "preliminary"                                                                                                                                                                                                                                                           |
+| Jna (ज्ञ)        | Means "to know" or "to understand"                                                                                                                                                                                                                                                        |
 | Prajna (प्रज्ञा) | Refers to the wisdom or understanding that comes from deep meditation and insight into the true nature of reality, particularly the concept of emptiness. Prajna is one of the six perfections (paramitas) in Mahayana Buddhism, and is considered essential for achieving enlightenment. |
 
 | Four Types of Prajna  |                                                                                                                                                                                                     |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Shravaka Prajna       | Refers to the wisdom or understanding attained by Hinayana practitioners, who seek to attain individual liberation (nirvana) through the realization of the Four Noble Truths.                      |
 | Pratyekabuddha Prajna | Refers to the wisdom or understanding attained by solitary practitioners who seek to attain enlightenment for themselves alone, without the help of a teacher or community.                         |
 | Bodhisattva Prajna    | Refers to the wisdom or understanding attained by Mahayana practitioners, who seek to attain enlightenment not only for themselves but for the benefit of all sentient beings.                      |
 | Tathagata Prajna      | Refers to the highest form of wisdom or understanding, attained by fully enlightened Buddhas, who have realized the ultimate nature of reality and have the ability to teach others to do the same. |
 
 | Three Characteristics of Existence | Description                                                                                                                                                                                                                                                                                                                        |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Anicca                             | Refers to the idea that all things are constantly changing and in a state of flux. Nothing in the world is permanent, and everything is subject to birth, aging, sickness, and death.                                                                                                                                              |
 | Dukkha                             | Refers to the idea that all things in the world are inherently unsatisfactory and cannot provide lasting happiness or fulfillment. This suffering is caused by our attachment to impermanent things and our ignorance of the true nature of reality.                                                                               |
 | Anatta                             | Refers to the idea that there is no fixed or permanent self or soul. Rather, our sense of self is an ever-changing product of our thoughts, emotions, and experiences. The concept of anatta is closely related to the idea of emptiness (shunyata), which is the ultimate nature of all phenomena according to Mahayana Buddhism. |
 
 | English Translation | Sanskrit |
-| ------------------- | -------- |
+|---------------------|----------|
 | Loving-kindness     | Maitri   |
 | Compassion          | Karuna   |
 | Sympathetic Joy     | Mudita   |

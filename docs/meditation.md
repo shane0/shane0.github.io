@@ -13,11 +13,72 @@ tags:
     - [daily slide](../daily.html)
     - [noble truths slide](../noble.html)
 
+!!! info
+
+    - currently taking a 20 week chan meditation class: chung tai linji lineage
+    - reading a soto zen book: zen illustrated
+
 ----
 
-## linji chan
+## linji chan meditation class
 
-- just started, using a tiddly wiki for now
+- 2023-09-13: started level 1 class
+- 20 weeks meditation essentials
+- this is also using a tiddly wiki
+- abc: aware be with change
+- counting breath
+- walking - look at your feet
+- class
+
+### 4 noble truths
+
+### heart sutra
+
+```text
+Avalokiteshvara Bodhisattva, while practicing the profound prajnaparamita,
+Caught sight of the emptiness of all five skandhas,
+And thereby freed himself from all suffering and evil.
+
+Here, Shariputra, form is emptiness, emptiness is form.
+Form is not other than emptiness, emptiness is not other than form.
+That which is form is emptiness, that which is emptiness is form.
+The same is true of feeling, thought, karmic formations, and consciousness.
+
+Shariputra, all dharmas are marked with emptiness;
+They do not come into being or pass away,
+They are not defiled or pure,
+They do not increase or decrease.
+
+Therefore, in emptiness, there is no form,
+No feeling, no thought, no karmic formations,
+No consciousness;
+No eyes, no ears, no nose, no tongue, no body, no mind;
+No sights, no sounds, no smells, no tastes, no touchables, no objects of mind;
+No realm of eyes up to no realm of mind consciousness;
+No ignorance, no extinction of ignorance,
+Up to no old age and death, and no extinction of old age and death;
+No suffering, no cause of suffering, no end of suffering,
+No path, no no-path.
+
+There is no wisdom and no attainment.
+Because there is nothing to attain,
+The bodhisattva, through relying on prajnaparamita,
+Has no obscurations of mind,
+No fear,
+Gone beyond all ills,
+Able to attain nirvana.
+All buddhas of past, present, and future
+Achieved enlightenment through relying on prajnaparamita.
+
+Therefore, know the prajnaparamita as the great mantra,
+The mantra of great wisdom,
+The highest mantra,
+The unequalled mantra,
+The mantra that calms all suffering;
+True, not false.
+Therefore, proclaim the prajnaparamita mantra:
+Gate gate paragate parasamgate bodhi svaha.
+```
 
 ## anapanasati sanskrit table
 
@@ -68,9 +129,9 @@ nibbananupassana      | Realizing nibanna
 
 anapanasati (अनापानसति) is a compound word made up of these three parts
 
-* "ana" (अन) means "in-breath"
-* "apana" (अपान) means "out-breath"
-* "sati" (सति) means "mindfulness" or "awareness"
+- "ana" (अन) means "in-breath"
+- "apana" (अपान) means "out-breath"
+- "sati" (सति) means "mindfulness" or "awareness"
 
 it refers to the buddhist practice of mindfulness meditation focused on the breath, specifically the sensations of the in-breath and out-breath
 
@@ -100,62 +161,62 @@ the aim of this practice is to develop mindfulness, concentration, and insight i
 
 ---
 
-* "anapana" (अनापान) - compound word made up of:
-  * "ana" (अन) - prefix meaning "in-breath"
-  * "apana" (अपान) - prefix meaning "out-breath"
+- "anapana" (अनापान) - compound word made up of:
+  - "ana" (अन) - prefix meaning "in-breath"
+  - "apana" (अपान) - prefix meaning "out-breath"
 
 ---
 
-* "kayanupassana" (कायानुपस्सना) - compound word made up of:
-  * "kaya" (काय) - root meaning "body"
-  * "anupassana" (अनुपस्सना) - suffix meaning "observation"
+- "kayanupassana" (कायानुपस्सना) - compound word made up of:
+  - "kaya" (काय) - root meaning "body"
+  - "anupassana" (अनुपस्सना) - suffix meaning "observation"
 
 ---
 
-* "vedananupassana" (वेदनानुपस्सना) - compound word made up of:
-  * "vedana" (वेदना) - root meaning "sensation"
-  * "anupassana" (अनुपस्सना) - suffix meaning "observation"
+- "vedananupassana" (वेदनानुपस्सना) - compound word made up of:
+  - "vedana" (वेदना) - root meaning "sensation"
+  - "anupassana" (अनुपस्सना) - suffix meaning "observation"
 
 ---
 
-* "cittanupassana" (चित्तानुपस्सना) - compound word made up of:
-  * "citta" (चित्त) - root meaning "mind"
-  * "anupassana" (अनुपस्सना) - suffix meaning "observation"
+- "cittanupassana" (चित्तानुपस्सना) - compound word made up of:
+  - "citta" (चित्त) - root meaning "mind"
+  - "anupassana" (अनुपस्सना) - suffix meaning "observation"
 
 ---
 
-* "viraganupassana" (विरागानुपस्सना) - compound word made up of:
-  * "viraga" (विराग) - root meaning "dispassion"
-  * "anupassana" (अनुपस्सना) - suffix meaning "observation"
+- "viraganupassana" (विरागानुपस्सना) - compound word made up of:
+  - "viraga" (विराग) - root meaning "dispassion"
+  - "anupassana" (अनुपस्सना) - suffix meaning "observation"
 
 ---
 
-* "upekkhanupassana" (उपेक्खानुपस्सना) - compound word made up of:
-  * "upekkha" (उपेक्खा) - root meaning "equanimity"
-  * "anupassana" (अनुपस्सना) - suffix meaning "observation"
+- "upekkhanupassana" (उपेक्खानुपस्सना) - compound word made up of:
+  - "upekkha" (उपेक्खा) - root meaning "equanimity"
+  - "anupassana" (अनुपस्सना) - suffix meaning "observation"
 
 ---
 
-* "marananupassana" (मरणानुपस्सना) - compound word made up of:
-  * "marana" (मरण) - root meaning "death"
-  * "anupassana" (अनुपस्सना) - suffix meaning "observation"
+- "marananupassana" (मरणानुपस्सना) - compound word made up of:
+  - "marana" (मरण) - root meaning "death"
+  - "anupassana" (अनुपस्सना) - suffix meaning "observation"
 
 ---
 
-* "anapana-sati" (अनापानसति) - compound word made up of:
-  * "anapana" (अनापान) - as described above
-  * "sati" (सति) - root meaning "mindfulness" or "awareness"
+- "anapana-sati" (अनापानसति) - compound word made up of:
+  - "anapana" (अनापान) - as described above
+  - "sati" (सति) - root meaning "mindfulness" or "awareness"
 
 ---
 
-* "aniccanupassana" (अनिच्चानुपस्सना) - compound word made up of:
-  * "anicca" (अनिच्चा) - root meaning "impermanence"
-  * "anupassana" (अनुपस्सना) - suffix meaning "observation"
+- "aniccanupassana" (अनिच्चानुपस्सना) - compound word made up of:
+  - "anicca" (अनिच्चा) - root meaning "impermanence"
+  - "anupassana" (अनुपस्सना) - suffix meaning "observation"
 
 ---
 
-* "dukkhanupassana" (दुक्खानुपस्सना) - compound word made up of:
-  * "dukkha" (दुक्ख)
+- "dukkhanupassana" (दुक्खानुपस्सना) - compound word made up of:
+  - "dukkha" (दुक्ख)
 
 ---
 
@@ -216,3 +277,9 @@ style upeksha fill: lightyellow
 | Equanimity          | Upeksha  |
 
 --8<-- "snippets/meditative.md"
+
+## meditation jargon
+
+- hover the mouse over a term
+
+-8<- "snippets/jargon.md"

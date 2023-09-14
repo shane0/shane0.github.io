@@ -8,18 +8,22 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "behave"
+    "test": "behave",
+    "format": "prettier --write '**/*.ts'",
+    "format-check": "prettier --check '**/*.ts'",
+    "lint": "eslint src/**/*.ts",
+    "run:local:report": "tsx ./src/cli/report.ts",
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shane0/shane0.github.io.git"
   },
-  "author": "",
+  "author": "shane0",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shane0/shane0.github.io/issues"
   },
-  "homepage": "https://github.com/shane0/shane0.github.io#readme",
+  "homepage": "https://shane0/shane0.github.io",
   "dependencies": {
     "release-please": "^15.11.0"
   }

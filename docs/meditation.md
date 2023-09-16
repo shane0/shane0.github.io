@@ -5,7 +5,7 @@ tags:
 ---
 # meditation
 
-!!! tip
+!!! info
 
     - [plum village](https://plumvillage.org/)
     - [dhamma talks](https://www.dhammatalks.org/)
@@ -18,6 +18,18 @@ tags:
 ## linji chan
 
 - just started, using a tiddly wiki for now
+
+## dzogchen nyigma lineage
+
+Dzogchen is the direct realization of our primordial awareness. Primordial awareness, also known as innate awareness or original awareness, is the pure and luminous awareness that is present in all beings. It is the essence of our true nature, and it is beyond all labels and concepts. Primordial awareness is not something that we need to achieve or create; it is simply our true nature, which is always present.
+
+- this video is translated, i cut out just the english pieces, increased the speed & improved the audio quality using a ua apollo
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/5QYJ5mVrm7E" title="tulku urgyen rinpoche teaching non duality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- this is a playlist
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=gXnwqz60LmlKPp9U&amp;list=PLpJPyYfmqUWxBghtNZKxHm1oJyMfU74-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## anapanasati sanskrit table
 

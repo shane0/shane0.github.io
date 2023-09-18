@@ -4,12 +4,13 @@ tags:
 ---
 # automation
 
-!!! example "workflow"
+!!! info "workflow cookiecutter template"
 
-    - usually I start by creating a repo
-    - I usually add todo cli, python click, mkdocs 
-    - if it's a big project I add python cookiecutter 
-    - if it's a web or mobile app I usually use django, react and postgres
+    - [workflow](https://shane0.github.io/workflow/){ .md-button }
+
+!!! example "deployments"
+
+    - [buddhism](https://shane0.github.io/workflow/){ .md-button }
 
 app                                    | local                               | remote
 ---------------------------------------|-------------------------------------|-----------------------------------------------------

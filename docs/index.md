@@ -8,12 +8,17 @@ tags:
 
 ![s](images/shane0.png){: style="height:150px;width:150px" .float-right }
 
-- simple & powerful (scaffolded) micro sites for my aumusement
-- topics: automation, amusement: adventures, meditation, music & simplification
+!!! info
 
-## jargon and other forms elaborate nonsense
+    - Simple and powerful micro sites on a variety of topics
+    - Not taking it too seriously
+    - Some content here is pasted from AI conversations
+
+## turbo encabulator
 
 The turbo encabulator is a satire about the absurtity of technical jargon.
+
+This is the original and many large corporations made their own versions.
 
 <iframe width="866" height="577" src="https://www.youtube.com/embed/Ac7G7xOG2Ag" title="&quot;Turbo Encabulator&quot; the Original" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

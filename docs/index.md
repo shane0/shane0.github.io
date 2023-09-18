@@ -8,6 +8,6 @@ tags:
 
 ![s](images/shane0.png){: style="height:150px;width:150px" .float-right }
 
-- random github pages experiments
+- mini blog & random experiments
 
 [TAGS]

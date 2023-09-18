@@ -4,6 +4,10 @@ tags:
 ---
 # automation
 
+- code: [retro games](https://shane0.github.io/adventure/)
+- this page will have a dedicated page one day
+- topics: code, workflows, python, js, postgres, django and other frameworks
+
 !!! info "workflow cookiecutter template"
 
     - [workflow](https://shane0.github.io/workflow/){ .md-button }

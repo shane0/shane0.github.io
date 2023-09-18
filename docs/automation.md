@@ -4,9 +4,13 @@ tags:
 ---
 # automation
 
-!!! example "workflow"
+!!! info "workflow cookiecutter template"
 
-    - [workflow template](https://shane0.github.io/workflow/){ .md-button }
+    - [workflow](https://shane0.github.io/workflow/){ .md-button }
+
+!!! example "deployments"
+
+    - [buddhism](https://shane0.github.io/workflow/){ .md-button }
 
 ----
 

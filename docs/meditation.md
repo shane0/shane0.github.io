@@ -5,6 +5,8 @@ tags:
 ---
 # meditation
 
+- another [buddhism mkdocs project](https://shane0.github.io/workflow/){ .md-button }
+
 !!! tip
 
     - [plum village](https://plumvillage.org/)

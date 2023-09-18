@@ -15,6 +15,8 @@ tags:
 
 The turbo encabulator is a satire about the absurtity of technical jargon.
 
+<iframe width="866" height="577" src="https://www.youtube.com/embed/Ac7G7xOG2Ag" title="&quot;Turbo Encabulator&quot; the Original" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 A fictional electromechanical machine with a satirical technobabble description that became a famous in-joke among engineers after it was published by the British Institution of Electrical Engineers in their Students' Quarterly Journal in 1944.
 
 Technical documentation has been written for the non-existent machine, and there are a number of parody marketing videos.
@@ -46,7 +48,5 @@ Dale-Chall Readability Score | 2.00
 Coleman–Liau Index           | 7.89
 
 As you can see, the sentence "The turbo encabulator is a fictional machine that is said to convert one type of energy into another." has a high readability score on all of the formulas. This means that it is an easy sentence to read.
-
-<iframe width="866" height="577" src="https://www.youtube.com/embed/Ac7G7xOG2Ag" title="&quot;Turbo Encabulator&quot; the Original" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [TAGS]

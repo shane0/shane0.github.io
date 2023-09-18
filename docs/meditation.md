@@ -5,7 +5,7 @@ tags:
 ---
 # meditation
 
-- [buddhism](https://shane0.github.io/workflow/){ .md-button }
+- [buddhism](https://shane0.github.io/buddhism/){ .md-button }
 
 !!! tip
 

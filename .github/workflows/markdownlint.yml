@@ -11,4 +11,4 @@ jobs:
       - name: Install dependencies
         run: npm install markdownlint-cli
       - name: Run markdownlint
-        run: npx markdownlint 'docs/index.md' --config .markdownlint.json --ignore docs/*.md
+        run: npx markdownlint 'docs/readability.md' --config .markdownlint.json --ignore docs/*.md

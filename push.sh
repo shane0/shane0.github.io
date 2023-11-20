@@ -3,6 +3,7 @@
 # ./push.sh commit_message
 
 function addcommitpush () {
+  git pull
   message=(\'"$@"\')
   current=$(git branch | grep "*" | cut -b 3-)
   # read -r -i "$current" -e branch

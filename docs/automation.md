@@ -4,19 +4,18 @@ tags:
 ---
 # automation
 
-- code: [retro games](https://shane0.github.io/adventure/)
-- this page will have a dedicated page one day
-- topics: code, workflows, python, js, postgres, django and other frameworks
+!!! reference "code"
 
-!!! info "workflow cookiecutter template"
+    [cheatsheets](cheatsheets/){ .md-button } 
+    [retro games](adventure/){ .md-button } 
 
-    - [workflow](https://shane0.github.io/workflow/){ .md-button }
+!!! reference "recommendations for nerds"
 
-!!! example "deployments"
-
-    - [buddhism](https://shane0.github.io/buddhism/){ .md-button }
-
-----
+    - if you type at a computer all day I highly recommend these:
+    - vim bash todo-cli python click cookiecutter mkdocs and django
+    - this site is on github pages and combines those
+    - you can deploy your own using this:
+    - [workflow template](workflow/){ .md-button } 
 
 app                                                 | local                           | remote
 ----------------------------------------------------|---------------------------------|--------------------------------------------------------------
@@ -27,15 +26,6 @@ tests                                               | wip demos                 
 codemirror + vim [tw](https://shane0.github.io/tw/) | n/a                             | gh pages & requires api key other option is tiddlyhost
 slides                                              | wip                             | wip need to migrate my gitlab pipelines to github
 
-## todocli
-
-```text
--8<- "todocli/todo.txt"
-```
-
-```text
--8<- "todocli/done.txt"
-```
 
 ----
 

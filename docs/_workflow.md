@@ -17,3 +17,7 @@ alias mks='mkdocs serve'
 - start the server `mks`
 - update site locally 
 - deploy with `./push.sh`
+
+## screencast
+
+<iframe width="1583" height="748" src="https://www.youtube.com/embed/9DBM8gEh2Vg" title="shanenull.com workflow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

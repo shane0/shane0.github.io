@@ -5,7 +5,7 @@
 
 ## screencast
 
-<iframe width="1583" height="748" src="https://www.youtube.com/embed/ET8tI10G0lo" title="shanenull.com screencast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/ET8tI10G0lo" title="shanenull.com screencast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 !!! stoic challenge
 

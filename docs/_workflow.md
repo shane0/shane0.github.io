@@ -20,4 +20,4 @@ alias mks='mkdocs serve'
 
 ## screencast
 
-<iframe width="1583" height="748" src="https://www.youtube.com/embed/9DBM8gEh2Vg" title="shanenull.com workflow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/9DBM8gEh2Vg" title="shanenull.com workflow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

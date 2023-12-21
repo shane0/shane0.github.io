@@ -15,7 +15,7 @@ tags:
     - vim bash todo-cli python click cookiecutter mkdocs and django
     - this site is on github pages and combines those
     - you can deploy your own using this:
-    - [workflow template](workflow/){ .md-button } 
+    - [workflow template](../workflow/){ .md-button } 
 
 app                                                 | local                           | remote
 ----------------------------------------------------|---------------------------------|--------------------------------------------------------------

@@ -31,6 +31,6 @@
     [stoicism](stoicism/){ .md-button }
     [food](food/){ .md-button } 
 
-[workflow](workflow.md){ .md-button }
+[workflow](_workflow.md){ .md-button }
 
 [TAGS]

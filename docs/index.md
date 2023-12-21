@@ -27,10 +27,12 @@
 
 !!! reference "productivity"
 
+    [workflow cookiecutter template](workflow/){ .md-button } 
     [buddhism](buddhism/){ .md-button } 
     [stoicism](stoicism/){ .md-button }
+    [task management](todo.md/){ .md-button } 
     [food](food/){ .md-button } 
 
-[workflow](_workflow.md){ .md-button }
+[workflow for this website](_workflow.md){ .md-button }
 
 [TAGS]

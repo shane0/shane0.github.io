@@ -6,8 +6,8 @@ tags:
 
 !!! reference "code"
 
-    [cheatsheets](cheatsheets/){ .md-button } 
-    [retro games](adventure/){ .md-button } 
+    [cheatsheets](../cheatsheets/){ .md-button } 
+    [retro games](../adventure/){ .md-button } 
 
 !!! reference "recommendations for nerds"
 

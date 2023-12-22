@@ -4,6 +4,8 @@ tags:
 ---
 # music
 
+<iframe width="1120" height="700" src="https://www.youtube.com/embed/diNsNloGs9k" title="shanenull.com music page screencast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 !!! example "a simple workflow for composing music"
 
     - every step is optional there are no rules

@@ -11,15 +11,18 @@ function addcommitpush () {
   echo push local branch "$current" to "$remote" y n ?
   read -r yn
   if [ "$yn" = y ]; then
-    # echo "$current" "$remote"
+    git pull
+    mike deploy --push --update-aliases 2024 latest
+    mike set-default 2024
     git add -A
     cz c
     git push origin "$current"
   else
+   echo "$current" "$remote"
     echo "nope"
   fi
 }
 
 addcommitpush "$1"
-mkdocs gh-deploy
-open https://github.com/shane0/shane0.github.io/actions
+# mkdocs gh-deploy
+open https://github.com/shane0/shane0.github.io/action

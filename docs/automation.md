@@ -6,8 +6,8 @@ tags:
 
 !!! reference "code"
 
-    [cheatsheets](../cheatsheets/){ .md-button } 
-    [retro games](../adventure/){ .md-button } 
+    [cheatsheets](https://shanenull.com/cheatsheets/){ .md-button } 
+    [retro games](https://shanenull.com/adventure/){ .md-button } 
 
 !!! reference "recommendations for nerds"
 
@@ -15,7 +15,7 @@ tags:
     - vim bash todo-cli python click cookiecutter mkdocs and django
     - this site is on github pages and combines those
     - you can deploy your own using this:
-    - [workflow template](../workflow/){ .md-button } 
+    - [workflow template](https://shanenull.com/workflow/){ .md-button } 
 
 app                                                 | local                           | remote
 ----------------------------------------------------|---------------------------------|--------------------------------------------------------------

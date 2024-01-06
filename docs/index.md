@@ -8,9 +8,9 @@
     [workflow cookiecutter template](https://shanenull.com/workflow/){ .md-button } 
     [buddhism](https://shane0.github.io/buddhism/){ .md-button } 
     [stoicism](https://shane0.github.io/stoicism/){ .md-button }
+    [music](https://shane0.github.io/music/){ .md-button } 
     [task management](todo.md/){ .md-button } 
     [food](https://shane0.github.io/food/){ .md-button } 
-
 
 ## screencast
 

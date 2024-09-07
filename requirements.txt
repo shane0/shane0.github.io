@@ -1,5 +1,10 @@
 behave
 mike
+mkdocs
 mkdocs-material
 mkdocs-git-revision-date-localized-plugin
 commitizen
+mkdocs-glightbox
+click
+pyperclip
+# glightbox

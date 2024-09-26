@@ -3,7 +3,7 @@
 
 ![shane null](images/shane0.png){: style="height:150px;width:150px" .float-left }
 
-!!! reference "productivity"
+!!! reference "simultaneous brevity and depth with grace"
 
     [workflow template](https://shanenull.com/workflow/){ .md-button } 
     [buddhism](https://shane0.github.io/buddhism/){ .md-button } 

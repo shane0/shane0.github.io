@@ -1,5 +1,12 @@
 # todo cli
 
+- this page integrates two apps
+- mkdos + todo cli
+- it is a simple plain text or command line interface for task management
+- [this is included in my workflow app template](https://shanenull.com/workflow/)
+
+## this projects tasks
+
 ```text
 -8<- "todocli/todo.txt"
 ```

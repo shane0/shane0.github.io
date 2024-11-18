@@ -1,16 +1,16 @@
 
-## meditation adventures music and automation
-
-![shane null](images/uki3.jpeg)
-
 !!! docs
 
     [workflow template](https://shanenull.com/workflow/){ .md-button } 
     [buddhism](https://shane0.github.io/buddhism/){ .md-button } 
-    [stoicism](https://shane0.github.io/stoicism/){ .md-button }
     [music](https://shane0.github.io/music/){ .md-button } 
+    [stoicism](https://shane0.github.io/stoicism/){ .md-button }
     [adventures](adventures.md/){ .md-button } 
     [my retro games](https://shanenull.com/adventure/){ .md-button } 
+
+## meditation adventures music and automation
+
+![shane null](images/uki3.jpeg)
 
 <div class="grid cards" markdown>
 

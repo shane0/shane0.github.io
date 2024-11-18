@@ -12,10 +12,10 @@ function addcommitpush () {
   read -r yn
   if [ "$yn" = y ]; then
     git pull
-    mike deploy --push --update-aliases 2024 latest
-    mike set-default 2024
     git add -A
     cz c
+    mike deploy --push --update-aliases 2024 latest
+    mike set-default 2024
     git push origin "$current"
   else
    echo "$current" "$remote"

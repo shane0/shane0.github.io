@@ -1,5 +1,7 @@
 
-## shane null's research & journals
+## meditation adventures music and automation
+
+![shane null](images/uki3.jpeg)
 
 !!! docs
 

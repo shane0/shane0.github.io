@@ -10,7 +10,6 @@
     - richard feynman: if you cannot explain something in simple terms you do not understand it
     - haikuin: there is no mirror
     - unnamed zen master: seek nothing, cling to nothing and expect nothing
-    - elon: the best part is no part, do not optimize something that shouldn't exist, requires suck especially if the person that wrote them was an expert
 
 Some quotes & traditions I try to model:
 

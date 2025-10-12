@@ -15,17 +15,21 @@
     [adventures](adventures.md/){ .md-button } 
     [my retro games](https://shanenull.com/adventure/){ .md-button } 
 
+## motivation
+
+- this year 2025 I got to hike the oregon pct section g with my son max
+- I woke up one night camping at the bottom of a steep mountainside to the sound of a tree falling and sliding toward my tent
+- I thought I was a goner and not much in life is as effective at aligning your mind like as death
+
+## screencast
+
+<iframe width="1381" height="863" src="https://www.youtube.com/embed/Q-wMPMzjYZc" title="2025 web3 workflow yearly updates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## the beard
 
 (when it was almost guru length)
 
 ![shane null](images/shane0.png)
-
-## motivation
-
-- this year 2025 I got to hike the oregon pct section g with my son max
-- I woke up one night camping at the bottom of a steep mountainside to the sound of a tree falling and sliding toward my tent
-- I thought I was a goner and that changed everything
 
 ## designs for humans
 
@@ -35,9 +39,5 @@
 - ![rice](images/rice.jpeg)
 
 </div>
-
-## screencast
-
-<iframe width="800" height="600" src="https://www.youtube.com/embed/ET8tI10G0lo" title="shanenull.com screencast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [TAGS]

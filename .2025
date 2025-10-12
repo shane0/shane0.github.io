@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+echo you are on branch main updating mike version 2025 alias latest use .push

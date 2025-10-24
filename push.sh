@@ -14,8 +14,8 @@ function addcommitpush () {
     git pull
     git add -A
     cz c
-    mike deploy --push --update-aliases 2025 latest
-    mike set-default 2025
+    mike deploy --update-aliases 2025 latest
+    mike set-default --push latest
     git push origin "$current"
   else
    echo "$current" "$remote"

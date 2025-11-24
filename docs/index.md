@@ -3,6 +3,10 @@
 
 ## meditation adventures music photography automation
 
+- note: 2025-11-24 I will be updating this site very rarely if at all
+- I'm moving all my websites to web3 & fly.io
+- <https://shane3.com>
+
 ![shane null](images/uki3.jpeg)
 
 !!! docs

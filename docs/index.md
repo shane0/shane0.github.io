@@ -3,7 +3,7 @@
 
 ## 2026 research summary
 
-video goes here
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X3-PfZl3HrM?si=E7119urnSVZYJtxB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## meditation adventures music photography automation
 

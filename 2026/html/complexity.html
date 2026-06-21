@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entropy and Life Visualizations</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .container {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            padding: 25px;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #3498db;
+            border-bottom: 2px solid #eaecef;
+            padding-bottom: 10px;
+        }
+        .chart-container {
+            position: relative;
+            height: 400px;
+            margin: 30px 0;
+        }
+        .explanation {
+            background-color: #f1f8ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            line-height: 1.6;
+        }
+        .key-concept {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        .controls {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Entropy and Life: Visualizing the Balance</h1>
+    
+    <div class="container">
+        <h2>Graph 1: Entropy of a Living System vs. Its Environment</h2>
+        <div class="chart-container">
+            <canvas id="entropyChart"></canvas>
+        </div>
+        <div class="explanation">
+            <p>This graph shows how living systems maintain internal order (low entropy) while increasing environmental entropy. 
+            The <span class="key-concept">blue line</span> represents the living system's entropy, which decreases during growth, 
+            is maintained during adulthood, and increases after death. The <span class="key-concept">red line</span> shows the 
+            universe's ever-increasing entropy, with a slight acceleration as the living system exports disorder.</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>Graph 2: Energy Flow & Resistance to Entropic Collapse</h2>
+        <div class="chart-container">
+            <canvas id="energyChart"></canvas>
+        </div>
+        <div class="explanation">
+            <p>This graph demonstrates how energy input sustains complexity against entropic collapse. The 
+            <span class="key-concept">orange line</span> represents energy flow, which increases during growth and is maintained in adulthood. 
+            The <span class="key-concept">blue line</span> shows system complexity, which grows with energy input, is maintained through 
+            continuous energy expenditure, and rapidly collapses when energy flow ceases.</p>
+        </div>
+    </div>
+
+    <script>
+        // Data for the entropy chart
+        const timeLabels = ['Birth (t₀)', 'Growth (t₁)', 'Maturity (t₂)', 'Adulthood (t₃)', 'Aging (t₄)', 'Death (t₅)'];
+        
+        // Entropy Chart
+        const entropyCtx = document.getElementById('entropyChart').getContext('2d');
+        const entropyChart = new Chart(entropyCtx, {
+            type: 'line',
+            data: {
+                labels: timeLabels,
+                datasets: [
+                    {
+                        label: 'Entropy of the Universe (Global)',
+                        data: [0.0, 0.2, 0.4, 0.6, 0.8, 1.0],
+                        borderColor: 'rgba(220, 53, 69, 1)',
+                        backgroundColor: 'rgba(220, 53, 69, 0.1)',
+                        borderWidth: 3,
+                        tension: 0.2,
+                        fill: false
+                    },
+                    {
+                        label: 'Entropy of the Living System (Local)',
+                        data: [0.5, 0.3, 0.2, 0.25, 0.3, 0.9],
+                        borderColor: 'rgba(0, 123, 255, 1)',
+                        backgroundColor: 'rgba(0, 123, 255, 0.1)',
+                        borderWidth: 3,
+                        tension: 0.2,
+                        fill: false
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 1.0,
+                        title: {
+                            display: true,
+                            text: 'Entropy Level'
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Time →'
+                        }
+                    }
+                },
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'The Entropy Trade-Off of Life',
+                        font: {
+                            size: 16
+                        }
+                    },
+                    tooltip: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    legend: {
+                        position: 'top',
+                    }
+                }
+            }
+        });
+
+        // Energy Flow Chart
+        const energyCtx = document.getElementById('energyChart').getContext('2d');
+        const energyChart = new Chart(energyCtx, {
+            type: 'line',
+            data: {
+                labels: timeLabels,
+                datasets: [
+                    {
+                        label: 'Energy Input',
+                        data: [0.8, 0.9, 1.0, 1.0, 0.9, 0.0],
+                        borderColor: 'rgba(255, 159, 64, 1)',
+                        backgroundColor: 'rgba(255, 159, 64, 0.1)',
+                        borderWidth: 3,
+                        tension: 0.2,
+                        fill: false,
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'System Complexity',
+                        data: [0.3, 0.7, 1.0, 0.95, 0.9, 0.1],
+                        borderColor: 'rgba(40, 167, 69, 1)',
+                        backgroundColor: 'rgba(40, 167, 69, 0.1)',
+                        borderWidth: 3,
+                        tension: 0.2,
+                        fill: false,
+                        yAxisID: 'y'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 1.0,
+                        title: {
+                            display: true,
+                            text: 'Relative Level'
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Time →'
+                        }
+                    }
+                },
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Energy Flow Prevents Entropic Collapse',
+                        font: {
+                            size: 16
+                        }
+                    },
+                    tooltip: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    legend: {
+                        position: 'top',
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

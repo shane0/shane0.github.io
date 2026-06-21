@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Copy Bash Commands</title>
+    <script>
+      function copyCommand() {
+        const selected = document.querySelector(
+          'input[name="command"]:checked'
+        );
+        if (selected) {
+          navigator.clipboard
+            .writeText(selected.value)
+            .then(() => alert(`Copied "${selected.value}" to clipboard`))
+            .catch(() => alert("Failed to copy command to clipboard"));
+        } else {
+          alert("Please select a command");
+        }
+      }
+    </script>
+    <style>
+      .command-button {
+        display: inline-block;
+        margin: 5px;
+        padding: 10px;
+        border: 1px solid black;
+        border-radius: 5px;
+        cursor: pointer;
+        background-color: #eee;
+      }
+
+      .command-button:hover {
+        background-color: #ddd;
+      }
+
+      .command-button:checked {
+        background-color: #ccc;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Copy Bash Commands</h1>
+    <p>Select a command and click the button to copy it to clipboard:</p>
+    <div>
+      <label>
+        <input type="radio" name="command" value="ls -l" />
+        <span class="command-button">ls -l</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="cd" />
+        <span class="command-button">cd</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="cp" />
+        <span class="command-button">cp</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="mv" />
+        <span class="command-button">mv</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="rm" />
+        <span class="command-button">rm</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="mkdir" />
+        <span class="command-button">mkdir</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="rmdir" />
+        <span class="command-button">rmdir</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="touch" />
+        <span class="command-button">touch</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="cat" />
+        <span class="command-button">cat</span>
+      </label>
+      <label>
+        <input type="radio" name="command" value="echo" />
+        <span class="command-button">echo</span>
+      </label>
+    </div>
+    <button onclick="copyCommand()">Copy to Clipboard</button>
+  </body>
+</html>

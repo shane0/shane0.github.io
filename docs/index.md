@@ -1,6 +1,10 @@
 
 :simple-vim: :simple-qmk: :simple-markdown:  :simple-suckless: :earth_americas: :raccoon: :material-dumbbell: :material-temple-buddhist: :pray: :simple-linux: :material-wardrobe: :material-bash: :simple-jeep: :fontawesome-solid-motorcycle: :simple-python: :material-bicycle: :simple-sqlite: :simple-mongodb: :simple-postgresql: :fontawesome-brands-js: :simple-html5: :simple-sass: :japan: :fontawesome-solid-mountain: :simple-django: :simple-flask: :simple-dota2:
 
+## 2026 research summary
+
+video goes here
+
 ## meditation adventures music photography automation
 
 - note: 2025-11-24 I will be updating this site very rarely if at all
@@ -19,12 +23,6 @@
     [adventures](adventures.md/){ .md-button } 
     [my retro games](https://shanenull.com/adventure/){ .md-button } 
 
-## motivation
-
-- this year 2025 I got to hike the oregon pct section g with my son max
-- I woke up one night camping at the bottom of a steep mountainside to the sound of a tree falling and sliding toward my tent
-- I thought I was a goner and not much in life is as effective at aligning your mind like as death
-
 ## screencast
 
 <iframe width="1381" height="863" src="https://www.youtube.com/embed/Q-wMPMzjYZc" title="2025 web3 workflow yearly updates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -34,14 +32,5 @@
 (when it was almost guru length)
 
 ![shane null](images/shane0.png)
-
-## designs for humans
-
-<div class="grid cards" markdown>
-
-- ![comfort meters](images/comfort_meter.jpg)
-- ![rice](images/rice.jpeg)
-
-</div>
 
 [TAGS]

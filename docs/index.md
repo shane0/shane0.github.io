@@ -3,10 +3,26 @@
 
 ## 2026 research summary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X3-PfZl3HrM?si=E7119urnSVZYJtxB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1509" height="849" src="https://www.youtube.com/embed/qYUFoXb8JqE" title="2026 research summary (draft)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### notes for the next version of this the video
+### links & notes for the next version of this the video
 
+- [see when your house be under water?](https://coastal.climatecentral.org/map/12/-122.3311/47.5993/?theme=sea_level_rise&map_type=year&basemap=roadmap&contiguous=true&elevation_model=best_available&forecast_year=2110&pathway=gmsl1p0m&percentile=p50&refresh=true&return_level=return_level_1&rl_model=tebaldi_2012&slr_model=noaa_2022)
+- [overshoot audiobook](https://soundcloud.com/michael-dowd-grace-limits/catton-overshoot-1/sets)
+- <https://overshoot.footprintnetwork.org/>
+- <https://en.wikipedia.org/wiki/Phoebus_cartel>
+- <https://en.wikipedia.org/wiki/Anomie>
+- we are detritivores our food systems rely entirely on oil optimizing yield profit while removing nutrition from topsoil and organic food <https://en.wikipedia.org/wiki/Detritivore>
+- <https://en.wikipedia.org/wiki/The_unanswerable_questions>
+- <https://www.imdb.com/title/tt12292428/?ref_=nm_ov_bio_lk>
+- william catton overshoot story - I have to dodge forest fires every year now similar to his camping at rainier issues but worse now
+- small unnoticed knobs and levers that incentivize expensive waste - tax collection - also transaction fees - and global investment profits more from the expense spread across their synergy investments - example airline overlays and delays lose small amounts compared to how they generate more income lost luggage and hotels restaurants etc.
+- modern philosophers focused on quality of life
+  - Khen Lampert
+  - Tara Brach
+  - Peter Singer
+- the kelvin rabbit hole is that we use kelvin as a unit of measurement by William Thomson aka lord kelvin but it is named after a river named kelvin people get confused
+- and thermodynamics is a bad name for the subject it is not just thermal it is a study of any imbalance or gradient in electricity gravity pressure etc.
 - examples of collapses paralleling business as usual: mayans bronze age easter island
 - add the jargon dictionary
 - I forgot to mention many things

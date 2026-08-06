@@ -1,9 +1,13 @@
 
 :simple-vim: :simple-qmk: :simple-markdown:  :simple-suckless: :earth_americas: :raccoon: :material-dumbbell: :material-temple-buddhist: :pray: :simple-linux: :material-wardrobe: :material-bash: :simple-jeep: :fontawesome-solid-motorcycle: :simple-python: :material-bicycle: :simple-sqlite: :simple-mongodb: :simple-postgresql: :fontawesome-brands-js: :simple-html5: :simple-sass: :japan: :fontawesome-solid-mountain: :simple-django: :simple-flask: :simple-dota2:
 
+## 2026 overshoot day!
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/fqA31PKiPmU" title="overshoot day 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 2026 research summary
 
-<iframe width="1509" height="849" src="https://www.youtube.com/embed/qYUFoXb8JqE" title="2026 research summary (draft)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/qYUFoXb8JqE" title="2026 research summary (draft)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### links & notes for the next version of this the video
 

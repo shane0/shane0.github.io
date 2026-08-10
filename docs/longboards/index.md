@@ -1,6 +1,12 @@
+---
+tags:
+  - longboarding 
+---
 # longboards
 
-this year I sold my motorcycle because I found an amazing deal on a vespa gts 250ie
+this year (2026) I sold my motorcycle because I found an amazing deal on a vespa gts 250ie which has more torque and hp plus is an automatic and a step through
+
+fun fact this is my 6th vespa and 9th scooter
 
 I wanted to get more exercise so I used the motorcycle money to build some advanced modern longboards
 
@@ -59,3 +65,9 @@ I don't know what happened to that board I think I traded it for a per welinder 
 anyway I am not sure why I ever quit skating I did not get bored with it I wish I'd stuck with it
 
 one reason I took a break is I broke my wrist bones and had a compound fracture but that was being dump I tried riding vert ramps with no training lol
+
+## 2026-08-10 quiver review
+
+- careful before ordering parts there may be ai slop here i did not verify anything
+- my quiver is evolving as I learn about longboard designs
+- my favorite at the moment is slalom because cruise including downhill and pump

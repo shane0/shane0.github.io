@@ -4,3 +4,5 @@ x 2023-10-16 gayatri
 x 2023-12-21 screencast workflow
 x 2023-12-21 todo screencast
 x 2024-02-22 add sids playlist to homepage
+x 2026-08-10 cleanup drafts/
+x 2026-08-10 setup versioning
